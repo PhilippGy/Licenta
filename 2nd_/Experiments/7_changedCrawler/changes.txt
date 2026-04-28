@@ -1,0 +1,1 @@
+changed pdf reader library from pypdf to pdfplumber for better table parsing

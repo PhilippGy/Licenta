@@ -1,0 +1,4 @@
+Context Fragmentation: Liste lungi (ID 1) necesită Reranking pentru a fi reconstituite.
+Knowledge Contamination: Cazul ID 2: modelul folosește cunoștințe interne în loc de contextul RAG.
+The Honesty-Accuracy Trade-off: ID 20 - fortarea modelului să nu mai inventeze, chiar dacă asta scade
+                                scorul de „Completeness”.

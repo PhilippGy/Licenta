@@ -1,5 +1,11 @@
 Libraries:
 requests
 beautifulsoup4
-sentence-transformers
+sentence-transformers - SentenceTransformer, CrossEncoder
 faiss-cpu
+numpy
+time
+json
+pandas
+pdfplumber
+io
