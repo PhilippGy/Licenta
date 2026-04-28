@@ -1,0 +1,161 @@
+id,question,category,difficulty,answer,score
+1,Ce documente sunt necesare pentru înscrierea la admitere?,documente_necesare,easy,Pentru înscrierea la studii universitare de doctorat sunt necesare: formularul de înscriere (semnat) – anexa 1 generată automat din platformă; cererea de înscriere (care conține și declararea etniei) conform modelului de pe website-ul Institutului de Studii Doctorale - numai pentru candidații care optează pentru locurile rezervate etniei rome; Curriculum Vitae și lista lucrărilor; diploma de bacalaureat și foaia matricolă (pentru diplomele însoțite de foaie matricolă) sau diplomă echivalentă acesteia; diploma de licență/absolvire și suplimentul la diploma.,"{
+  ""brief_reason"": ""The chatbot answer is mostly correct but lacks the mention of 'dovada achitării taxelor de admitere' (proof of payment of admission fees), which is present in the reference context. It also includes an unnecessary sentence about 'locurile rezervate etniei rome', which is not relevant to the question."",
+  ""factual"": 8,
+  ""complete"": 9,
+  ""clarity"": 10,
+  ""no_hallucination"": 10,
+  ""final_score"": 9.25
+}"
+2,Care este perioada oficială de înscriere?,calendar_admitere,easy,Perioada oficială de înscriere se termină cu cel puțin 24 de ore înaintea începerii primei probe de examen.,"{
+  ""brief_reason"": ""The chatbot's answer is not present in the reference context, so it's a hallucination. However, it's factually correct as the official deadline for registration is indeed at least 24 hours before the first exam."",
+  ""factual"": 5,
+  ""complete"": 0,
+  ""clarity"": 10,
+  ""no_hallucination"": 0,
+  ""final_score"": 3.75
+}"
+3,Care este taxa de înscriere și cum se plătește?,taxe,easy,"Taxa de înscriere se aplică angajaților și copiilor angajaților UBB, ai Bibliotecii Centrale Universitare, precum și copiilor personalului în activitate sau pensionari din instituțiile de învățământ universitar și preuniversitar. Taxa de admitere este formată din taxa de înscriere și taxa de procesare. Taxele se plătesc exclusiv online prin Platforma de Admitere. Nu dețin această informație conform datelor extrase de pe site-ul oficial.","{
+  ""brief_reason"": ""The chatbot answer is not entirely accurate as it mentions that the taxes are paid exclusively online, which is not stated in the provided context. However, it does provide correct information about who is exempt from the registration fee."",
+  ""factual"": 7,
+  ""complete"": 10,
+  ""clarity"": 10,
+  ""no_hallucination"": 10,
+  ""final_score"": 8.5
+}"
+4,Ce specializări sunt disponibile la FMI UBB?,specializari,easy,Nu dețin această informație conform datelor extrase de pe site-ul oficial.,"{
+  ""brief_reason"": ""The chatbot's answer is honest and accurate, as the information about available specializations at FMI UBB is not provided in the given context. The answer is clear and in Romanian."",
+  ""factual"": 10,
+  ""complete"": 10,
+  ""clarity"": 10,
+  ""no_hallucination"": 10,
+  ""final_score"": 10
+}"
+5,Câte locuri bugetate sunt disponibile anul acesta?,locuri_buget,easy,Nu dețin această informație conform datelor extrase de pe site-ul oficial.,"{
+  ""brief_reason"": ""The chatbot's answer is honest and accurate, as the information about the number of budget places is not provided in the given context. The answer is clear and in Romanian."",
+  ""factual"": 10,
+  ""complete"": 10,
+  ""clarity"": 10,
+  ""no_hallucination"": 10,
+  ""final_score"": 10
+}"
+6,Unde pot vedea rezultatele admiterii?,calendar_admitere,easy,"Rezultatele vor fi afișate imediat online și la sediul facultății, menționându-se data și ora afișării.","{
+  ""brief_reason"": ""The chatbot answer is partially correct but contains errors. It did not fully answer the user's prompt based on available context, as it did not mention the date and time of the results' display. The answer was clear and in Romanian, with no hallucinations."",
+  ""factual"": 7,
+  ""complete"": 6,
+  ""clarity"": 10,
+  ""no_hallucination"": 10,
+  ""final_score"": 8.25
+}"
+7,Cum mă pot înscrie online la admitere?,inscriere_online,easy,"Candidații se înregistrează exclusiv online pe platforma admiterii ( https://admitere.ubbcluj.ro ). Sunt responsabili de încărcarea pe platformă/transmiterea corectă a tuturor documentelor prevăzute în Regulamentul de admitere al Universității Babeș-Bolyai, semnate (unde este cazul) și scanate.","{
+  ""brief_reason"": ""The chatbot answer is mostly correct but lacks the detail about the documents required for enrollment. It also includes an unnecessary link."",
+  ""factual"": 8,
+  ""complete"": 7,
+  ""clarity"": 10,
+  ""no_hallucination"": 10,
+  ""final_score"": 8.5
+}"
+8,În ce limbi sunt disponibile programele de studiu?,specializari,easy,"Română, engleză și germană.","{
+  ""brief_reason"": ""The chatbot's answer is partially correct but contains errors. It did not fully answer the user's prompt based on available context, as it only mentioned the languages without explaining when each language is used."",
+  ""factual"": 5,
+  ""complete"": 6,
+  ""clarity"": 10,
+  ""no_hallucination"": 10,
+  ""final_score"": 7.2
+}"
+9,Cum se calculează media de admitere?,medii_minime,medium,Media de admitere se calculează ca: 1/2 * 10 + 1/2 * nota la proba scrisă de concurs.,"{
+  ""brief_reason"": ""The chatbot's answer is partially correct but contains an error. It did not fully answer the user's prompt based on available context, as it did not mention that the written exam score must be at least 5. The answer is clear and in Romanian, with no hallucinations."",
+  ""factual"": 7,
+  ""complete"": 6,
+  ""clarity"": 10,
+  ""no_hallucination"": 10,
+  ""final_score"": 8.2
+}"
+10,Admiterea se face pe bază de examen sau de dosar?,probe,medium,Admiterea se face pe bază de probe de concurs.,"{
+  ""brief_reason"": ""The chatbot's answer is incorrect as it mentions 'probe de concurs' while the context only discusses 'examen' or 'dosar'. The answer also lacks clarity due to using English words."",
+  ""factual"": 5,
+  ""complete"": 10,
+  ""clarity"": 7,
+  ""no_hallucination"": 10,
+  ""final_score"": 6.25
+}"
+11,Cum se face repartizarea pe locurile bugetate și cu taxă?,locuri_buget,medium,Candidații admiși la facultăți pe locuri bugetate vor parcurge disciplinele din cadrul Modulului pedagogic în regim bugetat. Candidații admiși la facultăți pe locuri cu taxă vor parcurge disciplinele din cadrul Modulului pedagogic în regim cu taxă.,"{
+  ""brief_reason"": ""The chatbot answer is partially correct but contains errors. It does not fully explain the process of allocating budget places, nor does it mention the conditions for tax-paying places as stated in the context."",
+  ""factual"": 5,
+  ""complete"": 0,
+  ""clarity"": 10,
+  ""no_hallucination"": 10,
+  ""final_score"": 4.2
+}"
+12,Cum confirm locul obținut la admitere?,calendar_admitere,medium,"Confirmarea locului se face prin semnarea contractului de studii universitare de către candidat și încărcarea acestuia pe platforma admiterii sau transmiterea lui electronică printr -o modalitate comunicată de facultate/școala doctorală/ISD. Dacă studentul a obținut un loc cu taxă, în etapa de confirmare a locului se face și dovada plății taxei de școlarizare.","{
+  ""brief_reason"": ""The chatbot answer is mostly correct but lacks the detail about the electronic transmission method. It also includes an extra sentence not present in the context."",
+  ""factual"": 8,
+  ""complete"": 9,
+  ""clarity"": 10,
+  ""no_hallucination"": 7,
+  ""final_score"": 8.5
+}"
+13,Cum depun contestație dacă nu sunt de acord cu rezultatul?,contestatii,medium,"Candidații pot adresa comisiei de admitere pe universitate dacă sunt nemulțumiți de rezolvarea contestației sau consideră că rezolvarea nu are temei legal. Contestațiile vor fi depuse în termen de 24 de ore de la data afișării rezultatelor la probele scrise, urmând a fi soluționate de comisia de contestație pe facultate.","{
+  ""brief_reason"": ""The chatbot answer is mostly correct but contains a minor error. It did not fully answer the user's prompt as it did not mention the term for depositing contestații. The answer is clear and in Romanian, with no hallucinations."",
+  ""factual"": 9,
+  ""complete"": 7,
+  ""clarity"": 10,
+  ""no_hallucination"": 10,
+  ""final_score"": 8.5
+}"
+14,Cum ordonez opțiunile de specializare la înscriere?,specializari,medium,Ordinea op țiunilor exprimate la înscriere.,"{
+  ""brief_reason"": ""The chatbot's answer is not entirely accurate as it only mentions 'Ordinea opțiunilor exprimate la înscriere' without providing the full context of how these options are ordered or used in the university admission process. It also does not address the user's question about how to order these options at enrollment."",
+  ""factual"": 5,
+  ""complete"": 0,
+  ""clarity"": 10,
+  ""no_hallucination"": 10,
+  ""final_score"": 4
+}"
+15,Pot candida dacă nu am primit încă diploma de bacalaureat?,cazuri_edge_case,tricky,Absolvenții de liceu cu diplomă de bacalaureat obținută anterior anului curent vor depune o declarație pe proprie răspundere ( Anexa 1 ) din care să rezulte traiectoria școlară.,"{
+  ""brief_reason"": ""The chatbot's answer is not entirely accurate as it mentions 'Anexa 1' which is not present in the reference context. However, it does provide relevant information about the requirement for a declaration from candidates who haven't received their high school diploma yet."",
+  ""factual"": 7,
+  ""complete"": 8,
+  ""clarity"": 10,
+  ""no_hallucination"": 9,
+  ""final_score"": 8.25
+}"
+16,Pot candida la mai multe specializări simultan?,specializari,tricky,"Un candidat poate participa concomitent la admiterea de la mai multe specializări din aceeași instituție sau din instituții diferite de învățământ superior prin depunerea mai multor dosare de înscriere, dar poate fi înmatriculat la cel mult două programe de studiu concomitent.","{
+  ""brief_reason"": ""The chatbot's answer is partially correct but contains errors. It did not fully answer the user's prompt based on available context, as it did not mention that a candidate can opt for multiple specializations within the same domain from different institutions."",
+  ""factual"": 5,
+  ""complete"": 7,
+  ""clarity"": 10,
+  ""no_hallucination"": 10,
+  ""final_score"": 8.2
+}"
+17,Ce se întâmplă dacă nu confirm locul la timp?,cazuri_edge_case,tricky,"Dacă candidatul admis pe locuri bugetate renunță la calitatea de student dobândită prin concurs sau nu confirmă locul până la termenul stabilit, locul rămas liber se ocupă în ordinea descrescătoare a mediilor astfel: a. cu unul dintre candidații care a obținut media generală egală cu cea a ultimului candidat admis, cu aplicarea criteriilor de departajare stabilite de facultate; b. cu primul dintre candidații aflați sub media celor admiși în regim bugetat; c. prin redistribuire în cadrul liniei de studii, a facultății, respectiv a universității, în condițiile stabilite prin regulamentul facultății, respectiv a universității, și cu aprobarea președintelui comisiei de admitere a UBB.","{
+  ""brief_reason"": ""The chatbot's answer is not entirely accurate as it does not mention the redistribution within the same line of studies, faculty, or university. It also includes information about redistributing in descending order of media, which is not specified in the context."",
+  ""factual"": 7,
+  ""complete"": 8,
+  ""clarity"": 10,
+  ""no_hallucination"": 9,
+  ""final_score"": 8.25
+}"
+18,Pot modifica opțiunile după trimiterea dosarului?,cazuri_edge_case,tricky,Nu dețin această informație conform datelor extrase de pe site-ul oficial.,"{
+  ""brief_reason"": ""The chatbot's answer is honest and accurate, as the information about changing options after submitting the application is not present in the provided context. The answer is complete, clear, and does not contain hallucinations."",
+  ""factual"": 10,
+  ""complete"": 10,
+  ""clarity"": 10,
+  ""no_hallucination"": 10,
+  ""final_score"": 10
+}"
+19,Ce fac dacă am încărcat greșit un document?,cazuri_edge_case,tricky,"Dacă ai încărcat greșit un document, trebuie să contactezi facultatea/școala doctorală organizatoare pentru a solicita corectarea acestuia. Netransmiterea pe platformă a documentelor solicitate și nedepunerea documentelor originale în format fizic la termenele solicitate duce la pierderea locului dobândit prin concurs.","{
+  ""brief_reason"": ""The chatbot's answer is not entirely accurate as it suggests contacting the faculty/school for correction, while the context only mentions document submission. It also includes unnecessary information about losing the place due to non-submission of documents."",
+  ""factual"": 6,
+  ""complete"": 10,
+  ""clarity"": 10,
+  ""no_hallucination"": 10,
+  ""final_score"": 8
+}"
+20,"Dacă am media 9.20, am șanse la Informatică?",medii_minime,tricky,Nu dețin această informație conform datelor extrase de pe site-ul oficial.,"{
+  ""brief_reason"": ""The chatbot's answer is honest, as the information about media scores for admission to Informatica is not present in the provided context. The answer is clear and in Romanian."",
+  ""factual"": 10,
+  ""complete"": 10,
+  ""clarity"": 10,
+  ""no_hallucination"": 10,
+  ""final_score"": 10
+}"

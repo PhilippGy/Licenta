@@ -1,0 +1,63 @@
+id,question,category,difficulty,answer
+1,Ce documente sunt necesare pentru înscrierea la admitere?,documente_necesare,easy,"Here’s a breakdown of the documents needed for different levels of study, based on the provided text:
+
+**Bachelor's Degree (Licență):**
+
+*   Diploma de bacalaureat și foaia matricolă (pentru diplomele însoțite de foaie matricolă) sau diplomă echivalentă acesteia.
+*   Certificat de naștere
+*   Carte de identitate sau pașaport, după caz
+*   Certificat de căsătorie sau alte documente care atestă schimbarea numelui (dacă este cazul)
+*   Adeverință medicală tip din care să rezulte că posesorul este apt din punct de vedere medical pentru înscrierea la concursul de admitere
+*   Atestat/certificat de competență lingvistică (dacă este cazul)
+*   Dovada achitării taxelor de admitere (înscriere și procesare)
+*   Alte acte stabilite prin regulamentul universității sau al facultății, pentru cazuri speciale sau facilități.
+
+**Master's Degree (Master):**
+
+*   Formular de înscriere (semnat) – anexa 1 generată automat din platformă;
+*   Diploma de bacalaureat și foaia matricolă (pentru diplomele însoțite de foaie matricolă) sau diplomă echivalentă acesteia;
+*   Diploma de licență/absolvire și suplimentul la diploma de licență/foaia matricolă sau diplomă echivalentă acesteia;
+*   Certificat de naștere;
+*   Carte de identitate;
+*   Atestat/certificat de competență lingvistică;
+*   Adeverință medicală tip care să ateste că persoana în cauză este aptă să urmeze un ciclu de studii superioare;
+*   Dovada achitării taxelor de admitere (înscriere și procesare);
+*   Alte acte stabilite prin regulamentul universității sau al facultății, pentru cazuri speciale sau facilități.
+
+**Doctoral Studies (Studii Universitare de Doctorat):**
+
+*   Formular de înscriere (semnat) – anexa 1 generată automat din platformă;
+*   Cerere de înscriere (care conține și declararea etniei) conform modelului de pe website-ul Institutului de Studii Doctorale - numai pentru candidații care optează pentru locurile rezervate etniei rome;
+*   Curriculum Vitae și lista lucrărilor;
+*   Diploma de bacalaureat și foaia matricolă (pentru diplomele însoțite de foaie matricolă) sau diplomă echivalentă acesteia;
+*   Diploma de licență/absolvire și suplimentul la diploma de licență/foaia matricolă sau diplomă echivalentă acesteia;
+*   Certificat de naștere;
+*   Carte de identitate;
+*   Atestat/certificat de competență lingvistică;
+*   Adeverință medicală tip care să ateste că persoana în cauză este aptă să urmeze un ciclu de studii superioare;
+*   Dovada achitării taxelor de admitere (înscriere și procesare);
+*   Alte acte stabilite prin regulamentul universității sau al facultății, pentru cazuri speciale sau facilități."
+2,Care este perioada oficială de înscriere?,calendar_admitere,easy,Perioada de înscriere se termină cu cel puțin 24 de ore înaintea începerii primei probe de examen la aceste specializări/programe de studii.
+3,Care este taxa de înscriere și cum se plătește?,taxe,easy,"Taxa de înscriere este gratuită pentru angajații și copiii lor, personalul UBB, bibliotecii centrale universitare, precum și pensionarii din instituțiile de învățământ. De asemenea, sunt scutiți candidații orfani de unul sau ambii părinți, copiii provenind din familii monoparentale, tinerii proveniți din centrele de plasament (până la 26 de ani), și persoanele aflate la risc de a-și pierde capacitatea de satisfacere a nevoilor zilnice de trai din cauza bolii, handicapului sau sărăciei.
+
+Taxa de înscriere se plătește exclusiv online prin Platforma de Admitere."
+4,Ce specializări sunt disponibile la FMI UBB?,specializari,easy,"The provided text does not list the specific specializations available at the FMI UBB (University of Bucharest - Faculty of Mathematics and Informatics). It only outlines general admission procedures, funding options for second specializations, and key dates related to the Mate-Info UBB 2026 competition."
+5,Câte locuri bugetate sunt disponibile anul acesta?,locuri_buget,easy,țin 25 de locuri bugetate în cadrul cifrei de școlarizare aprobate.
+6,Unde pot vedea rezultatele admiterii?,calendar_admitere,easy,"Rezultatele vor fi afișate imediat online și la sediul facultății, menționându-se data și ora afișării. De asemenea, vor fi afișate în 20 iulie 2026, ora 22:00."
+7,Cum mă pot înscrie online la admitere?,inscriere_online,easy,"Candidații se înscriere exclusiv online pe platforma de admitere https://admitere.ubbcluj.ro. Sunt responsabili de încărcarea și transmiterea corectă a tuturor documentelor prevăzute în Regulamentul de admitere, scanate și semnate (unde este cazul)."
+8,În ce limbi sunt disponibile programele de studiu?,specializari,easy,"Programele de studiu sunt disponibile în limba română și în limbi de circulație internațională, precum engleza și germana."
+9,Cum se calculează media de admitere?,medii_minime,medium,"Media de admitere se calculează astfel:
+
+1.  **Categoria A:** Media de admitere = 10 (Premiul la Olimpiada/Concurs) + MAX (Nota Concurs Mate-Info UBB, Nota proba scrisă).
+2.  **Categoria B:** Media de admitere = (10 + MAX (Nota Concurs Mate-Info UBB, Nota proba scrisă)) * 1/2 + nota la proba scrisă de concurs (care trebuie să fie minim 5)."
+10,Admiterea se face pe bază de examen sau de dosar?,probe,medium,"The context describes a multi-stage process involving both exams and document submission. It states that “Forma de examinare pentru fiecare ciclu și program va fi specificată de facultatea/școala doctorală organizatoare” and outlines the required documents for each level (licență, masterat, doctorat). Therefore, admission involves a combination of exam performance and submitting supporting documentation like diplomas, transcripts, and certificates."
+11,Cum se face repartizarea pe locurile bugetate și cu taxă?,locuri_buget,medium,"Candidatii pot fi admiși pe locuri bugetate sau cu taxa. Candidații admiși pe locuri bugetate vor parcurge disciplinele din cadrul Modulului pedagogic în regim bugetat, iar cei admiși pe locuri cu taxă vor face acest lucru în regim cu taxă. Art. 9 specifică că există locuri alocate românilor de pretutindeni care necesită dovada apartenenței la identitatea culturală română. De asemenea, există reguli legate de finanțarea de la buget pentru absolvenți care urmează o a doua specializare."
+12,Cum confirm locul obținut la admitere?,calendar_admitere,medium,"Confirmarea locului se face prin semnarea contractului de studii universitare de către candidat și încărcarea acestuia pe platforma admiterii sau transmiterea lui electronică printr -o modalitate comunicată de facultate/școala doctorală/ISD. Dacă studentul a obținut un loc cu taxă, în etapa de confirmare a locului se face și dovada plății taxei de școlarizare."
+13,Cum depun contestație dacă nu sunt de acord cu rezultatul?,contestatii,medium,"Dacă ești nemulțumit de rezolvarea contestației sau consideri că rezolvarea nu are temei legal, te poți adresa comisiei de admitere pe universitate. Contestațiile vor fi depuse în termen de 24 de ore de la data afișării rezultatelor la probele scrise, urmând a fi soluționate de comisia de contestație pe facultate."
+14,Cum ordonez opțiunile de specializare la înscriere?,specializari,medium,"Candidații vor fi informați că, în cazul dublei cetățenii (alta decât română) candidații vor opta pentru una dintre cetățeniile cu care vor să participe la concurs. Candidații vor fi informați că, în cazul în care la specializarea respectivă nu vor fi suficien ți candida ți pentru alcătuirea unei forma țiuni de studiu, ace știa vor putea opta pentru o specializare din acela și domeniu, la aceea și facultate, op țiune ce trebuie declarată la înscriere , în fișa de înscriere utilizată de facultate. După încheierea perioadei de înscriere op țiunile, ordinea acestora, precum și alte informa ții din fi șa de înscriere nu pot fi modificate."
+15,Pot candida dacă nu am primit încă diploma de bacalaureat?,cazuri_edge_case,tricky,Absolvenții de liceu cu diplomă de bacalaureat/atestatul/adeverința de bacalaureat pot participa la admitere.
+16,Pot candida la mai multe specializări simultan?,specializari,tricky,"Yes, a candidate can participate in the competition for multiple specializations from the same institution or different higher education institutions by submitting multiple applications, but they can be enrolled in no more than two study programs simultaneously."
+17,Ce se întâmplă dacă nu confirm locul la timp?,cazuri_edge_case,tricky,"Dacă studentul nu transmite pe platformă documentele solicitate și nu depune documentele originale în format fizic la termenele solicitate, duce la pierderea locului dobândit prin concurs."
+18,Pot modifica opțiunile după trimiterea dosarului?,cazuri_edge_case,tricky,"Adaptările se realizează la solicitarea scrisă a candidatului, depusă la înscriere sau într -un termen stabilit de facultate, însoțită de documente justificative."
+19,Ce fac dacă am încărcat greșit un document?,cazuri_edge_case,tricky,"Dacă ai încărcat greșit un document, netransmiterea pe platformă a documentelor solicitate și nedepunerea documentelor originale în format fizic la termenele solicitate duce la pierderea locului dobândit prin concurs."
+20,"Dacă am media 9.20, am șanse la Informatică?",medii_minime,tricky,"The context doesn't provide enough information to determine if you would have a chance at the Faculty of Mathematics and Computer Science based on your 9.20 grade. It states that the admission score is calculated as: 1/2 * 10 + 1/2 * nota la proba scrisă de concurs (half of 10 plus half of the written exam score). However, it doesn't specify how this score relates to your grade or what the written exam score would be."

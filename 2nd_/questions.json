@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "difficulty": "easy",
+        "category": "documente_necesare",
+        "question": "Ce documente sunt necesare pentru înscrierea la admitere?"
+    },
+    {
+        "id": 2,
+        "difficulty": "easy",
+        "category": "calendar_admitere",
+        "question": "Care este perioada oficială de înscriere?"
+    },
+    {
+        "id": 3,
+        "difficulty": "easy",
+        "category": "taxe",
+        "question": "Care este taxa de înscriere și cum se plătește?"
+    },
+    {
+        "id": 4,
+        "difficulty": "easy",
+        "category": "specializari",
+        "question": "Ce specializări sunt disponibile la FMI UBB?"
+    },
+    {
+        "id": 5,
+        "difficulty": "easy",
+        "category": "locuri_buget",
+        "question": "Câte locuri bugetate sunt disponibile anul acesta?"
+    },
+    {
+        "id": 6,
+        "difficulty": "easy",
+        "category": "calendar_admitere",
+        "question": "Unde pot vedea rezultatele admiterii?"
+    },
+    {
+        "id": 7,
+        "difficulty": "easy",
+        "category": "inscriere_online",
+        "question": "Cum mă pot înscrie online la admitere?"
+    },
+    {
+        "id": 8,
+        "difficulty": "easy",
+        "category": "specializari",
+        "question": "În ce limbi sunt disponibile programele de studiu?"
+    },
+    {
+        "id": 9,
+        "difficulty": "medium",
+        "category": "medii_minime",
+        "question": "Cum se calculează media de admitere?"
+    },
+    {
+        "id": 10,
+        "difficulty": "medium",
+        "category": "probe",
+        "question": "Admiterea se face pe bază de examen sau de dosar?"
+    },
+    {
+        "id": 11,
+        "difficulty": "medium",
+        "category": "locuri_buget",
+        "question": "Cum se face repartizarea pe locurile bugetate și cu taxă?"
+    },
+    {
+        "id": 12,
+        "difficulty": "medium",
+        "category": "calendar_admitere",
+        "question": "Cum confirm locul obținut la admitere?"
+    },
+    {
+        "id": 13,
+        "difficulty": "medium",
+        "category": "contestatii",
+        "question": "Cum depun contestație dacă nu sunt de acord cu rezultatul?"
+    },
+    {
+        "id": 14,
+        "difficulty": "medium",
+        "category": "specializari",
+        "question": "Cum ordonez opțiunile de specializare la înscriere?"
+    },
+    {
+        "id": 15,
+        "difficulty": "tricky",
+        "category": "cazuri_edge_case",
+        "question": "Pot candida dacă nu am primit încă diploma de bacalaureat?"
+    },
+    {
+        "id": 16,
+        "difficulty": "tricky",
+        "category": "specializari",
+        "question": "Pot candida la mai multe specializări simultan?"
+    },
+    {
+        "id": 17,
+        "difficulty": "tricky",
+        "category": "cazuri_edge_case",
+        "question": "Ce se întâmplă dacă nu confirm locul la timp?"
+    },
+    {
+        "id": 18,
+        "difficulty": "tricky",
+        "category": "cazuri_edge_case",
+        "question": "Pot modifica opțiunile după trimiterea dosarului?"
+    },
+    {
+        "id": 19,
+        "difficulty": "tricky",
+        "category": "cazuri_edge_case",
+        "question": "Ce fac dacă am încărcat greșit un document?"
+    },
+    {
+        "id": 20,
+        "difficulty": "tricky",
+        "category": "medii_minime",
+        "question": "Dacă am media 9.20, am șanse la Informatică?"
+    }
+]

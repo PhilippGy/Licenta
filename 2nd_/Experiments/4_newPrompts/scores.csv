@@ -1,0 +1,163 @@
+id,question,category,difficulty,answer,score
+1,Ce documente sunt necesare pentru înscrierea la admitere?,documente_necesare,easy,"Pentru înscrierea la admitere, sunt necesare următoarele documente: formular de înscriere (semnat) – anexa 1 generată automat din platformă; diplomă de bacalaureat și foaia matricolă (pentru diplomele însoțite de foaie matricolă) sau diplomă echivalentă acesteia; certificat de naștere; carte de identitate sau pașaport, după caz; adeverință medicală tip din care să rezulte că posesorul este apt din punct de vedere medical pentru înscrierea la concursul de admitere.","{
+  ""factual"": 5,
+  ""complete"": 8,
+  ""clarity"": 10,
+  ""no_hallucination"": 10,
+  ""final_score"": 7.3,
+  ""brief_reason"": ""The chatbot's answer is partially correct, as it missed mentioning the 'dovada achitării taxelor de admitere' (proof of payment for admission fees), which is present in the context.""
+}"
+2,Care este perioada oficială de înscriere?,calendar_admitere,easy,Perioada oficială de înscriere se termină cu cel puțin 24 de ore înaintea începerii primei probe de examen la aceste specializări / programe de studii.,"{
+  ""factual"": 10,
+  ""complete"": 10,
+  ""clarity"": 10,
+  ""no_hallucination"": 10,
+  ""final_score"": 10.0,
+  ""brief_reason"": ""The chatbot's answer is perfectly accurate, complete, clear, and does not contain any hallucinations based on the provided reference context.""
+}"
+3,Care este taxa de înscriere și cum se plătește?,taxe,easy,"Taxa de înscriere se percepe pentru toți candidații, cu excepția angajaților și a copiilor lor, precum și a personalului UBB și pensionarilor din instituțiile de învățământ universitar și preuniversitar. Taxa de admitere este formată din taxa de înscriere și taxa de procesare. Taxele se achită exclusiv online prin Platforma de Admitere.","{
+  ""factual"": 8,
+  ""complete"": 7,
+  ""clarity"": 10,
+  ""no_hallucination"": 10,
+  ""final_score"": 8.5,
+  ""brief_reason"": ""The chatbot's answer is mostly correct but it lacks information about the scutiri (exemptions) for certain categories of candidates, which are detailed in the reference context.""
+}"
+4,Ce specializări sunt disponibile la FMI UBB?,specializari,easy,Nu dețin această informație conform datelor extrase de pe site-ul oficial.,"{
+  ""factual"": 0,
+  ""complete"": 0,
+  ""clarity"": 10,
+  ""no_hallucination"": 10,
+  ""final_score"": 0.0,
+  ""brief_reason"": ""The chatbot's answer is completely incorrect and does not address the user's question about available specializations at FMI UBB.""
+}"
+5,Câte locuri bugetate sunt disponibile anul acesta?,locuri_buget,easy,Țin 25 de locuri bugetate.,"{
+  ""factual"": 10,
+  ""complete"": 10,
+  ""clarity"": 10,
+  ""no_hallucination"": 10,
+  ""final_score"": 10.0,
+  ""brief_reason"": ""The chatbot's answer is perfectly accurate, complete, clear, and does not contain any hallucinations based on the provided reference context.""
+}"
+6,Unde pot vedea rezultatele admiterii?,calendar_admitere,easy,"Rezultatele vor fi afișate imediat online și la sediul facultății, menționându-se data și ora afișării.","{
+  ""factual"": 10,
+  ""complete"": 10,
+  ""clarity"": 10,
+  ""no_hallucination"": 10,
+  ""final_score"": 10.0,
+  ""brief_reason"": ""The chatbot's answer perfectly matches the context, is complete, clear, and does not contain any hallucinations.""
+}"
+7,Cum mă pot înscrie online la admitere?,inscriere_online,easy,"Înscrierea candidaților se face exclusiv online în platforma de admitere (https://admitere.ubbcluj.ro). Candidații sunt responsabili de încărcarea pe platformă/transmiterea corectă a tuturor documentelor prevăzute în Regulamentul de admitere al Universității Babeș-Bolyai, semnate (unde este cazul) și scanate.","{
+  ""factual"": 8,
+  ""complete"": 7,
+  ""clarity"": 10,
+  ""no_hallucination"": 10,
+  ""final_score"": 8.5,
+  ""brief_reason"": ""The chatbot's answer is mostly correct, but it lacks information about the required documents for master's degree admission (only mentioned for bachelor's). It also doesn't mention that candidates must express their agreement regarding data processing.""
+}"
+8,În ce limbi sunt disponibile programele de studiu?,specializari,easy,"Română, engleză și germană.","{
+  ""factual"": 10,
+  ""complete"": 10,
+  ""clarity"": 10,
+  ""no_hallucination"": 10,
+  ""final_score"": 10.0,
+  ""brief_reason"": ""The chatbot's answer perfectly matches the context, is complete, clear, and free of hallucinations.""
+}"
+9,Cum se calculează media de admitere?,medii_minime,medium,Media de admitere se calculează ca: 1/2 * 10 + 1/2 * nota la proba scrisă de concurs.,"{
+  ""factual"": 8,
+  ""complete"": 5,
+  ""clarity"": 10,
+  ""no_hallucination"": 10,
+  ""final_score"": 7.75,
+  ""brief_reason"": ""The answer is partially correct but contains errors (it should be 'Media de admitere se calculează ca: 1/2 * 10 + 1/2 * nota la proba scrisă de concurs' instead of 'Media de admitere se calculează ca: 1/2 * 10 + 1/2 * nota la proba scrisă de concurs.'). It also doesn't fully answer the user's prompt as it lacks information about the minimum required note for the written exam.""
+}"
+10,Admiterea se face pe bază de examen sau de dosar?,probe,medium,Admiterea se face pe baza documentelor depuse conform cerințelor stabilite prin metodologia proprie a școlilor doctorale și a Institutului de Studii Doctorale.,"{
+  ""factual"": 5,
+  ""complete"": 5,
+  ""clarity"": 10,
+  ""no_hallucination"": 10,
+  ""final_score"": 6.875,
+  ""brief_reason"": ""The answer is partially correct, as it mentions 'documentelor depuse' but does not explicitly state 'examen' or 'dosar', which are also valid methods of admission according to the context.""
+}"
+11,Cum se face repartizarea pe locurile bugetate și cu taxă?,locuri_buget,medium,"Repartizarea se face în funcție de ciclul la care dau admitere (licență sau master) candidații români de pretutindeni, care fac dovada apartenenței la identitatea culturală română.","```json
+{
+  ""factual"": 5,
+  ""complete"": 8,
+  ""clarity"": 10,
+  ""no_hallucination"": 10,
+  ""final_score"": 7.3,
+  ""brief_reason"": ""The answer is partially correct but contains errors (it mentions 'licență sau master' while the context only discusses 'licență'). It also lacks details about the allocation of special destination places.""
+}
+```"
+12,Cum confirm locul obținut la admitere?,calendar_admitere,medium,"Confirmarea locului se face prin semnarea contractului de studii universitare de către candidat și încărcarea acestuia pe platforma admiterii sau transmiterea lui electronică printr -o modalitate comunicată de facultate/școala doctorală/ISD. Dacă studentul a obținut un loc cu taxă, în etapa de confirmare a locului se face și dovada plății taxei de școlarizare.","{
+  ""factual"": 10,
+  ""complete"": 10,
+  ""clarity"": 10,
+  ""no_hallucination"": 10,
+  ""final_score"": 10.0,
+  ""brief_reason"": ""The chatbot's answer perfectly matches the reference context, providing a complete and clear explanation of how to confirm the obtained place in university admissions.""
+}"
+13,Cum depun contestație dacă nu sunt de acord cu rezultatul?,contestatii,medium,Candidatul se poate adresa comisiei de admitere pe universitate.,"{
+  ""factual"": 10,
+  ""complete"": 10,
+  ""clarity"": 10,
+  ""no_hallucination"": 10,
+  ""final_score"": 10.0,
+  ""brief_reason"": ""The chatbot's answer is perfectly accurate, complete, clear, and does not contain any hallucinations based on the provided reference context.""
+}"
+14,Cum ordonez opțiunile de specializare la înscriere?,specializari,medium,"Candidații vor fi informați că, în cazul dublei cetățenii (alta decât română) candidații vor opta pentru una dintre cetățeniile cu care vor să participe la concurs. Candidații vor fi informați că, în cazul în care la specializarea respectivă nu vor fi suficien ți candida ți pentru alcătuirea unei forma țiuni de studiu, ace știa vor putea opta pentru o specializare din acela și domeniu, la aceea și facultate, op țiune ce trebuie declarată la înscriere , la care dau admitere (licență sau master), trebuie să facă dovada apartenenței la identitatea culturală română.","{
+  ""factual"": 8,
+  ""complete"": 7,
+  ""clarity"": 10,
+  ""no_hallucination"": 10,
+  ""final_score"": 8.5,
+  ""brief_reason"": ""The chatbot's answer is mostly correct but lacks details about the process of opting for a specialisation with fewer candidates, and it doesn't mention that Roma candidates can opt for any specialisation on regular places.""
+}"
+15,Pot candida dacă nu am primit încă diploma de bacalaureat?,cazuri_edge_case,tricky,"Da, candidații pot participa la concurs dacă nu au primit încă diploma de bacalaureat, cu condiția să depună o declarație pe proprie răspundere (Anexa 1) din care să rezulte traiectoria școlară.","{
+  ""factual"": 5,
+  ""complete"": 7,
+  ""clarity"": 10,
+  ""no_hallucination"": 10,
+  ""final_score"": 6.83,
+  ""brief_reason"": ""The chatbot's answer is partially correct, as it states that candidates can participate without their diploma, but it does not mention the requirement for a declaration (Anexa 1) to confirm their academic trajectory.""
+}"
+16,Pot candida la mai multe specializări simultan?,specializari,tricky,"Da, un candidat poate depune mai multe dosare de înscriere la mai multe specializări din aceeași instituție sau din instituții diferite, dar poate fi înmatriculat la cel mult două programe de studiu concomitent.","{
+  ""factual"": 10,
+  ""complete"": 10,
+  ""clarity"": 10,
+  ""no_hallucination"": 10,
+  ""final_score"": 10.0,
+  ""brief_reason"": ""The chatbot's answer is perfectly accurate, complete, clear, and does not contain any hallucinations based on the provided reference context.""
+}"
+17,Ce se întâmplă dacă nu confirm locul la timp?,cazuri_edge_case,tricky,"Dacă studentul a obținut un loc cu taxă, în etapa de confirmare a locului se face și dovada plății taxei de școlarizare. Netransmiterea pe platformă a documentelor solicitate și nedepunerea documentelor originale în format fizic la termenele solicitate duce la pierderea locului dobândit prin concurs.","{
+  ""factual"": 10,
+  ""complete"": 10,
+  ""clarity"": 10,
+  ""no_hallucination"": 10,
+  ""final_score"": 10.0,
+  ""brief_reason"": ""The chatbot's answer is perfectly accurate, complete, clear, and does not contain any hallucinations based on the provided reference context.""
+}"
+18,Pot modifica opțiunile după trimiterea dosarului?,cazuri_edge_case,tricky,"Adaptările se realizează la solicitarea scrisă a candidatului, depusă la înscriere sau într -un termen stabilit de facultate, însoțită de documente justificative.","{
+  ""factual"": 5,
+  ""complete"": 7,
+  ""clarity"": 10,
+  ""no_hallucination"": 8,
+  ""final_score"": 6.9,
+  ""brief_reason"": ""The answer is partially correct but contains errors (e.g., it doesn't mention the term 'adaptări' explicitly). It also has some hallucinations, as it mentions 'trimiterea dosarului', which is not present in the context.""
+}"
+19,Ce fac dacă am încărcat greșit un document?,cazuri_edge_case,tricky,"Dacă ați încărcat greșit un document, trebuie să depuneți documentul original în format fizic la termenele solicitate.","{
+  ""factual"": 5,
+  ""complete"": 7,
+  ""clarity"": 10,
+  ""no_hallucination"": 8,
+  ""final_score"": 7.375,
+  ""brief_reason"": ""The chatbot's answer is partially correct, as it mentions the need to deposit the original document, but it does not specify that this should be done in physical format and at the specified deadlines, which are crucial details according to the context.""
+}"
+20,"Dacă am media 9.20, am șanse la Informatică?",medii_minime,tricky,Nu dețin această informație conform datelor extrase de pe site-ul oficial.,"{
+  ""factual"": 0,
+  ""complete"": 0,
+  ""clarity"": 10,
+  ""no_hallucination"": 10,
+  ""final_score"": 0.0,
+  ""brief_reason"": ""The chatbot's answer is completely incorrect as it doesn't provide any information about the admission requirements for Informatics, which were clearly stated in the reference context.""
+}"

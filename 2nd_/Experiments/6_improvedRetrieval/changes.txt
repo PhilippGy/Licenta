@@ -1,0 +1,48 @@
+reduced LLM-as-a-Judge temperature from 0.2 to 0
+
+-----Improved chunk retrieval-----
+
+Instead of simply taking the top 5 chunks selected by the embedding model, we now do "reranking":
+1. Take the top 20 chunks selected by the embedding model
+2. Rerank them using a Cross-Encoder model
+3. Take the top 5 chunks from the reranked list
+
+
+Before:
+# Ia cele 5 cele mai relevante chunkuri pentru queryul userului
+def retrieve(query, k=5):
+    query = "query: " + query
+    q_emb = model.encode([query])
+    distances, indices = index.search(np.array(q_emb), k)
+
+    return [chunks[i] for i in indices[0]]
+
+
+After:
+from sentence_transformers import CrossEncoder
+
+# 1. Inițializează Reranker-ul (un model mic și rapid)
+reranker_model = CrossEncoder('cross-encoder/ms-marco-MiniLM-L-6-v2')
+
+def retrieve_with_reranking(query, k_initial=20, k_final=5):
+    # Pasul A: Retrieval inițial (extrage mai multe fragmente)
+    query_prefixed = "query: " + query
+    q_emb = model.encode([query_prefixed])
+    distances, indices = index.search(np.array(q_emb), k_initial)
+    
+    initial_chunks = [chunks[i] for i in indices[0]]
+    
+    # Pasul B: Reranking (Cross-Encoding)
+    # Modelul compară perechi (întrebare, fragment) și dă un scor de relevanță
+    sentence_combinations = [[query, chunk] for chunk in initial_chunks]
+    rerank_scores = reranker_model.predict(sentence_combinations)
+    
+    # Pasul C: Sortăm fragmentele în funcție de scorul Reranker-ului
+    reranked_results = sorted(
+        list(zip(initial_chunks, rerank_scores)), 
+        key=lambda x: x[1], 
+        reverse=True
+    )
+    
+    # Returnăm doar primele k_final cele mai bune
+    return [res[0] for res in reranked_results[:k_final]]

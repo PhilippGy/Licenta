@@ -1,0 +1,15 @@
+id,question,category,difficulty,answer,score
+1,Ce documente sunt necesare pentru înscrierea la admitere?,documente_necesare,easy,"Pentru înscrierea la admitere, veți avea nevoie de următoarele documente:
+
+*   Dovada echivalării studiilor (adresați-vă Centrului de Cooperări Internaționale al UBB).
+*   Diploma de bacalaureat și foaia matricolă în original până la data de 31 august 2026.
+*   Adeverințe care să ateste îndeplinirea condițiilor pentru scutire parțială sau totală de taxe de înscriere și/sau a taxei de procesare (dacă sunteți eligibil).
+*   Certificat de competență lingvistică din lista aprobată de Rectoratul universității (dacă studiați într-o limbă străină).
+*   Dacă optați pentru locuri rezervate etniei rome, o recomandare eliberată de o organizație legală a romilor.
+*   Dacă optați pentru locurile destinate absolvenților de licee situate în mediul rural, trebuie să fiți absolvent al unui liceu din lista aprobată anual de ministerul de resort.
+*   Dacă optați pentru locurile destinate persoanelor în vârstă de până la 26 de ani provenite din sistemul de protecție socială, documente specifice (adeverințe emise de DGASPC, hotărâri judecătorești).
+*   Dacă optați pentru locurile destinate persoanelor cu cerințe educaționale speciale/dizabilități, documente specifice (certificat de handicap, certificat CES).
+*   Dacă optați pentru locurile destinate minorităților naționale, o adeverință din partea unei organizații de reprezentare a minorității respective.
+
+În plus, dacă vor exista locuri bugetate eliberate, candidații admiși pe locuri cu taxă, de la aceeași specializare, în ordinea descrescătoare a mediilor, cu condiția îndeplinirii condițiilor de eligibilitate și care au depus la dosar diploma de bacalaureat si foaia matricola in original până la data 31 august 2026.","{""factual"": 9, ""complete"": 8, ""clarity"": 7, ""no_hallucination"": 10, ""final_score"": 8.5, ""brief_reason"": ""The chatbot provided a comprehensive list of required documents for admission but missed some details like the deadline for submitting the diploma and matricula original until August 31st.""}"
+2,Care este perioada oficială de înscriere?,calendar_admitere,easy,"Contextul nu specifică o perioadă oficială de înscriere. Oferă informații despre procedura de înscriere online prin platforma admiterii (https://admitere.ubbcluj.ro/) și documentele necesare, dar nu precizează o dată limită pentru depunerea cererilor.","{""factual"": 8, ""complete"": 7, ""clarity"": 9, ""no_hallucination"": 10, ""final_score"": 8.5, ""brief_reason"": ""The chatbot's answer is mostly correct and clear, but it lacks some details about the official information provided.""}"

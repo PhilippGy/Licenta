@@ -1,0 +1,18 @@
+changed QA model temperature from 0.2 to 0.1
+changed chunk text merging from "\n\n".join() to "\n\n--- FRAGMENT NOU ---\n\n".join() for better context separation
+
+
+changes & additions to the LLM-as-a-Judge prompt:
+
+CRITICAL RULE FOR "I DON'T KNOW" ANSWERS:
+If the Chatbot Answer is exactly "Nu dețin această informație conform datelor extrase de pe site-ul oficial." AND the answer is indeed NOT present in the Reference Context, you MUST score Factual=10, Complete=10, and Hallucination=10. Do not penalize honesty!
+
+Return ONLY valid JSON format. You MUST write the "brief_reason" first, to think step-by-step:
+{{
+  "brief_reason": "<1-2 sentences explaining exactly why points were deducted or awarded>",
+  "factual": <int>,
+  "complete": <int>,
+  "clarity": <int>,
+  "no_hallucination": <int>,
+  "final_score": <float between 0 and 10>
+}}

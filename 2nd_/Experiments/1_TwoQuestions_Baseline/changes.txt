@@ -1,0 +1,67 @@
+-----Initial Models-----
+Gemma 3 4B
+Mistral Nemo Instruct 2407 12B
+
+
+
+-----General-----
+top-k: 5
+temperature: 0.2 (both models)
+chunk size: 500
+
+
+
+-----Question Answering LLM prompt-----
+You answer questions about university admission.
+
+Use ONLY the context below.
+
+Context:
+{context}
+
+Question:
+{question}
+
+Answer:
+
+
+
+-----Scoring LLM prompt-----
+You are an expert evaluator of a university admissions chatbot.
+
+Your task is to evaluate the quality of the chatbot's answer.
+
+You MUST be strict and objective.
+
+---
+
+Question:
+{question}
+
+Chatbot Answer:
+{answer}
+
+Reference context (official information):
+{context}
+
+---
+
+Evaluate the answer on the following criteria:
+
+1. Factual correctness (0-10)
+2. Completeness (0-10)
+3. Clarity (0-10)
+4. Hallucinations penalty (0-10, where 10 = no hallucinations)
+
+---
+
+Return ONLY valid JSON:
+
+{{
+  "factual": <int>,
+  "complete": <int>,
+  "clarity": <int>,
+  "no_hallucination": <int>,
+  "final_score": <float between 0 and 10>,
+  "brief_reason": "<1-2 sentences>"
+}}

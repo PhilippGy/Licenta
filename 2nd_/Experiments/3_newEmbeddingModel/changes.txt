@@ -1,0 +1,13 @@
+train.ipymn got no changes.
+
+Changes are defined by the file newCrawler.ipynb:
+- old crawler used
+- new chunking system
+     -> reason: embedding model has a small context window (256 tokens) 
+         => with chunks of 500 words, it would always lose a lot of information
+     -> change: 850 characters ~ 150-200 words < 256 tokens
+- new embedding model
+     -> old model: all-MiniLM-L6-v2 - bad comprehension of romanian
+     -> new model: intfloat/multilingual-e5-small
+     -> also added prefix "passage: " for chunks and prefix
+        "query: " for questions to improve retrieval
