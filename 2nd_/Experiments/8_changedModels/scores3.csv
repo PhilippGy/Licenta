@@ -1,0 +1,22 @@
+id,question,category,difficulty,answer,score
+1,Ce documente sunt necesare pentru înscrierea la admitere?,documente_necesare,easy," Documentele necesare pentru înscrierea la admitere sunt următoarele:
+
+1. Cerere de înscriere – completată online in platforma admiterii (https://admitere.ubbcluj.ro)
+2. Fisa candidatului – date de concurs ( Anexa 2 )
+3. Diploma de bacalaureat (scanata fata verso) sau diploma echivalentă acesteia – în care să se precizeze media de la bacalaureat şi nota de la matematică sau informatică obținută la examenul de bacalaureat;
+4. Absolvenții de liceu din promoția 2026 pot prezenta în locul diplomei de bacalaureat adeverința-tip din care să rezulte că au absolvit liceul
+5. Certificat de naștere
+6. Carte de identitate sau pașaport, după caz
+7. Certificat de căsătorie sau alte documente care atestă schimbarea numelui (dacă este cazul)
+8. Adeverință medicală tip din care să rezulte că posesorul este apt din punct de vedere medical pentru înscrierea la concursul de admitere;
+9. Atestat/certificat de competență lingvistică (dacă este cazul)","
+
+{
+  ""brief_reason"": ""The chatbot's answer includes most required documents from the reference context (e.g., application form, diploma, medical certificate) but misses critical items like 'foaia matricolă' for diplomas and 'dovada achitării taxelor de admitere'. It also combines points (medical certificate and language proficiency) into one item, which is not explicitly stated in the context. However, no hallucinations are present."",
+  ""factual"": 8,
+  ""complete"": 7,
+  ""clarity"": 10,
+  ""no_hallucination"": 10,
+  ""final_score"": 8.5
+}"
+2,Care este perioada oficială de înscriere?,calendar_admitere,easy," Perioada oficială de înscriere este între 13 iulie 2026 – 16 iulie 2026, ora 11:00.",Eroare la generarea răspunsului.

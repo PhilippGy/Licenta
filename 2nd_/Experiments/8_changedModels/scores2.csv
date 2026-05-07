@@ -1,0 +1,30 @@
+id,question,category,difficulty,answer,score
+1,Ce documente sunt necesare pentru înscrierea la admitere?,documente_necesare,easy," Documentele necesare pentru înscrierea la admitere sunt următoarele:
+1. Cerere de înscriere – completată online in platforma admiterii (https://admitere.ubbcluj.ro)
+2. Fisa candidatului – date de concurs (Anexa 2)
+3. Diploma de bacalaureat (scanata fata verso) sau diploma echivalentă acesteia – în care să se precizeze media de la bacalaureat și nota de la matematică sau informatică obținută la examenul de bacalaureat
+4. Certificat de naștere
+5. Carte de identitate sau pașaport, după caz
+6. Certificat de căsătorie sau alte documente care atestă schimbarea numelui (dacă este cazul)
+7. Adeverință medicală tip din care să rezulte că posesorul este apt din punct de vedere medical pentru înscrierea la concursul de admitere
+8. Atestat/certificat de competență lingvistică (dacă este cazul)","```json
+{
+  ""brief_reason"": ""The chatbot's answer is perfectly aligned with the provided reference context. It accurately extracts all necessary documents, including specific details like the registration URL and Annex 2, without adding any external information or hallucinating rules."",
+  ""factual"": 10,
+  ""complete"": 10,
+  ""clarity"": 10,
+  ""no_hallucination"": 10,
+  ""final_score"": 10.0
+}
+```"
+2,Care este perioada oficială de înscriere?,calendar_admitere,easy," Perioada oficială de înscriere este între 13 iulie 2026 – 16 iulie 2026, ora 11:00.","```json
+{
+  ""brief_reason"": ""The chatbot correctly identified the registration period and time from the fourth fragment of the context, providing an exact match without any hallucinations."",
+  ""factual"": 10,
+  ""complete"": 10,
+  ""clarity"": 10,
+  ""no_hallucination"": 10,
+  ""final_score"": 10.0
+}
+```"
+3,Care este taxa de înscriere și cum se plătește?,taxe,easy," Taxa de înscriere este o componentă a taxei de admitere, formată din taxa de procesare. Copiii angajaților UBB, ai Bibliotecii Centrale Universitare, precum și copiii personalului în activitate sau pensionari din instituțiile de învățământ universitar și preuniversitar sunt scutiți de la plata taxei de înscriere. Nu dețin această informație conform datelor extrase de pe site-ul oficial despre modul exact de plată a taxei de înscriere."

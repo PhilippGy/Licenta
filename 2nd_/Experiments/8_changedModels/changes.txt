@@ -1,0 +1,17 @@
+First change: QA - Mistral 7B, Judge - Gemma4 26B
+     --> ~10mins for 2 sets
+     --> scores2.csv ("perfect 10 for both answers")
+
+Second change: Judge - qwen/qwen3-14b
+     --> ~5m30s for 1 set
+     --> scores3.csv
+
+Third change: Judge - openai/gpt-oss-20b
+     --> ~9m10s for all 20 sets
+     --> scores4.csv
+
+Models who were given a shot but took too long to answer (~2-3mins/answer):
+ - google/gemma-3-12b (QA)
+ - qwen/qwen3-30b-a3b-2507 (QA)
+ - qwen/qwen3-14b (QA)
+ 
