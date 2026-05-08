@@ -1,0 +1,14 @@
+side note: changed LLM-as-a-Judge model to Llama 3 8B
+
+changed crawler:
+    - extract_text was taking too much irrelevant text; 
+      now focuses on html element "entry clearfix"
+    - instead of using just the "Admitere/Nivel Licenta/Admitere la Facultate 2026"
+      link (which could access most, but not all other links recursively),
+      it is given each link separately from the "Admitere/Nivel Licenta" section
+
+changed chunking:
+    - chunk_size raised to 800 from 650 for better chunk understanding 
+      (chunk_overlap also raised to 150 from 120)     
+    - chunks are now separated preferably by paragraph, newline, sentence, 
+      and finally space to minimize information loss between chunks 
