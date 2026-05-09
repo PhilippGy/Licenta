@@ -1,0 +1,40 @@
+numerele sunt facute pe baza la:
+
+0  https://www.cs.ubbcluj.ro/admitere/nivel-licenta/admiterea-la-facultatea-de-matematica-si-informatica-nivel-licenta/
+1  https://www.cs.ubbcluj.ro/wp-content/uploads/Regulament-admitere-2026-UBB.pdf
+2  https://www.cs.ubbcluj.ro/admitere/nivel-licenta/tematica-admitere-facultate/
+3  https://www.cs.ubbcluj.ro/wp-content/uploads/anexa3a-Regulament-admitere-licenta-2026.pdf
+4  https://www.cs.ubbcluj.ro/wp-content/uploads/anexa3b-Regulament-admitere-licenta-2026.pdf
+5  https://www.cs.ubbcluj.ro/wp-content/uploads/anexa2-Regulament-admitere-licenta-2026.pdf
+6  https://www.cs.ubbcluj.ro/wp-content/uploads/anexa1-Regulament-admitere-licenta-2026.pdf
+7  https://www.cs.ubbcluj.ro/admitere/nivel-licenta/taxe-admitere-facultate-nivel-licenta/
+8  https://www.cs.ubbcluj.ro/admitere/nivel-licenta/calendarul-concursului-de-admitere-nivel-licenta/
+9  https://www.cs.ubbcluj.ro/regulamentul-concursului-mate-info-ubb-2026/
+10 https://www.cs.ubbcluj.ro/wp-content/uploads/Regulamentul-de-desfasurare-a-probei-scrise-a-Concursului-Mate-Info-UBB-editia-2026.pdf
+11 https://www.cs.ubbcluj.ro/wp-content/uploads/Anexa-1-regulament-concurs-Mate-Info-UBB-2026.pdf
+12 https://www.cs.ubbcluj.ro/wp-content/uploads/Anexa-2-regulament-concurs-Mate-Info-UBB-2026.pdf
+13 https://www.cs.ubbcluj.ro/admitere/nivel-licenta/acte-necesare-la-inscrierea-la-facultate-nivel-licenta/
+
+
+fisierele din crawledTexts au fost transformate in md files.
+fisierele au fost -> combinate in functie de topic 
+                  -> separate cand erau prea mari
+
+nr. caractere per pagina/pdf:
+0: 1343
+1: 1498
+2: 4588
+3: 23323  --> luat individual din cauza marimii
+4: 8207
+5: 4855
+6: 47805  --> luat individual din cauza marimii
+7: 3891
+8: 1615
+9: 13889
+10: 7060
+11: 13891
+12: 253
+13: 3890
+
+
+ulterior au fost combinate și curate in: admission_kb.md

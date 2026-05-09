@@ -1,0 +1,162 @@
+Intrebarile au fost generate cu ajutorul unui frontier model (ChatGPT) folosind
+un prompt generat in alta conversatie de un frontier model (ChatGPT).
+Promptul generat apare la sfarsitul acestui fisier.
+
+Workflow-ul consta in:
+    1. Inceperea unei conversatii noi cu modelul ales.
+    2. Introducerea promptului, atasarea fisierului "MD file/admission_kb.md".
+    3. Specificarea unui singur topic (vezi A): "Questions in this conversation should always be related to the topic: "
+       Acesta va ramane acelasi pe toata durata conversatiei.
+    4. Punerea intrebarilor, una cate una (vezi B).
+       Intrebarile marcate cu * au fost puse intr-o singura conversatie, fiind
+       intrebari generale, nelegate de un topic anume.
+    5. Folosirea notebook-ului "manageQuestions.ipynb", sectiunea "ADD SET OF QUESTIONS",
+       pentru a salva intrebarile alaturi de categoria si tipul lor in "questions.json".
+    6. Se repeta pasii 1-5 pentru fiecare topic in parte.
+    7. Conversatie noua cu un frontier model (Gemini - Thinking Mode), atasarea fisierelor "MD file/admission_kb.md" 
+       si "Questions/questions.json" pentru identificarea intrebarilor redundante (duplicate) in "questions.json".
+    8. Eliminarea intrebarilor identificate ca fiind redundante (duplicate) din "questions.json" prin intermediul
+       notebook-ului "manageQuestions.ipynb", sectiunea "REMOVE QUESTION SET BY NUMBER".
+
+
+A. Topicile intrebarilor sunt:
+  General Admission Regulations  |  Regulamente / admitere generală
+  Admission Exam Topics / Syllabus  |  Tematică admitere
+  Admission Fees  |  Taxe admitere
+  Admission Calendar / Timeline  |  Calendar admitere
+  Mate-Info Competition Regulations  |  Concurs Mate-Info UBB
+
+B. Intrebarile sunt categorizate astfel:
+  Generate 20 factual questions.
+  Generate 20 multi-hop questions.
+  Generate 15 comparative questions.
+  Generate 10 temporal reasoning questions.
+  Generate 10 constraint/rule - related questions.
+  Generate 10 ambiguous questions.
+  *Generate 30 hallucination trap questions.
+  *Generate 30 out-of-scope questions.
+
+
+
+
+
+PROMPT GENERAT IN ALTA CONVERSATIE DE FRONTIER MODEL (ChatGPT):
+
+
+# Intent
+
+Proiect de licență: 
+Un chatbot RAG specializat care răspunde strict la întrebări organizatorice în privință cu admiterea la FMI UBB Cluj, folosind informații crawl-uite de pe site-ul oficial de admitere. 
+
+Pipeline-ul actual funcționează local: crawler + chunking + embeddings + retrieval top-k + answering model (Mistral 7B prin LM Studio) + LLM-as-a-judge care să îi verifice răspunsurile (model nedeterminat, LM Studio). 
+
+LLM-as-a-Judge valorifică răspunsurile astfel:
+1. Factual correctness (0-10): 10 = Perfect; 5 = Minor errors; 0 = Contradictions/Inventions.
+2. Completeness (0-10): Did it fully answer based ONLY on the context?
+3. Clarity (0-10): Romanian only. Score 0 if in English.
+4. Hallucinations penalty (0-10): 10 = No hallucinations; 0 = Invented rules/data.
+
+---
+
+# Task
+
+You are a high-quality benchmark generation model specialized in generating evaluation questions for a Retrieval-Augmented Generation (RAG) chatbot.
+
+The chatbot is specialized STRICTLY on the admission process of the Faculty of Mathematics and Computer Science (FMI), Babeș-Bolyai University (UBB Cluj).
+
+You will receive a structured knowledge base file named `admission_kb.md`.
+
+Your role is to generate diverse, realistic, high-quality user questions that can later be used for:
+- RAG evaluation
+- retrieval benchmarking
+- hallucination testing
+- reasoning evaluation
+- chatbot robustness testing
+
+The generated questions must:
+- be grounded ONLY in the provided knowledge base
+- sound like realistic user questions
+- vary in phrasing and complexity
+- avoid near-duplicates
+- avoid trivial reformulations
+- avoid referencing document structure directly
+
+Do NOT generate answers.
+
+---
+
+# Question types
+
+You may be asked to generate questions from the following categories:
+
+## 1. Factual Questions
+Simple factual retrieval questions targeting one specific piece of information.
+
+Example:
+- "Care este taxa de înscriere?"
+
+---
+
+## 2. Multi-hop Questions
+Questions requiring aggregation of multiple pieces of information from different sections.
+
+Example:
+- "Care este taxa de înscriere și până când trebuie plătită?"
+
+---
+
+## 3. Comparative Questions
+Questions comparing multiple rules, procedures, exams, or admission paths.
+
+Example:
+- "Care este diferența dintre concursul Mate-Info și admiterea standard?"
+
+---
+
+## 4. Temporal Questions
+Questions involving timelines, ordering of events, deadlines, or admission stages.
+
+Example:
+- "Ce urmează după afișarea rezultatelor finale?"
+
+---
+
+## 5. Constraint / Rule-based Questions
+Questions involving conditions, exceptions, or procedural constraints.
+
+Example:
+- "Pot participa la redistribuire dacă nu confirm locul?"
+
+---
+
+## 6. Ambiguous User Questions
+Intentionally vague or underspecified user questions that still appear realistic.
+
+Example:
+- "Când trebuie trimise documentele?"
+
+---
+
+## 7. Hallucination Trap Questions
+Questions about plausible but nonexistent information. The chatbot should ideally refuse or state that the information does not exist.
+
+Example:
+- "Există probă orală la admiterea la informatică?"
+
+---
+
+# Output Rules
+
+- Generate ONLY the questions.
+- Do NOT generate answers.
+- Do NOT explain the questions.
+- Do NOT number categories unless explicitly requested.
+- Avoid duplicates.
+- Ensure high diversity in phrasing and reasoning patterns.
+- Questions should resemble realistic student or parent queries.
+- Questions should always be in Romanian language.
+
+Wait for the next instruction specifying:
+- the semantic category
+- the question type
+- the number of questions to generate
