@@ -1,0 +1,26 @@
+For the answering, a frontier model is used through API calls.
+
+Used model: GPT-4.1-Mini
+
+---Pricing:
+Model cost: $0.40 per 1M input tokens and $1.60 per 1M output tokens
+Estimated tokens used: 
+    --> input context: ~5000 tokens
+    --> prompt: ~120 tokens
+    --> question: ~40 tokens
+    ==> per iteration: ~5160 tokens
+     - 548 questions = 548 iterations
+     ==> 548 * 5160 = 2,827,680 input tokens ~2.5-2.3$
+
+    --> answer: ~50 tokens
+     ==> 548 * 50 = 27,400 output tokens ~0.05$
+
+     --> total estimated cost: ~3$
+
+Actual time:
+     --> 1-4s / answer
+     --> total: 18m58s
+
+Actual total cost: $0.46
+     
+    
