@@ -36,5 +36,13 @@ nr. caractere per pagina/pdf:
 12: 253
 13: 3890
 
+Deci au fost luate asa:
+0 1 
+2 4 5
+3
+6
+7 8 13
+9 10 11 12
+(vezi folderul 'separate md Files')
 
-ulterior au fost combinate și curate in: admission_kb.md
+ulterior au fost combinate și curate fisierele in: admission_kb.md

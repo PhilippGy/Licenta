@@ -1,0 +1,3 @@
+Changed QA model to: Gemma 4 4B
+Changed Judge model to: Gemma 2 9B IT
+Changed Judge prompt back to how it was before using Llama as a judge

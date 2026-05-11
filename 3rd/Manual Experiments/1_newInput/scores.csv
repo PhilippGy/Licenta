@@ -1,0 +1,191 @@
+id,question,category,difficulty,answer,score
+1,Ce documente sunt necesare pentru înscrierea la admitere?,documente_necesare,easy," Documentele necesare pentru înscrierea la admitere sunt următoarele:
+
+* Cererea/formularul de înscriere completat online;
+* Fișa candidatului – date de concurs (Anexa 2);
+* Diploma de bacalaureat sau diplomă echivalentă;
+* Foaia matricolă;
+* Certificatul de naștere;
+* Cartea de identitate;
+* Certificatul de căsătorie (unde este cazul);
+* Adeverința medicală;
+* Dovada plății taxei de admitere sau documentele de scutire;
+* Documente justificative pentru facilități sau categorii speciale.
+
+Pentru diploma de bacalaureat, trebuie să fie scanată față-verso și să conțină media examenului de bacalaureat și nota la Matematică sau Informatică.
+
+Absolvenții promoției 2026 pot depune adeverință-tip care să ateste absolvirea liceului, promovarea examenului de bacalaureat, media de bacalaureat și nota la Matematică sau Informatică.
+
+Adeverința medicală trebuie emisă de cabinetul școlar sau medicul de familie, emisă cu maximum 3 luni înainte de înscriere și trebuie să ateste că persoana este aptă pentru specializarea aleasă.
+
+Nu este necesară legalizarea copiilor. Copiile sunt certificate conform cu originalul de persoanele desemnate. Declarațiile false și documentele falsificate atrag răspunderea penală conform legii.","{
+   ""brief_reason"": """",
+   ""factual"": 10,
+   ""complete"": 10,
+   ""clarity"": 10,
+   ""no_hallucination"": 10,
+   ""final_score"": 40.0
+}"
+2,Care este perioada oficială de înscriere?,calendar_admitere,easy," Perioada oficială de înscriere se găsește pe platforma de admitere, astfel că trebuie să consultați [https://admitere.ubbcluj.ro](https://admitere.ubbcluj.ro) pentru a obține informații exacte despre această perioadă.","{
+   ""brief_reason"": ""The answer correctly refers to the official platform, but does not fully answer the question about the registration period."",
+   ""factual"": 8,
+   ""complete"": 5,
+   ""clarity"": 10,
+   ""no_hallucination"": 10,
+   ""final_score"": 7.0
+}"
+3,Care este taxa de înscriere și cum se plătește?,taxe,easy," Taxa de înscriere se achită conform regulamentului facultății și se plătește exclusiv online prin platforma de admitere, [https://admitere.ubbcluj.ro](https://admitere.ubbcluj.ro). Nu dețin această informație conform datelor extrase de pe site-ul oficial.","{
+   ""brief_reason"": """",
+   ""factual"": 10,
+   ""complete"": 9,
+   ""clarity"": 10,
+   ""no_hallucination"": 10,
+   ""final_score"": 9.3
+}"
+4,Ce specializări sunt disponibile la FMI UBB?,specializari,easy," Specializările disponibile la Facultatea de Matematică și Informatică (FMI) din cadrul Universității Babeș-Bolyai sunt următoarele:
+
+* Matematică;
+* Informatică;
+* Statistică;
+* Tehnologie Informație;
+* Fizică;
+* Geografie.
+
+Aceste specializări pot fi aleasă în limbile română, maghiară, germană și engleză.","{
+    ""brief_reason"": """",
+    ""factual"": 10,
+    ""complete"": 9,
+    ""clarity"": 10,
+    ""no_hallucination"": 10,
+    ""final_score"": 9.5
+}"
+5,Câte locuri bugetate sunt disponibile anul acesta?,locuri_buget,easy, Nu dețin această informație conform datelor extrase de pe site-ul oficial.,"{
+    ""brief_reason"": """",
+    ""factual"": 10,
+    ""complete"": 10,
+    ""clarity"": 10,
+    ""no_hallucination"": 10,
+    ""final_score"": 40.0
+}"
+6,Unde pot vedea rezultatele admiterii?,calendar_admitere,easy," Rezultatele admiterii pot fi văzute după soluționarea contestațiilor, conform calendarului de admitere publicat pe site-ul oficial.","{
+   ""brief_reason"": ""The answer correctly identifies the deadline for seeing the admission results, but does not mention the context of contesting the results."",
+   ""factual"": 9,
+   ""complete"": 8,
+   ""clarity"": 10,
+   ""no_hallucination"": 0,
+   ""final_score"": 7.6
+}"
+7,Cum mă pot înscrie online la admitere?,inscriere_online,easy," Pentru a te înscrie online la admitere, trebuie să accelzi pe platforma oficială de admitere a UBB Cluj, care este [https://admitere.ubbcluj.ro](https://admitere.ubbcluj.ro). Aici vei putea completa formularul de înscriere online și să transmiti documentele necesare.","{
+   ""brief_reason"": """",
+   ""factual"": 10,
+   ""complete"": 9,
+   ""clarity"": 10,
+   ""no_hallucination"": 10,
+   ""final_score"": 9.5
+}"
+8,În ce limbi sunt disponibile programele de studiu?,specializari,easy," Programele de studiu sunt disponibile în următoarele limbi: română, engleză și germană.","{
+    ""brief_reason"": """",
+    ""factual"": 10,
+    ""complete"": 8,
+    ""clarity"": 10,
+    ""no_hallucination"": 10,
+    ""final_score"": 9.0
+}"
+9,Cum se calculează media de admitere?,medii_minime,medium, Media de admitere se calculează pe baza notelor obținute la proba scrisă tip grilă.,"{
+   ""brief_reason"": """",
+   ""factual"": 0,
+   ""complete"": 10,
+   ""clarity"": 10,
+   ""no_hallucination"": 10,
+   ""final_score"": 7.5
+}"
+10,Admiterea se face pe bază de examen sau de dosar?,probe,medium, Admiterea se face pe bază de examen.,"{
+   ""brief_reason"": """",
+   ""factual"": 10,
+   ""complete"": 8,
+   ""clarity"": 10,
+   ""no_hallucination"": 10,
+   ""final_score"": 9.0
+}"
+11,Cum se face repartizarea pe locurile bugetate și cu taxă?,locuri_buget,medium," Repartizarea pe locurile bugetate se face în ordinea descrescătoare a mediilor, iar cele rămase sunt ocupate de candidații admiși pe locuri cu taxă.","{
+   ""brief_reason"": """",
+   ""factual"": 9,
+   ""complete"": 8,
+   ""clarity"": 10,
+   ""no_hallucination"": 10,
+   ""final_score"": 9.0
+}"
+12,Cum confirm locul obținut la admitere?,calendar_admitere,medium," Cum confirm locul obținut la admitere?
+
+Pentru a confirma locul obținut la admitere, trebuie să depuneti dosarul de înmatriculare și să plătiți taxele corespunzătoare. Acest lucru se face conform calendarului de admitere publicat pe site-ul oficial al Universității Babeș-Bolyai.","{
+    ""brief_reason"": """",
+    ""factual"": 10,
+    ""complete"": 8,
+    ""clarity"": 10,
+    ""no_hallucination"": 10,
+    ""final_score"": 9.0
+}"
+13,Cum depun contestație dacă nu sunt de acord cu rezultatul?,contestatii,medium," Contestațiile pot fi depuse doar procedural, în termen de 24 de ore de la afișarea rezultatelor probelor scrise sau orale/practice. După expirarea perioadei de contestații, rezultatele devin definitive.","{
+   ""brief_reason"": """",
+   ""factual"": 10,
+   ""complete"": 10,
+   ""clarity"": 10,
+   ""no_hallucination"": 10,
+   ""final_score"": 40.0
+}"
+14,Cum ordonez opțiunile de specializare la înscriere?,specializari,medium," Candidații trebuie să ordoneze opțiunele de specializare în ordine de preferință, din cea mai dorită până la cea mai puțin dorită, pe formularul de înscriere completat online.","{
+   ""brief_reason"": """",
+   ""factual"": 10,
+   ""complete"": 9,
+   ""clarity"": 10,
+   ""no_hallucination"": 10,
+   ""final_score"": 9.3
+}"
+15,Pot candida dacă nu am primit încă diploma de bacalaureat?,cazuri_edge_case,tricky," Da, pot candida la admiterea la FMI UBB Cluj fără să aibui încă diploma de bacalaureat, dacă au promovat examenul de bacalaureat și au depus adeverința-tip care atestă aceste fapte.","{
+   ""brief_reason"": ""The answer correctly answers the question, but does not fully address the context."",
+   ""factual"": 10,
+   ""complete"": 8,
+   ""clarity"": 10,
+   ""no_hallucination"": 10,
+   ""final_score"": 9.0
+}"
+16,Pot candida la mai multe specializări simultan?,specializari,tricky," Da, un candidat poate participa simultan la admiterea mai multor specializări sau instituții.","{
+   ""brief_reason"": ""The answer is partially correct, but it does not fully address the question."",
+   ""factual"": 8,
+   ""complete"": 5,
+   ""clarity"": 10,
+   ""no_hallucination"": 0,
+   ""final_score"": 6.3
+}"
+17,Ce se întâmplă dacă nu confirm locul la timp?,cazuri_edge_case,tricky," Dacă un candidat nu confirmă locul la timp, acesta va fi eliminat din concurs conform regulilor stabilite.","{
+   ""brief_reason"": ""The answer correctly explains the consequences of not confirming the seat on time, but does not hallucinate."",
+   ""factual"": 10,
+   ""complete"": 8,
+   ""clarity"": 10,
+   ""no_hallucination"": 10,
+   ""final_score"": 9.2
+}"
+18,Pot modifica opțiunile după trimiterea dosarului?,cazuri_edge_case,tricky," Da, pot modifica opțiunile după trimiterea dosarului conform regulamentului admiterii.","{
+   ""brief_reason"": """",
+   ""factual"": 0,
+   ""complete"": 10,
+   ""clarity"": 10,
+   ""no_hallucination"": 10,
+   ""final_score"": 7.5
+}"
+19,Ce fac dacă am încărcat greșit un document?,cazuri_edge_case,tricky," Dacă ai încărcat greșit un document, trebuie să reîncarci documentul corect pe platforma de admitere. Nu există posibilitatea de a modifica o dată încarcată.","{
+   ""brief_reason"": ""The answer correctly identifies the action to take when loading a document incorrectly, but does not mention the responsibility of candidates for uploading correct documents."",
+   ""factual"": 9,
+   ""complete"": 8,
+   ""clarity"": 10,
+   ""no_hallucination"": 5,
+   ""final_score"": 7.6
+}"
+20,"Dacă am media 9.20, am șanse la Informatică?",medii_minime,tricky," Da, aveți șanse la Informatică, deoarece media de admitere minimă este 5. Cu o media de 9.20, puteți depune proba scrisă de admitere și obțineți un punctaj mai mare sau egal cu 5.","{
+   ""brief_reason"": """",
+   ""factual"": 10,
+   ""complete"": 9,
+   ""clarity"": 10,
+   ""no_hallucination"": 10,
+   ""final_score"": 9.3
+}"

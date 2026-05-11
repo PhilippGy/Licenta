@@ -1,0 +1,4 @@
+Architecture is the same as 2nd_QAAndJudgeManualTests
+
+Change:
+Models are now using the new admission_kb.md chunks as the source material.

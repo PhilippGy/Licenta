@@ -1,0 +1,243 @@
+id,question,category,difficulty,answer,score
+1,Ce documente sunt necesare pentru înscrierea la admitere?,documente_necesare,easy,"Documentele obligatorii pentru înscriere sunt:
+
+**Documente generale:**
+* Cererea/formularul de înscriere completat online;
+* Fișa candidatului – date de concurs (Anexa 2);
+* Diploma de bacalaureat sau diplomă echivalentă;
+* Foaia matricolă;
+* Certificatul de naștere;
+* Cartea de identitate;
+* Certificatul de căsătorie (unde este cazul);
+* Adeverință medicală tip;
+* Dovada plății taxei de admitere sau documentele de scutire;
+* Documente justificative pentru facilități sau categorii speciale.
+
+**Detalii suplimentare privind anumite documente:**
+
+* **Diploma de bacalaureat:** Trebuie să fie scanată față-verso și să conțină media examenului de bacalaureat, precum și nota la Matematică sau Informatică.
+* **Absolvenții promoției 2026:** Pot depune adeverință-tip care să ateste absolvirea liceului, promovarea examenului de bacalaureat, media de bacalaureat și nota la Matematică sau Informatică.
+* **Adeverința medicală:** Trebuie emisă de cabinetul școlar sau medicul de familie, cu maximum 3 luni înainte de înscriere, și trebuie să ateste că persoana este aptă pentru specializarea aleasă.
+
+**Reguli generale privind documentele:**
+* Nu este necesară legalizarea copiilor.
+* Copiile sunt certificate conform cu originalul de persoanele desemnate.","```json
+{
+  ""factual"": 10,
+  ""complete"": 10,
+  ""clarity"": 10,
+  ""no_hallucination"": 10,
+  ""final_score"": 10.0,
+  ""brief_reason"": ""The answer is a perfect match for the provided context and is written in Romanian.""
+}
+```"
+2,Care este perioada oficială de înscriere?,calendar_admitere,easy,Nu dețin această informație conform datelor extrase de pe site-ul oficial.,"```json
+{
+  ""factual"": 10,
+  ""complete"": 0,
+  ""clarity"": 10,
+  ""no_hallucination"": 10,
+  ""final_score"": 6.0,
+  ""brief_reason"": ""The chatbot correctly states it doesn't have the information, but fails to provide any details about the application period despite them being present in the context.""
+}
+```"
+3,Care este taxa de înscriere și cum se plătește?,taxe,easy,"Taxa de înscriere se achită conform regulamentului facultății.
+
+În ceea ce privește plata, taxele se achită exclusiv online prin platforma de admitere.","```json
+{
+  ""factual"": 10,
+  ""complete"": 10,
+  ""clarity"": 10,
+  ""no_hallucination"": 10,
+  ""final_score"": 10.0,
+  ""brief_reason"": ""The answer is a perfect match for the provided context and clearly answers the question.""
+}
+```"
+4,Ce specializări sunt disponibile la FMI UBB?,specializari,easy,Nu dețin această informație conform datelor extrase de pe site-ul oficial.,"```json
+{
+  ""factual"": 10,
+  ""complete"": 0,
+  ""clarity"": 10,
+  ""no_hallucination"": 10,
+  ""final_score"": 6.0,
+  ""brief_reason"": ""The chatbot correctly states it doesn't have the information, but fails to provide any answer to the user's question about available specializations.""
+}
+```"
+5,Câte locuri bugetate sunt disponibile anul acesta?,locuri_buget,easy,Nu dețin această informație conform datelor extrase de pe site-ul oficial.,"```json
+{
+  ""factual"": 10,
+  ""complete"": 10,
+  ""clarity"": 10,
+  ""no_hallucination"": 10,
+  ""final_score"": 10.0,
+  ""brief_reason"": ""The chatbot correctly states it does not have the information and avoids making up an answer.""
+}
+```"
+6,Unde pot vedea rezultatele admiterii?,calendar_admitere,easy,Nu dețin această informație conform datelor extrase de pe site-ul oficial.,"```json
+{
+  ""factual"": 10,
+  ""complete"": 10,
+  ""clarity"": 10,
+  ""no_hallucination"": 10,
+  ""final_score"": 10.0,
+  ""brief_reason"": ""The chatbot correctly states that it does not have the information and refers to the official website.""
+}
+```"
+7,Cum mă pot înscrie online la admitere?,inscriere_online,easy,Înscrierea se realizează exclusiv online prin platforma: [https://admitere.ubbcluj.ro](https://admitere.ubbcluj.ro),"```json
+{
+  ""factual"": 10,
+  ""complete"": 10,
+  ""clarity"": 10,
+  ""no_hallucination"": 10,
+  ""final_score"": 10.0,
+  ""brief_reason"": ""The answer is a perfect match for the provided context and clearly states the online platform for enrollment.""
+}
+```"
+8,În ce limbi sunt disponibile programele de studiu?,specializari,easy,"Conform contextului, sunt disponibile programe în limbi străine. În ceea ce privește proba scrisă și certificatele lingvistice, se menționează specializări sau cerințe pentru limbile engleză și germană.","```json
+{
+  ""factual"": 5,
+  ""complete"": 7,
+  ""clarity"": 10,
+  ""no_hallucination"": 10,
+  ""final_score"": 7.75,
+  ""brief_reason"": ""Partially correct as it mentions foreign languages but doesn't specify which programs are available in those languages. It also lacks completeness by not mentioning the specific languages offered.""
+}
+```"
+9,Cum se calculează media de admitere?,medii_minime,medium,Nu dețin această informație conform datelor extrase de pe site-ul oficial.,"```json
+{
+  ""factual"": 10,
+  ""complete"": 0,
+  ""clarity"": 10,
+  ""no_hallucination"": 10,
+  ""final_score"": 6.0,
+  ""brief_reason"": ""The answer is factually correct but incomplete. It does not provide the actual calculation for the admission average.""
+}
+```"
+10,Admiterea se face pe bază de examen sau de dosar?,probe,medium,"Admiterea se face pe baza:
+*   notei obținute la proba scrisă tip grilă;
+*   facilităților acordate pentru performanțe la olimpiade și concursuri;
+*   criteriilor speciale pentru anumite categorii de candidați.","```json
+{
+  ""factual"": 10,
+  ""complete"": 10,
+  ""clarity"": 10,
+  ""no_hallucination"": 10,
+  ""final_score"": 10.0,
+  ""brief_reason"": ""The answer accurately reflects the criteria for admission as stated in the provided context.""
+}
+```"
+11,Cum se face repartizarea pe locurile bugetate și cu taxă?,locuri_buget,medium,"Dacă între 1 august 2026 și 1 septembrie 2026 se eliberează locuri bugetate:
+*   Acestea sunt ocupate de candidații admiși pe locuri cu taxă.
+*   Repartizarea se face în ordinea descrescătoare a mediilor.
+*   Redistribuirea se face în cadrul aceleiași specializări.","```json
+{
+  ""factual"": 10,
+  ""complete"": 10,
+  ""clarity"": 10,
+  ""no_hallucination"": 10,
+  ""final_score"": 10.0,
+  ""brief_reason"": ""The answer is a direct and accurate reflection of the provided context.""
+}
+```"
+12,Cum confirm locul obținut la admitere?,calendar_admitere,medium,Nu dețin această informație conform datelor extrase de pe site-ul oficial.,"```json
+{
+  ""factual"": 10,
+  ""complete"": 10,
+  ""clarity"": 10,
+  ""no_hallucination"": 10,
+  ""final_score"": 10.0,
+  ""brief_reason"": ""The chatbot correctly states it doesn't have the information about confirming admission status based on the provided context.""
+}
+```"
+13,Cum depun contestație dacă nu sunt de acord cu rezultatul?,contestatii,medium,"Contestațiile se pot depune în următoarele condiții și termene:
+
+*   **Probele scrise:** Contestațiile trebuie depuse în termen de 24 de ore de la afișarea rezultatelor.
+*   **Probele orale sau practice:** Acestea pot fi contestate doar procedural.
+*   **Termen general pentru soluționare:** Soluționarea contestațiilor are loc până la data de 20 iulie 2026, până la ora 12:00.
+
+De asemenea, trebuie reținut că nu sunt admise contestații bazate pe necunoașterea regulamentului.","```json
+{
+  ""factual"": 8,
+  ""complete"": 9,
+  ""clarity"": 10,
+  ""no_hallucination"": 10,
+  ""final_score"": 9.25,
+  ""brief_reason"": ""Minor deduction for missing the specific deadline for submitting appeals (July 18th-19th). Otherwise, the answer accurately reflects the provided context.""
+}
+```"
+14,Cum ordonez opțiunile de specializare la înscriere?,specializari,medium,Nu dețin această informație conform datelor extrase de pe site-ul oficial.,"```json
+{
+  ""factual"": 10,
+  ""complete"": 0,
+  ""clarity"": 10,
+  ""no_hallucination"": 10,
+  ""final_score"": 6.0,
+  ""brief_reason"": ""The chatbot correctly states it doesn't have the information, but fails to provide any guidance on where to find it (e.g., 'This information can be found on the university's admissions website').""
+}
+```"
+15,Pot candida dacă nu am primit încă diploma de bacalaureat?,cazuri_edge_case,tricky,"Pot depune adeverință-tip care să ateste absolvirea liceului, promovarea examenului de bacalaureat, media de bacalaureat și nota la Matematică sau Informatică.","```json
+{
+  ""factual"": 10,
+  ""complete"": 10,
+  ""clarity"": 10,
+  ""no_hallucination"": 10,
+  ""final_score"": 10.0,
+  ""brief_reason"": ""The answer is a perfect match for the provided context and does not hallucinate any information.""
+}
+```"
+16,Pot candida la mai multe specializări simultan?,specializari,tricky,"Da, un candidat poate participa simultan la admiterea mai multor specializări sau instituții.","```json
+{
+  ""factual"": 10,
+  ""complete"": 10,
+  ""clarity"": 10,
+  ""no_hallucination"": 10,
+  ""final_score"": 10.0,
+  ""brief_reason"": ""The answer is a direct match to the provided context and is well-written in Romanian.""
+}
+```"
+17,Ce se întâmplă dacă nu confirm locul la timp?,cazuri_edge_case,tricky,Nu dețin această informație conform datelor extrase de pe site-ul oficial.,"```json
+{
+  ""factual"": 10,
+  ""complete"": 10,
+  ""clarity"": 10,
+  ""no_hallucination"": 10,
+  ""final_score"": 10.0,
+  ""brief_reason"": ""The chatbot correctly states it doesn't have the information based on the provided context.""
+}
+``` 
+
+
+"
+18,Pot modifica opțiunile după trimiterea dosarului?,cazuri_edge_case,tricky,Nu dețin această informație conform datelor extrase de pe site-ul oficial.,"```json
+{
+  ""factual"": 10,
+  ""complete"": 10,
+  ""clarity"": 10,
+  ""no_hallucination"": 10,
+  ""final_score"": 10.0,
+  ""brief_reason"": ""The chatbot correctly states it doesn't have the information based on the provided context.""
+}
+``` 
+
+
+"
+19,Ce fac dacă am încărcat greșit un document?,cazuri_edge_case,tricky,Nu dețin această informație conform datelor extrase de pe site-ul oficial.,"```json
+{
+  ""factual"": 10,
+  ""complete"": 0,
+  ""clarity"": 10,
+  ""no_hallucination"": 10,
+  ""final_score"": 6.0,
+  ""brief_reason"": ""The answer is factually correct but does not address the user's question about what to do if a document was uploaded incorrectly. It only states that it doesn't have the information.""
+}
+```"
+20,"Dacă am media 9.20, am șanse la Informatică?",medii_minime,tricky,Nu dețin această informație conform datelor extrase de pe site-ul oficial.,"```json
+{
+  ""factual"": 10,
+  ""complete"": 5,
+  ""clarity"": 10,
+  ""no_hallucination"": 10,
+  ""final_score"": 7.5,
+  ""brief_reason"": ""The answer is factually correct but doesn't provide any information about admission chances with a 9.20 average. It only states the minimum required grade for admission.""
+}
+```"
