@@ -1,2740 +1,3288 @@
 [
     {
-        "question": "Care este media minim\u0103 necesar\u0103 pentru a fi declarat admis?",
+        "id": 1,
+        "question": "Care este media minimă necesară pentru a fi declarat admis?",
         "type": "factual",
-        "category": "Regulamente / admitere general\u0103"
+        "category": "Regulamente / admitere generală"
     },
     {
-        "question": "Ce tip de prob\u0103 se sus\u021bine la admiterea la FMI UBB?",
+        "id": 2,
+        "question": "Ce tip de probă se susține la admiterea la FMI UBB?",
         "type": "factual",
-        "category": "Regulamente / admitere general\u0103"
+        "category": "Regulamente / admitere generală"
     },
     {
-        "question": "C\u00e2te programe de studiu poate urma simultan un candidat?",
+        "id": 3,
+        "question": "Câte programe de studiu poate urma simultan un candidat?",
         "type": "factual",
-        "category": "Regulamente / admitere general\u0103"
+        "category": "Regulamente / admitere generală"
     },
     {
-        "question": "Cine poate participa la admiterea pentru studii de licen\u021b\u0103?",
+        "id": 4,
+        "question": "Cine poate participa la admiterea pentru studii de licență?",
         "type": "factual",
-        "category": "Regulamente / admitere general\u0103"
+        "category": "Regulamente / admitere generală"
     },
     {
+        "id": 5,
         "question": "Ce tipuri de locuri sunt disponibile la admitere?",
         "type": "factual",
-        "category": "Regulamente / admitere general\u0103"
+        "category": "Regulamente / admitere generală"
     },
     {
-        "question": "Ce se \u00eent\u00e2mpl\u0103 cu anii urma\u021bi anterior la buget \u00eentr-o universitate de stat?",
+        "id": 6,
+        "question": "Ce se întâmplă cu anii urmați anterior la buget într-o universitate de stat?",
         "type": "factual",
-        "category": "Regulamente / admitere general\u0103"
+        "category": "Regulamente / admitere generală"
     },
     {
-        "question": "Cum sunt ierarhiza\u021bi candida\u021bii la admitere?",
+        "id": 7,
+        "question": "Cum sunt ierarhizați candidații la admitere?",
         "type": "factual",
-        "category": "Regulamente / admitere general\u0103"
+        "category": "Regulamente / admitere generală"
     },
     {
-        "question": "Ce document trebuie completat de candida\u021bii care au mai urmat studii universitare?",
+        "id": 8,
+        "question": "Ce document trebuie completat de candidații care au mai urmat studii universitare?",
         "type": "factual",
-        "category": "Regulamente / admitere general\u0103"
+        "category": "Regulamente / admitere generală"
     },
     {
-        "question": "Pot candida simultan la mai multe specializ\u0103ri sau institu\u021bii?",
+        "id": 9,
+        "question": "Pot candida simultan la mai multe specializări sau instituții?",
         "type": "factual",
-        "category": "Regulamente / admitere general\u0103"
+        "category": "Regulamente / admitere generală"
     },
     {
-        "question": "Ce criteriu se folose\u0219te primul pentru departajarea candida\u021bilor cu medii egale?",
+        "id": 10,
+        "question": "Ce criteriu se folosește primul pentru departajarea candidaților cu medii egale?",
         "type": "factual",
-        "category": "Regulamente / admitere general\u0103"
+        "category": "Regulamente / admitere generală"
     },
     {
-        "question": "\u00cen ce condi\u021bii se acord\u0103 finan\u021barea de la buget?",
+        "id": 11,
+        "question": "În ce condiții se acordă finanțarea de la buget?",
         "type": "factual",
-        "category": "Regulamente / admitere general\u0103"
+        "category": "Regulamente / admitere generală"
     },
     {
-        "question": "Ce categorii speciale de candida\u021bi pot beneficia de locuri dedicate?",
+        "id": 12,
+        "question": "Ce categorii speciale de candidați pot beneficia de locuri dedicate?",
         "type": "factual",
-        "category": "Regulamente / admitere general\u0103"
+        "category": "Regulamente / admitere generală"
     },
     {
-        "question": "Ce condi\u021bii trebuie \u00eendeplinite pentru promovarea probei scrise?",
+        "id": 13,
+        "question": "Ce condiții trebuie îndeplinite pentru promovarea probei scrise?",
         "type": "factual",
-        "category": "Regulamente / admitere general\u0103"
+        "category": "Regulamente / admitere generală"
     },
     {
-        "question": "Ce se \u00eent\u00e2mpl\u0103 dac\u0103 un candidat depune declara\u021bii false?",
+        "id": 14,
+        "question": "Ce se întâmplă dacă un candidat depune declarații false?",
         "type": "factual",
-        "category": "Regulamente / admitere general\u0103"
+        "category": "Regulamente / admitere generală"
     },
     {
-        "question": "Ce cet\u0103\u021beni str\u0103ini sunt eligibili pentru admitere la licen\u021b\u0103?",
+        "id": 15,
+        "question": "Ce cetățeni străini sunt eligibili pentru admitere la licență?",
         "type": "factual",
-        "category": "Regulamente / admitere general\u0103"
+        "category": "Regulamente / admitere generală"
     },
     {
-        "question": "Este permis\u0103 \u00eenscrierea cu mai multe dosare av\u00e2nd aceea\u0219i prim\u0103 op\u021biune din acela\u0219i domeniu?",
+        "id": 16,
+        "question": "Este permisă înscrierea cu mai multe dosare având aceeași primă opțiune din același domeniu?",
         "type": "factual",
-        "category": "Regulamente / admitere general\u0103"
+        "category": "Regulamente / admitere generală"
     },
     {
-        "question": "Ce adapt\u0103ri ofer\u0103 universitatea pentru persoanele cu dizabilit\u0103\u021bi?",
+        "id": 17,
+        "question": "Ce adaptări oferă universitatea pentru persoanele cu dizabilități?",
         "type": "factual",
-        "category": "Regulamente / admitere general\u0103"
+        "category": "Regulamente / admitere generală"
     },
     {
-        "question": "Ce rol au performan\u021bele la olimpiade \u00een procesul de admitere?",
+        "id": 18,
+        "question": "Ce rol au performanțele la olimpiade în procesul de admitere?",
         "type": "factual",
-        "category": "Regulamente / admitere general\u0103"
+        "category": "Regulamente / admitere generală"
     },
     {
-        "question": "Ce trebuie s\u0103 prezinte candida\u021bii care au studiat \u00een str\u0103in\u0103tate?",
+        "id": 19,
+        "question": "Ce trebuie să prezinte candidații care au studiat în străinătate?",
         "type": "factual",
-        "category": "Regulamente / admitere general\u0103"
+        "category": "Regulamente / admitere generală"
     },
     {
-        "question": "Care este media minim\u0103 necesar\u0103 pentru admitere \u0219i ce not\u0103 minim\u0103 trebuie ob\u021binut\u0103 la proba scris\u0103?",
+        "id": 20,
+        "question": "Care este media minimă necesară pentru admitere și ce notă minimă trebuie obținută la proba scrisă?",
         "type": "multi-hop",
-        "category": "Regulamente / admitere general\u0103"
+        "category": "Regulamente / admitere generală"
     },
     {
-        "question": "Cine poate beneficia de scutire de tax\u0103 \u0219i ce trebuie f\u0103cut pentru ob\u021binerea acesteia?",
+        "id": 21,
+        "question": "Cine poate beneficia de scutire de taxă și ce trebuie făcut pentru obținerea acesteia?",
         "type": "multi-hop",
-        "category": "Regulamente / admitere general\u0103"
+        "category": "Regulamente / admitere generală"
     },
     {
-        "question": "Ce se \u00eent\u00e2mpl\u0103 cu locurile bugetate eliberate dup\u0103 luna august \u0219i ce condi\u021bii trebuie \u00eendeplinite pentru redistribuire?",
+        "id": 22,
+        "question": "Ce se întâmplă cu locurile bugetate eliberate după luna august și ce condiții trebuie îndeplinite pentru redistribuire?",
         "type": "multi-hop",
-        "category": "Regulamente / admitere general\u0103"
+        "category": "Regulamente / admitere generală"
     },
     {
-        "question": "Ce acte trebuie s\u0103 depun\u0103 un candidat admis pentru confirmarea locului \u0219i \u00eenmatriculare?",
+        "id": 23,
+        "question": "Ce acte trebuie să depună un candidat admis pentru confirmarea locului și înmatriculare?",
         "type": "multi-hop",
-        "category": "Regulamente / admitere general\u0103"
+        "category": "Regulamente / admitere generală"
     },
     {
-        "question": "Cum se face departajarea candida\u021bilor cu medii egale dac\u0103 nu au not\u0103 la Matematic\u0103 sau Informatic\u0103 la bacalaureat?",
+        "id": 24,
+        "question": "Cum se face departajarea candidaților cu medii egale dacă nu au notă la Matematică sau Informatică la bacalaureat?",
         "type": "multi-hop",
-        "category": "Regulamente / admitere general\u0103"
+        "category": "Regulamente / admitere generală"
     },
     {
-        "question": "Ce restric\u021bii exist\u0103 privind \u00eenscrierea la mai multe specializ\u0103ri \u0219i c\u00e2te programe pot fi urmate simultan?",
+        "id": 25,
+        "question": "Ce restricții există privind înscrierea la mai multe specializări și câte programe pot fi urmate simultan?",
         "type": "multi-hop",
-        "category": "Regulamente / admitere general\u0103"
+        "category": "Regulamente / admitere generală"
     },
     {
-        "question": "Ce categorii de candida\u021bi pot participa la admitere \u0219i ce condi\u021bii suplimentare exist\u0103 pentru cei cu studii \u00een str\u0103in\u0103tate?",
+        "id": 26,
+        "question": "Ce categorii de candidați pot participa la admitere și ce condiții suplimentare există pentru cei cu studii în străinătate?",
         "type": "multi-hop",
-        "category": "Regulamente / admitere general\u0103"
+        "category": "Regulamente / admitere generală"
     },
     {
-        "question": "Care sunt componentele taxei de admitere \u0219i care dintre ele nu poate fi restituit\u0103?",
+        "id": 27,
+        "question": "Care sunt componentele taxei de admitere și care dintre ele nu poate fi restituită?",
         "type": "multi-hop",
-        "category": "Regulamente / admitere general\u0103"
+        "category": "Regulamente / admitere generală"
     },
     {
-        "question": "Ce obliga\u021bii are candidatul la \u00eenc\u0103rcarea documentelor online \u0219i ce consecin\u021be exist\u0103 pentru documente false?",
+        "id": 28,
+        "question": "Ce obligații are candidatul la încărcarea documentelor online și ce consecințe există pentru documente false?",
         "type": "multi-hop",
-        "category": "Regulamente / admitere general\u0103"
+        "category": "Regulamente / admitere generală"
     },
     {
-        "question": "\u00cen ce situa\u021bii este necesar un certificat lingvistic \u0219i c\u00e2nd nu mai este nevoie de acesta?",
+        "id": 29,
+        "question": "În ce situații este necesar un certificat lingvistic și când nu mai este nevoie de acesta?",
         "type": "multi-hop",
-        "category": "Regulamente / admitere general\u0103"
+        "category": "Regulamente / admitere generală"
     },
     {
-        "question": "Ce condi\u021bii trebuie \u00eendeplinite pentru ca nota de la Concursul Mate-Info UBB s\u0103 poat\u0103 fi folosit\u0103 la admitere?",
+        "id": 30,
+        "question": "Ce condiții trebuie îndeplinite pentru ca nota de la Concursul Mate-Info UBB să poată fi folosită la admitere?",
         "type": "multi-hop",
-        "category": "Regulamente / admitere general\u0103"
+        "category": "Regulamente / admitere generală"
     },
     {
-        "question": "Cum se calculeaz\u0103 punctajul pentru r\u0103spunsurile corecte \u0219i gre\u0219ite la examenul gril\u0103?",
+        "id": 31,
+        "question": "Cum se calculează punctajul pentru răspunsurile corecte și greșite la examenul grilă?",
         "type": "multi-hop",
-        "category": "Regulamente / admitere general\u0103"
+        "category": "Regulamente / admitere generală"
     },
     {
-        "question": "Ce obiecte sunt permise \u00een sala de examen \u0219i ce se \u00eent\u00e2mpl\u0103 dac\u0103 un candidat \u00eencalc\u0103 regulile?",
+        "id": 32,
+        "question": "Ce obiecte sunt permise în sala de examen și ce se întâmplă dacă un candidat încalcă regulile?",
         "type": "multi-hop",
-        "category": "Regulamente / admitere general\u0103"
+        "category": "Regulamente / admitere generală"
     },
     {
-        "question": "Ce trebuie s\u0103 con\u021bin\u0103 diploma de bacalaureat \u00eenc\u0103rcat\u0103 la \u00eenscriere \u0219i ce alternativ\u0103 exist\u0103 pentru absolven\u021bii promo\u021biei curente?",
+        "id": 33,
+        "question": "Ce trebuie să conțină diploma de bacalaureat încărcată la înscriere și ce alternativă există pentru absolvenții promoției curente?",
         "type": "multi-hop",
-        "category": "Regulamente / admitere general\u0103"
+        "category": "Regulamente / admitere generală"
     },
     {
-        "question": "Ce condi\u021bii trebuie s\u0103 \u00eendeplineasc\u0103 adeverin\u021ba medical\u0103 \u0219i cine o poate elibera?",
+        "id": 34,
+        "question": "Ce condiții trebuie să îndeplinească adeverința medicală și cine o poate elibera?",
         "type": "multi-hop",
-        "category": "Regulamente / admitere general\u0103"
+        "category": "Regulamente / admitere generală"
     },
     {
-        "question": "Cum poate un candidat deja \u00eenscris la alt program s\u0103 confirme locul f\u0103r\u0103 s\u0103 depun\u0103 diploma \u00een original?",
+        "id": 35,
+        "question": "Cum poate un candidat deja înscris la alt program să confirme locul fără să depună diploma în original?",
         "type": "multi-hop",
-        "category": "Regulamente / admitere general\u0103"
+        "category": "Regulamente / admitere generală"
     },
     {
-        "question": "Cum se desf\u0103\u0219oar\u0103 contesta\u021biile pentru proba scris\u0103 \u0219i c\u00e2nd devin rezultatele definitive?",
+        "id": 36,
+        "question": "Cum se desfășoară contestațiile pentru proba scrisă și când devin rezultatele definitive?",
         "type": "multi-hop",
-        "category": "Regulamente / admitere general\u0103"
+        "category": "Regulamente / admitere generală"
     },
     {
-        "question": "Care sunt condi\u021biile pentru finan\u021barea de la buget \u0219i cum influen\u021beaz\u0103 studiile universitare anterioare aceast\u0103 finan\u021bare?",
+        "id": 37,
+        "question": "Care sunt condițiile pentru finanțarea de la buget și cum influențează studiile universitare anterioare această finanțare?",
         "type": "multi-hop",
-        "category": "Regulamente / admitere general\u0103"
+        "category": "Regulamente / admitere generală"
     },
     {
-        "question": "Care este diferen\u021ba dintre locurile finan\u021bate de la buget \u0219i locurile cu tax\u0103?",
+        "id": 38,
+        "question": "Care este diferența dintre locurile finanțate de la buget și locurile cu taxă?",
         "type": "comparative",
-        "category": "Regulamente / admitere general\u0103"
+        "category": "Regulamente / admitere generală"
     },
     {
-        "question": "Prin ce se diferen\u021biaz\u0103 taxa de procesare de taxa de \u00eenscriere?",
+        "id": 39,
+        "question": "Prin ce se diferențiază taxa de procesare de taxa de înscriere?",
         "type": "comparative",
-        "category": "Regulamente / admitere general\u0103"
+        "category": "Regulamente / admitere generală"
     },
     {
-        "question": "Ce diferen\u021be exist\u0103 \u00eentre scutirea de taxa de \u00eenscriere \u0219i scutirea de taxa de admitere?",
+        "id": 40,
+        "question": "Ce diferențe există între scutirea de taxa de înscriere și scutirea de taxa de admitere?",
         "type": "comparative",
-        "category": "Regulamente / admitere general\u0103"
+        "category": "Regulamente / admitere generală"
     },
     {
-        "question": "Cum difer\u0103 condi\u021biile pentru candida\u021bii cu studii \u00een Rom\u00e2nia fa\u021b\u0103 de cei cu studii efectuate \u00een str\u0103in\u0103tate?",
+        "id": 41,
+        "question": "Cum diferă condițiile pentru candidații cu studii în România față de cei cu studii efectuate în străinătate?",
         "type": "comparative",
-        "category": "Regulamente / admitere general\u0103"
+        "category": "Regulamente / admitere generală"
     },
     {
-        "question": "Care este diferen\u021ba dintre sesiunea de admitere din var\u0103 \u0219i redistribuirea locurilor din septembrie?",
+        "id": 42,
+        "question": "Care este diferența dintre sesiunea de admitere din vară și redistribuirea locurilor din septembrie?",
         "type": "comparative",
-        "category": "Regulamente / admitere general\u0103"
+        "category": "Regulamente / admitere generală"
     },
     {
-        "question": "Ce diferen\u021be exist\u0103 \u00eentre contesta\u021biile pentru proba scris\u0103 \u0219i cele pentru probele orale sau practice?",
+        "id": 43,
+        "question": "Ce diferențe există între contestațiile pentru proba scrisă și cele pentru probele orale sau practice?",
         "type": "comparative",
-        "category": "Regulamente / admitere general\u0103"
+        "category": "Regulamente / admitere generală"
     },
     {
-        "question": "Cum difer\u0103 admiterea standard fa\u021b\u0103 de admiterea pentru candida\u021bii din Categoria A?",
+        "id": 44,
+        "question": "Cum diferă admiterea standard față de admiterea pentru candidații din Categoria A?",
         "type": "comparative",
-        "category": "Regulamente / admitere general\u0103"
+        "category": "Regulamente / admitere generală"
     },
     {
-        "question": "Care este diferen\u021ba dintre utilizarea notei de la Concursul Mate-Info \u0219i sus\u021binerea probei scrise de admitere?",
+        "id": 45,
+        "question": "Care este diferența dintre utilizarea notei de la Concursul Mate-Info și susținerea probei scrise de admitere?",
         "type": "comparative",
-        "category": "Regulamente / admitere general\u0103"
+        "category": "Regulamente / admitere generală"
     },
     {
-        "question": "Cum difer\u0103 formula de calcul a mediei pentru Categoria A fa\u021b\u0103 de Categoria B?",
+        "id": 46,
+        "question": "Cum diferă formula de calcul a mediei pentru Categoria A față de Categoria B?",
         "type": "comparative",
-        "category": "Regulamente / admitere general\u0103"
+        "category": "Regulamente / admitere generală"
     },
     {
-        "question": "Ce diferen\u021be exist\u0103 \u00eentre documentele necesare pentru absolven\u021bii promo\u021biei 2026 \u0219i cele pentru absolven\u021bii din anii anteriori?",
+        "id": 47,
+        "question": "Ce diferențe există între documentele necesare pentru absolvenții promoției 2026 și cele pentru absolvenții din anii anteriori?",
         "type": "comparative",
-        "category": "Regulamente / admitere general\u0103"
+        "category": "Regulamente / admitere generală"
     },
     {
-        "question": "Care este diferen\u021ba dintre confirmarea locului pentru un candidat obi\u0219nuit \u0219i pentru un candidat deja \u00eenscris la alt\u0103 facultate?",
+        "id": 48,
+        "question": "Care este diferența dintre confirmarea locului pentru un candidat obișnuit și pentru un candidat deja înscris la altă facultate?",
         "type": "comparative",
-        "category": "Regulamente / admitere general\u0103"
+        "category": "Regulamente / admitere generală"
     },
     {
-        "question": "Cum difer\u0103 criteriile de departajare pentru candida\u021bii care au note la Matematic\u0103 sau Informatic\u0103 fa\u021b\u0103 de cei care nu au?",
+        "id": 49,
+        "question": "Cum diferă criteriile de departajare pentru candidații care au note la Matematică sau Informatică față de cei care nu au?",
         "type": "comparative",
-        "category": "Regulamente / admitere general\u0103"
+        "category": "Regulamente / admitere generală"
     },
     {
-        "question": "Ce diferen\u021be exist\u0103 \u00eentre proba scris\u0103 la Matematic\u0103 \u0219i cea la Informatic\u0103?",
+        "id": 50,
+        "question": "Ce diferențe există între proba scrisă la Matematică și cea la Informatică?",
         "type": "comparative",
-        "category": "Regulamente / admitere general\u0103"
+        "category": "Regulamente / admitere generală"
     },
     {
-        "question": "Ce etap\u0103 urmeaz\u0103 imediat dup\u0103 publicarea rezultatelor probei scrise?",
+        "id": 51,
+        "question": "Ce etapă urmează imediat după publicarea rezultatelor probei scrise?",
         "type": "temporal reasoning",
-        "category": "Regulamente / admitere general\u0103"
+        "category": "Regulamente / admitere generală"
     },
     {
-        "question": "P\u00e2n\u0103 c\u00e2nd pot fi depuse contesta\u021biile pentru examenul de admitere?",
+        "id": 52,
+        "question": "Până când pot fi depuse contestațiile pentru examenul de admitere?",
         "type": "temporal reasoning",
-        "category": "Regulamente / admitere general\u0103"
+        "category": "Regulamente / admitere generală"
     },
     {
-        "question": "Ce se afi\u0219eaz\u0103 dup\u0103 solu\u021bionarea contesta\u021biilor?",
+        "id": 53,
+        "question": "Ce se afișează după soluționarea contestațiilor?",
         "type": "temporal reasoning",
-        "category": "Regulamente / admitere general\u0103"
+        "category": "Regulamente / admitere generală"
     },
     {
-        "question": "\u00cen ce perioad\u0103 are loc pre\u00eenscrierea pentru sesiunea din iulie?",
+        "id": 54,
+        "question": "În ce perioadă are loc preînscrierea pentru sesiunea din iulie?",
         "type": "temporal reasoning",
-        "category": "Regulamente / admitere general\u0103"
+        "category": "Regulamente / admitere generală"
     },
     {
-        "question": "C\u00e2nd devin definitive rezultatele admiterii?",
+        "id": 55,
+        "question": "Când devin definitive rezultatele admiterii?",
         "type": "temporal reasoning",
-        "category": "Regulamente / admitere general\u0103"
+        "category": "Regulamente / admitere generală"
     },
     {
-        "question": "Ce activitate are loc \u00eenainte de publicarea listelor finale \u0219i repartizarea pe s\u0103li?",
+        "id": 56,
+        "question": "Ce activitate are loc înainte de publicarea listelor finale și repartizarea pe săli?",
         "type": "temporal reasoning",
-        "category": "Regulamente / admitere general\u0103"
+        "category": "Regulamente / admitere generală"
     },
     {
-        "question": "Ce urmeaz\u0103 dup\u0103 expirarea perioadei de contesta\u021bii?",
+        "id": 57,
+        "question": "Ce urmează după expirarea perioadei de contestații?",
         "type": "temporal reasoning",
-        "category": "Regulamente / admitere general\u0103"
+        "category": "Regulamente / admitere generală"
     },
     {
-        "question": "\u00cen ce interval se desf\u0103\u0219oar\u0103 perioada general\u0103 a sesiunii de admitere din iulie?",
+        "id": 58,
+        "question": "În ce interval se desfășoară perioada generală a sesiunii de admitere din iulie?",
         "type": "temporal reasoning",
-        "category": "Regulamente / admitere general\u0103"
+        "category": "Regulamente / admitere generală"
     },
     {
-        "question": "Ce trebuie depus p\u00e2n\u0103 la 31 august 2026 pentru schimbarea formei de finan\u021bare?",
+        "id": 59,
+        "question": "Ce trebuie depus până la 31 august 2026 pentru schimbarea formei de finanțare?",
         "type": "temporal reasoning",
-        "category": "Regulamente / admitere general\u0103"
+        "category": "Regulamente / admitere generală"
     },
     {
-        "question": "C\u00e2nd sunt afi\u0219ate modific\u0103rile privind forma de finan\u021bare a candida\u021bilor?",
+        "id": 60,
+        "question": "Când sunt afișate modificările privind forma de finanțare a candidaților?",
         "type": "temporal reasoning",
-        "category": "Regulamente / admitere general\u0103"
+        "category": "Regulamente / admitere generală"
     },
     {
-        "question": "Pot beneficia de redistribuire pe un loc bugetat dac\u0103 nu depun diploma de bacalaureat \u00een original p\u00e2n\u0103 la termenul stabilit?",
+        "id": 61,
+        "question": "Pot beneficia de redistribuire pe un loc bugetat dacă nu depun diploma de bacalaureat în original până la termenul stabilit?",
         "type": "constraint/rule",
-        "category": "Regulamente / admitere general\u0103"
+        "category": "Regulamente / admitere generală"
     },
     {
-        "question": "Se poate acorda scutirea de tax\u0103 dac\u0103 documentele justificative sunt trimise dup\u0103 finalizarea \u00eenscrierii?",
+        "id": 62,
+        "question": "Se poate acorda scutirea de taxă dacă documentele justificative sunt trimise după finalizarea înscrierii?",
         "type": "constraint/rule",
-        "category": "Regulamente / admitere general\u0103"
+        "category": "Regulamente / admitere generală"
     },
     {
-        "question": "Ce se \u00eent\u00e2mpl\u0103 dac\u0103 un candidat bifeaz\u0103 toate variantele de r\u0103spuns la o \u00eentrebare gril\u0103?",
+        "id": 63,
+        "question": "Ce se întâmplă dacă un candidat bifează toate variantele de răspuns la o întrebare grilă?",
         "type": "constraint/rule",
-        "category": "Regulamente / admitere general\u0103"
+        "category": "Regulamente / admitere generală"
     },
     {
-        "question": "Pot fi contestate rezultatele unei probe orale pe baza notei ob\u021binute?",
+        "id": 64,
+        "question": "Pot fi contestate rezultatele unei probe orale pe baza notei obținute?",
         "type": "constraint/rule",
-        "category": "Regulamente / admitere general\u0103"
+        "category": "Regulamente / admitere generală"
     },
     {
-        "question": "Este permis accesul \u00een sal\u0103 dup\u0103 deschiderea subiectelor?",
+        "id": 65,
+        "question": "Este permis accesul în sală după deschiderea subiectelor?",
         "type": "constraint/rule",
-        "category": "Regulamente / admitere general\u0103"
+        "category": "Regulamente / admitere generală"
     },
     {
-        "question": "Poate un candidat s\u0103 fie \u00eenmatriculat simultan la mai mult de dou\u0103 programe de studiu?",
+        "id": 66,
+        "question": "Poate un candidat să fie înmatriculat simultan la mai mult de două programe de studiu?",
         "type": "constraint/rule",
-        "category": "Regulamente / admitere general\u0103"
+        "category": "Regulamente / admitere generală"
     },
     {
-        "question": "Este acceptat\u0103 legalizarea copiilor ca obliga\u021bie pentru documentele de \u00eenscriere?",
+        "id": 67,
+        "question": "Este acceptată legalizarea copiilor ca obligație pentru documentele de înscriere?",
         "type": "constraint/rule",
-        "category": "Regulamente / admitere general\u0103"
+        "category": "Regulamente / admitere generală"
     },
     {
-        "question": "Poate fi restituit\u0103 taxa de procesare dac\u0103 studentul se retrage dup\u0103 \u00eenscriere?",
+        "id": 68,
+        "question": "Poate fi restituită taxa de procesare dacă studentul se retrage după înscriere?",
         "type": "constraint/rule",
-        "category": "Regulamente / admitere general\u0103"
+        "category": "Regulamente / admitere generală"
     },
     {
-        "question": "Ce condi\u021bii trebuie \u00eendeplinite pentru ca nota de la Concursul Mate-Info s\u0103 fie utilizat\u0103 la admitere?",
+        "id": 69,
+        "question": "Ce condiții trebuie îndeplinite pentru ca nota de la Concursul Mate-Info să fie utilizată la admitere?",
         "type": "constraint/rule",
-        "category": "Regulamente / admitere general\u0103"
+        "category": "Regulamente / admitere generală"
     },
     {
-        "question": "C\u00e2nd trebuie confirmat locul?",
+        "id": 70,
+        "question": "Când trebuie confirmat locul?",
         "type": "ambiguous",
-        "category": "Regulamente / admitere general\u0103"
+        "category": "Regulamente / admitere generală"
     },
     {
-        "question": "Ce acte trebuie \u00eenc\u0103rcate?",
+        "id": 71,
+        "question": "Ce acte trebuie încărcate?",
         "type": "ambiguous",
-        "category": "Regulamente / admitere general\u0103"
+        "category": "Regulamente / admitere generală"
     },
     {
+        "id": 72,
         "question": "Cum se face departajarea?",
         "type": "ambiguous",
-        "category": "Regulamente / admitere general\u0103"
+        "category": "Regulamente / admitere generală"
     },
     {
-        "question": "Se poate face contesta\u021bie?",
+        "id": 73,
+        "question": "Se poate face contestație?",
         "type": "ambiguous",
-        "category": "Regulamente / admitere general\u0103"
+        "category": "Regulamente / admitere generală"
     },
     {
-        "question": "C\u00e2t dureaz\u0103 examenul?",
+        "id": 74,
+        "question": "Cât durează examenul?",
         "type": "ambiguous",
-        "category": "Regulamente / admitere general\u0103"
+        "category": "Regulamente / admitere generală"
     },
     {
-        "question": "Ce trebuie dus \u00een sala de examen?",
+        "id": 75,
+        "question": "Ce trebuie dus în sala de examen?",
         "type": "ambiguous",
-        "category": "Regulamente / admitere general\u0103"
+        "category": "Regulamente / admitere generală"
     },
     {
+        "id": 76,
         "question": "Cine poate primi scutire?",
         "type": "ambiguous",
-        "category": "Regulamente / admitere general\u0103"
+        "category": "Regulamente / admitere generală"
     },
     {
-        "question": "Cum se calculeaz\u0103 media?",
+        "id": 77,
+        "question": "Cum se calculează media?",
         "type": "ambiguous",
-        "category": "Regulamente / admitere general\u0103"
+        "category": "Regulamente / admitere generală"
     },
     {
-        "question": "Ce se \u00eent\u00e2mpl\u0103 dup\u0103 rezultate?",
+        "id": 78,
+        "question": "Ce se întâmplă după rezultate?",
         "type": "ambiguous",
-        "category": "Regulamente / admitere general\u0103"
+        "category": "Regulamente / admitere generală"
     },
     {
+        "id": 79,
         "question": "Este nevoie de certificat lingvistic?",
         "type": "ambiguous",
-        "category": "Regulamente / admitere general\u0103"
+        "category": "Regulamente / admitere generală"
     },
     {
-        "question": "Ce limbaje de programare sunt acceptate la proba scris\u0103 de informatic\u0103?",
+        "id": 80,
+        "question": "Ce limbaje de programare sunt acceptate la proba scrisă de informatică?",
         "type": "factual",
-        "category": "Tematic\u0103 admitere"
+        "category": "Tematică admitere"
     },
     {
-        "question": "C\u00e2te \u00eentreb\u0103ri tip gril\u0103 con\u021bine examenul de admitere?",
+        "id": 81,
+        "question": "Câte întrebări tip grilă conține examenul de admitere?",
         "type": "factual",
-        "category": "Tematic\u0103 admitere"
+        "category": "Tematică admitere"
     },
     {
+        "id": 82,
         "question": "Care este durata probei scrise de admitere?",
         "type": "factual",
-        "category": "Tematic\u0103 admitere"
+        "category": "Tematică admitere"
     },
     {
-        "question": "Ce con\u021binut din programa de matematic\u0103 este exclus de la admitere?",
+        "id": 83,
+        "question": "Ce conținut din programa de matematică este exclus de la admitere?",
         "type": "factual",
-        "category": "Tematic\u0103 admitere"
+        "category": "Tematică admitere"
     },
     {
-        "question": "Ce capitole din clasa a XI-a sunt incluse la matematic\u0103?",
+        "id": 84,
+        "question": "Ce capitole din clasa a XI-a sunt incluse la matematică?",
         "type": "factual",
-        "category": "Tematic\u0103 admitere"
+        "category": "Tematică admitere"
     },
     {
-        "question": "Este inclus\u0103 recursivitatea \u00een tematica la informatic\u0103?",
+        "id": 85,
+        "question": "Este inclusă recursivitatea în tematica la informatică?",
         "type": "factual",
-        "category": "Tematic\u0103 admitere"
+        "category": "Tematică admitere"
     },
     {
-        "question": "Ce metode algoritmice trebuie cunoscute pentru proba de informatic\u0103?",
+        "id": 86,
+        "question": "Ce metode algoritmice trebuie cunoscute pentru proba de informatică?",
         "type": "factual",
-        "category": "Tematic\u0103 admitere"
+        "category": "Tematică admitere"
     },
     {
-        "question": "Sunt incluse grafurile \u00een tematica de admitere la informatic\u0103?",
+        "id": 87,
+        "question": "Sunt incluse grafurile în tematica de admitere la informatică?",
         "type": "factual",
-        "category": "Tematic\u0103 admitere"
+        "category": "Tematică admitere"
     },
     {
-        "question": "Ce tipuri de structuri de date apar \u00een programa de informatic\u0103?",
+        "id": 88,
+        "question": "Ce tipuri de structuri de date apar în programa de informatică?",
         "type": "factual",
-        "category": "Tematic\u0103 admitere"
+        "category": "Tematică admitere"
     },
     {
-        "question": "Care este nota minim\u0103 de promovare la proba scris\u0103?",
+        "id": 89,
+        "question": "Care este nota minimă de promovare la proba scrisă?",
         "type": "factual",
-        "category": "Tematic\u0103 admitere"
+        "category": "Tematică admitere"
     },
     {
-        "question": "Tematica la matematic\u0103 coincide cu programa de bacalaureat?",
+        "id": 90,
+        "question": "Tematica la matematică coincide cu programa de bacalaureat?",
         "type": "factual",
-        "category": "Tematic\u0103 admitere"
+        "category": "Tematică admitere"
     },
     {
-        "question": "Ce subiecte despre integrale sunt incluse \u00een tematica la matematic\u0103?",
+        "id": 91,
+        "question": "Ce subiecte despre integrale sunt incluse în tematica la matematică?",
         "type": "factual",
-        "category": "Tematic\u0103 admitere"
+        "category": "Tematică admitere"
     },
     {
-        "question": "Se studiaz\u0103 metode de sortare pentru admiterea la informatic\u0103?",
+        "id": 92,
+        "question": "Se studiază metode de sortare pentru admiterea la informatică?",
         "type": "factual",
-        "category": "Tematic\u0103 admitere"
+        "category": "Tematică admitere"
     },
     {
-        "question": "Ce no\u021biuni despre numere complexe sunt cerute la matematic\u0103?",
+        "id": 93,
+        "question": "Ce noțiuni despre numere complexe sunt cerute la matematică?",
         "type": "factual",
-        "category": "Tematic\u0103 admitere"
+        "category": "Tematică admitere"
     },
     {
-        "question": "Sunt incluse combin\u0103rile \u0219i permut\u0103rile \u00een programa de informatic\u0103?",
+        "id": 94,
+        "question": "Sunt incluse combinările și permutările în programa de informatică?",
         "type": "factual",
-        "category": "Tematic\u0103 admitere"
+        "category": "Tematică admitere"
     },
     {
-        "question": "Ce bibliografie este recomandat\u0103 pentru preg\u0103tirea la matematic\u0103?",
+        "id": 95,
+        "question": "Ce bibliografie este recomandată pentru pregătirea la matematică?",
         "type": "factual",
-        "category": "Tematic\u0103 admitere"
+        "category": "Tematică admitere"
     },
     {
-        "question": "Platforma pbinfo.ro este recomandat\u0103 pentru preg\u0103tirea la admitere?",
+        "id": 96,
+        "question": "Platforma pbinfo.ro este recomandată pentru pregătirea la admitere?",
         "type": "factual",
-        "category": "Tematic\u0103 admitere"
+        "category": "Tematică admitere"
     },
     {
-        "question": "Ce capitole despre analiz\u0103 matematic\u0103 sunt incluse \u00een clasa a XI-a?",
+        "id": 97,
+        "question": "Ce capitole despre analiză matematică sunt incluse în clasa a XI-a?",
         "type": "factual",
-        "category": "Tematic\u0103 admitere"
+        "category": "Tematică admitere"
     },
     {
-        "question": "Sunt acceptate limbajele Pascal \u0219i C++ la examenul de informatic\u0103?",
+        "id": 98,
+        "question": "Sunt acceptate limbajele Pascal și C++ la examenul de informatică?",
         "type": "factual",
-        "category": "Tematic\u0103 admitere"
+        "category": "Tematică admitere"
     },
     {
-        "question": "Ce tipuri de algoritmi fundamentali trebuie preg\u0103ti\u021bi pentru admiterea la informatic\u0103?",
+        "id": 99,
+        "question": "Ce tipuri de algoritmi fundamentali trebuie pregătiți pentru admiterea la informatică?",
         "type": "factual",
-        "category": "Tematic\u0103 admitere"
+        "category": "Tematică admitere"
     },
     {
-        "question": "Care este durata probei scrise \u0219i c\u00e2te \u00eentreb\u0103ri tip gril\u0103 con\u021bine examenul?",
+        "id": 100,
+        "question": "Care este durata probei scrise și câte întrebări tip grilă conține examenul?",
         "type": "multi-hop",
-        "category": "Tematic\u0103 admitere"
+        "category": "Tematică admitere"
     },
     {
-        "question": "Ce limbaje de programare sunt acceptate la informatic\u0103 \u0219i ce metode algoritmice trebuie cunoscute?",
+        "id": 101,
+        "question": "Ce limbaje de programare sunt acceptate la informatică și ce metode algoritmice trebuie cunoscute?",
         "type": "multi-hop",
-        "category": "Tematic\u0103 admitere"
+        "category": "Tematică admitere"
     },
     {
-        "question": "Ce capitole din clasa a XII-a sunt incluse la matematic\u0103 \u0219i ce bibliografie este recomandat\u0103?",
+        "id": 102,
+        "question": "Ce capitole din clasa a XII-a sunt incluse la matematică și ce bibliografie este recomandată?",
         "type": "multi-hop",
-        "category": "Tematic\u0103 admitere"
+        "category": "Tematică admitere"
     },
     {
-        "question": "Care este nota minim\u0103 de promovare \u0219i cum se calculeaz\u0103 punctajul pentru r\u0103spunsurile gre\u0219ite?",
+        "id": 103,
+        "question": "Care este nota minimă de promovare și cum se calculează punctajul pentru răspunsurile greșite?",
         "type": "multi-hop",
-        "category": "Tematic\u0103 admitere"
+        "category": "Tematică admitere"
     },
     {
-        "question": "Ce con\u021binuturi din clasa a XI-a intr\u0103 la matematic\u0103 \u0219i ce teme de analiz\u0103 sunt incluse?",
+        "id": 104,
+        "question": "Ce conținuturi din clasa a XI-a intră la matematică și ce teme de analiză sunt incluse?",
         "type": "multi-hop",
-        "category": "Tematic\u0103 admitere"
+        "category": "Tematică admitere"
     },
     {
-        "question": "Sunt incluse grafurile \u0219i metodele de c\u0103utare \u00een programa de informatic\u0103?",
+        "id": 105,
+        "question": "Sunt incluse grafurile și metodele de căutare în programa de informatică?",
         "type": "multi-hop",
-        "category": "Tematic\u0103 admitere"
+        "category": "Tematică admitere"
     },
     {
-        "question": "Ce subiecte despre structuri de date sunt cerute \u0219i ce limbaje pot fi folosite la examen?",
+        "id": 106,
+        "question": "Ce subiecte despre structuri de date sunt cerute și ce limbaje pot fi folosite la examen?",
         "type": "multi-hop",
-        "category": "Tematic\u0103 admitere"
+        "category": "Tematică admitere"
     },
     {
-        "question": "Cum este punctat\u0103 o \u00eentrebare gril\u0103 \u0219i ce se \u00eent\u00e2mpl\u0103 dac\u0103 sunt bifate toate variantele?",
+        "id": 107,
+        "question": "Cum este punctată o întrebare grilă și ce se întâmplă dacă sunt bifate toate variantele?",
         "type": "multi-hop",
-        "category": "Tematic\u0103 admitere"
+        "category": "Tematică admitere"
     },
     {
-        "question": "Ce metode algoritmice \u0219i ce elemente combinatoriale trebuie preg\u0103tite pentru admiterea la informatic\u0103?",
+        "id": 108,
+        "question": "Ce metode algoritmice și ce elemente combinatoriale trebuie pregătite pentru admiterea la informatică?",
         "type": "multi-hop",
-        "category": "Tematic\u0103 admitere"
+        "category": "Tematică admitere"
     },
     {
-        "question": "Care sunt diferen\u021bele dintre bibliografia recomandat\u0103 pentru matematic\u0103 \u0219i cea pentru informatic\u0103?",
+        "id": 109,
+        "question": "Care sunt diferențele dintre bibliografia recomandată pentru matematică și cea pentru informatică?",
         "type": "multi-hop",
-        "category": "Tematic\u0103 admitere"
+        "category": "Tematică admitere"
     },
     {
-        "question": "Ce capitole de geometrie \u0219i func\u021bii sunt incluse \u00een tematica de matematic\u0103?",
+        "id": 110,
+        "question": "Ce capitole de geometrie și funcții sunt incluse în tematica de matematică?",
         "type": "multi-hop",
-        "category": "Tematic\u0103 admitere"
+        "category": "Tematică admitere"
     },
     {
-        "question": "Ce tipuri de structuri de control \u0219i ce tipuri de date trebuie cunoscute la informatic\u0103?",
+        "id": 111,
+        "question": "Ce tipuri de structuri de control și ce tipuri de date trebuie cunoscute la informatică?",
         "type": "multi-hop",
-        "category": "Tematic\u0103 admitere"
+        "category": "Tematică admitere"
     },
     {
-        "question": "Care sunt regulile generale de evaluare \u0219i care este punctajul minim pe \u00eentrebare?",
+        "id": 112,
+        "question": "Care sunt regulile generale de evaluare și care este punctajul minim pe întrebare?",
         "type": "multi-hop",
-        "category": "Tematic\u0103 admitere"
+        "category": "Tematică admitere"
     },
     {
-        "question": "Ce teme din clasa a IX-a \u0219i a X-a apar \u00een programa de matematic\u0103?",
+        "id": 113,
+        "question": "Ce teme din clasa a IX-a și a X-a apar în programa de matematică?",
         "type": "multi-hop",
-        "category": "Tematic\u0103 admitere"
+        "category": "Tematică admitere"
     },
     {
-        "question": "Ce algoritmi fundamentali \u0219i ce metode algoritmice sunt incluse \u00een programa de informatic\u0103?",
+        "id": 114,
+        "question": "Ce algoritmi fundamentali și ce metode algoritmice sunt incluse în programa de informatică?",
         "type": "multi-hop",
-        "category": "Tematic\u0103 admitere"
+        "category": "Tematică admitere"
     },
     {
-        "question": "Ce capitole despre matrice \u0219i determinan\u021bi trebuie preg\u0103tite \u0219i \u00een ce clas\u0103 sunt studiate?",
+        "id": 115,
+        "question": "Ce capitole despre matrice și determinanți trebuie pregătite și în ce clasă sunt studiate?",
         "type": "multi-hop",
-        "category": "Tematic\u0103 admitere"
+        "category": "Tematică admitere"
     },
     {
-        "question": "Care sunt condi\u021biile pentru promovarea probei scrise \u0219i c\u00e2te ore dureaz\u0103 examenul?",
+        "id": 116,
+        "question": "Care sunt condițiile pentru promovarea probei scrise și câte ore durează examenul?",
         "type": "multi-hop",
-        "category": "Tematic\u0103 admitere"
+        "category": "Tematică admitere"
     },
     {
-        "question": "Ce resurse oficiale sunt recomandate pentru preg\u0103tirea la informatic\u0103 \u0219i la matematic\u0103?",
+        "id": 117,
+        "question": "Ce resurse oficiale sunt recomandate pentru pregătirea la informatică și la matematică?",
         "type": "multi-hop",
-        "category": "Tematic\u0103 admitere"
+        "category": "Tematică admitere"
     },
     {
-        "question": "Ce subiecte despre arbori \u0219i grafuri sunt incluse \u0219i ce metode de reprezentare trebuie cunoscute?",
+        "id": 118,
+        "question": "Ce subiecte despre arbori și grafuri sunt incluse și ce metode de reprezentare trebuie cunoscute?",
         "type": "multi-hop",
-        "category": "Tematic\u0103 admitere"
+        "category": "Tematică admitere"
     },
     {
-        "question": "Ce capitole despre integrale \u0219i derivate sunt incluse \u00een tematica de matematic\u0103 \u0219i din ce clase provin?",
+        "id": 119,
+        "question": "Ce capitole despre integrale și derivate sunt incluse în tematica de matematică și din ce clase provin?",
         "type": "multi-hop",
-        "category": "Tematic\u0103 admitere"
+        "category": "Tematică admitere"
     },
     {
-        "question": "Care este diferen\u021ba dintre tematica de matematic\u0103 \u0219i cea de informatic\u0103 la admitere?",
+        "id": 120,
+        "question": "Care este diferența dintre tematica de matematică și cea de informatică la admitere?",
         "type": "comparative",
-        "category": "Tematic\u0103 admitere"
+        "category": "Tematică admitere"
     },
     {
-        "question": "Ce diferen\u021be exist\u0103 \u00eentre bibliografia recomandat\u0103 pentru matematic\u0103 \u0219i cea pentru informatic\u0103?",
+        "id": 121,
+        "question": "Ce diferențe există între bibliografia recomandată pentru matematică și cea pentru informatică?",
         "type": "comparative",
-        "category": "Tematic\u0103 admitere"
+        "category": "Tematică admitere"
     },
     {
-        "question": "Cum difer\u0103 con\u021binuturile din clasa a XI-a fa\u021b\u0103 de cele din clasa a XII-a la matematic\u0103?",
+        "id": 122,
+        "question": "Cum diferă conținuturile din clasa a XI-a față de cele din clasa a XII-a la matematică?",
         "type": "comparative",
-        "category": "Tematic\u0103 admitere"
+        "category": "Tematică admitere"
     },
     {
-        "question": "Care este diferen\u021ba dintre metodele algoritmice \u0219i algoritmii fundamentali din programa de informatic\u0103?",
+        "id": 123,
+        "question": "Care este diferența dintre metodele algoritmice și algoritmii fundamentali din programa de informatică?",
         "type": "comparative",
-        "category": "Tematic\u0103 admitere"
+        "category": "Tematică admitere"
     },
     {
-        "question": "Ce diferen\u021be exist\u0103 \u00eentre structurile de date \u0219i structurile de control din tematica de informatic\u0103?",
+        "id": 124,
+        "question": "Ce diferențe există între structurile de date și structurile de control din tematica de informatică?",
         "type": "comparative",
-        "category": "Tematic\u0103 admitere"
+        "category": "Tematică admitere"
     },
     {
-        "question": "Cum difer\u0103 subiectele incluse la matematic\u0103 fa\u021b\u0103 de cele incluse la informatic\u0103?",
+        "id": 125,
+        "question": "Cum diferă subiectele incluse la matematică față de cele incluse la informatică?",
         "type": "comparative",
-        "category": "Tematic\u0103 admitere"
+        "category": "Tematică admitere"
     },
     {
-        "question": "Care este diferen\u021ba dintre recursivitate \u0219i divide et impera \u00een programa de informatic\u0103?",
+        "id": 126,
+        "question": "Care este diferența dintre recursivitate și divide et impera în programa de informatică?",
         "type": "comparative",
-        "category": "Tematic\u0103 admitere"
+        "category": "Tematică admitere"
     },
     {
-        "question": "Ce diferen\u021be exist\u0103 \u00eentre grafurile orientate \u0219i cele neorientate \u00een tematica de admitere?",
+        "id": 127,
+        "question": "Ce diferențe există între grafurile orientate și cele neorientate în tematica de admitere?",
         "type": "comparative",
-        "category": "Tematic\u0103 admitere"
+        "category": "Tematică admitere"
     },
     {
-        "question": "Cum se compar\u0103 tematica de analiz\u0103 matematic\u0103 cu cea de algebr\u0103 la admitere?",
+        "id": 128,
+        "question": "Cum se compară tematica de analiză matematică cu cea de algebră la admitere?",
         "type": "comparative",
-        "category": "Tematic\u0103 admitere"
+        "category": "Tematică admitere"
     },
     {
-        "question": "Care este diferen\u021ba dintre permut\u0103ri, aranjamente \u0219i combin\u0103ri \u00een programa de informatic\u0103?",
+        "id": 129,
+        "question": "Care este diferența dintre permutări, aranjamente și combinări în programa de informatică?",
         "type": "comparative",
-        "category": "Tematic\u0103 admitere"
+        "category": "Tematică admitere"
     },
     {
-        "question": "Ce diferen\u021be exist\u0103 \u00eentre punctajul acordat pentru r\u0103spunsurile corecte \u0219i penalizarea pentru r\u0103spunsurile gre\u0219ite?",
+        "id": 130,
+        "question": "Ce diferențe există între punctajul acordat pentru răspunsurile corecte și penalizarea pentru răspunsurile greșite?",
         "type": "comparative",
-        "category": "Tematic\u0103 admitere"
+        "category": "Tematică admitere"
     },
     {
-        "question": "Cum difer\u0103 programa de matematic\u0103 pentru admitere fa\u021b\u0103 de programa standard de bacalaureat?",
+        "id": 131,
+        "question": "Cum diferă programa de matematică pentru admitere față de programa standard de bacalaureat?",
         "type": "comparative",
-        "category": "Tematic\u0103 admitere"
+        "category": "Tematică admitere"
     },
     {
-        "question": "Care este diferen\u021ba dintre nota minim\u0103 pe \u00eentrebare \u0219i nota minim\u0103 de promovare a examenului?",
+        "id": 132,
+        "question": "Care este diferența dintre nota minimă pe întrebare și nota minimă de promovare a examenului?",
         "type": "comparative",
-        "category": "Tematic\u0103 admitere"
+        "category": "Tematică admitere"
     },
     {
-        "question": "Ce diferen\u021be exist\u0103 \u00eentre limbajele Pascal, C \u0219i C++ \u00een contextul admiterii?",
+        "id": 133,
+        "question": "Ce diferențe există între limbajele Pascal, C și C++ în contextul admiterii?",
         "type": "comparative",
-        "category": "Tematic\u0103 admitere"
+        "category": "Tematică admitere"
     },
     {
-        "question": "Cum difer\u0103 temele de geometrie analitic\u0103 fa\u021b\u0103 de cele de integrale \u00een programa de matematic\u0103?",
+        "id": 134,
+        "question": "Cum diferă temele de geometrie analitică față de cele de integrale în programa de matematică?",
         "type": "comparative",
-        "category": "Tematic\u0103 admitere"
+        "category": "Tematică admitere"
     },
     {
-        "question": "Ce capitole de matematic\u0103 sunt studiate \u00eenainte de integrale \u00een tematica admiterii?",
+        "id": 135,
+        "question": "Ce capitole de matematică sunt studiate înainte de integrale în tematica admiterii?",
         "type": "temporal reasoning",
-        "category": "Tematic\u0103 admitere"
+        "category": "Tematică admitere"
     },
     {
-        "question": "Dup\u0103 studiul limitelor \u0219i continuit\u0103\u021bii, ce subiect urmeaz\u0103 \u00een programa de matematic\u0103?",
+        "id": 136,
+        "question": "După studiul limitelor și continuității, ce subiect urmează în programa de matematică?",
         "type": "temporal reasoning",
-        "category": "Tematic\u0103 admitere"
+        "category": "Tematică admitere"
     },
     {
-        "question": "Ce con\u021binuturi din clasa a IX-a trebuie preg\u0103tite \u00eenaintea celor din clasa a X-a?",
+        "id": 137,
+        "question": "Ce conținuturi din clasa a IX-a trebuie pregătite înaintea celor din clasa a X-a?",
         "type": "temporal reasoning",
-        "category": "Tematic\u0103 admitere"
+        "category": "Tematică admitere"
     },
     {
-        "question": "\u00cen ce ordine apar metodele algoritmice \u00een tematica de informatic\u0103?",
+        "id": 138,
+        "question": "În ce ordine apar metodele algoritmice în tematica de informatică?",
         "type": "temporal reasoning",
-        "category": "Tematic\u0103 admitere"
+        "category": "Tematică admitere"
     },
     {
-        "question": "Ce capitole sunt incluse \u00een clasa a XI-a \u00eenainte de studiul derivabilit\u0103\u021bii?",
+        "id": 139,
+        "question": "Ce capitole sunt incluse în clasa a XI-a înainte de studiul derivabilității?",
         "type": "temporal reasoning",
-        "category": "Tematic\u0103 admitere"
+        "category": "Tematică admitere"
     },
     {
-        "question": "Ce subiecte despre algoritmi fundamentali trebuie \u00eenv\u0103\u021bate \u00eenainte de analiza complexit\u0103\u021bii?",
+        "id": 140,
+        "question": "Ce subiecte despre algoritmi fundamentali trebuie învățate înainte de analiza complexității?",
         "type": "temporal reasoning",
-        "category": "Tematic\u0103 admitere"
+        "category": "Tematică admitere"
     },
     {
-        "question": "Dup\u0103 studiul func\u021biilor exponentiale \u0219i logaritmice, ce capitol urmeaz\u0103 \u00een programa de matematic\u0103?",
+        "id": 141,
+        "question": "După studiul funcțiilor exponentiale și logaritmice, ce capitol urmează în programa de matematică?",
         "type": "temporal reasoning",
-        "category": "Tematic\u0103 admitere"
+        "category": "Tematică admitere"
     },
     {
-        "question": "Ce teme din programa de matematic\u0103 sunt prev\u0103zute pentru ultimul an de liceu?",
+        "id": 142,
+        "question": "Ce teme din programa de matematică sunt prevăzute pentru ultimul an de liceu?",
         "type": "temporal reasoning",
-        "category": "Tematic\u0103 admitere"
+        "category": "Tematică admitere"
     },
     {
-        "question": "Care sunt ultimele con\u021binuturi enumerate \u00een tematica de informatic\u0103?",
+        "id": 143,
+        "question": "Care sunt ultimele conținuturi enumerate în tematica de informatică?",
         "type": "temporal reasoning",
-        "category": "Tematic\u0103 admitere"
+        "category": "Tematică admitere"
     },
     {
-        "question": "Ce capitole despre analiz\u0103 matematic\u0103 sunt studiate succesiv \u00een clasa a XI-a \u0219i a XII-a?",
+        "id": 144,
+        "question": "Ce capitole despre analiză matematică sunt studiate succesiv în clasa a XI-a și a XII-a?",
         "type": "temporal reasoning",
-        "category": "Tematic\u0103 admitere"
+        "category": "Tematică admitere"
     },
     {
-        "question": "Pot folosi Python la proba scris\u0103 de informatic\u0103?",
+        "id": 145,
+        "question": "Pot folosi Python la proba scrisă de informatică?",
         "type": "constraint/rule",
-        "category": "Tematic\u0103 admitere"
+        "category": "Tematică admitere"
     },
     {
-        "question": "Este permis s\u0103 bifez toate variantele de r\u0103spuns la o \u00eentrebare gril\u0103?",
+        "id": 146,
+        "question": "Este permis să bifez toate variantele de răspuns la o întrebare grilă?",
         "type": "constraint/rule",
-        "category": "Tematic\u0103 admitere"
+        "category": "Tematică admitere"
     },
     {
-        "question": "Exist\u0103 un punctaj minim care poate fi ob\u021binut la o \u00eentrebare?",
+        "id": 147,
+        "question": "Există un punctaj minim care poate fi obținut la o întrebare?",
         "type": "constraint/rule",
-        "category": "Tematic\u0103 admitere"
+        "category": "Tematică admitere"
     },
     {
-        "question": "Pot promova examenul dac\u0103 ob\u021bin sub 5 la proba scris\u0103?",
+        "id": 148,
+        "question": "Pot promova examenul dacă obțin sub 5 la proba scrisă?",
         "type": "constraint/rule",
-        "category": "Tematic\u0103 admitere"
+        "category": "Tematică admitere"
     },
     {
-        "question": "Este obligatoriu ca fiecare \u00eentrebare s\u0103 aib\u0103 at\u00e2t r\u0103spunsuri corecte, c\u00e2t \u0219i gre\u0219ite?",
+        "id": 149,
+        "question": "Este obligatoriu ca fiecare întrebare să aibă atât răspunsuri corecte, cât și greșite?",
         "type": "constraint/rule",
-        "category": "Tematic\u0103 admitere"
+        "category": "Tematică admitere"
     },
     {
-        "question": "Pot primi punctaj negativ pe o \u00eentrebare dac\u0103 bifez multe variante gre\u0219ite?",
+        "id": 150,
+        "question": "Pot primi punctaj negativ pe o întrebare dacă bifez multe variante greșite?",
         "type": "constraint/rule",
-        "category": "Tematic\u0103 admitere"
+        "category": "Tematică admitere"
     },
     {
-        "question": "Sunt incluse matematicile financiare din clasa a X-a \u00een tematica admiterii?",
+        "id": 151,
+        "question": "Sunt incluse matematicile financiare din clasa a X-a în tematica admiterii?",
         "type": "constraint/rule",
-        "category": "Tematic\u0103 admitere"
+        "category": "Tematică admitere"
     },
     {
+        "id": 152,
         "question": "Este acceptat un limbaj de programare diferit de Pascal, C sau C++?",
         "type": "constraint/rule",
-        "category": "Tematic\u0103 admitere"
+        "category": "Tematică admitere"
     },
     {
-        "question": "Se poate ob\u021bine punctaj maxim dac\u0103 sunt bifate toate r\u0103spunsurile la o \u00eentrebare?",
+        "id": 153,
+        "question": "Se poate obține punctaj maxim dacă sunt bifate toate răspunsurile la o întrebare?",
         "type": "constraint/rule",
-        "category": "Tematic\u0103 admitere"
+        "category": "Tematică admitere"
     },
     {
-        "question": "Exist\u0103 cerin\u021ba ca tematica de matematic\u0103 s\u0103 respecte programa de bacalaureat?",
+        "id": 154,
+        "question": "Există cerința ca tematica de matematică să respecte programa de bacalaureat?",
         "type": "constraint/rule",
-        "category": "Tematic\u0103 admitere"
+        "category": "Tematică admitere"
     },
     {
-        "question": "Pot folosi Python la proba scris\u0103 de informatic\u0103?",
+        "id": 155,
+        "question": "Pot folosi Python la proba scrisă de informatică?",
         "type": "ambiguous",
-        "category": "Tematic\u0103 admitere"
+        "category": "Tematică admitere"
     },
     {
-        "question": "Este permis s\u0103 bifez toate variantele de r\u0103spuns la o \u00eentrebare gril\u0103?",
+        "id": 156,
+        "question": "Este permis să bifez toate variantele de răspuns la o întrebare grilă?",
         "type": "ambiguous",
-        "category": "Tematic\u0103 admitere"
+        "category": "Tematică admitere"
     },
     {
-        "question": "Exist\u0103 un punctaj minim care poate fi ob\u021binut la o \u00eentrebare?",
+        "id": 157,
+        "question": "Există un punctaj minim care poate fi obținut la o întrebare?",
         "type": "ambiguous",
-        "category": "Tematic\u0103 admitere"
+        "category": "Tematică admitere"
     },
     {
-        "question": "Pot promova examenul dac\u0103 ob\u021bin sub 5 la proba scris\u0103?",
+        "id": 158,
+        "question": "Pot promova examenul dacă obțin sub 5 la proba scrisă?",
         "type": "ambiguous",
-        "category": "Tematic\u0103 admitere"
+        "category": "Tematică admitere"
     },
     {
-        "question": "Este obligatoriu ca fiecare \u00eentrebare s\u0103 aib\u0103 at\u00e2t r\u0103spunsuri corecte, c\u00e2t \u0219i gre\u0219ite?",
+        "id": 159,
+        "question": "Este obligatoriu ca fiecare întrebare să aibă atât răspunsuri corecte, cât și greșite?",
         "type": "ambiguous",
-        "category": "Tematic\u0103 admitere"
+        "category": "Tematică admitere"
     },
     {
-        "question": "Pot primi punctaj negativ pe o \u00eentrebare dac\u0103 bifez multe variante gre\u0219ite?",
+        "id": 160,
+        "question": "Pot primi punctaj negativ pe o întrebare dacă bifez multe variante greșite?",
         "type": "ambiguous",
-        "category": "Tematic\u0103 admitere"
+        "category": "Tematică admitere"
     },
     {
-        "question": "Sunt incluse matematicile financiare din clasa a X-a \u00een tematica admiterii?",
+        "id": 161,
+        "question": "Sunt incluse matematicile financiare din clasa a X-a în tematica admiterii?",
         "type": "ambiguous",
-        "category": "Tematic\u0103 admitere"
+        "category": "Tematică admitere"
     },
     {
+        "id": 162,
         "question": "Este acceptat un limbaj de programare diferit de Pascal, C sau C++?",
         "type": "ambiguous",
-        "category": "Tematic\u0103 admitere"
+        "category": "Tematică admitere"
     },
     {
-        "question": "Se poate ob\u021bine punctaj maxim dac\u0103 sunt bifate toate r\u0103spunsurile la o \u00eentrebare?",
+        "id": 163,
+        "question": "Se poate obține punctaj maxim dacă sunt bifate toate răspunsurile la o întrebare?",
         "type": "ambiguous",
-        "category": "Tematic\u0103 admitere"
+        "category": "Tematică admitere"
     },
     {
-        "question": "Exist\u0103 cerin\u021ba ca tematica de matematic\u0103 s\u0103 respecte programa de bacalaureat?",
+        "id": 164,
+        "question": "Există cerința ca tematica de matematică să respecte programa de bacalaureat?",
         "type": "ambiguous",
-        "category": "Tematic\u0103 admitere"
+        "category": "Tematică admitere"
     },
     {
+        "id": 165,
         "question": "Care este taxa de participare la concursul Mate-Info UBB 2026?",
         "type": "factual",
         "category": "Taxe admitere"
     },
     {
-        "question": "Taxele de admitere se pot pl\u0103ti \u0219i fizic la facultate?",
+        "id": 166,
+        "question": "Taxele de admitere se pot plăti și fizic la facultate?",
         "type": "factual",
         "category": "Taxe admitere"
     },
     {
-        "question": "Din ce este compus\u0103 taxa de admitere?",
+        "id": 167,
+        "question": "Din ce este compusă taxa de admitere?",
         "type": "factual",
         "category": "Taxe admitere"
     },
     {
-        "question": "Taxa de procesare poate fi restituit\u0103 dac\u0103 m\u0103 retrag?",
+        "id": 168,
+        "question": "Taxa de procesare poate fi restituită dacă mă retrag?",
         "type": "factual",
         "category": "Taxe admitere"
     },
     {
-        "question": "Cine poate beneficia de scutire de taxa de \u00eenscriere?",
+        "id": 169,
+        "question": "Cine poate beneficia de scutire de taxa de înscriere?",
         "type": "factual",
         "category": "Taxe admitere"
     },
     {
-        "question": "Exist\u0103 scutiri pentru taxa de procesare?",
+        "id": 170,
+        "question": "Există scutiri pentru taxa de procesare?",
         "type": "factual",
         "category": "Taxe admitere"
     },
     {
-        "question": "Cum se achit\u0103 taxele de admitere?",
+        "id": 171,
+        "question": "Cum se achită taxele de admitere?",
         "type": "factual",
         "category": "Taxe admitere"
     },
     {
-        "question": "Pot primi scutire de taxa de admitere dac\u0103 provin dintr-o familie monoparental\u0103?",
+        "id": 172,
+        "question": "Pot primi scutire de taxa de admitere dacă provin dintr-o familie monoparentală?",
         "type": "factual",
         "category": "Taxe admitere"
     },
     {
-        "question": "Ce documente trebuie \u00eenc\u0103rcate pentru scutirea de taxe?",
+        "id": 173,
+        "question": "Ce documente trebuie încărcate pentru scutirea de taxe?",
         "type": "factual",
         "category": "Taxe admitere"
     },
     {
-        "question": "Taxa de \u0219colarizare se poate restitui dac\u0103 renun\u021b \u00eenainte de \u00eenceperea anului universitar?",
+        "id": 174,
+        "question": "Taxa de școlarizare se poate restitui dacă renunț înainte de începerea anului universitar?",
         "type": "factual",
         "category": "Taxe admitere"
     },
     {
-        "question": "Copiii angaja\u021bilor UBB beneficiaz\u0103 de vreo scutire?",
+        "id": 175,
+        "question": "Copiii angajaților UBB beneficiază de vreo scutire?",
         "type": "factual",
         "category": "Taxe admitere"
     },
     {
-        "question": "C\u00e2nd trebuie depuse documentele pentru scutirea taxei?",
+        "id": 176,
+        "question": "Când trebuie depuse documentele pentru scutirea taxei?",
         "type": "factual",
         "category": "Taxe admitere"
     },
     {
-        "question": "Candida\u021bii proveni\u021bi din centre de plasament pot primi scutire de taxa de admitere?",
+        "id": 177,
+        "question": "Candidații proveniți din centre de plasament pot primi scutire de taxa de admitere?",
         "type": "factual",
         "category": "Taxe admitere"
     },
     {
-        "question": "Taxa de \u00eenscriere este returnabil\u0103?",
+        "id": 178,
+        "question": "Taxa de înscriere este returnabilă?",
         "type": "factual",
         "category": "Taxe admitere"
     },
     {
+        "id": 179,
         "question": "Unde vor fi publicate valorile taxelor pentru admiterea 2026?",
         "type": "factual",
         "category": "Taxe admitere"
     },
     {
-        "question": "Pot beneficia de scutire dac\u0103 unul dintre p\u0103rin\u021bi lucreaz\u0103 \u00een \u00eenv\u0103\u021b\u0103m\u00e2ntul preuniversitar?",
+        "id": 180,
+        "question": "Pot beneficia de scutire dacă unul dintre părinți lucrează în învățământul preuniversitar?",
         "type": "factual",
         "category": "Taxe admitere"
     },
     {
-        "question": "Exist\u0103 scutiri pentru taxa de participare la concursul Mate-Info UBB?",
+        "id": 181,
+        "question": "Există scutiri pentru taxa de participare la concursul Mate-Info UBB?",
         "type": "factual",
         "category": "Taxe admitere"
     },
     {
+        "id": 182,
         "question": "Ce include taxa de procesare?",
         "type": "factual",
         "category": "Taxe admitere"
     },
     {
-        "question": "Persoanele aflate \u00een risc social pot fi scutite de taxa de admitere?",
+        "id": 183,
+        "question": "Persoanele aflate în risc social pot fi scutite de taxa de admitere?",
         "type": "factual",
         "category": "Taxe admitere"
     },
     {
-        "question": "Se accept\u0103 documente pentru scutirea taxei dup\u0103 finalizarea \u00eenscrierii?",
+        "id": 184,
+        "question": "Se acceptă documente pentru scutirea taxei după finalizarea înscrierii?",
         "type": "factual",
         "category": "Taxe admitere"
     },
     {
-        "question": "Care este diferen\u021ba dintre taxa de procesare \u0219i taxa de \u00eenscriere \u0219i care dintre ele poate fi restituit\u0103?",
+        "id": 185,
+        "question": "Care este diferența dintre taxa de procesare și taxa de înscriere și care dintre ele poate fi restituită?",
         "type": "multi-hop",
         "category": "Taxe admitere"
     },
     {
-        "question": "Dac\u0103 m\u0103 retrag \u00eenainte de \u00eenceperea anului universitar, ce taxe pot recupera \u0219i \u00een ce condi\u021bii?",
+        "id": 186,
+        "question": "Dacă mă retrag înainte de începerea anului universitar, ce taxe pot recupera și în ce condiții?",
         "type": "multi-hop",
         "category": "Taxe admitere"
     },
     {
-        "question": "Cine poate beneficia de scutire de taxa de admitere \u0219i c\u00e2nd trebuie depuse documentele justificative?",
+        "id": 187,
+        "question": "Cine poate beneficia de scutire de taxa de admitere și când trebuie depuse documentele justificative?",
         "type": "multi-hop",
         "category": "Taxe admitere"
     },
     {
-        "question": "Cum se pl\u0103tesc taxele de admitere \u0219i ce se \u00eent\u00e2mpl\u0103 dac\u0103 renun\u021b dup\u0103 \u00eenscriere?",
+        "id": 188,
+        "question": "Cum se plătesc taxele de admitere și ce se întâmplă dacă renunț după înscriere?",
         "type": "multi-hop",
         "category": "Taxe admitere"
     },
     {
-        "question": "Ce taxe trebuie s\u0103 achite un candidat la admitere \u0219i ce parte dintre acestea nu este returnabil\u0103?",
+        "id": 189,
+        "question": "Ce taxe trebuie să achite un candidat la admitere și ce parte dintre acestea nu este returnabilă?",
         "type": "multi-hop",
         "category": "Taxe admitere"
     },
     {
-        "question": "Exist\u0103 scutiri pentru copiii personalului din \u00eenv\u0103\u021b\u0103m\u00e2nt \u0219i taxa de procesare este inclus\u0103 \u00een aceast\u0103 scutire?",
+        "id": 190,
+        "question": "Există scutiri pentru copiii personalului din învățământ și taxa de procesare este inclusă în această scutire?",
         "type": "multi-hop",
         "category": "Taxe admitere"
     },
     {
-        "question": "Ce trebuie s\u0103 fac\u0103 un candidat aflat \u00een risc social pentru a primi scutire de taxe \u0219i c\u00e2nd trebuie depuse actele?",
+        "id": 191,
+        "question": "Ce trebuie să facă un candidat aflat în risc social pentru a primi scutire de taxe și când trebuie depuse actele?",
         "type": "multi-hop",
         "category": "Taxe admitere"
     },
     {
-        "question": "Dac\u0103 sunt copilul unui angajat UBB, pentru ce tax\u0103 pot primi scutire \u0219i cum se acord\u0103 aceasta?",
+        "id": 192,
+        "question": "Dacă sunt copilul unui angajat UBB, pentru ce taxă pot primi scutire și cum se acordă aceasta?",
         "type": "multi-hop",
         "category": "Taxe admitere"
     },
     {
-        "question": "Care este cuantumul taxei pentru concursul Mate-Info UBB \u0219i exist\u0103 posibilitatea unei scutiri?",
+        "id": 193,
+        "question": "Care este cuantumul taxei pentru concursul Mate-Info UBB și există posibilitatea unei scutiri?",
         "type": "multi-hop",
         "category": "Taxe admitere"
     },
     {
-        "question": "Ce categorii de candida\u021bi pot fi scutite de taxa de admitere \u0219i care sunt documentele necesare pentru aprobare?",
+        "id": 194,
+        "question": "Ce categorii de candidați pot fi scutite de taxa de admitere și care sunt documentele necesare pentru aprobare?",
         "type": "multi-hop",
         "category": "Taxe admitere"
     },
     {
-        "question": "Dac\u0103 un candidat provine dintr-un centru de plasament \u0219i are sub 26 de ani, de ce scutiri poate beneficia?",
+        "id": 195,
+        "question": "Dacă un candidat provine dintr-un centru de plasament și are sub 26 de ani, de ce scutiri poate beneficia?",
         "type": "multi-hop",
         "category": "Taxe admitere"
     },
     {
-        "question": "\u00cen ce situa\u021bii se poate restitui taxa de \u0219colarizare \u0219i ce alte taxe nu se returneaz\u0103?",
+        "id": 196,
+        "question": "În ce situații se poate restitui taxa de școlarizare și ce alte taxe nu se returnează?",
         "type": "multi-hop",
         "category": "Taxe admitere"
     },
     {
-        "question": "Cum sunt structurate taxele de admitere \u0219i unde se achit\u0103 acestea?",
+        "id": 197,
+        "question": "Cum sunt structurate taxele de admitere și unde se achită acestea?",
         "type": "multi-hop",
         "category": "Taxe admitere"
     },
     {
-        "question": "Ce diferen\u021b\u0103 exist\u0103 \u00eentre beneficiarii scutirii de taxa de \u00eenscriere \u0219i cei ai scutirii de taxa de admitere?",
+        "id": 198,
+        "question": "Ce diferență există între beneficiarii scutirii de taxa de înscriere și cei ai scutirii de taxa de admitere?",
         "type": "multi-hop",
         "category": "Taxe admitere"
     },
     {
-        "question": "Dac\u0103 depun documentele pentru scutire dup\u0103 finalizarea \u00eenscrierii, mai pot beneficia de reducerea taxei?",
+        "id": 199,
+        "question": "Dacă depun documentele pentru scutire după finalizarea înscrierii, mai pot beneficia de reducerea taxei?",
         "type": "multi-hop",
         "category": "Taxe admitere"
     },
     {
-        "question": "Ce trebuie s\u0103 \u0219tie un candidat despre restituirea taxelor \u00een cazul retragerii de la admitere?",
+        "id": 200,
+        "question": "Ce trebuie să știe un candidat despre restituirea taxelor în cazul retragerii de la admitere?",
         "type": "multi-hop",
         "category": "Taxe admitere"
     },
     {
-        "question": "Taxa de participare la concursul Mate-Info UBB se pl\u0103te\u0219te online \u0219i poate fi scutit\u0103 \u00een anumite cazuri?",
+        "id": 201,
+        "question": "Taxa de participare la concursul Mate-Info UBB se plătește online și poate fi scutită în anumite cazuri?",
         "type": "multi-hop",
         "category": "Taxe admitere"
     },
     {
-        "question": "Ce categorii sociale pot ob\u021bine scutire de taxa de admitere \u0219i ce condi\u021bii trebuie \u00eendeplinite?",
+        "id": 202,
+        "question": "Ce categorii sociale pot obține scutire de taxa de admitere și ce condiții trebuie îndeplinite?",
         "type": "multi-hop",
         "category": "Taxe admitere"
     },
     {
-        "question": "Cum se compune taxa de admitere \u0219i care component\u0103 acoper\u0103 aspectele organizatorice?",
+        "id": 203,
+        "question": "Cum se compune taxa de admitere și care componentă acoperă aspectele organizatorice?",
         "type": "multi-hop",
         "category": "Taxe admitere"
     },
     {
-        "question": "Dac\u0103 sunt orfan de un p\u0103rinte \u0219i m\u0103 retrag \u00eenainte de \u00eenceperea anului universitar, ce taxe pot fi scutite sau restituite?",
+        "id": 204,
+        "question": "Dacă sunt orfan de un părinte și mă retrag înainte de începerea anului universitar, ce taxe pot fi scutite sau restituite?",
         "type": "multi-hop",
         "category": "Taxe admitere"
     },
     {
-        "question": "Care este diferen\u021ba dintre taxa de procesare \u0219i taxa de \u00eenscriere?",
+        "id": 205,
+        "question": "Care este diferența dintre taxa de procesare și taxa de înscriere?",
         "type": "comparative",
         "category": "Taxe admitere"
     },
     {
-        "question": "Prin ce se deosebe\u0219te taxa de admitere de taxa de \u0219colarizare?",
+        "id": 206,
+        "question": "Prin ce se deosebește taxa de admitere de taxa de școlarizare?",
         "type": "comparative",
         "category": "Taxe admitere"
     },
     {
-        "question": "Ce diferen\u021be exist\u0103 \u00eentre scutirea de taxa de \u00eenscriere \u0219i scutirea de taxa de admitere?",
+        "id": 207,
+        "question": "Ce diferențe există între scutirea de taxa de înscriere și scutirea de taxa de admitere?",
         "type": "comparative",
         "category": "Taxe admitere"
     },
     {
-        "question": "Care este diferen\u021ba dintre taxele care pot fi restituite \u0219i cele care nu se returneaz\u0103?",
+        "id": 208,
+        "question": "Care este diferența dintre taxele care pot fi restituite și cele care nu se returnează?",
         "type": "comparative",
         "category": "Taxe admitere"
     },
     {
-        "question": "Cum difer\u0103 regulile de plat\u0103 pentru taxa de admitere fa\u021b\u0103 de taxa de participare la concursul Mate-Info UBB?",
+        "id": 209,
+        "question": "Cum diferă regulile de plată pentru taxa de admitere față de taxa de participare la concursul Mate-Info UBB?",
         "type": "comparative",
         "category": "Taxe admitere"
     },
     {
-        "question": "Ce diferen\u021b\u0103 exist\u0103 \u00eentre beneficiarii scutirii pentru taxa de \u00eenscriere \u0219i cei ai scutirii pentru taxa de admitere?",
+        "id": 210,
+        "question": "Ce diferență există între beneficiarii scutirii pentru taxa de înscriere și cei ai scutirii pentru taxa de admitere?",
         "type": "comparative",
         "category": "Taxe admitere"
     },
     {
-        "question": "Taxa de procesare \u0219i taxa de participare la concursul Mate-Info UBB au acelea\u0219i reguli privind scutirile?",
+        "id": 211,
+        "question": "Taxa de procesare și taxa de participare la concursul Mate-Info UBB au aceleași reguli privind scutirile?",
         "type": "comparative",
         "category": "Taxe admitere"
     },
     {
-        "question": "Care este diferen\u021ba dintre retragerea \u00eenainte de \u00eenceperea anului universitar \u0219i retragerea dup\u0103 \u00eenscriere \u00een privin\u021ba restituirii taxelor?",
+        "id": 212,
+        "question": "Care este diferența dintre retragerea înainte de începerea anului universitar și retragerea după înscriere în privința restituirii taxelor?",
         "type": "comparative",
         "category": "Taxe admitere"
     },
     {
-        "question": "Cum difer\u0103 condi\u021biile de scutire pentru copiii angaja\u021bilor UBB fa\u021b\u0103 de cele pentru candida\u021bii proveni\u021bi din centre de plasament?",
+        "id": 213,
+        "question": "Cum diferă condițiile de scutire pentru copiii angajaților UBB față de cele pentru candidații proveniți din centre de plasament?",
         "type": "comparative",
         "category": "Taxe admitere"
     },
     {
-        "question": "Ce diferen\u021be exist\u0103 \u00eentre taxa perceput\u0103 la concursul Mate-Info UBB \u0219i taxele de admitere obi\u0219nuite?",
+        "id": 214,
+        "question": "Ce diferențe există între taxa percepută la concursul Mate-Info UBB și taxele de admitere obișnuite?",
         "type": "comparative",
         "category": "Taxe admitere"
     },
     {
-        "question": "\u00cen ce se diferen\u021biaz\u0103 taxa de procesare de taxa de \u0219colarizare din punct de vedere al restituirii?",
+        "id": 215,
+        "question": "În ce se diferențiază taxa de procesare de taxa de școlarizare din punct de vedere al restituirii?",
         "type": "comparative",
         "category": "Taxe admitere"
     },
     {
-        "question": "Care este diferen\u021ba dintre plata taxelor pentru admitere \u0219i depunerea documentelor pentru scutire?",
+        "id": 216,
+        "question": "Care este diferența dintre plata taxelor pentru admitere și depunerea documentelor pentru scutire?",
         "type": "comparative",
         "category": "Taxe admitere"
     },
     {
-        "question": "Cum difer\u0103 regulile privind scutirile la concursul Mate-Info UBB fa\u021b\u0103 de admiterea standard?",
+        "id": 217,
+        "question": "Cum diferă regulile privind scutirile la concursul Mate-Info UBB față de admiterea standard?",
         "type": "comparative",
         "category": "Taxe admitere"
     },
     {
-        "question": "Ce diferen\u021b\u0103 exist\u0103 \u00eentre candida\u021bii care beneficiaz\u0103 de scutire pe criterii sociale \u0219i cei care beneficiaz\u0103 pe baza apartenen\u021bei la sistemul educa\u021bional?",
+        "id": 218,
+        "question": "Ce diferență există între candidații care beneficiază de scutire pe criterii sociale și cei care beneficiază pe baza apartenenței la sistemul educațional?",
         "type": "comparative",
         "category": "Taxe admitere"
     },
     {
-        "question": "Cum difer\u0103 condi\u021biile de restituire pentru taxa de \u0219colarizare fa\u021b\u0103 de taxa de \u00eenscriere?",
+        "id": 219,
+        "question": "Cum diferă condițiile de restituire pentru taxa de școlarizare față de taxa de înscriere?",
         "type": "comparative",
         "category": "Taxe admitere"
     },
     {
-        "question": "C\u00e2nd trebuie depuse documentele pentru scutirea taxei de admitere?",
+        "id": 220,
+        "question": "Când trebuie depuse documentele pentru scutirea taxei de admitere?",
         "type": "temporal reasoning",
         "category": "Taxe admitere"
     },
     {
-        "question": "Ce se \u00eent\u00e2mpl\u0103 cu taxa de \u0219colarizare dac\u0103 studentul renun\u021b\u0103 \u00eenainte de \u00eenceperea anului universitar?",
+        "id": 221,
+        "question": "Ce se întâmplă cu taxa de școlarizare dacă studentul renunță înainte de începerea anului universitar?",
         "type": "temporal reasoning",
         "category": "Taxe admitere"
     },
     {
-        "question": "\u00cen ce moment nu mai sunt acceptate documente pentru scutirea taxei?",
+        "id": 222,
+        "question": "În ce moment nu mai sunt acceptate documente pentru scutirea taxei?",
         "type": "temporal reasoning",
         "category": "Taxe admitere"
     },
     {
-        "question": "C\u00e2nd vor fi publicate valorile taxelor pentru admiterea 2026?",
+        "id": 223,
+        "question": "Când vor fi publicate valorile taxelor pentru admiterea 2026?",
         "type": "temporal reasoning",
         "category": "Taxe admitere"
     },
     {
-        "question": "Taxa de participare la concursul Mate-Info UBB trebuie achitat\u0103 \u00eenainte sau dup\u0103 \u00eenscriere?",
+        "id": 224,
+        "question": "Taxa de participare la concursul Mate-Info UBB trebuie achitată înainte sau după înscriere?",
         "type": "temporal reasoning",
         "category": "Taxe admitere"
     },
     {
-        "question": "Ce taxe nu mai pot fi recuperate dup\u0103 retragerea candidatului?",
+        "id": 225,
+        "question": "Ce taxe nu mai pot fi recuperate după retragerea candidatului?",
         "type": "temporal reasoning",
         "category": "Taxe admitere"
     },
     {
-        "question": "\u00cen ce etap\u0103 a admiterii trebuie achitate taxele exclusiv online?",
+        "id": 226,
+        "question": "În ce etapă a admiterii trebuie achitate taxele exclusiv online?",
         "type": "temporal reasoning",
         "category": "Taxe admitere"
     },
     {
-        "question": "C\u00e2nd trebuie \u00eenc\u0103rcate documentele justificative pentru a beneficia de scutire?",
+        "id": 227,
+        "question": "Când trebuie încărcate documentele justificative pentru a beneficia de scutire?",
         "type": "temporal reasoning",
         "category": "Taxe admitere"
     },
     {
-        "question": "Ce se \u00eent\u00e2mpl\u0103 cu taxa de procesare dac\u0103 un candidat se retrage dup\u0103 \u00eenscriere?",
+        "id": 228,
+        "question": "Ce se întâmplă cu taxa de procesare dacă un candidat se retrage după înscriere?",
         "type": "temporal reasoning",
         "category": "Taxe admitere"
     },
     {
-        "question": "\u00cen ce situa\u021bie poate fi restituit\u0103 integral taxa de \u0219colarizare?",
+        "id": 229,
+        "question": "În ce situație poate fi restituită integral taxa de școlarizare?",
         "type": "temporal reasoning",
         "category": "Taxe admitere"
     },
     {
-        "question": "Pot beneficia de scutire de taxa de admitere dac\u0103 nu depun documentele justificative la momentul \u00eenscrierii?",
+        "id": 230,
+        "question": "Pot beneficia de scutire de taxa de admitere dacă nu depun documentele justificative la momentul înscrierii?",
         "type": "constraint/rule",
         "category": "Taxe admitere"
     },
     {
-        "question": "Se poate restitui taxa de procesare \u00een cazul retragerii din concurs?",
+        "id": 231,
+        "question": "Se poate restitui taxa de procesare în cazul retragerii din concurs?",
         "type": "constraint/rule",
         "category": "Taxe admitere"
     },
     {
-        "question": "Este posibil\u0103 plata taxelor de admitere \u00een afara platformei online?",
+        "id": 232,
+        "question": "Este posibilă plata taxelor de admitere în afara platformei online?",
         "type": "constraint/rule",
         "category": "Taxe admitere"
     },
     {
-        "question": "Pot primi scutire de taxa de \u00eenscriere dac\u0103 p\u0103rintele meu lucreaz\u0103 \u00een \u00eenv\u0103\u021b\u0103m\u00e2ntul preuniversitar?",
+        "id": 233,
+        "question": "Pot primi scutire de taxa de înscriere dacă părintele meu lucrează în învățământul preuniversitar?",
         "type": "constraint/rule",
         "category": "Taxe admitere"
     },
     {
-        "question": "Pot beneficia de scutire de taxa de admitere dac\u0103 am peste 26 de ani \u0219i provin dintr-un centru de plasament?",
+        "id": 234,
+        "question": "Pot beneficia de scutire de taxa de admitere dacă am peste 26 de ani și provin dintr-un centru de plasament?",
         "type": "constraint/rule",
         "category": "Taxe admitere"
     },
     {
-        "question": "Taxa de participare la concursul Mate-Info UBB poate fi redus\u0103 sau scutit\u0103 \u00een anumite situa\u021bii?",
+        "id": 235,
+        "question": "Taxa de participare la concursul Mate-Info UBB poate fi redusă sau scutită în anumite situații?",
         "type": "constraint/rule",
         "category": "Taxe admitere"
     },
     {
-        "question": "Este obligatoriu s\u0103 depun documentele justificative pentru scutire \u00eenainte de finalizarea \u00eenscrierii?",
+        "id": 236,
+        "question": "Este obligatoriu să depun documentele justificative pentru scutire înainte de finalizarea înscrierii?",
         "type": "constraint/rule",
         "category": "Taxe admitere"
     },
     {
-        "question": "Poate fi restituit\u0103 taxa de \u0219colarizare dac\u0103 studentul renun\u021b\u0103 dup\u0103 \u00eenceperea anului universitar?",
+        "id": 237,
+        "question": "Poate fi restituită taxa de școlarizare dacă studentul renunță după începerea anului universitar?",
         "type": "constraint/rule",
         "category": "Taxe admitere"
     },
     {
-        "question": "Taxa de admitere include automat \u0219i taxa de procesare?",
+        "id": 238,
+        "question": "Taxa de admitere include automat și taxa de procesare?",
         "type": "constraint/rule",
         "category": "Taxe admitere"
     },
     {
-        "question": "Pot ob\u021bine scutire de taxa de admitere dac\u0103 depun actele justificative dup\u0103 \u00eencheierea perioadei de \u00eenscriere?",
+        "id": 239,
+        "question": "Pot obține scutire de taxa de admitere dacă depun actele justificative după încheierea perioadei de înscriere?",
         "type": "constraint/rule",
         "category": "Taxe admitere"
     },
     {
-        "question": "C\u00e2t trebuie pl\u0103tit pentru admitere?",
+        "id": 240,
+        "question": "Cât trebuie plătit pentru admitere?",
         "type": "ambiguous",
         "category": "Taxe admitere"
     },
     {
-        "question": "Taxele se achit\u0103 online?",
+        "id": 241,
+        "question": "Taxele se achită online?",
         "type": "ambiguous",
         "category": "Taxe admitere"
     },
     {
-        "question": "Exist\u0103 reduceri pentru anumite persoane?",
+        "id": 242,
+        "question": "Există reduceri pentru anumite persoane?",
         "type": "ambiguous",
         "category": "Taxe admitere"
     },
     {
+        "id": 243,
         "question": "Ce acte trebuie pentru scutire?",
         "type": "ambiguous",
         "category": "Taxe admitere"
     },
     {
-        "question": "Se returneaz\u0103 banii dac\u0103 m\u0103 r\u0103zg\u00e2ndesc?",
+        "id": 244,
+        "question": "Se returnează banii dacă mă răzgândesc?",
         "type": "ambiguous",
         "category": "Taxe admitere"
     },
     {
-        "question": "C\u00e2nd trebuie pl\u0103tit\u0103 taxa?",
+        "id": 245,
+        "question": "Când trebuie plătită taxa?",
         "type": "ambiguous",
         "category": "Taxe admitere"
     },
     {
-        "question": "Cine nu pl\u0103te\u0219te taxa?",
+        "id": 246,
+        "question": "Cine nu plătește taxa?",
         "type": "ambiguous",
         "category": "Taxe admitere"
     },
     {
-        "question": "Pot fi scutit de plat\u0103?",
+        "id": 247,
+        "question": "Pot fi scutit de plată?",
         "type": "ambiguous",
         "category": "Taxe admitere"
     },
     {
+        "id": 248,
         "question": "Unde apar valorile taxelor?",
         "type": "ambiguous",
         "category": "Taxe admitere"
     },
     {
-        "question": "Trebuie \u00eenc\u0103rcate documente speciale pentru reducere?",
+        "id": 249,
+        "question": "Trebuie încărcate documente speciale pentru reducere?",
         "type": "ambiguous",
         "category": "Taxe admitere"
     },
     {
-        "question": "C\u00e2nd \u00eencepe perioada de pre\u00eenscriere pentru admiterea FMI UBB 2026?",
+        "id": 250,
+        "question": "Când începe perioada de preînscriere pentru admiterea FMI UBB 2026?",
         "type": "factual",
         "category": "Calendar admitere"
     },
     {
-        "question": "P\u00e2n\u0103 la ce dat\u0103 se pot face \u00eenscrierile online \u00een sesiunea din iulie 2026?",
+        "id": 251,
+        "question": "Până la ce dată se pot face înscrierile online în sesiunea din iulie 2026?",
         "type": "factual",
         "category": "Calendar admitere"
     },
     {
-        "question": "La ce or\u0103 se afi\u0219eaz\u0103 repartizarea pe s\u0103li pentru proba scris\u0103?",
+        "id": 252,
+        "question": "La ce oră se afișează repartizarea pe săli pentru proba scrisă?",
         "type": "factual",
         "category": "Calendar admitere"
     },
     {
-        "question": "\u00cen ce zi are loc proba scris\u0103 de admitere din sesiunea de var\u0103?",
+        "id": 253,
+        "question": "În ce zi are loc proba scrisă de admitere din sesiunea de vară?",
         "type": "factual",
         "category": "Calendar admitere"
     },
     {
-        "question": "C\u00e2nd se public\u0103 rezultatele probei scrise?",
+        "id": 254,
+        "question": "Când se publică rezultatele probei scrise?",
         "type": "factual",
         "category": "Calendar admitere"
     },
     {
-        "question": "Care este intervalul pentru depunerea contesta\u021biilor la rezultatele examenului?",
+        "id": 255,
+        "question": "Care este intervalul pentru depunerea contestațiilor la rezultatele examenului?",
         "type": "factual",
         "category": "Calendar admitere"
     },
     {
-        "question": "P\u00e2n\u0103 c\u00e2nd sunt solu\u021bionate contesta\u021biile dup\u0103 proba scris\u0103?",
+        "id": 256,
+        "question": "Până când sunt soluționate contestațiile după proba scrisă?",
         "type": "factual",
         "category": "Calendar admitere"
     },
     {
-        "question": "\u00cen ce perioad\u0103 se desf\u0103\u0219oar\u0103 sesiunea de admitere din iulie 2026?",
+        "id": 257,
+        "question": "În ce perioadă se desfășoară sesiunea de admitere din iulie 2026?",
         "type": "factual",
         "category": "Calendar admitere"
     },
     {
-        "question": "C\u00e2nd se afi\u0219eaz\u0103 rezultatele finale ale admiterii?",
+        "id": 258,
+        "question": "Când se afișează rezultatele finale ale admiterii?",
         "type": "factual",
         "category": "Calendar admitere"
     },
     {
-        "question": "\u00cen ce interval orar se pot depune contesta\u021biile privind \u00eenscrierea?",
+        "id": 259,
+        "question": "În ce interval orar se pot depune contestațiile privind înscrierea?",
         "type": "factual",
         "category": "Calendar admitere"
     },
     {
-        "question": "Care este data limit\u0103 pentru depunerea documentelor \u00een original necesare schimb\u0103rii formei de finan\u021bare?",
+        "id": 260,
+        "question": "Care este data limită pentru depunerea documentelor în original necesare schimbării formei de finanțare?",
         "type": "factual",
         "category": "Calendar admitere"
     },
     {
-        "question": "C\u00e2nd se afi\u0219eaz\u0103 lista candida\u021bilor cu forma de finan\u021bare modificat\u0103?",
+        "id": 261,
+        "question": "Când se afișează lista candidaților cu forma de finanțare modificată?",
         "type": "factual",
         "category": "Calendar admitere"
     },
     {
-        "question": "\u00centre ce date pot ap\u0103rea locuri bugetate eliberate pentru redistribuire?",
+        "id": 262,
+        "question": "Între ce date pot apărea locuri bugetate eliberate pentru redistribuire?",
         "type": "factual",
         "category": "Calendar admitere"
     },
     {
-        "question": "\u00cen ce perioad\u0103 are loc concursul Mate-Info UBB 2026?",
+        "id": 263,
+        "question": "În ce perioadă are loc concursul Mate-Info UBB 2026?",
         "type": "factual",
         "category": "Calendar admitere"
     },
     {
-        "question": "C\u00e2nd se desf\u0103\u0219oar\u0103 concursul Mate-Info UBB 2026?",
+        "id": 264,
+        "question": "Când se desfășoară concursul Mate-Info UBB 2026?",
         "type": "factual",
         "category": "Calendar admitere"
     },
     {
-        "question": "P\u00e2n\u0103 la ce dat\u0103 se pot face \u00eenscrieri pentru concursul Mate-Info UBB 2026?",
+        "id": 265,
+        "question": "Până la ce dată se pot face înscrieri pentru concursul Mate-Info UBB 2026?",
         "type": "factual",
         "category": "Calendar admitere"
     },
     {
-        "question": "\u00cen ce zi se afi\u0219eaz\u0103 rezultatele finale ale concursului Mate-Info?",
+        "id": 266,
+        "question": "În ce zi se afișează rezultatele finale ale concursului Mate-Info?",
         "type": "factual",
         "category": "Calendar admitere"
     },
     {
-        "question": "C\u00e2nd au loc contesta\u021biile pentru concursul Mate-Info UBB 2026?",
+        "id": 267,
+        "question": "Când au loc contestațiile pentru concursul Mate-Info UBB 2026?",
         "type": "factual",
         "category": "Calendar admitere"
     },
     {
-        "question": "La ce or\u0103 \u00eencepe concursul Mate-Info UBB 2026?",
+        "id": 268,
+        "question": "La ce oră începe concursul Mate-Info UBB 2026?",
         "type": "factual",
         "category": "Calendar admitere"
     },
     {
-        "question": "C\u00e2nd sunt publicate listele finale \u0219i repartizarea pe s\u0103li pentru concursul Mate-Info?",
+        "id": 269,
+        "question": "Când sunt publicate listele finale și repartizarea pe săli pentru concursul Mate-Info?",
         "type": "factual",
         "category": "Calendar admitere"
     },
     {
-        "question": "Care este perioada de \u00eenscriere online \u0219i c\u00e2nd are loc proba scris\u0103 la admiterea FMI UBB 2026?",
+        "id": 270,
+        "question": "Care este perioada de înscriere online și când are loc proba scrisă la admiterea FMI UBB 2026?",
         "type": "multi-hop",
         "category": "Calendar admitere"
     },
     {
-        "question": "C\u00e2nd se afi\u0219eaz\u0103 rezultatele probei scrise \u0219i c\u00e2t timp pot fi depuse contesta\u021biile?",
+        "id": 271,
+        "question": "Când se afișează rezultatele probei scrise și cât timp pot fi depuse contestațiile?",
         "type": "multi-hop",
         "category": "Calendar admitere"
     },
     {
-        "question": "\u00cen ce interval are loc sesiunea de admitere din iulie \u0219i c\u00e2nd devin definitive rezultatele?",
+        "id": 272,
+        "question": "În ce interval are loc sesiunea de admitere din iulie și când devin definitive rezultatele?",
         "type": "multi-hop",
         "category": "Calendar admitere"
     },
     {
-        "question": "Care sunt etapele dintre afi\u0219area listelor finale \u0219i publicarea rezultatelor admiterii?",
+        "id": 273,
+        "question": "Care sunt etapele dintre afișarea listelor finale și publicarea rezultatelor admiterii?",
         "type": "multi-hop",
         "category": "Calendar admitere"
     },
     {
-        "question": "C\u00e2nd \u00eencepe pre\u00eenscrierea \u0219i p\u00e2n\u0103 la ce dat\u0103 se pot depune contesta\u021biile la rezultatele examenului?",
+        "id": 274,
+        "question": "Când începe preînscrierea și până la ce dată se pot depune contestațiile la rezultatele examenului?",
         "type": "multi-hop",
         "category": "Calendar admitere"
     },
     {
-        "question": "\u00cen ce zi se desf\u0103\u0219oar\u0103 proba scris\u0103 \u0219i la ce or\u0103 se public\u0103 repartizarea pe s\u0103li?",
+        "id": 275,
+        "question": "În ce zi se desfășoară proba scrisă și la ce oră se publică repartizarea pe săli?",
         "type": "multi-hop",
         "category": "Calendar admitere"
     },
     {
-        "question": "Ce activit\u0103\u021bi sunt programate pe 16 iulie 2026 \u00een cadrul admiterii?",
+        "id": 276,
+        "question": "Ce activități sunt programate pe 16 iulie 2026 în cadrul admiterii?",
         "type": "multi-hop",
         "category": "Calendar admitere"
     },
     {
-        "question": "C\u00e2nd trebuie depuse documentele \u00een original pentru schimbarea formei de finan\u021bare \u0219i c\u00e2nd se afi\u0219eaz\u0103 rezultatele redistribuirii?",
+        "id": 277,
+        "question": "Când trebuie depuse documentele în original pentru schimbarea formei de finanțare și când se afișează rezultatele redistribuirii?",
         "type": "multi-hop",
         "category": "Calendar admitere"
     },
     {
-        "question": "Dac\u0103 apar locuri bugetate libere \u00een august, p\u00e2n\u0103 c\u00e2nd trebuie depuse actele pentru a putea beneficia de redistribuire?",
+        "id": 278,
+        "question": "Dacă apar locuri bugetate libere în august, până când trebuie depuse actele pentru a putea beneficia de redistribuire?",
         "type": "multi-hop",
         "category": "Calendar admitere"
     },
     {
-        "question": "Care este diferen\u021ba dintre perioada de \u00eenscriere la concursul Mate-Info \u0219i perioada de \u00eenscriere la admiterea din iulie?",
+        "id": 279,
+        "question": "Care este diferența dintre perioada de înscriere la concursul Mate-Info și perioada de înscriere la admiterea din iulie?",
         "type": "multi-hop",
         "category": "Calendar admitere"
     },
     {
-        "question": "C\u00e2nd se afi\u0219eaz\u0103 rezultatele concursului Mate-Info \u0219i \u00een ce perioad\u0103 se pot face contesta\u021bii?",
+        "id": 280,
+        "question": "Când se afișează rezultatele concursului Mate-Info și în ce perioadă se pot face contestații?",
         "type": "multi-hop",
         "category": "Calendar admitere"
     },
     {
-        "question": "\u00cen c\u00e2t timp dup\u0103 afi\u0219area rezultatelor probei scrise pot fi depuse contesta\u021biile \u0219i c\u00e2nd sunt solu\u021bionate acestea?",
+        "id": 281,
+        "question": "În cât timp după afișarea rezultatelor probei scrise pot fi depuse contestațiile și când sunt soluționate acestea?",
         "type": "multi-hop",
         "category": "Calendar admitere"
     },
     {
-        "question": "Ce urmeaz\u0103 dup\u0103 publicarea rezultatelor probei scrise \u00een sesiunea de admitere din iulie?",
+        "id": 282,
+        "question": "Ce urmează după publicarea rezultatelor probei scrise în sesiunea de admitere din iulie?",
         "type": "multi-hop",
         "category": "Calendar admitere"
     },
     {
-        "question": "Care este ordinea etapelor dintre \u00eenscriere, proba scris\u0103 \u0219i afi\u0219area rezultatelor finale?",
+        "id": 283,
+        "question": "Care este ordinea etapelor dintre înscriere, proba scrisă și afișarea rezultatelor finale?",
         "type": "multi-hop",
         "category": "Calendar admitere"
     },
     {
-        "question": "C\u00e2nd are loc concursul Mate-Info \u0219i c\u00e2nd sunt publicate rezultatele finale dup\u0103 contesta\u021bii?",
+        "id": 284,
+        "question": "Când are loc concursul Mate-Info și când sunt publicate rezultatele finale după contestații?",
         "type": "multi-hop",
         "category": "Calendar admitere"
     },
     {
-        "question": "\u00cen ce perioad\u0103 se organizeaz\u0103 pre\u00eenscrierea \u0219i c\u00e2nd sunt afi\u0219ate listele finale pentru examen?",
+        "id": 285,
+        "question": "În ce perioadă se organizează preînscrierea și când sunt afișate listele finale pentru examen?",
         "type": "multi-hop",
         "category": "Calendar admitere"
     },
     {
-        "question": "Care sunt toate activit\u0103\u021bile programate \u00eentre 18 \u0219i 20 iulie 2026?",
+        "id": 286,
+        "question": "Care sunt toate activitățile programate între 18 și 20 iulie 2026?",
         "type": "multi-hop",
         "category": "Calendar admitere"
     },
     {
-        "question": "Dac\u0103 un candidat vrea s\u0103 conteste rezultatul examenului, c\u00e2nd poate face acest lucru \u0219i c\u00e2nd prime\u0219te r\u0103spunsul final?",
+        "id": 287,
+        "question": "Dacă un candidat vrea să conteste rezultatul examenului, când poate face acest lucru și când primește răspunsul final?",
         "type": "multi-hop",
         "category": "Calendar admitere"
     },
     {
-        "question": "Care sunt etapele programate \u00eenainte de proba scris\u0103 din 17 iulie 2026?",
+        "id": 288,
+        "question": "Care sunt etapele programate înainte de proba scrisă din 17 iulie 2026?",
         "type": "multi-hop",
         "category": "Calendar admitere"
     },
     {
-        "question": "C\u00e2nd se \u00eencheie sesiunea de admitere din iulie \u0219i ce activit\u0103\u021bi au loc \u00eenainte de finalizarea acesteia?",
+        "id": 289,
+        "question": "Când se încheie sesiunea de admitere din iulie și ce activități au loc înainte de finalizarea acesteia?",
         "type": "multi-hop",
         "category": "Calendar admitere"
     },
     {
-        "question": "Care este diferen\u021ba dintre calendarul concursului Mate-Info UBB \u0219i calendarul admiterii din iulie 2026?",
+        "id": 290,
+        "question": "Care este diferența dintre calendarul concursului Mate-Info UBB și calendarul admiterii din iulie 2026?",
         "type": "comparative",
         "category": "Calendar admitere"
     },
     {
-        "question": "Cum difer\u0103 perioada de \u00eenscriere pentru concursul Mate-Info fa\u021b\u0103 de perioada de \u00eenscriere online la admitere?",
+        "id": 291,
+        "question": "Cum diferă perioada de înscriere pentru concursul Mate-Info față de perioada de înscriere online la admitere?",
         "type": "comparative",
         "category": "Calendar admitere"
     },
     {
-        "question": "Care este diferen\u021ba dintre contesta\u021biile pentru \u00eenscriere \u0219i contesta\u021biile pentru rezultatele examenului?",
+        "id": 292,
+        "question": "Care este diferența dintre contestațiile pentru înscriere și contestațiile pentru rezultatele examenului?",
         "type": "comparative",
         "category": "Calendar admitere"
     },
     {
-        "question": "Cum difer\u0103 sesiunea de var\u0103 de redistribuirea locurilor din septembrie?",
+        "id": 293,
+        "question": "Cum diferă sesiunea de vară de redistribuirea locurilor din septembrie?",
         "type": "comparative",
         "category": "Calendar admitere"
     },
     {
-        "question": "Care sunt diferen\u021bele dintre afi\u0219area rezultatelor probei scrise \u0219i afi\u0219area rezultatelor finale ale admiterii?",
+        "id": 294,
+        "question": "Care sunt diferențele dintre afișarea rezultatelor probei scrise și afișarea rezultatelor finale ale admiterii?",
         "type": "comparative",
         "category": "Calendar admitere"
     },
     {
-        "question": "Cu c\u00e2t timp \u00eenainte de proba scris\u0103 se afi\u0219eaz\u0103 repartizarea pe s\u0103li la admitere comparativ cu concursul Mate-Info?",
+        "id": 295,
+        "question": "Cu cât timp înainte de proba scrisă se afișează repartizarea pe săli la admitere comparativ cu concursul Mate-Info?",
         "type": "comparative",
         "category": "Calendar admitere"
     },
     {
-        "question": "Care este diferen\u021ba dintre perioada general\u0103 a sesiunii de admitere \u0219i perioada efectiv\u0103 de \u00eenscriere online?",
+        "id": 296,
+        "question": "Care este diferența dintre perioada generală a sesiunii de admitere și perioada efectivă de înscriere online?",
         "type": "comparative",
         "category": "Calendar admitere"
     },
     {
-        "question": "Cum difer\u0103 calendarul contesta\u021biilor la concursul Mate-Info fa\u021b\u0103 de cel al admiterii FMI UBB?",
+        "id": 297,
+        "question": "Cum diferă calendarul contestațiilor la concursul Mate-Info față de cel al admiterii FMI UBB?",
         "type": "comparative",
         "category": "Calendar admitere"
     },
     {
-        "question": "Care este diferen\u021ba dintre data concursului Mate-Info \u0219i data probei scrise de admitere?",
+        "id": 298,
+        "question": "Care este diferența dintre data concursului Mate-Info și data probei scrise de admitere?",
         "type": "comparative",
         "category": "Calendar admitere"
     },
     {
-        "question": "Cum difer\u0103 perioada de pre\u00eenscriere fa\u021b\u0103 de perioada oficial\u0103 de \u00eenscriere online?",
+        "id": 299,
+        "question": "Cum diferă perioada de preînscriere față de perioada oficială de înscriere online?",
         "type": "comparative",
         "category": "Calendar admitere"
     },
     {
-        "question": "Care este diferen\u021ba dintre momentul public\u0103rii rezultatelor probei scrise \u0219i momentul solu\u021bion\u0103rii contesta\u021biilor?",
+        "id": 300,
+        "question": "Care este diferența dintre momentul publicării rezultatelor probei scrise și momentul soluționării contestațiilor?",
         "type": "comparative",
         "category": "Calendar admitere"
     },
     {
-        "question": "Cum difer\u0103 etapele organizate \u00eenainte de examen \u00een cadrul concursului Mate-Info fa\u021b\u0103 de admiterea standard?",
+        "id": 301,
+        "question": "Cum diferă etapele organizate înainte de examen în cadrul concursului Mate-Info față de admiterea standard?",
         "type": "comparative",
         "category": "Calendar admitere"
     },
     {
-        "question": "Care este diferen\u021ba dintre termenul pentru contesta\u021biile privind \u00eenscrierea \u0219i termenul pentru contesta\u021biile la examen?",
+        "id": 302,
+        "question": "Care este diferența dintre termenul pentru contestațiile privind înscrierea și termenul pentru contestațiile la examen?",
         "type": "comparative",
         "category": "Calendar admitere"
     },
     {
-        "question": "Cum difer\u0103 calendarul sesiunii de admitere din iulie fa\u021b\u0103 de modific\u0103rile de finan\u021bare din septembrie?",
+        "id": 303,
+        "question": "Cum diferă calendarul sesiunii de admitere din iulie față de modificările de finanțare din septembrie?",
         "type": "comparative",
         "category": "Calendar admitere"
     },
     {
-        "question": "Care sunt diferen\u021bele dintre activit\u0103\u021bile programate pe 16 iulie 2026 \u0219i cele programate pe 18 iulie 2026?",
+        "id": 304,
+        "question": "Care sunt diferențele dintre activitățile programate pe 16 iulie 2026 și cele programate pe 18 iulie 2026?",
         "type": "comparative",
         "category": "Calendar admitere"
     },
     {
-        "question": "Ce etap\u0103 urmeaz\u0103 imediat dup\u0103 publicarea rezultatelor probei scrise?",
+        "id": 305,
+        "question": "Ce etapă urmează imediat după publicarea rezultatelor probei scrise?",
         "type": "temporal reasoning",
         "category": "Calendar admitere"
     },
     {
-        "question": "Ce se \u00eent\u00e2mpl\u0103 dup\u0103 expirarea perioadei de contesta\u021bii la examen?",
+        "id": 306,
+        "question": "Ce se întâmplă după expirarea perioadei de contestații la examen?",
         "type": "temporal reasoning",
         "category": "Calendar admitere"
     },
     {
-        "question": "Care este ultima activitate programat\u0103 \u00eenaintea probei scrise din 17 iulie 2026?",
+        "id": 307,
+        "question": "Care este ultima activitate programată înaintea probei scrise din 17 iulie 2026?",
         "type": "temporal reasoning",
         "category": "Calendar admitere"
     },
     {
-        "question": "Ce activitate are loc imediat dup\u0103 solu\u021bionarea contesta\u021biilor?",
+        "id": 308,
+        "question": "Ce activitate are loc imediat după soluționarea contestațiilor?",
         "type": "temporal reasoning",
         "category": "Calendar admitere"
     },
     {
-        "question": "Dup\u0103 afi\u0219area listelor finale \u0219i repartizarea pe s\u0103li, ce urmeaz\u0103 \u00een calendarul admiterii?",
+        "id": 309,
+        "question": "După afișarea listelor finale și repartizarea pe săli, ce urmează în calendarul admiterii?",
         "type": "temporal reasoning",
         "category": "Calendar admitere"
     },
     {
-        "question": "Ce etap\u0103 precede publicarea rezultatelor finale ale concursului Mate-Info?",
+        "id": 310,
+        "question": "Ce etapă precede publicarea rezultatelor finale ale concursului Mate-Info?",
         "type": "temporal reasoning",
         "category": "Calendar admitere"
     },
     {
-        "question": "Care este ordinea corect\u0103 dintre \u00eenscriere online, proba scris\u0103 \u0219i contesta\u021biile la examen?",
+        "id": 311,
+        "question": "Care este ordinea corectă dintre înscriere online, proba scrisă și contestațiile la examen?",
         "type": "temporal reasoning",
         "category": "Calendar admitere"
     },
     {
-        "question": "Ce activitate are loc \u00eenainte de afi\u0219area rezultatelor probei scrise?",
+        "id": 312,
+        "question": "Ce activitate are loc înainte de afișarea rezultatelor probei scrise?",
         "type": "temporal reasoning",
         "category": "Calendar admitere"
     },
     {
-        "question": "Dup\u0103 ce perioad\u0103 pot candida\u021bii respin\u0219i \u00een iulie solicita ocuparea unui loc cu tax\u0103 devenit liber?",
+        "id": 313,
+        "question": "După ce perioadă pot candidații respinși în iulie solicita ocuparea unui loc cu taxă devenit liber?",
         "type": "temporal reasoning",
         "category": "Calendar admitere"
     },
     {
-        "question": "Ce urmeaz\u0103 dup\u0103 perioada de pre\u00eenscriere \u00een cadrul admiterii FMI UBB 2026?",
+        "id": 314,
+        "question": "Ce urmează după perioada de preînscriere în cadrul admiterii FMI UBB 2026?",
         "type": "temporal reasoning",
         "category": "Calendar admitere"
     },
     {
-        "question": "Pot depune contesta\u021bie dup\u0103 expirarea termenului oficial de contesta\u021bii?",
+        "id": 315,
+        "question": "Pot depune contestație după expirarea termenului oficial de contestații?",
         "type": "constraint/rule",
         "category": "Calendar admitere"
     },
     {
+        "id": 316,
         "question": "Se poate contesta rezultatul unei probe orale pe baza notei primite?",
         "type": "constraint/rule",
         "category": "Calendar admitere"
     },
     {
-        "question": "Pot participa la redistribuirea locurilor bugetate dac\u0103 nu depun diploma de bacalaureat \u00een original p\u00e2n\u0103 la termenul stabilit?",
+        "id": 317,
+        "question": "Pot participa la redistribuirea locurilor bugetate dacă nu depun diploma de bacalaureat în original până la termenul stabilit?",
         "type": "constraint/rule",
         "category": "Calendar admitere"
     },
     {
-        "question": "Ce se \u00eent\u00e2mpl\u0103 dac\u0103 nu transmit documentele necesare pentru scutirea de tax\u0103 la momentul \u00eenscrierii?",
+        "id": 318,
+        "question": "Ce se întâmplă dacă nu transmit documentele necesare pentru scutirea de taxă la momentul înscrierii?",
         "type": "constraint/rule",
         "category": "Calendar admitere"
     },
     {
-        "question": "Pot beneficia de schimbarea formei de finan\u021bare dac\u0103 nu \u00eendeplinesc condi\u021biile de eligibilitate?",
+        "id": 319,
+        "question": "Pot beneficia de schimbarea formei de finanțare dacă nu îndeplinesc condițiile de eligibilitate?",
         "type": "constraint/rule",
         "category": "Calendar admitere"
     },
     {
-        "question": "Este permis accesul \u00een sala de examen dup\u0103 deschiderea subiectelor?",
+        "id": 320,
+        "question": "Este permis accesul în sala de examen după deschiderea subiectelor?",
         "type": "constraint/rule",
         "category": "Calendar admitere"
     },
     {
-        "question": "Pot solicita ocuparea unui loc cu tax\u0103 \u00een septembrie dac\u0103 media mea de admitere este sub 5?",
+        "id": 321,
+        "question": "Pot solicita ocuparea unui loc cu taxă în septembrie dacă media mea de admitere este sub 5?",
         "type": "constraint/rule",
         "category": "Calendar admitere"
     },
     {
-        "question": "Se poate face redistribuirea pe un loc bugetat la o alt\u0103 specializare dec\u00e2t cea la care am fost admis?",
+        "id": 322,
+        "question": "Se poate face redistribuirea pe un loc bugetat la o altă specializare decât cea la care am fost admis?",
         "type": "constraint/rule",
         "category": "Calendar admitere"
     },
     {
-        "question": "Pot depune mai multe dosare cu aceea\u0219i prim\u0103 op\u021biune din acela\u0219i domeniu?",
+        "id": 323,
+        "question": "Pot depune mai multe dosare cu aceeași primă opțiune din același domeniu?",
         "type": "constraint/rule",
         "category": "Calendar admitere"
     },
     {
-        "question": "Ce condi\u021bii trebuie \u00eendeplinite pentru ca nota de la concursul Mate-Info s\u0103 poat\u0103 fi folosit\u0103 la admitere?",
+        "id": 324,
+        "question": "Ce condiții trebuie îndeplinite pentru ca nota de la concursul Mate-Info să poată fi folosită la admitere?",
         "type": "constraint/rule",
         "category": "Calendar admitere"
     },
     {
-        "question": "C\u00e2nd se afi\u0219eaz\u0103 rezultatele?",
+        "id": 325,
+        "question": "Când se afișează rezultatele?",
         "type": "ambiguous",
         "category": "Calendar admitere"
     },
     {
-        "question": "P\u00e2n\u0103 c\u00e2nd trebuie trimise actele?",
+        "id": 326,
+        "question": "Până când trebuie trimise actele?",
         "type": "ambiguous",
         "category": "Calendar admitere"
     },
     {
+        "id": 327,
         "question": "Unde apar listele finale?",
         "type": "ambiguous",
         "category": "Calendar admitere"
     },
     {
-        "question": "C\u00e2nd are loc examenul?",
+        "id": 328,
+        "question": "Când are loc examenul?",
         "type": "ambiguous",
         "category": "Calendar admitere"
     },
     {
-        "question": "\u00cen ce perioad\u0103 se fac \u00eenscrierile?",
+        "id": 329,
+        "question": "În ce perioadă se fac înscrierile?",
         "type": "ambiguous",
         "category": "Calendar admitere"
     },
     {
-        "question": "C\u00e2t timp se pot depune contesta\u021biile?",
+        "id": 330,
+        "question": "Cât timp se pot depune contestațiile?",
         "type": "ambiguous",
         "category": "Calendar admitere"
     },
     {
-        "question": "C\u00e2nd trebuie confirmat locul?",
+        "id": 331,
+        "question": "Când trebuie confirmat locul?",
         "type": "ambiguous",
         "category": "Calendar admitere"
     },
     {
-        "question": "Ce urmeaz\u0103 dup\u0103 examen?",
+        "id": 332,
+        "question": "Ce urmează după examen?",
         "type": "ambiguous",
         "category": "Calendar admitere"
     },
     {
-        "question": "C\u00e2nd se face redistribuirea?",
+        "id": 333,
+        "question": "Când se face redistribuirea?",
         "type": "ambiguous",
         "category": "Calendar admitere"
     },
     {
-        "question": "\u00cen ce zi se afi\u0219eaz\u0103 repartizarea pe s\u0103li?",
+        "id": 334,
+        "question": "În ce zi se afișează repartizarea pe săli?",
         "type": "ambiguous",
         "category": "Calendar admitere"
     },
     {
-        "question": "Care este perioada de \u00eenscriere la Concursul Mate-Info UBB 2026?",
+        "id": 335,
+        "question": "Care este perioada de înscriere la Concursul Mate-Info UBB 2026?",
         "type": "factual",
         "category": "Concurs Mate-Info UBB"
     },
     {
-        "question": "\u00cen ce dat\u0103 are loc Concursul Mate-Info UBB 2026?",
+        "id": 336,
+        "question": "În ce dată are loc Concursul Mate-Info UBB 2026?",
         "type": "factual",
         "category": "Concurs Mate-Info UBB"
     },
     {
-        "question": "La ce or\u0103 \u00eencepe concursul Mate-Info UBB?",
+        "id": 337,
+        "question": "La ce oră începe concursul Mate-Info UBB?",
         "type": "factual",
         "category": "Concurs Mate-Info UBB"
     },
     {
-        "question": "C\u00e2nd se afi\u0219eaz\u0103 rezultatele finale ale concursului?",
+        "id": 338,
+        "question": "Când se afișează rezultatele finale ale concursului?",
         "type": "factual",
         "category": "Concurs Mate-Info UBB"
     },
     {
+        "id": 339,
         "question": "Cine poate participa la Concursul Mate-Info UBB?",
         "type": "factual",
         "category": "Concurs Mate-Info UBB"
     },
     {
-        "question": "Ce durat\u0103 are proba din cadrul concursului?",
+        "id": 340,
+        "question": "Ce durată are proba din cadrul concursului?",
         "type": "factual",
         "category": "Concurs Mate-Info UBB"
     },
     {
-        "question": "La ce discipline poate fi sus\u021binut concursul?",
+        "id": 341,
+        "question": "La ce discipline poate fi susținut concursul?",
         "type": "factual",
         "category": "Concurs Mate-Info UBB"
     },
     {
-        "question": "C\u00e2te \u00eentreb\u0103ri con\u021bine proba de concurs?",
+        "id": 342,
+        "question": "Câte întrebări conține proba de concurs?",
         "type": "factual",
         "category": "Concurs Mate-Info UBB"
     },
     {
-        "question": "\u00cen ce limbi sunt disponibile subiectele la concurs?",
+        "id": 343,
+        "question": "În ce limbi sunt disponibile subiectele la concurs?",
         "type": "factual",
         "category": "Concurs Mate-Info UBB"
     },
     {
+        "id": 344,
         "question": "Care este taxa de participare la Concursul Mate-Info UBB 2026?",
         "type": "factual",
         "category": "Concurs Mate-Info UBB"
     },
     {
-        "question": "Cum se achit\u0103 taxa de participare la concurs?",
+        "id": 345,
+        "question": "Cum se achită taxa de participare la concurs?",
         "type": "factual",
         "category": "Concurs Mate-Info UBB"
     },
     {
-        "question": "Exist\u0103 scutiri de tax\u0103 pentru concursul Mate-Info UBB?",
+        "id": 346,
+        "question": "Există scutiri de taxă pentru concursul Mate-Info UBB?",
         "type": "factual",
         "category": "Concurs Mate-Info UBB"
     },
     {
-        "question": "Ce condi\u021bie trebuie s\u0103 \u00eendeplineasc\u0103 nota de la concurs pentru a putea fi folosit\u0103 la admitere?",
+        "id": 347,
+        "question": "Ce condiție trebuie să îndeplinească nota de la concurs pentru a putea fi folosită la admitere?",
         "type": "factual",
         "category": "Concurs Mate-Info UBB"
     },
     {
-        "question": "Ce primesc candida\u021bii care ob\u021bin una dintre primele 10 note de minimum 9 la informatic\u0103?",
+        "id": 348,
+        "question": "Ce primesc candidații care obțin una dintre primele 10 note de minimum 9 la informatică?",
         "type": "factual",
         "category": "Concurs Mate-Info UBB"
     },
     {
-        "question": "Ce primesc candida\u021bii care ob\u021bin una dintre primele 10 note de minimum 9 la matematic\u0103?",
+        "id": 349,
+        "question": "Ce primesc candidații care obțin una dintre primele 10 note de minimum 9 la matematică?",
         "type": "factual",
         "category": "Concurs Mate-Info UBB"
     },
     {
-        "question": "Ce se \u00eent\u00e2mpl\u0103 dac\u0103 un candidat particip\u0103 at\u00e2t la concurs, c\u00e2t \u0219i la examenul de admitere?",
+        "id": 350,
+        "question": "Ce se întâmplă dacă un candidat participă atât la concurs, cât și la examenul de admitere?",
         "type": "factual",
         "category": "Concurs Mate-Info UBB"
     },
     {
-        "question": "Cum se calculeaz\u0103 media de admitere \u00een varianta standard?",
+        "id": 351,
+        "question": "Cum se calculează media de admitere în varianta standard?",
         "type": "factual",
         "category": "Concurs Mate-Info UBB"
     },
     {
-        "question": "Cum se calculeaz\u0103 media de admitere pentru candida\u021bii din Categoria B?",
+        "id": 352,
+        "question": "Cum se calculează media de admitere pentru candidații din Categoria B?",
         "type": "factual",
         "category": "Concurs Mate-Info UBB"
     },
     {
-        "question": "\u00cen ce perioad\u0103 pot fi depuse contesta\u021biile pentru concurs?",
+        "id": 353,
+        "question": "În ce perioadă pot fi depuse contestațiile pentru concurs?",
         "type": "factual",
         "category": "Concurs Mate-Info UBB"
     },
     {
-        "question": "C\u00e2nd are loc afi\u0219area listelor finale \u0219i repartizarea pe s\u0103li pentru concurs?",
+        "id": 354,
+        "question": "Când are loc afișarea listelor finale și repartizarea pe săli pentru concurs?",
         "type": "factual",
         "category": "Concurs Mate-Info UBB"
     },
     {
-        "question": "Dac\u0103 particip la Concursul Mate-Info UBB \u0219i apoi sus\u021bin \u0219i examenul de admitere, care dintre note va fi folosit\u0103 la calculul mediei?",
+        "id": 355,
+        "question": "Dacă particip la Concursul Mate-Info UBB și apoi susțin și examenul de admitere, care dintre note va fi folosită la calculul mediei?",
         "type": "multi-hop",
         "category": "Concurs Mate-Info UBB"
     },
     {
-        "question": "Care este perioada de \u00eenscriere la concurs \u0219i c\u00e2nd se afi\u0219eaz\u0103 repartizarea pe s\u0103li?",
+        "id": 356,
+        "question": "Care este perioada de înscriere la concurs și când se afișează repartizarea pe săli?",
         "type": "multi-hop",
         "category": "Concurs Mate-Info UBB"
     },
     {
-        "question": "Ce condi\u021bii trebuie s\u0103 \u00eendeplineasc\u0103 nota ob\u021binut\u0103 la concurs pentru a putea \u00eenlocui nota de la proba scris\u0103 de admitere?",
+        "id": 357,
+        "question": "Ce condiții trebuie să îndeplinească nota obținută la concurs pentru a putea înlocui nota de la proba scrisă de admitere?",
         "type": "multi-hop",
         "category": "Concurs Mate-Info UBB"
     },
     {
-        "question": "Ce beneficii primesc candida\u021bii care ob\u021bin una dintre primele 10 note de minimum 9 \u0219i la ce discipline se aplic\u0103 aceast\u0103 facilitate?",
+        "id": 358,
+        "question": "Ce beneficii primesc candidații care obțin una dintre primele 10 note de minimum 9 și la ce discipline se aplică această facilitate?",
         "type": "multi-hop",
         "category": "Concurs Mate-Info UBB"
     },
     {
-        "question": "Cum se calculeaz\u0103 media de admitere pentru Categoria B dac\u0103 un candidat particip\u0103 at\u00e2t la concurs, c\u00e2t \u0219i la examenul de admitere?",
+        "id": 359,
+        "question": "Cum se calculează media de admitere pentru Categoria B dacă un candidat participă atât la concurs, cât și la examenul de admitere?",
         "type": "multi-hop",
         "category": "Concurs Mate-Info UBB"
     },
     {
-        "question": "Ce asem\u0103n\u0103ri exist\u0103 \u00eentre structura Concursului Mate-Info UBB \u0219i structura examenului de admitere?",
+        "id": 360,
+        "question": "Ce asemănări există între structura Concursului Mate-Info UBB și structura examenului de admitere?",
         "type": "multi-hop",
         "category": "Concurs Mate-Info UBB"
     },
     {
-        "question": "Care este durata concursului, c\u00e2te \u00eentreb\u0103ri con\u021bine \u0219i \u00een ce limbi pot fi consultate subiectele?",
+        "id": 361,
+        "question": "Care este durata concursului, câte întrebări conține și în ce limbi pot fi consultate subiectele?",
         "type": "multi-hop",
         "category": "Concurs Mate-Info UBB"
     },
     {
-        "question": "Cine poate participa la concurs \u0219i prin ce modalitate se achit\u0103 taxa de participare?",
+        "id": 362,
+        "question": "Cine poate participa la concurs și prin ce modalitate se achită taxa de participare?",
         "type": "multi-hop",
         "category": "Concurs Mate-Info UBB"
     },
     {
-        "question": "Dac\u0103 ob\u021bin o not\u0103 sub 6 la concurs, mai poate fi utilizat\u0103 aceasta la admitere?",
+        "id": 363,
+        "question": "Dacă obțin o notă sub 6 la concurs, mai poate fi utilizată aceasta la admitere?",
         "type": "multi-hop",
         "category": "Concurs Mate-Info UBB"
     },
     {
-        "question": "C\u00e2nd se afi\u0219eaz\u0103 rezultatele concursului \u0219i \u00een ce interval pot fi depuse contesta\u021biile?",
+        "id": 364,
+        "question": "Când se afișează rezultatele concursului și în ce interval pot fi depuse contestațiile?",
         "type": "multi-hop",
         "category": "Concurs Mate-Info UBB"
     },
     {
-        "question": "Ce prob\u0103 poate alege un candidat la concurs \u0219i ce facilitate prime\u0219te dac\u0103 ob\u021bine una dintre cele mai bune note?",
+        "id": 365,
+        "question": "Ce probă poate alege un candidat la concurs și ce facilitate primește dacă obține una dintre cele mai bune note?",
         "type": "multi-hop",
         "category": "Concurs Mate-Info UBB"
     },
     {
-        "question": "Care este diferen\u021ba dintre formula de calcul a mediei pentru varianta standard \u0219i cea pentru Categoria B?",
+        "id": 366,
+        "question": "Care este diferența dintre formula de calcul a mediei pentru varianta standard și cea pentru Categoria B?",
         "type": "multi-hop",
         "category": "Concurs Mate-Info UBB"
     },
     {
-        "question": "Dac\u0103 un candidat ob\u021bine nota 9 la concurs \u0219i o not\u0103 mai mare la examenul de admitere, ce not\u0103 se ia \u00een considerare?",
+        "id": 367,
+        "question": "Dacă un candidat obține nota 9 la concurs și o notă mai mare la examenul de admitere, ce notă se ia în considerare?",
         "type": "multi-hop",
         "category": "Concurs Mate-Info UBB"
     },
     {
-        "question": "\u00cen ce mod poate influen\u021ba Concursul Mate-Info UBB rezultatul final al admiterii la FMI UBB?",
+        "id": 368,
+        "question": "În ce mod poate influența Concursul Mate-Info UBB rezultatul final al admiterii la FMI UBB?",
         "type": "multi-hop",
         "category": "Concurs Mate-Info UBB"
     },
     {
-        "question": "Care sunt etapele principale ale concursului, de la \u00eenscriere p\u00e2n\u0103 la publicarea rezultatelor finale?",
+        "id": 369,
+        "question": "Care sunt etapele principale ale concursului, de la înscriere până la publicarea rezultatelor finale?",
         "type": "multi-hop",
         "category": "Concurs Mate-Info UBB"
     },
     {
-        "question": "Ce tip de prob\u0103 se sus\u021bine la concurs \u0219i ce structur\u0103 are aceasta?",
+        "id": 370,
+        "question": "Ce tip de probă se susține la concurs și ce structură are aceasta?",
         "type": "multi-hop",
         "category": "Concurs Mate-Info UBB"
     },
     {
-        "question": "Dac\u0103 aleg s\u0103 sus\u021bin concursul la informatic\u0103, \u00een ce limbi pot primi subiectele?",
+        "id": 371,
+        "question": "Dacă aleg să susțin concursul la informatică, în ce limbi pot primi subiectele?",
         "type": "multi-hop",
         "category": "Concurs Mate-Info UBB"
     },
     {
-        "question": "Care sunt condi\u021biile pentru a primi nota 10 la proba de admitere prin rezultatele ob\u021binute la concurs?",
+        "id": 372,
+        "question": "Care sunt condițiile pentru a primi nota 10 la proba de admitere prin rezultatele obținute la concurs?",
         "type": "multi-hop",
         "category": "Concurs Mate-Info UBB"
     },
     {
-        "question": "Ce se \u00eent\u00e2mpl\u0103 cu nota de la concurs dac\u0103 un candidat sus\u021bine ulterior \u0219i examenul oficial de admitere?",
+        "id": 373,
+        "question": "Ce se întâmplă cu nota de la concurs dacă un candidat susține ulterior și examenul oficial de admitere?",
         "type": "multi-hop",
         "category": "Concurs Mate-Info UBB"
     },
     {
-        "question": "Care este taxa de participare la concurs \u0219i exist\u0103 posibilitatea ob\u021binerii unei scutiri?",
+        "id": 374,
+        "question": "Care este taxa de participare la concurs și există posibilitatea obținerii unei scutiri?",
         "type": "multi-hop",
         "category": "Concurs Mate-Info UBB"
     },
     {
-        "question": "Care este diferen\u021ba dintre Concursul Mate-Info UBB \u0219i examenul de admitere \u00een ceea ce prive\u0219te utilizarea notei finale?",
+        "id": 375,
+        "question": "Care este diferența dintre Concursul Mate-Info UBB și examenul de admitere în ceea ce privește utilizarea notei finale?",
         "type": "comparative",
         "category": "Concurs Mate-Info UBB"
     },
     {
-        "question": "Cum difer\u0103 formula de calcul a mediei pentru varianta standard fa\u021b\u0103 de Categoria B?",
+        "id": 376,
+        "question": "Cum diferă formula de calcul a mediei pentru varianta standard față de Categoria B?",
         "type": "comparative",
         "category": "Concurs Mate-Info UBB"
     },
     {
-        "question": "Ce diferen\u021b\u0103 exist\u0103 \u00eentre facilitatea prin care prime\u0219ti nota 10 \u0219i facilitatea prin care nota concursului \u00eenlocuie\u0219te nota de admitere?",
+        "id": 377,
+        "question": "Ce diferență există între facilitatea prin care primești nota 10 și facilitatea prin care nota concursului înlocuiește nota de admitere?",
         "type": "comparative",
         "category": "Concurs Mate-Info UBB"
     },
     {
-        "question": "Cum difer\u0103 condi\u021biile pentru candida\u021bii care ob\u021bin una dintre primele 10 note la matematic\u0103 fa\u021b\u0103 de cei de la informatic\u0103?",
+        "id": 378,
+        "question": "Cum diferă condițiile pentru candidații care obțin una dintre primele 10 note la matematică față de cei de la informatică?",
         "type": "comparative",
         "category": "Concurs Mate-Info UBB"
     },
     {
-        "question": "Care sunt diferen\u021bele dintre concursul Mate-Info \u0219i examenul de admitere \u00een privin\u021ba calendarului?",
+        "id": 379,
+        "question": "Care sunt diferențele dintre concursul Mate-Info și examenul de admitere în privința calendarului?",
         "type": "comparative",
         "category": "Concurs Mate-Info UBB"
     },
     {
-        "question": "Ce diferen\u021b\u0103 exist\u0103 \u00eentre participarea la concurs \u0219i participarea direct\u0103 la examenul de admitere?",
+        "id": 380,
+        "question": "Ce diferență există între participarea la concurs și participarea directă la examenul de admitere?",
         "type": "comparative",
         "category": "Concurs Mate-Info UBB"
     },
     {
-        "question": "Cum se compar\u0103 structura concursului cu structura probei scrise de admitere?",
+        "id": 381,
+        "question": "Cum se compară structura concursului cu structura probei scrise de admitere?",
         "type": "comparative",
         "category": "Concurs Mate-Info UBB"
     },
     {
-        "question": "Care este diferen\u021ba dintre nota minim\u0103 necesar\u0103 pentru utilizarea rezultatului la admitere \u0219i nota necesar\u0103 pentru ob\u021binerea facilit\u0103\u021bii de nota 10?",
+        "id": 382,
+        "question": "Care este diferența dintre nota minimă necesară pentru utilizarea rezultatului la admitere și nota necesară pentru obținerea facilității de nota 10?",
         "type": "comparative",
         "category": "Concurs Mate-Info UBB"
     },
     {
-        "question": "Ce diferen\u021be exist\u0103 \u00eentre varianta standard \u0219i Categoria A \u00een calculul mediei de admitere?",
+        "id": 383,
+        "question": "Ce diferențe există între varianta standard și Categoria A în calculul mediei de admitere?",
         "type": "comparative",
         "category": "Concurs Mate-Info UBB"
     },
     {
-        "question": "Cum difer\u0103 regulile de utilizare a notei pentru candida\u021bii care particip\u0103 doar la concurs fa\u021b\u0103 de cei care particip\u0103 \u0219i la examenul de admitere?",
+        "id": 384,
+        "question": "Cum diferă regulile de utilizare a notei pentru candidații care participă doar la concurs față de cei care participă și la examenul de admitere?",
         "type": "comparative",
         "category": "Concurs Mate-Info UBB"
     },
     {
-        "question": "Care este diferen\u021ba dintre perioada de \u00eenscriere \u0219i perioada de contesta\u021bii pentru concurs?",
+        "id": 385,
+        "question": "Care este diferența dintre perioada de înscriere și perioada de contestații pentru concurs?",
         "type": "comparative",
         "category": "Concurs Mate-Info UBB"
     },
     {
-        "question": "Cum difer\u0103 condi\u021biile de participare pentru elevii de clasa a XI-a fa\u021b\u0103 de absolven\u021bii de liceu?",
+        "id": 386,
+        "question": "Cum diferă condițiile de participare pentru elevii de clasa a XI-a față de absolvenții de liceu?",
         "type": "comparative",
         "category": "Concurs Mate-Info UBB"
     },
     {
-        "question": "Care este diferen\u021ba dintre concursul sus\u021binut la matematic\u0103 \u0219i cel sus\u021binut la informatic\u0103 \u00een ceea ce prive\u0219te facilit\u0103\u021bile acordate?",
+        "id": 387,
+        "question": "Care este diferența dintre concursul susținut la matematică și cel susținut la informatică în ceea ce privește facilitățile acordate?",
         "type": "comparative",
         "category": "Concurs Mate-Info UBB"
     },
     {
-        "question": "Ce diferen\u021b\u0103 exist\u0103 \u00eentre rezultatele afi\u0219ate ini\u021bial \u0219i rezultatele finale ale concursului?",
+        "id": 388,
+        "question": "Ce diferență există între rezultatele afișate inițial și rezultatele finale ale concursului?",
         "type": "comparative",
         "category": "Concurs Mate-Info UBB"
     },
     {
-        "question": "Cum se compar\u0103 taxa de participare la Concursul Mate-Info UBB cu taxele din procesul de admitere?",
+        "id": 389,
+        "question": "Cum se compară taxa de participare la Concursul Mate-Info UBB cu taxele din procesul de admitere?",
         "type": "comparative",
         "category": "Concurs Mate-Info UBB"
     },
     {
-        "question": "Pot folosi nota de la Concursul Mate-Info UBB la admitere dac\u0103 am ob\u021binut mai pu\u021bin de 6?",
+        "id": 390,
+        "question": "Pot folosi nota de la Concursul Mate-Info UBB la admitere dacă am obținut mai puțin de 6?",
         "type": "constraint/rule",
         "category": "Concurs Mate-Info UBB"
     },
     {
-        "question": "Pot beneficia de nota 10 la admitere dac\u0103 am ob\u021binut 8,90 la concurs?",
+        "id": 391,
+        "question": "Pot beneficia de nota 10 la admitere dacă am obținut 8,90 la concurs?",
         "type": "constraint/rule",
         "category": "Concurs Mate-Info UBB"
     },
     {
-        "question": "Dac\u0103 particip at\u00e2t la concurs, c\u00e2t \u0219i la examenul de admitere, se poate folosi nota mai mic\u0103?",
+        "id": 392,
+        "question": "Dacă particip atât la concurs, cât și la examenul de admitere, se poate folosi nota mai mică?",
         "type": "constraint/rule",
         "category": "Concurs Mate-Info UBB"
     },
     {
-        "question": "Exist\u0103 posibilitatea de scutire de tax\u0103 pentru participarea la concurs?",
+        "id": 393,
+        "question": "Există posibilitatea de scutire de taxă pentru participarea la concurs?",
         "type": "constraint/rule",
         "category": "Concurs Mate-Info UBB"
     },
     {
-        "question": "Pot participa la concurs dac\u0103 sunt elev \u00een clasa a XI-a?",
+        "id": 394,
+        "question": "Pot participa la concurs dacă sunt elev în clasa a XI-a?",
         "type": "constraint/rule",
         "category": "Concurs Mate-Info UBB"
     },
     {
-        "question": "Pot participa la Concursul Mate-Info UBB dac\u0103 am absolvit deja liceul?",
+        "id": 395,
+        "question": "Pot participa la Concursul Mate-Info UBB dacă am absolvit deja liceul?",
         "type": "constraint/rule",
         "category": "Concurs Mate-Info UBB"
     },
     {
-        "question": "Dac\u0103 aleg subiectele \u00een englez\u0103, concursul se sus\u021bine tot la matematic\u0103 sau informatic\u0103?",
+        "id": 396,
+        "question": "Dacă aleg subiectele în engleză, concursul se susține tot la matematică sau informatică?",
         "type": "constraint/rule",
         "category": "Concurs Mate-Info UBB"
     },
     {
-        "question": "Pot primi nota 10 la admitere f\u0103r\u0103 s\u0103 fiu \u00een primele 10 rezultate ale concursului?",
+        "id": 397,
+        "question": "Pot primi nota 10 la admitere fără să fiu în primele 10 rezultate ale concursului?",
         "type": "constraint/rule",
         "category": "Concurs Mate-Info UBB"
     },
     {
-        "question": "Este obligatoriu ca nota de minimum 9 s\u0103 fie ob\u021binut\u0103 la matematic\u0103 sau informatic\u0103 pentru acordarea facilit\u0103\u021bii de nota 10?",
+        "id": 398,
+        "question": "Este obligatoriu ca nota de minimum 9 să fie obținută la matematică sau informatică pentru acordarea facilității de nota 10?",
         "type": "constraint/rule",
         "category": "Concurs Mate-Info UBB"
     },
     {
-        "question": "Dac\u0103 sus\u021bin at\u00e2t concursul, c\u00e2t \u0219i examenul de admitere, media final\u0103 se calculeaz\u0103 folosind ambele note simultan?",
+        "id": 399,
+        "question": "Dacă susțin atât concursul, cât și examenul de admitere, media finală se calculează folosind ambele note simultan?",
         "type": "constraint/rule",
         "category": "Concurs Mate-Info UBB"
     },
     {
-        "question": "C\u00e2nd se afi\u0219eaz\u0103 rezultatele?",
+        "id": 400,
+        "question": "Când se afișează rezultatele?",
         "type": "ambiguous",
         "category": "Concurs Mate-Info UBB"
     },
     {
-        "question": "Nota de acolo poate fi folosit\u0103 mai t\u00e2rziu?",
+        "id": 401,
+        "question": "Nota de acolo poate fi folosită mai târziu?",
         "type": "ambiguous",
         "category": "Concurs Mate-Info UBB"
     },
     {
-        "question": "Se poate participa \u0219i dac\u0103 am terminat deja liceul?",
+        "id": 402,
+        "question": "Se poate participa și dacă am terminat deja liceul?",
         "type": "ambiguous",
         "category": "Concurs Mate-Info UBB"
     },
     {
-        "question": "Exist\u0103 tax\u0103 pentru concurs?",
+        "id": 403,
+        "question": "Există taxă pentru concurs?",
         "type": "ambiguous",
         "category": "Concurs Mate-Info UBB"
     },
     {
-        "question": "\u00cen ce limb\u0103 pot da proba?",
+        "id": 404,
+        "question": "În ce limbă pot da proba?",
         "type": "ambiguous",
         "category": "Concurs Mate-Info UBB"
     },
     {
-        "question": "Dac\u0103 iau not\u0103 mare, primesc vreun avantaj?",
+        "id": 405,
+        "question": "Dacă iau notă mare, primesc vreun avantaj?",
         "type": "ambiguous",
         "category": "Concurs Mate-Info UBB"
     },
     {
-        "question": "C\u00e2t dureaz\u0103 examenul acesta?",
+        "id": 406,
+        "question": "Cât durează examenul acesta?",
         "type": "ambiguous",
         "category": "Concurs Mate-Info UBB"
     },
     {
-        "question": "Se poate face contesta\u021bie?",
+        "id": 407,
+        "question": "Se poate face contestație?",
         "type": "ambiguous",
         "category": "Concurs Mate-Info UBB"
     },
     {
-        "question": "Care not\u0103 conteaz\u0103 p\u00e2n\u0103 la urm\u0103?",
+        "id": 408,
+        "question": "Care notă contează până la urmă?",
         "type": "ambiguous",
         "category": "Concurs Mate-Info UBB"
     },
     {
-        "question": "Trebuie s\u0103 m\u0103 \u00eenscriu online?",
+        "id": 409,
+        "question": "Trebuie să mă înscriu online?",
         "type": "ambiguous",
         "category": "Concurs Mate-Info UBB"
     },
     {
-        "question": "Ce documente sunt obligatorii pentru \u00eenscriere la FMI UBB?",
+        "id": 410,
+        "question": "Ce documente sunt obligatorii pentru înscriere la FMI UBB?",
         "type": "factual",
         "category": "Acte necesare"
     },
     {
-        "question": "Este necesar\u0103 diploma de bacalaureat la \u00eenscriere?",
+        "id": 411,
+        "question": "Este necesară diploma de bacalaureat la înscriere?",
         "type": "factual",
         "category": "Acte necesare"
     },
     {
-        "question": "Cum trebuie \u00eenc\u0103rcat\u0103 diploma de bacalaureat pe platform\u0103?",
+        "id": 412,
+        "question": "Cum trebuie încărcată diploma de bacalaureat pe platformă?",
         "type": "factual",
         "category": "Acte necesare"
     },
     {
-        "question": "Ce informa\u021bii trebuie s\u0103 apar\u0103 pe diploma de bacalaureat?",
+        "id": 413,
+        "question": "Ce informații trebuie să apară pe diploma de bacalaureat?",
         "type": "factual",
         "category": "Acte necesare"
     },
     {
-        "question": "Pot absolven\u021bii promo\u021biei 2026 s\u0103 depun\u0103 adeverin\u021b\u0103 \u00een locul diplomei?",
+        "id": 414,
+        "question": "Pot absolvenții promoției 2026 să depună adeverință în locul diplomei?",
         "type": "factual",
         "category": "Acte necesare"
     },
     {
-        "question": "Ce trebuie s\u0103 con\u021bin\u0103 adeverin\u021ba pentru absolven\u021bii promo\u021biei curente?",
+        "id": 415,
+        "question": "Ce trebuie să conțină adeverința pentru absolvenții promoției curente?",
         "type": "factual",
         "category": "Acte necesare"
     },
     {
-        "question": "Este obligatorie foaia matricol\u0103 la \u00eenscriere?",
+        "id": 416,
+        "question": "Este obligatorie foaia matricolă la înscriere?",
         "type": "factual",
         "category": "Acte necesare"
     },
     {
-        "question": "\u00cen ce situa\u021bii trebuie depus certificatul de c\u0103s\u0103torie?",
+        "id": 417,
+        "question": "În ce situații trebuie depus certificatul de căsătorie?",
         "type": "factual",
         "category": "Acte necesare"
     },
     {
-        "question": "Ce tip de adeverin\u021b\u0103 medical\u0103 este acceptat\u0103?",
+        "id": 418,
+        "question": "Ce tip de adeverință medicală este acceptată?",
         "type": "factual",
         "category": "Acte necesare"
     },
     {
-        "question": "Cu c\u00e2t timp \u00eenainte de \u00eenscriere poate fi emis\u0103 adeverin\u021ba medical\u0103?",
+        "id": 419,
+        "question": "Cu cât timp înainte de înscriere poate fi emisă adeverința medicală?",
         "type": "factual",
         "category": "Acte necesare"
     },
     {
-        "question": "Cine poate elibera adeverin\u021ba medical\u0103 necesar\u0103 pentru admitere?",
+        "id": 420,
+        "question": "Cine poate elibera adeverința medicală necesară pentru admitere?",
         "type": "factual",
         "category": "Acte necesare"
     },
     {
-        "question": "Este necesar\u0103 legalizarea copiilor documentelor?",
+        "id": 421,
+        "question": "Este necesară legalizarea copiilor documentelor?",
         "type": "factual",
         "category": "Acte necesare"
     },
     {
-        "question": "Ce documente trebuie s\u0103 depun\u0103 candida\u021bii care solicit\u0103 scutire de taxe?",
+        "id": 422,
+        "question": "Ce documente trebuie să depună candidații care solicită scutire de taxe?",
         "type": "factual",
         "category": "Acte necesare"
     },
     {
-        "question": "Ce document trebuie completat de candida\u021bii care au urmat deja o facultate?",
+        "id": 423,
+        "question": "Ce document trebuie completat de candidații care au urmat deja o facultate?",
         "type": "factual",
         "category": "Acte necesare"
     },
     {
-        "question": "Ce informa\u021bii se declar\u0103 \u00een Anexa 1?",
+        "id": 424,
+        "question": "Ce informații se declară în Anexa 1?",
         "type": "factual",
         "category": "Acte necesare"
     },
     {
-        "question": "Ce adeverin\u021be trebuie s\u0103 prezinte candida\u021bii care sunt deja studen\u021bi la alt\u0103 facultate?",
+        "id": 425,
+        "question": "Ce adeverințe trebuie să prezinte candidații care sunt deja studenți la altă facultate?",
         "type": "factual",
         "category": "Acte necesare"
     },
     {
-        "question": "Ce document suplimentar trebuie s\u0103 depun\u0103 cei care urmeaz\u0103 o a doua facultate?",
+        "id": 426,
+        "question": "Ce document suplimentar trebuie să depună cei care urmează o a doua facultate?",
         "type": "factual",
         "category": "Acte necesare"
     },
     {
-        "question": "Ce document trebuie prezentat dac\u0103 actele \u00een original sunt depuse la alt\u0103 institu\u021bie?",
+        "id": 427,
+        "question": "Ce document trebuie prezentat dacă actele în original sunt depuse la altă instituție?",
         "type": "factual",
         "category": "Acte necesare"
     },
     {
-        "question": "Ce trebuie s\u0103 fac\u0103 un candidat admis pentru confirmarea locului?",
+        "id": 428,
+        "question": "Ce trebuie să facă un candidat admis pentru confirmarea locului?",
         "type": "factual",
         "category": "Acte necesare"
     },
     {
-        "question": "Unde se realizeaz\u0103 \u00eenc\u0103rcarea documentelor pentru admitere?",
+        "id": 429,
+        "question": "Unde se realizează încărcarea documentelor pentru admitere?",
         "type": "factual",
         "category": "Acte necesare"
     },
     {
-        "question": "Ce documente trebuie \u00eenc\u0103rcate online \u0219i cum trebuie preg\u0103tit\u0103 diploma de bacalaureat pentru \u00eenscriere?",
+        "id": 430,
+        "question": "Ce documente trebuie încărcate online și cum trebuie pregătită diploma de bacalaureat pentru înscriere?",
         "type": "multi-hop",
         "category": "Acte necesare"
     },
     {
-        "question": "Ce acte trebuie depuse de un candidat care a urmat deja o facultate \u0219i dore\u0219te acum un loc la buget?",
+        "id": 431,
+        "question": "Ce acte trebuie depuse de un candidat care a urmat deja o facultate și dorește acum un loc la buget?",
         "type": "multi-hop",
         "category": "Acte necesare"
     },
     {
-        "question": "Ce documente sunt necesare pentru confirmarea locului dac\u0103 studentul este deja \u00eenscris la alt\u0103 universitate?",
+        "id": 432,
+        "question": "Ce documente sunt necesare pentru confirmarea locului dacă studentul este deja înscris la altă universitate?",
         "type": "multi-hop",
         "category": "Acte necesare"
     },
     {
-        "question": "Ce trebuie s\u0103 con\u021bin\u0103 adeverin\u021ba depus\u0103 de absolven\u021bii promo\u021biei 2026 \u0219i p\u00e2n\u0103 c\u00e2nd poate fi folosit\u0103?",
+        "id": 433,
+        "question": "Ce trebuie să conțină adeverința depusă de absolvenții promoției 2026 și până când poate fi folosită?",
         "type": "multi-hop",
         "category": "Acte necesare"
     },
     {
-        "question": "Ce documente sunt necesare pentru ob\u021binerea unei scutiri de tax\u0103 \u0219i c\u00e2nd trebuie depuse?",
+        "id": 434,
+        "question": "Ce documente sunt necesare pentru obținerea unei scutiri de taxă și când trebuie depuse?",
         "type": "multi-hop",
         "category": "Acte necesare"
     },
     {
-        "question": "Ce acte trebuie s\u0103 depun\u0103 un candidat cu studii universitare anterioare care a fost exmatriculat?",
+        "id": 435,
+        "question": "Ce acte trebuie să depună un candidat cu studii universitare anterioare care a fost exmatriculat?",
         "type": "multi-hop",
         "category": "Acte necesare"
     },
     {
-        "question": "Ce documente sunt necesare pentru \u00eenscriere \u0219i care dintre ele trebuie semnate?",
+        "id": 436,
+        "question": "Ce documente sunt necesare pentru înscriere și care dintre ele trebuie semnate?",
         "type": "multi-hop",
         "category": "Acte necesare"
     },
     {
-        "question": "Ce trebuie s\u0103 fac\u0103 un candidat cu studii efectuate \u00een str\u0103in\u0103tate pentru echivalare \u0219i cui poate cere informa\u021bii?",
+        "id": 437,
+        "question": "Ce trebuie să facă un candidat cu studii efectuate în străinătate pentru echivalare și cui poate cere informații?",
         "type": "multi-hop",
         "category": "Acte necesare"
     },
     {
-        "question": "Ce documente trebuie s\u0103 depun\u0103 un candidat admis pe loc cu tax\u0103 pentru a putea beneficia ulterior de redistribuire pe buget?",
+        "id": 438,
+        "question": "Ce documente trebuie să depună un candidat admis pe loc cu taxă pentru a putea beneficia ulterior de redistribuire pe buget?",
         "type": "multi-hop",
         "category": "Acte necesare"
     },
     {
-        "question": "Ce acte sunt necesare pentru \u00eenscriere \u0219i ce documente suplimentare trebuie prezentate pentru categorii speciale?",
+        "id": 439,
+        "question": "Ce acte sunt necesare pentru înscriere și ce documente suplimentare trebuie prezentate pentru categorii speciale?",
         "type": "multi-hop",
         "category": "Acte necesare"
     },
     {
-        "question": "Dac\u0103 un candidat dore\u0219te scutire de tax\u0103 \u0219i particip\u0103 la admiterea \u00een limba englez\u0103, ce documente trebuie s\u0103 preg\u0103teasc\u0103?",
+        "id": 440,
+        "question": "Dacă un candidat dorește scutire de taxă și participă la admiterea în limba engleză, ce documente trebuie să pregătească?",
         "type": "multi-hop",
         "category": "Acte necesare"
     },
     {
-        "question": "Ce documente trebuie \u00eenc\u0103rcate online la \u00eenscriere \u0219i ce acte trebuie prezentate ulterior \u00een original?",
+        "id": 441,
+        "question": "Ce documente trebuie încărcate online la înscriere și ce acte trebuie prezentate ulterior în original?",
         "type": "multi-hop",
         "category": "Acte necesare"
     },
     {
-        "question": "Ce trebuie s\u0103 fac\u0103 un candidat care nu are \u00eenc\u0103 diploma de bacalaureat \u0219i dore\u0219te s\u0103 confirme un loc dup\u0103 admitere?",
+        "id": 442,
+        "question": "Ce trebuie să facă un candidat care nu are încă diploma de bacalaureat și dorește să confirme un loc după admitere?",
         "type": "multi-hop",
         "category": "Acte necesare"
     },
     {
-        "question": "Ce documente trebuie s\u0103 con\u021bin\u0103 dosarul unui candidat care aplic\u0103 la o specializare \u00een limba german\u0103 f\u0103r\u0103 s\u0103 sus\u021bin\u0103 proba scris\u0103?",
+        "id": 443,
+        "question": "Ce documente trebuie să conțină dosarul unui candidat care aplică la o specializare în limba germană fără să susțină proba scrisă?",
         "type": "multi-hop",
         "category": "Acte necesare"
     },
     {
-        "question": "Ce acte trebuie prezentate de un candidat care urmeaz\u0103 o a doua facultate \u0219i este deja finan\u021bat de la buget?",
+        "id": 444,
+        "question": "Ce acte trebuie prezentate de un candidat care urmează o a doua facultate și este deja finanțat de la buget?",
         "type": "multi-hop",
         "category": "Acte necesare"
     },
     {
-        "question": "Ce documente trebuie s\u0103 preg\u0103teasc\u0103 un candidat pentru \u00eenscriere \u0219i ce restric\u021bii exist\u0103 privind autenticitatea acestora?",
+        "id": 445,
+        "question": "Ce documente trebuie să pregătească un candidat pentru înscriere și ce restricții există privind autenticitatea acestora?",
         "type": "multi-hop",
         "category": "Acte necesare"
     },
     {
-        "question": "Ce documente trebuie depuse pentru confirmarea locului \u0219i ce condi\u021bii exist\u0103 pentru candida\u021bii admi\u0219i la mai multe programe?",
+        "id": 446,
+        "question": "Ce documente trebuie depuse pentru confirmarea locului și ce condiții există pentru candidații admiși la mai multe programe?",
         "type": "multi-hop",
         "category": "Acte necesare"
     },
     {
-        "question": "Dac\u0103 un candidat solicit\u0103 scutire de tax\u0103 dup\u0103 finalizarea \u00eenscrierii, ce reguli se aplic\u0103 \u0219i ce documente trebuiau depuse ini\u021bial?",
+        "id": 447,
+        "question": "Dacă un candidat solicită scutire de taxă după finalizarea înscrierii, ce reguli se aplică și ce documente trebuiau depuse inițial?",
         "type": "multi-hop",
         "category": "Acte necesare"
     },
     {
-        "question": "Ce documente trebuie s\u0103 depun\u0103 un candidat provenit din str\u0103in\u0103tate care aplic\u0103 la o specializare \u00een limba englez\u0103?",
+        "id": 448,
+        "question": "Ce documente trebuie să depună un candidat provenit din străinătate care aplică la o specializare în limba engleză?",
         "type": "multi-hop",
         "category": "Acte necesare"
     },
     {
-        "question": "Ce documente trebuie prezentate de un candidat admis care dore\u0219te schimbarea formei de finan\u021bare de la tax\u0103 la buget?",
+        "id": 449,
+        "question": "Ce documente trebuie prezentate de un candidat admis care dorește schimbarea formei de finanțare de la taxă la buget?",
         "type": "multi-hop",
         "category": "Acte necesare"
     },
     {
-        "question": "Care este diferen\u021ba dintre documentele necesare pentru absolven\u021bii promo\u021biei 2026 \u0219i cele pentru absolven\u021bii din anii anteriori?",
+        "id": 450,
+        "question": "Care este diferența dintre documentele necesare pentru absolvenții promoției 2026 și cele pentru absolvenții din anii anteriori?",
         "type": "comparative",
         "category": "Acte necesare"
     },
     {
-        "question": "Ce diferen\u021b\u0103 exist\u0103 \u00eentre actele necesare pentru \u00eenscriere \u0219i cele necesare pentru confirmarea locului?",
+        "id": 451,
+        "question": "Ce diferență există între actele necesare pentru înscriere și cele necesare pentru confirmarea locului?",
         "type": "comparative",
         "category": "Acte necesare"
     },
     {
-        "question": "Prin ce se diferen\u021biaz\u0103 documentele solicitate candida\u021bilor cu studii universitare anterioare fa\u021b\u0103 de cele pentru candida\u021bii care nu au fost studen\u021bi?",
+        "id": 452,
+        "question": "Prin ce se diferențiază documentele solicitate candidaților cu studii universitare anterioare față de cele pentru candidații care nu au fost studenți?",
         "type": "comparative",
         "category": "Acte necesare"
     },
     {
-        "question": "Care este diferen\u021ba dintre adeverin\u021ba medical\u0103 \u0219i adeverin\u021ba-tip pentru absolven\u021bii promo\u021biei 2026?",
+        "id": 453,
+        "question": "Care este diferența dintre adeverința medicală și adeverința-tip pentru absolvenții promoției 2026?",
         "type": "comparative",
         "category": "Acte necesare"
     },
     {
-        "question": "Ce documente suplimentare trebuie s\u0103 depun\u0103 candida\u021bii care solicit\u0103 scutire de taxe comparativ cu ceilal\u021bi candida\u021bi?",
+        "id": 454,
+        "question": "Ce documente suplimentare trebuie să depună candidații care solicită scutire de taxe comparativ cu ceilalți candidați?",
         "type": "comparative",
         "category": "Acte necesare"
     },
     {
-        "question": "Cum difer\u0103 documentele necesare pentru candida\u021bii care au studiat \u00een Rom\u00e2nia fa\u021b\u0103 de cei cu studii efectuate \u00een str\u0103in\u0103tate?",
+        "id": 455,
+        "question": "Cum diferă documentele necesare pentru candidații care au studiat în România față de cei cu studii efectuate în străinătate?",
         "type": "comparative",
         "category": "Acte necesare"
     },
     {
-        "question": "Care este diferen\u021ba dintre documentele necesare pentru \u00eenscrierea online \u0219i documentele cerute la \u00eenmatriculare?",
+        "id": 456,
+        "question": "Care este diferența dintre documentele necesare pentru înscrierea online și documentele cerute la înmatriculare?",
         "type": "comparative",
         "category": "Acte necesare"
     },
     {
-        "question": "Ce diferen\u021be exist\u0103 \u00eentre actele necesare pentru candida\u021bii care urmeaz\u0103 o a doua facultate \u0219i cei care aplic\u0103 pentru prima facultate?",
+        "id": 457,
+        "question": "Ce diferențe există între actele necesare pentru candidații care urmează o a doua facultate și cei care aplică pentru prima facultate?",
         "type": "comparative",
         "category": "Acte necesare"
     },
     {
-        "question": "Cum difer\u0103 condi\u021biile privind diploma de bacalaureat pentru candida\u021bii admi\u0219i pe buget fa\u021b\u0103 de cei admi\u0219i la tax\u0103?",
+        "id": 458,
+        "question": "Cum diferă condițiile privind diploma de bacalaureat pentru candidații admiși pe buget față de cei admiși la taxă?",
         "type": "comparative",
         "category": "Acte necesare"
     },
     {
-        "question": "Ce diferen\u021b\u0103 exist\u0103 \u00eentre documentele necesare pentru scutirea de taxa de \u00eenscriere \u0219i cele pentru scutirea de taxa de admitere?",
+        "id": 459,
+        "question": "Ce diferență există între documentele necesare pentru scutirea de taxa de înscriere și cele pentru scutirea de taxa de admitere?",
         "type": "comparative",
         "category": "Acte necesare"
     },
     {
-        "question": "Cum difer\u0103 documentele necesare pentru candida\u021bii deja \u00eenscri\u0219i la alt\u0103 universitate fa\u021b\u0103 de cei care nu sunt studen\u021bi?",
+        "id": 460,
+        "question": "Cum diferă documentele necesare pentru candidații deja înscriși la altă universitate față de cei care nu sunt studenți?",
         "type": "comparative",
         "category": "Acte necesare"
     },
     {
-        "question": "Care este diferen\u021ba dintre copia certificat\u0103 conform cu originalul \u0219i depunerea actului \u00een original la confirmarea locului?",
+        "id": 461,
+        "question": "Care este diferența dintre copia certificată conform cu originalul și depunerea actului în original la confirmarea locului?",
         "type": "comparative",
         "category": "Acte necesare"
     },
     {
-        "question": "Ce documente difer\u0103 \u00eentre candida\u021bii care aleg specializ\u0103ri \u00een limba rom\u00e2n\u0103 \u0219i cei care aleg specializ\u0103ri \u00een limbi str\u0103ine?",
+        "id": 462,
+        "question": "Ce documente diferă între candidații care aleg specializări în limba română și cei care aleg specializări în limbi străine?",
         "type": "comparative",
         "category": "Acte necesare"
     },
     {
-        "question": "Cum difer\u0103 documentele necesare pentru candida\u021bii care sus\u021bin proba scris\u0103 \u00een englez\u0103 fa\u021b\u0103 de cei care nu sus\u021bin proba?",
+        "id": 463,
+        "question": "Cum diferă documentele necesare pentru candidații care susțin proba scrisă în engleză față de cei care nu susțin proba?",
         "type": "comparative",
         "category": "Acte necesare"
     },
     {
-        "question": "Ce diferen\u021be exist\u0103 \u00eentre documentele necesare pentru ob\u021binerea facilit\u0103\u021bilor speciale \u0219i cele pentru \u00eenscrierea standard?",
+        "id": 464,
+        "question": "Ce diferențe există între documentele necesare pentru obținerea facilităților speciale și cele pentru înscrierea standard?",
         "type": "comparative",
         "category": "Acte necesare"
     },
     {
-        "question": "C\u00e2nd trebuie depuse documentele justificative pentru scutirea de tax\u0103?",
+        "id": 465,
+        "question": "Când trebuie depuse documentele justificative pentru scutirea de taxă?",
         "type": "temporal reasoning",
         "category": "Acte necesare"
     },
     {
-        "question": "Ce documente trebuie depuse \u00eenainte de 31 august 2026 pentru schimbarea formei de finan\u021bare?",
+        "id": 466,
+        "question": "Ce documente trebuie depuse înainte de 31 august 2026 pentru schimbarea formei de finanțare?",
         "type": "temporal reasoning",
         "category": "Acte necesare"
     },
     {
-        "question": "Dup\u0103 afi\u0219area rezultatelor finale, c\u00e2nd trebuie depuse actele \u00een original pentru confirmarea locului?",
+        "id": 467,
+        "question": "După afișarea rezultatelor finale, când trebuie depuse actele în original pentru confirmarea locului?",
         "type": "temporal reasoning",
         "category": "Acte necesare"
     },
     {
-        "question": "Ce document poate depune un absolvent al promo\u021biei 2026 \u00eenainte de eliberarea diplomei de bacalaureat?",
+        "id": 468,
+        "question": "Ce document poate depune un absolvent al promoției 2026 înainte de eliberarea diplomei de bacalaureat?",
         "type": "temporal reasoning",
         "category": "Acte necesare"
     },
     {
-        "question": "C\u00e2nd trebuie emis\u0103 adeverin\u021ba medical\u0103 pentru a fi acceptat\u0103 la \u00eenscriere?",
+        "id": 469,
+        "question": "Când trebuie emisă adeverința medicală pentru a fi acceptată la înscriere?",
         "type": "temporal reasoning",
         "category": "Acte necesare"
     },
     {
-        "question": "Ce documente trebuie prezentate \u00eenainte de \u00eenceperea anului universitar pentru \u00eenmatriculare?",
+        "id": 470,
+        "question": "Ce documente trebuie prezentate înainte de începerea anului universitar pentru înmatriculare?",
         "type": "temporal reasoning",
         "category": "Acte necesare"
     },
     {
-        "question": "\u00cen ce moment al \u00eenscrierii trebuie \u00eenc\u0103rcate documentele justificative pentru facilit\u0103\u021bi?",
+        "id": 471,
+        "question": "În ce moment al înscrierii trebuie încărcate documentele justificative pentru facilități?",
         "type": "temporal reasoning",
         "category": "Acte necesare"
     },
     {
-        "question": "Ce documente trebuie preg\u0103tite \u00eenainte de perioada de \u00eenscriere online?",
+        "id": 472,
+        "question": "Ce documente trebuie pregătite înainte de perioada de înscriere online?",
         "type": "temporal reasoning",
         "category": "Acte necesare"
     },
     {
-        "question": "Dup\u0103 redistribuirea locurilor bugetate, ce acte trebuie s\u0103 fi fost deja depuse pentru schimbarea finan\u021b\u0103rii?",
+        "id": 473,
+        "question": "După redistribuirea locurilor bugetate, ce acte trebuie să fi fost deja depuse pentru schimbarea finanțării?",
         "type": "temporal reasoning",
         "category": "Acte necesare"
     },
     {
-        "question": "C\u00e2nd trebuie prezentat\u0103 adeverin\u021ba care confirm\u0103 existen\u021ba actului original la alt\u0103 institu\u021bie?",
+        "id": 474,
+        "question": "Când trebuie prezentată adeverința care confirmă existența actului original la altă instituție?",
         "type": "temporal reasoning",
         "category": "Acte necesare"
     },
     {
-        "question": "Pot beneficia de scutire de tax\u0103 dac\u0103 depun documentele justificative dup\u0103 finalizarea \u00eenscrierii?",
+        "id": 475,
+        "question": "Pot beneficia de scutire de taxă dacă depun documentele justificative după finalizarea înscrierii?",
         "type": "constraint/rule",
         "category": "Acte necesare"
     },
     {
-        "question": "Este acceptat\u0103 diploma de bacalaureat dac\u0103 nu con\u021bine nota la Matematic\u0103 sau Informatic\u0103?",
+        "id": 476,
+        "question": "Este acceptată diploma de bacalaureat dacă nu conține nota la Matematică sau Informatică?",
         "type": "constraint/rule",
         "category": "Acte necesare"
     },
     {
-        "question": "Pot confirma locul f\u0103r\u0103 s\u0103 depun actele \u00een original?",
+        "id": 477,
+        "question": "Pot confirma locul fără să depun actele în original?",
         "type": "constraint/rule",
         "category": "Acte necesare"
     },
     {
-        "question": "Ce se \u00eent\u00e2mpl\u0103 dac\u0103 un candidat \u00eencarc\u0103 documente false la \u00eenscriere?",
+        "id": 478,
+        "question": "Ce se întâmplă dacă un candidat încarcă documente false la înscriere?",
         "type": "constraint/rule",
         "category": "Acte necesare"
     },
     {
-        "question": "Este obligatoriu ca adeverin\u021ba medical\u0103 s\u0103 fie emis\u0103 cu cel mult 3 luni \u00eenainte de \u00eenscriere?",
+        "id": 479,
+        "question": "Este obligatoriu ca adeverința medicală să fie emisă cu cel mult 3 luni înainte de înscriere?",
         "type": "constraint/rule",
         "category": "Acte necesare"
     },
     {
-        "question": "Pot folosi o copie simpl\u0103 a diplomei dac\u0103 originalul este depus la alt\u0103 universitate?",
+        "id": 480,
+        "question": "Pot folosi o copie simplă a diplomei dacă originalul este depus la altă universitate?",
         "type": "constraint/rule",
         "category": "Acte necesare"
     },
     {
-        "question": "Se accept\u0103 documente nesemnate la \u00eenscrierea online?",
+        "id": 481,
+        "question": "Se acceptă documente nesemnate la înscrierea online?",
         "type": "constraint/rule",
         "category": "Acte necesare"
     },
     {
-        "question": "Pot solicita schimbarea formei de finan\u021bare dac\u0103 nu depun diploma de bacalaureat \u00een original p\u00e2n\u0103 la termenul stabilit?",
+        "id": 482,
+        "question": "Pot solicita schimbarea formei de finanțare dacă nu depun diploma de bacalaureat în original până la termenul stabilit?",
         "type": "constraint/rule",
         "category": "Acte necesare"
     },
     {
-        "question": "Este necesar certificat lingvistic dac\u0103 sus\u021bin proba scris\u0103 \u00een englez\u0103?",
+        "id": 483,
+        "question": "Este necesar certificat lingvistic dacă susțin proba scrisă în engleză?",
         "type": "constraint/rule",
         "category": "Acte necesare"
     },
     {
-        "question": "Pot beneficia de redistribuire pe loc bugetat dac\u0103 nu \u00eendeplinesc condi\u021biile de eligibilitate?",
+        "id": 484,
+        "question": "Pot beneficia de redistribuire pe loc bugetat dacă nu îndeplinesc condițiile de eligibilitate?",
         "type": "constraint/rule",
         "category": "Acte necesare"
     },
     {
-        "question": "Ce acte trebuie \u00eenc\u0103rcate?",
+        "id": 485,
+        "question": "Ce acte trebuie încărcate?",
         "type": "ambiguous",
         "category": "Acte necesare"
     },
     {
-        "question": "Diploma trebuie dus\u0103 \u00een original?",
+        "id": 486,
+        "question": "Diploma trebuie dusă în original?",
         "type": "ambiguous",
         "category": "Acte necesare"
     },
     {
-        "question": "Adeverin\u021ba aceea medical\u0103 de c\u00e2nd trebuie s\u0103 fie?",
+        "id": 487,
+        "question": "Adeverința aceea medicală de când trebuie să fie?",
         "type": "ambiguous",
         "category": "Acte necesare"
     },
     {
+        "id": 488,
         "question": "Unde trimit documentele?",
         "type": "ambiguous",
         "category": "Acte necesare"
     },
     {
-        "question": "Mai trebuie ceva dac\u0103 sunt deja student?",
+        "id": 489,
+        "question": "Mai trebuie ceva dacă sunt deja student?",
         "type": "ambiguous",
         "category": "Acte necesare"
     },
     {
+        "id": 490,
         "question": "Ce documente trebuie pentru scutire?",
         "type": "ambiguous",
         "category": "Acte necesare"
     },
     {
-        "question": "Se accept\u0103 copie sau trebuie originalul?",
+        "id": 491,
+        "question": "Se acceptă copie sau trebuie originalul?",
         "type": "ambiguous",
         "category": "Acte necesare"
     },
     {
+        "id": 492,
         "question": "Trebuie traduse actele?",
         "type": "ambiguous",
         "category": "Acte necesare"
     },
     {
-        "question": "Ce trebuie s\u0103 con\u021bin\u0103 adeverin\u021ba?",
+        "id": 493,
+        "question": "Ce trebuie să conțină adeverința?",
         "type": "ambiguous",
         "category": "Acte necesare"
     },
     {
-        "question": "Dac\u0103 nu am \u00eenc\u0103 diploma, ce depun?",
+        "id": 494,
+        "question": "Dacă nu am încă diploma, ce depun?",
         "type": "ambiguous",
         "category": "Acte necesare"
     },
     {
-        "question": "Exist\u0103 prob\u0103 oral\u0103 obligatorie la informatic\u0103 dup\u0103 examenul scris?",
+        "id": 495,
+        "question": "Există probă orală obligatorie la informatică după examenul scris?",
         "type": "hallucination trap",
         "category": "General"
     },
     {
-        "question": "Se poate sus\u021bine examenul de admitere online prin webcam?",
+        "id": 496,
+        "question": "Se poate susține examenul de admitere online prin webcam?",
         "type": "hallucination trap",
         "category": "General"
     },
     {
-        "question": "C\u00e2te puncte bonus se acord\u0103 pentru voluntariat la admitere?",
+        "id": 497,
+        "question": "Câte puncte bonus se acordă pentru voluntariat la admitere?",
         "type": "hallucination trap",
         "category": "General"
     },
     {
-        "question": "FMI UBB organizeaz\u0103 interviuri motiva\u021bionale pentru departajarea candida\u021bilor?",
+        "id": 498,
+        "question": "FMI UBB organizează interviuri motivaționale pentru departajarea candidaților?",
         "type": "hallucination trap",
         "category": "General"
     },
     {
-        "question": "Care este taxa pentru depunerea contesta\u021biilor la examen?",
+        "id": 499,
+        "question": "Care este taxa pentru depunerea contestațiilor la examen?",
         "type": "hallucination trap",
         "category": "General"
     },
     {
-        "question": "Se poate pl\u0103ti taxa de admitere cash la sediul facult\u0103\u021bii?",
+        "id": 500,
+        "question": "Se poate plăti taxa de admitere cash la sediul facultății?",
         "type": "hallucination trap",
         "category": "General"
     },
     {
-        "question": "Exist\u0103 reducere de 50% la taxa de admitere pentru elevii olimpici?",
+        "id": 501,
+        "question": "Există reducere de 50% la taxa de admitere pentru elevii olimpici?",
         "type": "hallucination trap",
         "category": "General"
     },
     {
-        "question": "Candida\u021bii pot modifica op\u021biunile dup\u0103 sus\u021binerea examenului scris?",
+        "id": 502,
+        "question": "Candidații pot modifica opțiunile după susținerea examenului scris?",
         "type": "hallucination trap",
         "category": "General"
     },
     {
-        "question": "Se organizeaz\u0103 sesiune special\u0103 de admitere \u00een luna august?",
+        "id": 503,
+        "question": "Se organizează sesiune specială de admitere în luna august?",
         "type": "hallucination trap",
         "category": "General"
     },
     {
-        "question": "Care este nota minim\u0103 la proba oral\u0103 pentru a intra la Informatic\u0103?",
+        "id": 504,
+        "question": "Care este nota minimă la proba orală pentru a intra la Informatică?",
         "type": "hallucination trap",
         "category": "General"
     },
     {
-        "question": "Examenul de admitere include subiecte de programare \u00een Python?",
+        "id": 505,
+        "question": "Examenul de admitere include subiecte de programare în Python?",
         "type": "hallucination trap",
         "category": "General"
     },
     {
-        "question": "Sunt acceptate calculatoare de buzunar la proba de matematic\u0103?",
+        "id": 506,
+        "question": "Sunt acceptate calculatoare de buzunar la proba de matematică?",
         "type": "hallucination trap",
         "category": "General"
     },
     {
-        "question": "Exist\u0103 subiecte separate pentru profilurile mate-info \u0219i \u0219tiin\u021be ale naturii?",
+        "id": 507,
+        "question": "Există subiecte separate pentru profilurile mate-info și științe ale naturii?",
         "type": "hallucination trap",
         "category": "General"
     },
     {
-        "question": "C\u00e2te eseuri trebuie \u00eenc\u0103rcate \u00een platforma de admitere?",
+        "id": 508,
+        "question": "Câte eseuri trebuie încărcate în platforma de admitere?",
         "type": "hallucination trap",
         "category": "General"
     },
     {
+        "id": 509,
         "question": "Se cere scrisoare de recomandare de la profesorii de liceu?",
         "type": "hallucination trap",
         "category": "General"
     },
     {
-        "question": "Candida\u021bii trebuie s\u0103 prezinte certificat de vaccinare la examen?",
+        "id": 510,
+        "question": "Candidații trebuie să prezinte certificat de vaccinare la examen?",
         "type": "hallucination trap",
         "category": "General"
     },
     {
+        "id": 511,
         "question": "Se poate participa la concursul Mate-Info doar online?",
         "type": "hallucination trap",
         "category": "General"
     },
     {
-        "question": "Concursul Mate-Info are prob\u0103 practic\u0103 pe calculator?",
+        "id": 512,
+        "question": "Concursul Mate-Info are probă practică pe calculator?",
         "type": "hallucination trap",
         "category": "General"
     },
     {
-        "question": "Exist\u0103 locuri speciale pentru sportivi de performan\u021b\u0103?",
+        "id": 513,
+        "question": "Există locuri speciale pentru sportivi de performanță?",
         "type": "hallucination trap",
         "category": "General"
     },
     {
-        "question": "Se poate echivala examenul de admitere cu nota de la BAC la informatic\u0103?",
+        "id": 514,
+        "question": "Se poate echivala examenul de admitere cu nota de la BAC la informatică?",
         "type": "hallucination trap",
         "category": "General"
     },
     {
-        "question": "FMI UBB accept\u0103 certificate Cambridge \u00een locul probei scrise?",
+        "id": 515,
+        "question": "FMI UBB acceptă certificate Cambridge în locul probei scrise?",
         "type": "hallucination trap",
         "category": "General"
     },
     {
-        "question": "Exist\u0103 prob\u0103 separat\u0103 de logic\u0103 pentru specializarea Inteligen\u021b\u0103 Artificial\u0103?",
+        "id": 516,
+        "question": "Există probă separată de logică pentru specializarea Inteligență Artificială?",
         "type": "hallucination trap",
         "category": "General"
     },
     {
-        "question": "Candida\u021bii pot \u00eenc\u0103rca documentele dup\u0103 \u00eencheierea perioadei de \u00eenscriere?",
+        "id": 517,
+        "question": "Candidații pot încărca documentele după încheierea perioadei de înscriere?",
         "type": "hallucination trap",
         "category": "General"
     },
     {
-        "question": "Taxa de procesare se restituie dac\u0103 dosarul este respins automat?",
+        "id": 518,
+        "question": "Taxa de procesare se restituie dacă dosarul este respins automat?",
         "type": "hallucination trap",
         "category": "General"
     },
     {
-        "question": "Exist\u0103 limit\u0103 de v\u00e2rst\u0103 pentru \u00eenscrierea la licen\u021b\u0103?",
+        "id": 519,
+        "question": "Există limită de vârstă pentru înscrierea la licență?",
         "type": "hallucination trap",
         "category": "General"
     },
     {
-        "question": "Se acord\u0103 punctaj suplimentar pentru media anilor de liceu?",
+        "id": 520,
+        "question": "Se acordă punctaj suplimentar pentru media anilor de liceu?",
         "type": "hallucination trap",
         "category": "General"
     },
     {
-        "question": "Examenul de admitere con\u021bine \u00eentreb\u0103ri cu r\u0103spuns liber?",
+        "id": 521,
+        "question": "Examenul de admitere conține întrebări cu răspuns liber?",
         "type": "hallucination trap",
         "category": "General"
     },
     {
-        "question": "Se poate sus\u021bine simultan proba la matematic\u0103 \u0219i informatic\u0103?",
+        "id": 522,
+        "question": "Se poate susține simultan proba la matematică și informatică?",
         "type": "hallucination trap",
         "category": "General"
     },
     {
-        "question": "Candida\u021bii primesc subiectele traduse automat \u00een francez\u0103?",
+        "id": 523,
+        "question": "Candidații primesc subiectele traduse automat în franceză?",
         "type": "hallucination trap",
         "category": "General"
     },
     {
-        "question": "FMI UBB organizeaz\u0103 examen separat pentru rom\u00e2nii din diaspora?",
+        "id": 524,
+        "question": "FMI UBB organizează examen separat pentru românii din diaspora?",
         "type": "hallucination trap",
         "category": "General"
     },
     {
-        "question": "Care este taxa de \u00eenscriere la admitere?",
+        "id": 525,
+        "question": "Care este taxa de înscriere la admitere?",
         "type": "out-of-scope",
         "category": "General"
     },
     {
-        "question": "C\u00e2nd are loc proba scris\u0103 din sesiunea de var\u0103?",
+        "id": 526,
+        "question": "Când are loc proba scrisă din sesiunea de vară?",
         "type": "out-of-scope",
         "category": "General"
     },
     {
-        "question": "Cum pot face contesta\u021bie dup\u0103 examen?",
+        "id": 527,
+        "question": "Cum pot face contestație după examen?",
         "type": "out-of-scope",
         "category": "General"
     },
     {
-        "question": "Ce documente trebuie \u00eenc\u0103rcate la \u00eenscriere?",
+        "id": 528,
+        "question": "Ce documente trebuie încărcate la înscriere?",
         "type": "out-of-scope",
         "category": "General"
     },
     {
-        "question": "Exist\u0103 locuri speciale pentru candida\u021bii din mediul rural?",
+        "id": 529,
+        "question": "Există locuri speciale pentru candidații din mediul rural?",
         "type": "out-of-scope",
         "category": "General"
     },
     {
-        "question": "Care este platforma oficial\u0103 pentru \u00eenscriere?",
+        "id": 530,
+        "question": "Care este platforma oficială pentru înscriere?",
         "type": "out-of-scope",
         "category": "General"
     },
     {
-        "question": "Pot participa la admitere dac\u0103 am studiat \u00een str\u0103in\u0103tate?",
+        "id": 531,
+        "question": "Pot participa la admitere dacă am studiat în străinătate?",
         "type": "out-of-scope",
         "category": "General"
     },
     {
+        "id": 532,
         "question": "Cum se face redistribuirea locurilor bugetate?",
         "type": "out-of-scope",
         "category": "General"
     },
     {
-        "question": "Ce trebuie s\u0103 con\u021bin\u0103 adeverin\u021ba medical\u0103?",
+        "id": 533,
+        "question": "Ce trebuie să conțină adeverința medicală?",
         "type": "out-of-scope",
         "category": "General"
     },
     {
-        "question": "C\u00e2nd se afi\u0219eaz\u0103 rezultatele finale?",
+        "id": 534,
+        "question": "Când se afișează rezultatele finale?",
         "type": "out-of-scope",
         "category": "General"
     },
     {
-        "question": "Cine poate beneficia de scutire de tax\u0103?",
+        "id": 535,
+        "question": "Cine poate beneficia de scutire de taxă?",
         "type": "out-of-scope",
         "category": "General"
     },
     {
+        "id": 536,
         "question": "Ce acte sunt necesare pentru confirmarea locului?",
         "type": "out-of-scope",
         "category": "General"
     },
     {
-        "question": "Exist\u0103 locuri pentru rom\u00e2nii de pretutindeni?",
+        "id": 537,
+        "question": "Există locuri pentru românii de pretutindeni?",
         "type": "out-of-scope",
         "category": "General"
     },
     {
-        "question": "C\u00e2te programe de studiu pot urma simultan?",
+        "id": 538,
+        "question": "Câte programe de studiu pot urma simultan?",
         "type": "out-of-scope",
         "category": "General"
     },
     {
-        "question": "Pot depune mai multe dosare la aceea\u0219i specializare?",
+        "id": 539,
+        "question": "Pot depune mai multe dosare la aceeași specializare?",
         "type": "out-of-scope",
         "category": "General"
     },
     {
-        "question": "Care sunt condi\u021biile pentru schimbarea de la tax\u0103 la buget?",
+        "id": 540,
+        "question": "Care sunt condițiile pentru schimbarea de la taxă la buget?",
         "type": "out-of-scope",
         "category": "General"
     },
     {
+        "id": 541,
         "question": "Unde se depun documentele pentru echivalarea studiilor?",
         "type": "out-of-scope",
         "category": "General"
     },
     {
-        "question": "Ce se \u00eent\u00e2mpl\u0103 dac\u0103 nu confirm locul la timp?",
+        "id": 542,
+        "question": "Ce se întâmplă dacă nu confirm locul la timp?",
         "type": "out-of-scope",
         "category": "General"
     },
     {
-        "question": "Pot participa \u0219i elevii de clasa a XI-a la Concursul Mate-Info UBB?",
+        "id": 543,
+        "question": "Pot participa și elevii de clasa a XI-a la Concursul Mate-Info UBB?",
         "type": "out-of-scope",
         "category": "General"
     },
     {
+        "id": 544,
         "question": "Care este taxa pentru Concursul Mate-Info UBB?",
         "type": "out-of-scope",
         "category": "General"
     },
     {
-        "question": "C\u00e2nd \u00eencepe perioada de pre\u00eenscriere?",
+        "id": 545,
+        "question": "Când începe perioada de preînscriere?",
         "type": "out-of-scope",
         "category": "General"
     },
     {
-        "question": "Sunt permise telefoanele mobile \u00een sala de examen?",
+        "id": 546,
+        "question": "Sunt permise telefoanele mobile în sala de examen?",
         "type": "out-of-scope",
         "category": "General"
     },
     {
-        "question": "Ce certificate lingvistice sunt acceptate pentru programele \u00een englez\u0103?",
+        "id": 547,
+        "question": "Ce certificate lingvistice sunt acceptate pentru programele în engleză?",
         "type": "out-of-scope",
         "category": "General"
     },
     {
+        "id": 548,
         "question": "Care este adresa de email a comisiei de admitere FMI UBB?",
         "type": "out-of-scope",
         "category": "General"
