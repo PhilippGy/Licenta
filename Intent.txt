@@ -1,0 +1,19 @@
+Proiect de licență: 
+Un chatbot RAG specializat care răspunde strict la întrebări organizatorice în privință cu admiterea la FMI UBB Cluj, folosind informații crawl-uite de pe site-ul oficial de admitere. 
+
+Pipeline-ul actual funcționează local: crawler-ul obtine datele (BeautifulSoup & pdfplumber) -> datele sunt organizate dupa categorii si transformate intr-un markdown file eficient -> chunking (1000 caractere, 200 overlap, impartite de separatori, dupa importanta, astfel: "\n---\n", "\n## ", "\n\n", "\n", ". ", " ") + embeddings (SentenceTransformer("intfloat/multilingual-e5-small")) -> retrieval top-k cu reranking (CrossEncoder('cross-encoder/ms-marco-MiniLM-L-6-v2')) ulterior (momentan top 20 cu reranked top 5) -> answering model (Gemma 4 E4B, temperatura 0.1) + LLM-as-a-judge (Gemma 2 9B, temperatura 0) care să îi verifice răspunsurile; amandoua modele sunt locale (LM Studio). 
+
+LLM-as-a-Judge valorifică răspunsurile astfel:
+1. Factual correctness (0-10): 
+   - 10 = Perfectly aligned with the golden answer.
+   - 5 = Partially correct, but contains errors.
+   - 0 = The information is completely wrong or invented.
+2. Completeness (0-10): Did the answer cover all the key facts present in the Golden Answer?
+   - 10 = All key facts from the gold answer are present.
+   - 5 = Some key facts missing.
+   - 0 = Most key facts missing.
+3. Clarity (0-10): Is the answer easy to read and in Romanian? (Score 0 if the answer is in English!).
+4. Hallucinations penalty (0-10): 
+   - 10 = NO hallucinations at all. Only used the context.
+   - 0 = The model invented rules, formulas, or deadlines NOT present in the Reference Context.
+

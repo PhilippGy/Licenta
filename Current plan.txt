@@ -1,0 +1,34 @@
+Iau 100 intrebari impartite astfel: 20 factual, 20 multi-hop, 20 comparative, 10 temporal reasoning, 10 constraint/rule related, 10 ambiguous, 5 hallucination-trap, 5 out-of-scope
+
+---Pasul 1:
+3 experimente pe 100 de intrebari, raspunde doar chatbotul; scor dat de BERTScore si ROUGE-L
+
+Experiment 1
+top 5 vs top 20 reranked 5
+
+Experiment 2
+500 vs 1000 vs 1500 chunks
+
+Experiment 3
+(din cele reranked) top 3 vs 5 vs 10
+
+Configuratie castigatoare
+Best of all worlds
+
+
+---Pasul 2:
+1 experiment pe 548 intrebari, raspunde si chatbotul, si judge-ul ==> scor dat de judge
+
+
+---Pasul 3:
+Frontier model prin API verifica seturile intrebare-raspuns-score:
+25 top cele mai bune scoruri
+25 top cele mai slabe scoruri
+25 seturi alese random
+Total: 75 seturi validate
+(la cele 25 random, fa "if set not in visited_sets" ca sa nu repeti seturi din extreme)
+Task: „Evaluează independent dacă răspunsul este corect față de context și golden answer și spune dacă ești de acord cu evaluatorul automat.”
+
+
+Riscuri:
+BERTScore si ROUGE-L: de ex. 200 lei golden answer vs 250 lei chatbot answer poate da scor mare

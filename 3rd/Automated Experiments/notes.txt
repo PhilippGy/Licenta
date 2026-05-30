@@ -1,0 +1,7 @@
+100 intrebari alese astfel:
+20 factual, 20 multi-hop, 20 comparative, 10 temporal reasoning, 
+10 constraint/rule related, 10 ambiguous, 5 hallucination-trap, 5 out-of-scope
+
+Intrebarile au fost impartite pe categorii 
+(de ex. intrebari factual: 4 "Acte necesare", 3 "Taxe admitere" etc.)
+
