@@ -1,0 +1,30 @@
+id,question,category,difficulty,answer,score
+1,Ce documente sunt necesare pentru înscrierea la admitere?,documente_necesare,easy,"Înscrierea se realizează exclusiv online prin platforma [https://admitere.ubbcluj.ro](https://admitere.ubbcluj.ro).
+
+Documentele obligatorii pentru înscriere sunt:
+
+**Documente generale:**
+*   Cererea/formularul de înscriere completat online;
+*   Fișa candidatului – date de concurs (Anexa 2);
+*   Diploma de bacalaureat sau diplomă echivalentă;
+*   Foaia matricolă;
+*   Certificatul de naștere;
+*   Cardul de identitate;
+*   Certificatul de căsătorie (unde este cazul);
+*   Adeverință medicală tip;
+*   Dovada plății taxei de admitere sau documentele de scutire;
+*   Documente justificative pentru facilități sau categorii speciale.
+
+**Detalii specifice documentelor:**
+
+*   **Diploma de bacalaureat:** Trebuie să fie scanată față-verso și să conțină media examenului de bacalaureat și nota la Matematică sau Informatică.
+*   **Absolvenții promoției 2026 (sau în cazul adeverinței medicale):** Pot depune o adeverință-tip care să ateste:
+    *   Absolvirea liceului;
+    *   Promovarea examenului de bacalaureat;
+    *   Media de bacalaureat;
+    *   Nota la Matematică sau Informatică.
+*   **Adeverința medicală:** Trebuie emisă de cabinetul școlar sau medicul de familie, cu maximum 3 luni înainte de înscriere, și trebuie să ateste că persoana este aptă pentru specializarea aleasă.
+
+***
+
+*Notă: Candidații sunt responsabili pentru încărcarea corectă a documentelor, care trebuie transmise scanate și semnate unde este cazul.*","{""factual"": 10, ""complete"": 10, ""clarity"": 10, ""no_hallucination"": 10, ""final_score"": 10.0, ""brief_reason"": ""The chatbot answer perfectly matches the provided context and is written in Romanian.""}"
