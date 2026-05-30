@@ -1,3 +1,2 @@
 id,question,category,answer,gold answer,bertscore,rougeL
-1,Care este media minimă necesară pentru a fi declarat admis?,Regulamente / admitere generală,"Candidații trebuie să aibă media de admitere minimum 5,00.","Sunt declarați admiși candidații care au media de admitere minimum 5,00 și care au minimum 5,00 la proba scrisă, cu excepția candidaților din Categoria A.",0.7779,0.3784
-3,Câte programe de studiu poate urma simultan un candidat?,Regulamente / admitere generală,Un candidat poate fi înmatriculat simultan la maximum două programe de studiu.,Un candidat poate fi înmatriculat simultan la maximum două programe de studiu.,1.0,1.0
+1,Care este media minimă necesară pentru a fi declarat admis?,Regulamente / admitere generală,Eroare la generarea răspunsului.,"Sunt declarați admiși candidații care au media de admitere minimum 5,00 și care au minimum 5,00 la proba scrisă, cu excepția candidaților din Categoria A.",0.614,0.0645

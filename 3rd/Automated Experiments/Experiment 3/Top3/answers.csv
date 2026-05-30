@@ -1,0 +1,2 @@
+id,question,category,answer,gold answer,bertscore,rougeL
+1,Care este media minimă necesară pentru a fi declarat admis?,Regulamente / admitere generală,"Media de admitere trebuie să fie minimum 5,00.","Sunt declarați admiși candidații care au media de admitere minimum 5,00 și care au minimum 5,00 la proba scrisă, cu excepția candidaților din Categoria A.",0.7411,0.3333
