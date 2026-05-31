@@ -57,7 +57,6 @@ def apply_chunking(chunk_size, chunk_overlap):
     text = re.sub(r' +', ' ', text) 
 
     chunks = refined_chunking(text, chunk_size, chunk_overlap)
-    print(f"Generat {len(chunks)} chunks optimizați.")
     return chunks
 
 

@@ -1,5 +1,669 @@
 id,question,category,answer,gold answer,bertscore,rougeL
-1,Care este media minimă necesară pentru a fi declarat admis?,Regulamente / admitere generală,"Sunt declarați admiși candidații care:
+1,Care este media minimă necesară pentru a fi declarat admis?,Regulamente / admitere generală,"Candidații trebuie să aibă o medie de admitere minimum 5,00. De asemenea, este necesar să aibă minimum 5,00 la proba scrisă (cu excepția candidaților din Categoria A).","Sunt declarați admiși candidații care au media de admitere minimum 5,00 și care au minimum 5,00 la proba scrisă, cu excepția candidaților din Categoria A.",0.8531,0.6429
+3,Câte programe de studiu poate urma simultan un candidat?,Regulamente / admitere generală,Un candidat poate fi înmatriculat simultan la maximum două programe de studiu.,Un candidat poate fi înmatriculat simultan la maximum două programe de studiu.,1.0,1.0
+7,Cum sunt ierarhizați candidații la admitere?,Regulamente / admitere generală,"Candidații sunt ierarhizați descrescător după medii și opțiuni.
 
-* au media de admitere minimum 5,00;
-* au minimum 5,00 la proba scrisă (cu excepția candidaților din Categoria A).","Sunt declarați admiși candidații care au media de admitere minimum 5,00 și care au minimum 5,00 la proba scrisă, cu excepția candidaților din Categoria A.",0.9386,0.9615
+De asemenea, se menționează că repartizarea locurilor bugetate (în cazul sesiunii din septembrie 2026) se face în ordinea descrescătoare a mediilor.","Candidații sunt ierarhizați descrescător după mediile de admitere și opțiuni. În cazul mediilor egale, departajarea se face în următoarea ordine:
+
+1. Nota de la bacalaureat la Matematică sau Informatică;
+2. Pentru candidații fără aceste note, media din liceu la Matematică;
+3. Media generală de la bacalaureat;
+4. Media la Matematică din liceu.",0.721,0.2963
+22,Ce se întâmplă cu locurile bugetate eliberate după luna august și ce condiții trebuie îndeplinite pentru redistribuire?,Regulamente / admitere generală,"Dacă între 1 august 2026 și 1 septembrie 2026 se eliberează locuri bugetate, acestea sunt ocupate de candidații admiși pe locuri cu taxă.
+
+Pentru redistribuire, trebuie îndeplinite următoarele condiții:
+*   Repartizarea se face în ordinea descrescătoare a mediilor.
+*   Redistribuirea se face în cadrul aceleiași specializări.","Dacă între 1 august 2026 și 1 septembrie 2026 se eliberează locuri bugetate, acestea sunt ocupate de candidații admiși pe locuri cu taxă, repartizarea făcându-se în ordinea descrescătoare a mediilor. Redistribuirea se face în cadrul aceleiași specializări.
+
+Pentru schimbarea formei de finanțare, candidații trebuie să îndeplinească condițiile de eligibilitate și să depună diploma de bacalaureat și foaia matricolă în original până la 31 august 2026.",0.8409,0.6727
+23,Ce acte trebuie să depună un candidat admis pentru confirmarea locului și înmatriculare?,Regulamente / admitere generală,"Candidații admiși trebuie să depună actele în original conform termenelor stabilite, să semneze contractul de școlarizare și să confirme locul conform calendarului.","Candidații admiși trebuie să depună actele în original conform termenelor stabilite, să semneze contractul de școlarizare și să confirme locul conform calendarului. În cazul studenților deja înscriși la alte programe, se poate depune copie certificată conform cu originalul și este necesară adeverință care confirmă existența actului original la cealaltă instituție.",0.8634,0.6111
+30,Ce condiții trebuie îndeplinite pentru ca nota de la Concursul Mate-Info UBB să poată fi folosită la admitere?,Regulamente / admitere generală,"Rezultatele concursului pot fi utilizate în cadrul admiterii la FMI UBB 2026.
+
+Pentru a participa, pot participa elevii claselor a XI-a și a XII-a sau absolvenții de liceu.",Nota de la Concursul Mate-Info UBB poate fi utilizată la admitere doar dacă este minimum 6.,0.6776,0.0851
+43,Ce diferențe există între contestațiile pentru proba scrisă și cele pentru probele orale sau practice?,Regulamente / admitere generală,"Contestațiile pentru probele scrise se depun în termen de 24 de ore de la afișarea rezultatelor. În schimb, rezultatele probelor orale sau practice pot fi contestate doar pe baza unor motive procedurale.","Contestațiile pentru probele scrise se depun în termen de 24 de ore de la afișarea rezultatelor și sunt soluționate conform calendarului stabilit. Rezultatele devin definitive după expirarea perioadei de contestații.
+
+Rezultatele probelor orale sau practice pot fi contestate doar procedural, fără posibilitatea depunerii contestațiilor în termenul de 24 de ore.
+
+Astfel, diferența principală este că pentru proba scrisă există o perioadă clară și formală de depunere a contestațiilor, iar pentru probele orale sau practice contestațiile sunt admise doar procedural, fără o perioadă de depunere specifică.",0.8058,0.4274
+47,Ce diferențe există între documentele necesare pentru absolvenții promoției 2026 și cele pentru absolvenții din anii anteriori?,Regulamente / admitere generală,"Pentru absolvenții promoției 2026, există o opțiune specifică de documentație academică suplimentară.
+
+**Absolvenții promoției 2026:**
+Pot depune adeverință-tip care să ateste:
+*   absolvirea liceului;
+*   promovarea examenului de bacalaureat;
+*   media de bacalaureat;
+*   nota la Matematică sau Informatică.
+
+**Absolvenții din anii anteriori (și în general):**
+Toți candidații trebuie să depună documente obligatorii generale, care includ: diploma de bacalaureat sau diplomă echivalentă și foaia matricolă. De asemenea, Diploma de bacalaureat scanată față-verso trebuie să conțină media examenului de bacalaureat și nota la Matematică sau Informatică.
+
+*Notă:* Contextul menționează că adeverința medicală tip este necesară pentru ambele grupuri de candidați, iar documentele generale obligatorii (cum ar fi diploma și foaia matricolă) se aplică tuturor.","Diferențele între documentele necesare pentru absolvenții promoției 2026 și cei din anii anteriori sunt următoarele:
+
+- Absolvenții promoției 2026 pot depune o adeverință-tip care să ateste:
+  * absolvirea liceului;
+  * promovarea examenului de bacalaureat;
+  * media de bacalaureat;
+  * nota la Matematică sau Informatică.
+
+- Pentru ceilalți absolvenți (din anii anteriori), este necesară diploma de bacalaureat scanată față-verso, care să conțină:
+  * media examenului de bacalaureat;
+  * nota la Matematică sau Informatică.
+
+Astfel, absolvenții promoției 2026 pot folosi adeverința-tip în locul diplomei de bacalaureat pentru înscriere, pe când absolvenții din anii anteriori trebuie să prezinte diploma de bacalaureat.
+
+Această diferență facilitează înscrierea absolvenților promoției curente.
+
+Restul documentelor obligatorii pentru înscriere sunt aceleași pentru toți candidații.
+
+---
+
+Această informație este extrasă din secțiunea „Înscriere și documente necesare” din ghidul de admitere FMI UBB 2026.",0.8099,0.4538
+50,Ce diferențe există între proba scrisă la Matematică și cea la Informatică?,Regulamente / admitere generală,"Diferențele principale se află în tematica abordată la fiecare probă scrisă:
+
+1.  **Matematică:** Tematica este publicată în Anexa 3A și include subiecte precum Elemente combinatoriale (permutări, aranjamente, combinări, submulțimi) și Grafuri și arbori (grafuri orientate și neorientate, metode de reprezentare, arbori).
+2.  **Informatică:** Tematica este publicată în Anexa 3B și se bazează pe manuale de informatică aprobate de Ministerul Educației, materiale și culegeri publicate de FMI UBB, precum și pe „Probleme și Teste pregătitoare - Informatică pentru Admiterea la Facultatea de Matematică și Informatică Universitatea Babeș-Bolyai”.
+
+În ceea ce privește structura generală a examenului (24 de întrebări tip grilă, durata de 3 ore și regulile de evaluare), acestea sunt similare.","Diferențele dintre proba scrisă la Matematică și cea la Informatică la admiterea FMI UBB 2026 sunt următoarele:
+
+1. **Tematica și conținutul probei:**
+
+   - **Proba la Matematică** acoperă conținuturi din programa de bacalaureat, excluzând matematicile financiare din clasa a X-a. Principalele teme sunt:
+     - Clasa a IX-a: mulțimi și logică matematică, șiruri, progresii;
+     - Clasa a X-a: funcții și ecuații, funcții exponențiale și logaritmice, geometrie analitică;
+     - Clasa a XI-a: numere complexe, matrice, determinanți, sisteme de ecuații, limite, continuitate, derivabilitate;
+     - Clasa a XII-a: primitive, integrale, aplicații ale integralei definite.
+
+   - **Proba la Informatică** include teme legate de programare și algoritmi, cu următoarele conținuturi principale:
+     - Algoritmi și structuri de bază (noțiunea de algoritm, structuri liniare, alternative, repetitive);
+     - Limbaje de programare (Pascal, C, C++): tipuri de date, operatori, expresii, variabile, constante, structuri de control;
+     - Structuri de date: tablouri, șiruri de caractere, înregistrări, fișiere text;
+     - Algoritmi fundamentali: divizibilitate, algoritmul lui Euclid, Fibonacci, metode de sortare și căutare, analiza complexității;
+     - Metode algoritmice: recursivitate, backtracking, greedy, divide et impera;
+     - Elemente combinatoriale: permutări, aranjamente, combinări, submulțimi;
+     - Grafuri și arbori: grafuri orientate și neorientate, metode de reprezentare, arbori.
+
+2. **Limbaje acceptate:**
+
+   - Proba la Informatică permite utilizarea limbajelor Pascal, C și C++.
+   - Proba la Matematică nu implică limbaje de programare.
+
+3. **Bibliografie:**
+
+   - Pentru Matematică se recomandă manuale și auxiliare aprobate de Ministerul Educației și culegerea „Probleme și Teste Grilă de Matematică pentru Admiterea la Facultatea de Matematică și Informatică”, Presa Universitară Clujeană, 2025.
+   
+   - Pentru Informatică se recomandă manuale aprobate de Ministerul Educației, materiale și culegeri publicate de FMI UBB, platforma www.pbinfo.ro și culegerea „Probleme și Teste pregătitoare - Informatică pentru Admiterea la Facultatea de Matematică și Informatică Universitatea Babeș-Bolyai”, Presa Universitară Clujeană, 2025.
+
+4. **Structura examenului:**
+
+   - Ambele probe au 24 de întrebări tip grilă, cu punctaj propriu pentru fiecare întrebare și durata de 3 ore.
+   - Nota minimă de promovare este 5,00 pentru ambele probe.
+
+În concluzie, diferența principală constă în conținutul tematic și specificul probei: Matematica se concentrează pe concepte și probleme matematice din programa de bacalaureat, iar Informatică pe programare, algoritmi și structuri de date, cu utilizarea limbajelor de programare Pascal, C și C++.",0.6714,0.3094
+55,Când devin definitive rezultatele admiterii?,Regulamente / admitere generală,"După expirarea perioadei de contestații, rezultatele devin definitive.
+
+În cadrul Sesiunii I din 2026, publicarea rezultatelor admiterii are loc după soluționarea contestațiilor (care se încheie până la ora 12:00 pe 20 iulie 2026).","Rezultatele admiterii devin definitive după expirarea perioadei de contestații, conform calendarului admiterii.",0.7742,0.2609
+57,Ce urmează după expirarea perioadei de contestații?,Regulamente / admitere generală,"Conform secțiunii ""Contestații"", după expirarea perioadei de contestații, rezultatele devin definitive.
+
+În calendarul sesiunii I (Iulie 2026), publicarea rezultatelor admiterii are loc după soluționarea contestațiilor.","După expirarea perioadei de contestații, rezultatele devin definitive.",0.8027,0.4848
+69,Ce condiții trebuie îndeplinite pentru ca nota de la Concursul Mate-Info să fie utilizată la admitere?,Regulamente / admitere generală,"Rezultatele concursului pot fi utilizate în cadrul admiterii la FMI UBB 2026.
+
+În calculul notei de admitere, nota obținută la Concursul Mate-Info UBB poate fi folosită împreună cu nota probei scrise, conform următoarelor formule:
+
+*   **Varianta standard:** `MAX(Nota Concurs Mate-Info UBB, Nota proba scrisă)`
+*   **Categoria A:** `10`
+*   **Categoria B:** `(10 + MAX(Nota Concurs Mate-Info UBB, Nota proba scrisă)) / 2`","Nota de la Concursul Mate-Info UBB poate fi utilizată la admitere doar dacă este minimum 6. Dacă un candidat participă atât la concurs, cât și la examenul de admitere, se utilizează nota mai mare dintre cele două.",0.6703,0.2
+70,Când trebuie confirmat locul?,Regulamente / admitere generală,Candidații admiși trebuie să confirme locul conform calendarului.,"Locul trebuie confirmat conform calendarului de admitere, după ce candidatul este declarat admis și depune actele în original conform termenelor stabilite.",0.7475,0.2069
+73,Se poate face contestație?,Regulamente / admitere generală,"Da, este posibil să faceți contestații în anumite etape ale procesului de admitere.
+
+Conform contextului oferit, iată regulile privind contestațiile:
+
+**Tipuri și Termene:**
+*   **Contestații pentru probele scrise:** Se depun în termen de 24 de ore de la afișarea rezultatelor.
+*   **Contestații privind înscrierea (Sesiunea I):** Au loc între 16 iulie 2026, ora 16:00–18:00.
+*   **Contestații rezultate examen:** Se pot depune între 18 iulie 2026, ora 12:00 și 19 iulie 2026, ora 12:00.
+
+**Reguli Generale de Contestare:**
+*   Rezultatele probelor orale sau practice pot fi contestate doar procedural.
+*   Nu sunt admise contestații bazate pe necunoașterea regulamentului.
+*   După expirarea perioadei de contestații, rezultatele devin definitive.
+
+**Soluționarea Contestațiilor:**
+*   Perioada generală pentru soluționarea contestațiilor este programată până la 20 iulie 2026, ora 12:00.","Da, se pot face contestații pentru probele scrise de admitere. Contestațiile se depun în termen de 24 de ore de la afișarea rezultatelor probei scrise. Rezultatele probelor orale sau practice pot fi contestate doar procedural. Nu sunt admise contestații bazate pe necunoașterea regulamentului. După expirarea perioadei de contestații, rezultatele devin definitive.",0.7979,0.4971
+86,Ce metode algoritmice trebuie cunoscute pentru proba de informatică?,Tematică admitere,"Metodele algoritmice care trebuie cunoscute pentru proba de informatică sunt:
+
+*   recursivitate;
+*   backtracking;
+*   greedy;
+*   divide et impera.
+
+De asemenea, în cadrul algoritmilor fundamentali, se menționează și următoarele subiecte: divizibilitate, algoritmul lui Euclid, Fibonacci, metode de sortare, metode de căutare și analiza complexității.","Metodele algoritmice care trebuie cunoscute pentru proba de informatică sunt:
+
+* recursivitate;  
+* backtracking;  
+* greedy;  
+* divide et impera.",0.8528,0.5614
+97,Ce capitole despre analiză matematică sunt incluse în clasa a XI-a?,Tematică admitere,În clasa a XI-a sunt incluse următoarele capitole: numere complexe; matrice; determinanți; sisteme de ecuații; limite; continuitate; derivabilitate.,"Capitolele despre analiză matematică incluse în clasa a XI-a sunt: limite, continuitate și derivabilitate.",0.8162,0.5294
+99,Ce tipuri de algoritmi fundamentali trebuie pregătiți pentru admiterea la informatică?,Tematică admitere,"Algoritmii fundamentali care trebuie pregătiți sunt:
+
+* Divizibilitate;
+* Algoritmul lui Euclid;
+* Fibonacci;
+* Metode de sortare;
+* Metode de căutare;
+* Analiza complexității.","Pentru admiterea la Informatică la FMI UBB, candidații trebuie să pregătească următorii algoritmi fundamentali:
+
+- divizibilitate;
+- algoritmul lui Euclid;
+- Fibonacci;
+- metode de sortare;
+- metode de căutare;
+- analiza complexității.",0.8461,0.6087
+101,Ce limbaje de programare sunt acceptate la informatică și ce metode algoritmice trebuie cunoscute?,Tematică admitere,"Limbajele de programare acceptate sunt: Pascal, C și C++.
+
+Metodele algoritmice care trebuie cunoscute includ:
+*   recursivitate;
+*   backtracking;
+*   greedy;
+*   divide et impera.","La proba scrisă la Informatică sunt acceptate următoarele limbaje de programare: Pascal, C și C++.
+
+Metodele algoritmice care trebuie cunoscute sunt:
+- recursivitate;
+- backtracking;
+- greedy;
+- divide et impera.",0.9092,0.7083
+108,Ce metode algoritmice și ce elemente combinatoriale trebuie pregătite pentru admiterea la informatică?,Tematică admitere,"Pentru admiterea la informatică, trebuie pregătite următoarele metode algoritmice și elemente combinatoriale:
+
+**Metode algoritmice:**
+* recursivitate;
+* backtracking;
+* greedy;
+* divide et impera.
+
+**Elemente combinatoriale:**
+* permutări;
+* aranjamente;
+* combinări;
+* submulțimi.","Pentru admiterea la Informatică la FMI UBB, trebuie pregătite următoarele metode algoritmice și elemente combinatoriale:
+
+Metode algoritmice:
+- recursivitate;
+- backtracking;
+- greedy;
+- divide et impera.
+
+Elemente combinatoriale:
+- permutări;
+- aranjamente;
+- combinări;
+- submulțimi.",0.924,0.9455
+111,Ce tipuri de structuri de control și ce tipuri de date trebuie cunoscute la informatică?,Tematică admitere,"Conform contextului, temele care trebuie cunoscute sunt:
+
+**Structuri de control:**
+Se acoperă noțiunea generală de structuri de control în cadrul subiectelor despre Limbajele de programare.
+
+**Tipuri de date și Structuri de date:**
+*   **În cadrul limbajelor de programare:** Tipurile de date, variabilele și constantele.
+*   **Structuri de date:** Tablouri, șiruri de caractere, înregistrări și fișiere text.","La informatică, candidații trebuie să cunoască următoarele structuri de control:
+
+- structuri liniare;
+- structuri alternative;
+- structuri repetitive.
+
+În ceea ce privește tipurile de date, trebuie să fie cunoscute:
+
+- tipuri de date;
+- operatori;
+- expresii;
+- variabile;
+- constante;
+- structuri de control.",0.6984,0.2857
+120,Care este diferența dintre tematica de matematică și cea de informatică la admitere?,Tematică admitere,Tematica pentru cele două discipline este publicată în anexe distincte: Anexa 3A – Matematică și Anexa 3B – Informatică.,"Tematica probei scrise la Matematică și cea la Informatică pentru admiterea la FMI UBB 2026 diferă prin conținuturile și domeniile de studiu abordate:
+
+**Tematica probei scrise la Matematică:**
+
+- Coincide cu programa de bacalaureat în vigoare, excluzând matematicile financiare din clasa a X-a.
+- Conținuturi principale pe clase:
+  - Clasa a IX-a: mulțimi și logică matematică, șiruri, progresii.
+  - Clasa a X-a: funcții și ecuații, funcții exponentiale și logaritmice, geometrie analitică.
+  - Clasa a XI-a: numere complexe, matrice, determinanți, sisteme de ecuații, limite, continuitate, derivabilitate.
+  - Clasa a XII-a: primitive, integrale, aplicații ale integralei definite.
+- Bibliografie: manuale și auxiliare aprobate de Ministerul Educației, precum și „Probleme și Teste Grilă de Matematică pentru Admiterea la Facultatea de Matematică și Informatică”, Presa Universitară Clujeană, 2025.
+
+**Tematica probei scrise la Informatică:**
+
+- Se concentrează pe limbaje de programare (Pascal, C, C++) și algoritmi.
+- Conținuturi principale:
+  - Algoritmi și structuri de bază: noțiunea de algoritm, structuri liniare, alternative, repetitive.
+  - Limbaje de programare: tipuri de date, operatori, expresii, variabile, constante, structuri de control.
+  - Structuri de date: tablouri, șiruri de caractere, înregistrări, fișiere text.
+  - Algoritmi fundamentali: divizibilitate, algoritmul lui Euclid, Fibonacci, metode de sortare și căutare, analiza complexității.
+  - Metode algoritmice: recursivitate, backtracking, greedy, divide et impera.
+  - Elemente combinatoriale: permutări, aranjamente, combinări, submulțimi.
+  - Grafuri și arbori: grafuri orientate și neorientate, metode de reprezentare, arbori.
+- Bibliografie selectivă: manuale de informatică aprobate de Ministerul Educației, materiale și culegeri FMI UBB, platforma www.pbinfo.ro, „Probleme și Teste pregătitoare - Informatică pentru Admiterea la Facultatea de Matematică și Informatică Universitatea Babeș-Bolyai”, Presa Universitară Clujeană, 2025.
+
+Astfel, tematica de matematică este axată pe concepte și tehnici matematice din programa liceală, în timp ce tematica de informatică se concentrează pe programare, algoritmi și structuri de date.",0.5858,0.0403
+123,Care este diferența dintre metodele algoritmice și algoritmii fundamentali din programa de informatică?,Tematică admitere,Nu dețin această informație conform datelor extrase de pe site-ul oficial.,"În programa de informatică pentru admiterea la FMI UBB, diferența dintre metodele algoritmice și algoritmii fundamentali este următoarea:
+
+- **Algoritmii fundamentali** sunt algoritmi specifici și concreți, cum ar fi: divizibilitatea, algoritmul lui Euclid, Fibonacci, metode de sortare, metode de căutare și analiza complexității.
+
+- **Metodele algoritmice** reprezintă tehnici generale de rezolvare a problemelor, cum ar fi: recursivitatea, backtracking, greedy și divide et impera.
+
+Astfel, algoritmii fundamentali sunt exemple concrete de algoritmi, iar metodele algoritmice sunt strategii sau paradigme utilizate pentru construirea și rezolvarea algoritmilor.",0.548,0.0213
+130,Ce diferențe există între punctajul acordat pentru răspunsurile corecte și penalizarea pentru răspunsurile greșite?,Tematică admitere,"Pentru fiecare răspuns corect bifat se acordă `p/t`, în timp ce pentru fiecare răspuns greșit bifat se aplică o penalizare de `(-0.66) * p/t`.","Diferența dintre punctajul acordat pentru răspunsurile corecte și penalizarea pentru răspunsurile greșite este următoarea:
+
+- Pentru fiecare răspuns corect bifat se acordă un punctaj egal cu `p/t`, unde `p` este punctajul întrebării, iar `t` este numărul răspunsurilor corecte.
+- Pentru fiecare răspuns greșit bifat se aplică o penalizare egală cu `(-0.66) * p/t`.
+
+Astfel, penalizarea pentru un răspuns greșit este de 66% din punctajul acordat pentru un răspuns corect, dar cu semn negativ. Punctajul minim pe întrebare este 0, iar punctajul maxim este `p`. Dacă toate răspunsurile sunt bifate, punctajul este 0.",0.794,0.3729
+137,Ce conținuturi din clasa a IX-a trebuie pregătite înaintea celor din clasa a X-a?,Tematică admitere,Nu dețin această informație conform datelor extrase de pe site-ul oficial.,"Conținuturile din clasa a IX-a care trebuie pregătite înaintea celor din clasa a X-a sunt:
+
+* mulțimi și logică matematică;
+* șiruri;
+* progresii.",0.5943,0.0
+140,Ce subiecte despre algoritmi fundamentali trebuie învățate înainte de analiza complexității?,Tematică admitere,Nu dețin această informație conform datelor extrase de pe site-ul oficial.,"Înainte de analiza complexității, trebuie învățate următoarele subiecte despre algoritmi fundamentali:
+
+- divizibilitate;
+- algoritmul lui Euclid;
+- Fibonacci;
+- metode de sortare;
+- metode de căutare.",0.5812,0.0588
+152,"Este acceptat un limbaj de programare diferit de Pascal, C sau C++?",Tematică admitere,"Limbajele acceptate sunt:
+*   Pascal;
+*   C;
+*   C++.","Nu, sunt acceptate doar limbajele de programare Pascal, C și C++.",0.7783,0.4706
+161,Sunt incluse matematicile financiare din clasa a X-a în tematica admiterii?,Tematică admitere,Nu sunt incluse; contextul menționează că „sunt excluse conținuturile privind matematicile financiare din clasa a X-a”.,"Nu, matematicile financiare din clasa a X-a sunt excluse din tematica admiterii.",0.823,0.5333
+165,Care este taxa de participare la concursul Mate-Info UBB 2026?,Taxe admitere,"Taxa de participare este de 400 lei, plata se efectuează online și nu există scutiri.","Taxa de participare la concursul Mate-Info UBB 2026 este de 400 lei, plata realizându-se online, fără posibilitate de scutire.",0.8102,0.5556
+172,Pot primi scutire de taxa de admitere dacă provin dintr-o familie monoparentală?,Taxe admitere,"Da, candidații proveniți din familii monoparentale sunt beneficiari ai scutirii de taxa de admitere.","Da, candidații proveniți din familii monoparentale beneficiază de scutire de taxa de admitere, conform regulamentului admiterii FMI UBB 2026. Scutirea se acordă numai pe baza documentelor justificative, care trebuie depuse la momentul înscrierii.",0.8355,0.4255
+181,Există scutiri pentru taxa de participare la concursul Mate-Info UBB?,Taxe admitere,"Conform informațiilor din context, taxa de participare este fără scutiri.","Nu, nu există scutiri pentru taxa de participare la concursul Mate-Info UBB. Taxa este de 400 lei, se plătește online și nu se acordă scutiri.",0.7422,0.2778
+188,Cum se plătesc taxele de admitere și ce se întâmplă dacă renunț după înscriere?,Taxe admitere,"Taxele se achită exclusiv online prin platforma de admitere.
+
+În ceea ce privește rambursarea, contextul menționează că Taxa de procesare nu este returnabilă.","Taxele de admitere se achită exclusiv online prin platforma de admitere. Dacă un candidat renunță după înscriere, taxa de procesare și taxa de înscriere nu se returnează. Taxa de școlarizare poate fi restituită integral doar dacă studentul renunță înainte de începerea anului universitar.",0.7829,0.3939
+196,În ce situații se poate restitui taxa de școlarizare și ce alte taxe nu se returnează?,Taxe admitere,"Taxa de școlarizare poate fi restituită integral dacă studentul renunță înainte de începerea anului universitar.
+
+În cazul retragerii, taxele care nu se returnează sunt taxa de procesare și taxa de înscriere.",Taxa de școlarizare poate fi restituită integral dacă studentul renunță înainte de începerea anului universitar. Taxa de procesare și taxa de înscriere nu se returnează în cazul retragerii.,0.9431,0.7458
+197,Cum sunt structurate taxele de admitere și unde se achită acestea?,Taxe admitere,Taxa de admitere este compusă din taxa de procesare și taxa de înscriere. Aceste taxe se achită exclusiv online prin platforma de admitere.,"Taxa de admitere este compusă din taxa de procesare și taxa de înscriere. Taxa de procesare acoperă aspectele organizatorice și de comunicare, nu este supusă scutirilor și nu este returnabilă. Taxa de înscriere se achită conform regulamentului facultății. Toate taxele se achită exclusiv online prin platforma de admitere.",0.8589,0.5915
+206,Prin ce se deosebește taxa de admitere de taxa de școlarizare?,Taxe admitere,"Taxele de admitere sunt compuse din taxa de procesare și taxa de înscriere. În ceea ce privește restituirea, contextul menționează că taxa de procesare și taxa de înscriere nu se returnează în cazul retragerii, în timp ce taxa de școlarizare poate fi restituită integral dacă studentul renunță înainte de începerea anului universitar.","Taxa de admitere este compusă din taxa de procesare și taxa de înscriere, se achită exclusiv online prin platforma de admitere, acoperă aspectele organizatorice și de comunicare, nu este supusă scutirilor și nu este returnabilă. 
+
+Taxa de școlarizare reprezintă o taxă distinctă, care poate fi restituită integral dacă studentul renunță înainte de începerea anului universitar. 
+
+Astfel, taxa de admitere este o taxă pentru participarea la concursul de admitere, iar taxa de școlarizare este o taxă pentru studiile universitare efective.",0.7934,0.4427
+208,Care este diferența dintre taxele care pot fi restituite și cele care nu se returnează?,Taxe admitere,"Taxele care nu se returnează în cazul retragerii sunt taxa de procesare și taxa de înscriere. În schimb, taxa de școlarizare poate fi restituită integral dacă studentul renunță înainte de începerea anului universitar.",Taxa de procesare și taxa de înscriere nu se returnează în cazul retragerii. Taxa de școlarizare poate fi restituită integral dacă studentul renunță înainte de începerea anului universitar.,0.93,0.7541
+216,Care este diferența dintre plata taxelor pentru admitere și depunerea documentelor pentru scutire?,Taxe admitere,Nu dețin această informație conform datelor extrase de pe site-ul oficial.,"Diferența dintre plata taxelor pentru admitere și depunerea documentelor pentru scutire este următoarea:
+
+- Taxele pentru admitere (taxa de procesare, taxa de înscriere și taxa de admitere) se achită exclusiv online prin platforma de admitere.
+- Scutirile de taxe se acordă numai pe baza documentelor justificative, care trebuie depuse la momentul înscrierii.
+- Nu se acceptă documente pentru scutire după finalizarea înscrierii.
+- Taxa de procesare și taxa de înscriere nu sunt returnabile în cazul retragerii.
+
+Astfel, plata taxelor este obligatorie și se face online, iar depunerea documentelor pentru scutire trebuie realizată înainte de finalizarea înscrierii, pentru a putea beneficia de scutire.",0.5712,0.0364
+225,Ce taxe nu mai pot fi recuperate după retragerea candidatului?,Taxe admitere,Taxa de procesare și taxa de înscriere nu se returnează în cazul retragerii.,Taxa de procesare și taxa de înscriere nu se returnează în cazul retragerii candidatului.,0.9748,0.963
+227,Când trebuie încărcate documentele justificative pentru a beneficia de scutire?,Taxe admitere,Documentele trebuie depuse la momentul înscrierii.,Documentele justificative pentru scutire trebuie depuse la momentul înscrierii. Nu se acceptă documente pentru scutire după finalizarea înscrierii.,0.8522,0.5
+232,Este posibilă plata taxelor de admitere în afara platformei online?,Taxe admitere,Taxele se achită exclusiv online prin platforma de admitere.,Taxele de admitere se achită exclusiv online prin platforma de admitere. Plata în afara platformei online nu este posibilă.,0.8587,0.6429
+233,Pot primi scutire de taxa de înscriere dacă părintele meu lucrează în învățământul preuniversitar?,Taxe admitere,"Da, puteți beneficia de scutirea taxei de înscriere dacă sunteți copilul personalului din învățământul universitar și preuniversitar.","Da, puteți primi scutire de taxa de înscriere dacă părintele dumneavoastră lucrează în învățământul preuniversitar. Beneficiari ai scutirii de taxa de înscriere sunt copiii personalului din învățământul universitar și preuniversitar.",0.8399,0.5106
+245,Când trebuie plătită taxa?,Taxe admitere,Nu dețin această informație conform datelor extrase de pe site-ul oficial.,"Taxele se achită exclusiv online prin platforma de admitere, conform regulamentului facultății. Informația exactă privind termenele de plată nu este specificată în ghidul de admitere.",0.6614,0.1081
+252,La ce oră se afișează repartizarea pe săli pentru proba scrisă?,Calendar admitere,"Repartizarea pe săli se afișează la ora 16:00, în data de 16 iulie 2026.","Repartizarea pe săli pentru proba scrisă se afișează pe 16 iulie 2026, la ora 16:00.",0.9218,0.5806
+253,În ce zi are loc proba scrisă de admitere din sesiunea de vară?,Calendar admitere,"Proba scrisă de admitere din sesiunea de vară are loc pe 17 iulie 2026, la ora 09:00.","Proba scrisă de admitere din sesiunea de vară are loc în data de 17 iulie 2026, ora 09:00.",0.975,0.8649
+254,Când se publică rezultatele probei scrise?,Calendar admitere,"Publicarea rezultatelor probei scrise este programată pentru 18 iulie 2026, la ora 12:00.","Rezultatele probei scrise se publică pe 18 iulie 2026, la ora 12:00.",0.9111,0.6667
+257,În ce perioadă se desfășoară sesiunea de admitere din iulie 2026?,Calendar admitere,Perioada generală a sesiunii de admitere din iulie 2026 este între 13 iulie 2026 și 27 iulie 2026.,Sesiunea de admitere din iulie 2026 se desfășoară în perioada 13 iulie 2026 – 27 iulie 2026.,0.8754,0.6471
+270,Care este perioada de înscriere online și când are loc proba scrisă la admiterea FMI UBB 2026?,Calendar admitere,"Perioada de înscriere online este de la 13 iulie 2026 – 16 iulie 2026, ora 11:00. Proba scrisă are loc pe 17 iulie 2026, ora 09:00.","Perioada de înscriere online la admiterea FMI UBB 2026 este între 13 iulie 2026 și 16 iulie 2026, până la ora 11:00. Proba scrisă are loc pe 17 iulie 2026, începând cu ora 09:00.",0.9067,0.7937
+275,În ce zi se desfășoară proba scrisă și la ce oră se publică repartizarea pe săli?,Calendar admitere,"Proba scrisă se desfășoară pe 17 iulie 2026, iar publicarea listelor finale și repartizarea pe săli are loc pe 16 iulie 2026, la ora 16:00.","Proba scrisă se desfășoară în data de 17 iulie 2026, iar repartizarea pe săli se publică în data de 16 iulie 2026, la ora 16:00.",0.9373,0.6923
+280,Când se afișează rezultatele concursului Mate-Info și în ce perioadă se pot face contestații?,Calendar admitere,"Rezultatele concursului se afișează pe 23 martie 2026, iar contestațiile pot fi depuse în perioada 23 martie 2026 – 24 martie 2026.",Rezultatele concursului Mate-Info UBB 2026 se afișează pe 23 martie 2026. Contestațiile se pot depune în perioada 23 martie 2026 – 24 martie 2026.,0.9069,0.8
+283,"Care este ordinea etapelor dintre înscriere, proba scrisă și afișarea rezultatelor finale?",Calendar admitere,"Conform calendarului pentru Sesiunea I (Iulie 2026), ordinea etapelor este următoarea:
+
+1. **Înscriere online:** Are loc între 13 iulie 2026 și 16 iulie 2026, ora 11:00.
+2. **Proba scrisă:** Este programată pentru 17 iulie 2026, ora 09:00.
+3. **Publicarea rezultatelor probei scrise:** Are loc pe 18 iulie 2026, ora 12:00.
+4. **Contestații rezultate examen și soluționarea contestațiilor:** Au loc în perioada 18 iulie 2026 (de la orele 12:00) până pe 20 iulie 2026, ora 12:00.
+5. **Publicarea rezultatelor admiterii:** Are loc după soluționarea contestațiilor.","Ordinea etapelor dintre înscriere, proba scrisă și afișarea rezultatelor finale în sesiunea I (iulie 2026) este următoarea:
+
+1. Înscriere online: 13 iulie 2026 – 16 iulie 2026, ora 11:00  
+2. Publicarea listelor finale și repartizarea pe săli: 16 iulie 2026, ora 16:00  
+3. Contestații privind înscrierea: 16 iulie 2026, ora 16:00 – 18:00  
+4. Proba scrisă: 17 iulie 2026, ora 09:00  
+5. Publicarea rezultatelor probei scrise: 18 iulie 2026, ora 12:00  
+6. Contestații rezultate examen: 18 iulie 2026, ora 12:00 – 19 iulie 2026, ora 12:00  
+7. Soluționarea contestațiilor: 20 iulie 2026, până la ora 12:00  
+8. Publicarea rezultatelor admiterii: după soluționarea contestațiilor
+
+Astfel, după înscriere urmează publicarea listelor și repartizarea pe săli, apoi proba scrisă, urmată de afișarea rezultatelor probei scrise, perioada de contestații, soluționarea acestora și, în final, publicarea rezultatelor admiterii.",0.796,0.5
+291,Cum diferă perioada de înscriere pentru concursul Mate-Info față de perioada de înscriere online la admitere?,Calendar admitere,Nu dețin această informație conform datelor extrase de pe site-ul oficial.,"Perioada de înscriere pentru concursul Mate-Info UBB 2026 este între 23 februarie 2026 și 17 martie 2026, în timp ce perioada de înscriere online la admiterea FMI UBB 2026, sesiunea de vară, este între 13 iulie 2026 și 16 iulie 2026, ora 11:00. Astfel, înscrierea la concursul Mate-Info are loc cu câteva luni înaintea înscrierii online la admitere.",0.5662,0.0274
+296,Care este diferența dintre perioada generală a sesiunii de admitere și perioada efectivă de înscriere online?,Calendar admitere,"Perioada generală a sesiunii de admitere este mult mai lungă și se desfășoară între 13 iulie 2026 și 27 iulie 2026. În schimb, perioada efectivă de înscriere online are loc într-interval mai scurt, fiind programată pentru zilele de la 13 iulie 2026 până la 16 iulie 2026, ora 11:00.","Perioada generală a sesiunii de admitere este 13 iulie 2026 – 27 iulie 2026, iar perioada efectivă de înscriere online este 13 iulie 2026 – 16 iulie 2026, ora 11:00. Astfel, perioada generală acoperă întregul interval al sesiunii de admitere, inclusiv desfășurarea probelor și alte activități, în timp ce perioada de înscriere online este un interval mai scurt, dedicat exclusiv completării și transmiterea dosarelor de înscriere prin platforma online.",0.8038,0.4538
+298,Care este diferența dintre data concursului Mate-Info și data probei scrise de admitere?,Calendar admitere,Concursul Mate-Info UBB este programat pentru data de 21 martie 2026. Nu dețin această informație conform datelor extrase de pe site-ul oficial (referitor la data probei scrise de admitere).,"Concursul Mate-Info UBB 2026 se desfășoară pe 21 martie 2026, ora 09:00, iar proba scrisă de admitere la Facultatea de Matematică și Informatică UBB are loc pe 17 iulie 2026, ora 09:00. Astfel, diferența dintre data concursului Mate-Info și data probei scrise de admitere este de aproximativ patru luni.",0.7253,0.3333
+304,Care sunt diferențele dintre activitățile programate pe 16 iulie 2026 și cele programate pe 18 iulie 2026?,Calendar admitere,"Pe 16 iulie 2026, activitățile programate sunt legate de înscriere și includ:
+*   Publicarea listelor finale și repartizarea pe săli (ora 16:00).
+*   Contestațiile privind înscrierea (din ora 16:00 – 18:00).
+
+Pe 18 iulie 2026, activitățile programate sunt legate de rezultatele examenului și includ:
+*   Publicarea rezultatelor probei scrise (ora 12:00).
+*   Contestațiile rezultatelor examen (din ora 12:00 – 19 iulie 2026, ora 12:00).","Pe 16 iulie 2026, activitățile programate sunt:
+
+- Publicarea listelor finale și repartizarea pe săli, ora 16:00;
+- Contestații privind înscrierea, între orele 16:00 și 18:00.
+
+Pe 18 iulie 2026, activitățile programate sunt:
+
+- Publicarea rezultatelor probei scrise, ora 12:00;
+- Depunerea contestațiilor privind rezultatele examenului, între orele 12:00 și 19 iulie 2026, ora 12:00.
+
+Diferența principală este că pe 16 iulie se publică listele finale de înscriere și se pot depune contestații legate de înscriere, iar pe 18 iulie se publică rezultatele probei scrise și se pot depune contestații referitoare la aceste rezultate.",0.8076,0.5625
+306,Ce se întâmplă după expirarea perioadei de contestații la examen?,Calendar admitere,"După expirarea perioadei de contestații, rezultatele devin definitive.","După expirarea perioadei de contestații, rezultatele devin definitive.",1.0,1.0
+308,Ce activitate are loc imediat după soluționarea contestațiilor?,Calendar admitere,Publicarea rezultatelor admiterii are loc după soluționarea contestațiilor.,"Imediat după soluționarea contestațiilor, are loc publicarea rezultatelor admiterii.",0.8968,0.3529
+316,Se poate contesta rezultatul unei probe orale pe baza notei primite?,Calendar admitere,Rezultatele probelor orale sau practice pot fi contestate doar procedural.,"Rezultatele probelor orale sau practice pot fi contestate doar procedural, nu pe baza notei primite.",0.9311,0.8
+319,Pot beneficia de schimbarea formei de finanțare dacă nu îndeplinesc condițiile de eligibilitate?,Calendar admitere,"Conform regulamentelor pentru sesiunea din septembrie 2026, candidații trebuie să îndeplinească condițiile de eligibilitate pentru a solicita schimbarea formei de finanțare.","Candidații pot beneficia de schimbarea formei de finanțare doar dacă îndeplinesc condițiile de eligibilitate. Dacă nu îndeplinesc aceste condiții, nu pot beneficia de schimbarea formei de finanțare.
+
+Aceasta rezultă din prevederea din ghidul de admitere care specifică că pentru schimbarea formei de finanțare candidații trebuie să îndeplinească condițiile de eligibilitate și să depună diploma de bacalaureat și foaia matricolă în original până la 31 august 2026. 
+
+Prin urmare, dacă nu sunt îndeplinite condițiile de eligibilitate, schimbarea formei de finanțare nu este posibilă.",0.7659,0.233
+328,Când are loc examenul?,Calendar admitere,"Concursul are loc pe 21 martie 2026, la ora 09:00.","Examenul de admitere la Facultatea de Matematică și Informatică UBB, sesiunea Iulie 2026, are loc pe 17 iulie 2026, începând cu ora 09:00.",0.7756,0.4
+333,Când se face redistribuirea?,Calendar admitere,Redistribuirea locurilor bugetate are loc dacă între 1 august 2026 și 1 septembrie 2026 se eliberează locuri bugetate.,"Redistribuirea locurilor bugetate se face dacă între 1 august 2026 și 1 septembrie 2026 se eliberează locuri bugetate. Aceste locuri sunt ocupate de candidații admiși pe locuri cu taxă, repartizarea realizându-se în ordinea descrescătoare a mediilor și în cadrul aceleiași specializări.",0.8464,0.5333
+336,În ce dată are loc Concursul Mate-Info UBB 2026?,Concurs Mate-Info UBB,"Concursul Mate-Info UBB 2026 are loc pe 21 martie 2026, la ora 09:00.","Concursul Mate-Info UBB 2026 are loc în data de 21 martie 2026, ora 09:00.",0.9658,0.8387
+348,Ce primesc candidații care obțin una dintre primele 10 note de minimum 9 la informatică?,Concurs Mate-Info UBB,Candidații care obțin una dintre primele 10 note $\ge 9$ la informatică primesc nota 10 la proba de admitere.,Candidații care obțin una dintre primele 10 note de minimum 9 la informatică primesc nota 10 la proba de admitere.,0.9473,0.9231
+353,În ce perioadă pot fi depuse contestațiile pentru concurs?,Concurs Mate-Info UBB,"Conform calendarului pentru Concursul Mate-Info UBB 2026, contestațiile se pot depune în perioada 23 martie 2026 – 24 martie 2026.","Contestațiile pentru probele scrise se depun în termen de 24 de ore de la afișarea rezultatelor. Pentru sesiunea I din iulie 2026, contestațiile privind rezultatele probei scrise se pot depune în perioada 18 iulie 2026, ora 12:00 – 19 iulie 2026, ora 12:00. De asemenea, contestațiile privind înscrierea se pot depune în ziua afișării listelor finale, pe 16 iulie 2026, între orele 16:00 și 18:00.",0.7508,0.2273
+359,"Cum se calculează media de admitere pentru Categoria B dacă un candidat participă atât la concurs, cât și la examenul de admitere?",Concurs Mate-Info UBB,"Media de admitere pentru Categoria B se calculează conform formulei: `(10 + MAX(Nota Concurs Mate-Info UBB, Nota proba scrisă)) / 2`.","Pentru Categoria B, media de admitere se calculează cu formula:
+
+(10 + MAX(Nota Concurs Mate-Info UBB, Nota proba scrisă)) / 2
+
+Astfel, dacă un candidat participă atât la concurs, cât și la examenul de admitere, se ia nota mai mare dintre cele două, se adaugă 10, iar rezultatul se împarte la 2 pentru a obține media de admitere.",0.8172,0.4051
+361,"Care este durata concursului, câte întrebări conține și în ce limbi pot fi consultate subiectele?",Concurs Mate-Info UBB,"Durata concursului este de 3 ore și conține 24 întrebări tip grilă. Subiectele pot fi disponibile în limbila română, maghiară, germană și engleză.","Concursul Mate-Info UBB 2026 are o durată de 3 ore, conține 24 de întrebări tip grilă, iar subiectele pot fi consultate în limbile română, maghiară, germană și engleză.",0.8747,0.6538
+363,"Dacă obțin o notă sub 6 la concurs, mai poate fi utilizată aceasta la admitere?",Concurs Mate-Info UBB,"Conform informațiilor din context, nota poate fi utilizată la admitere doar dacă este minimum 6.","Nota obținută la Concursul Mate-Info UBB poate fi utilizată la admitere doar dacă este minimum 6. Dacă obțineți o notă sub 6, aceasta nu poate fi folosită la admitere.",0.8098,0.4889
+379,Care sunt diferențele dintre concursul Mate-Info și examenul de admitere în privința calendarului?,Concurs Mate-Info UBB,Nu dețin această informație conform datelor extrase de pe site-ul oficial.,"Concursul Mate-Info UBB 2026 are următorul calendar:
+
+- Înscriere: 23 februarie 2026 – 17 martie 2026
+- Afișarea listelor finale și repartizarea pe săli: 18 martie 2026
+- Concursul: 21 martie 2026, ora 09:00
+- Afișarea rezultatelor: 23 martie 2026
+- Contestații: 23 martie 2026 – 24 martie 2026
+- Rezultate finale: 26 martie 2026
+
+Examenul de admitere (sesiunea I – iulie 2026) are următorul calendar:
+
+- Perioada generală a sesiunii: 13 iulie 2026 – 27 iulie 2026
+- Preînscriere: 1 iulie 2026 – 8 iulie 2026
+- Înscriere online: 13 iulie 2026 – 16 iulie 2026, ora 11:00
+- Publicarea listelor finale și repartizarea pe săli: 16 iulie 2026, ora 16:00
+- Contestații privind înscrierea: 16 iulie 2026, ora 16:00–18:00
+- Proba scrisă: 17 iulie 2026, ora 09:00
+- Publicarea rezultatelor probei scrise: 18 iulie 2026, ora 12:00
+- Contestații rezultate examen: 18 iulie 2026, ora 12:00 – 19 iulie 2026, ora 12:00
+- Soluționarea contestațiilor: 20 iulie 2026, până la ora 12:00
+- Publicarea rezultatelor admiterii: după soluționarea contestațiilor
+
+Diferențele principale sunt:
+
+- Concursul Mate-Info se desfășoară în perioada martie 2026, iar examenul de admitere în iulie 2026.
+- Concursul are o perioadă de înscriere mult mai devreme (februarie-martie) față de examenul de admitere (iulie).
+- Concursul are o durată mai scurtă a procesului (înscriere, concurs, contestații și rezultate finale în aproximativ o lună), în timp ce examenul de admitere are o perioadă mai extinsă cu mai multe etape (preînscriere, înscriere, proba scrisă, contestații etc.).
+- Proba scrisă a concursului are loc pe 21 martie 2026, iar proba scrisă a examenului de admitere pe 17 iulie 2026.",0.4866,0.0149
+385,Care este diferența dintre perioada de înscriere și perioada de contestații pentru concurs?,Concurs Mate-Info UBB,"Perioada de înscriere online are loc între 13 iulie 2026 și 16 iulie 2026, ora 11:00.
+
+Perioadele de contestații se referă la oportunități pentru candidați de a contesta anumite rezultate sau proceduri și au loc în următoarele momente:
+
+*   **Contestațiile privind înscrierea:** 16 iulie 2026, între orele 16:00 și 18:00.
+*   **Contestațiile rezultatelor examen:** Între 18 iulie 2026, ora 12:00 și 19 iulie 2026, ora 12:00.","Perioada de înscriere pentru sesiunea I a admiterii FMI UBB 2026 este între 13 iulie 2026, ora 11:00 și 16 iulie 2026, ora 11:00, timp în care candidații se pot înscrie online prin platforma dedicată. 
+
+Perioada de contestații privind înscrierea este limitată la data de 16 iulie 2026, între orele 16:00 și 18:00.
+
+În ceea ce privește contestațiile pentru probele scrise, acestea se depun în termen de 24 de ore de la afișarea rezultatelor probei scrise, respectiv între 18 iulie 2026, ora 12:00 și 19 iulie 2026, ora 12:00. Rezultatele contestațiilor sunt soluționate până la 20 iulie 2026, ora 12:00.
+
+Astfel, diferența principală este că perioada de înscriere este destinată completării și transmiterea documentelor pentru participarea la concurs, iar perioada de contestații este destinată depunerii eventualelor reclamații legate de înscriere sau de rezultatele probei scrise, fiecare având termene și scopuri diferite.",0.7756,0.4055
+388,Ce diferență există între rezultatele afișate inițial și rezultatele finale ale concursului?,Concurs Mate-Info UBB,"Rezultatele finale sunt obținute după perioada de contestații și soluționarea acestora, deoarece rezultatele inițiale pot fi contestate în termenul stabilit pentru a se asigura acuratețea rezultatelor.","Diferența dintre rezultatele afișate inițial și rezultatele finale ale concursului constă în faptul că rezultatele inițiale pot fi contestate în termenul stabilit, iar după soluționarea contestațiilor se publică rezultatele finale. Astfel, rezultatele finale reflectă eventualele modificări ca urmare a contestațiilor depuse și soluționate. 
+
+În cazul probei scrise de admitere, rezultatele inițiale sunt afișate la 18 iulie 2026, ora 12:00, iar contestațiile se pot depune până la 19 iulie 2026, ora 12:00. Soluționarea contestațiilor are loc până la 20 iulie 2026, ora 12:00, după care se publică rezultatele finale.
+
+Pentru Concursul Mate-Info UBB 2026, rezultatele inițiale sunt afișate la 23 martie 2026, iar contestațiile se pot depune în perioada 23-24 martie 2026. Rezultatele finale sunt afișate la 26 martie 2026.
+
+Astfel, rezultatele finale sunt cele definitive, după soluționarea contestațiilor, iar rezultatele inițiale pot suferi modificări în urma acestui proces.",0.7039,0.142
+392,"Dacă particip atât la concurs, cât și la examenul de admitere, se poate folosi nota mai mică?",Concurs Mate-Info UBB,Se utilizează nota mai mare.,"Dacă un candidat participă atât la Concursul Mate-Info UBB, cât și la examenul de admitere, se utilizează nota mai mare dintre cele două.",0.7262,0.3448
+399,"Dacă susțin atât concursul, cât și examenul de admitere, media finală se calculează folosind ambele note simultan?",Concurs Mate-Info UBB,Se utilizează nota mai mare.,"Media finală la admitere se calculează folosind nota mai mare dintre nota obținută la Concursul Mate-Info UBB și nota de la proba scrisă a examenului de admitere. Formula standard este:
+
+`MAX(Nota Concurs Mate-Info UBB, Nota proba scrisă)`
+
+Prin urmare, nu se folosesc ambele note simultan, ci se ia în considerare doar nota mai mare dintre cele două. 
+
+Excepție face Categoria B, pentru care media se calculează ca media aritmetică între 10 și nota mai mare dintre cele două, conform formulei:
+
+`(10 + MAX(Nota Concurs Mate-Info UBB, Nota proba scrisă)) / 2`
+
+În concluzie, media finală nu se calculează prin combinarea ambelor note simultan, ci prin alegerea notei mai mari dintre cele două (sau o medie specială în cazul Categoriei B).",0.6122,0.0625
+400,Când se afișează rezultatele?,Concurs Mate-Info UBB,"Rezultatele se afișează în mai multe etape și la diferite evenimente:
+
+*   **Pentru Sesiunea I (Iulie 2026):**
+    *   Publicarea rezultatelor probei scrise este programată pentru 18 iulie 2026, ora 12:00.
+    *   Publicarea rezultatelor admiterii are loc după soluționarea contestațiilor.
+*   **Pentru Concursul Mate-Info UBB 2026:**
+    *   Afișarea rezultatelor este programată pentru 23 martie 2026.","Rezultatele probei scrise se afișează pe 18 iulie 2026, ora 12:00. Rezultatele finale ale admiterii se publică după soluționarea contestațiilor, respectiv după data de 20 iulie 2026, până la ora 12:00.",0.7796,0.3333
+405,"Dacă iau notă mare, primesc vreun avantaj?",Concurs Mate-Info UBB,"Da, există câteva avantaje legate de obținerea unor note înalte:
+
+**Facilități specifice:**
+
+*   **Facilitatea I:** Candidații care obțin una dintre primele 10 note $\ge 9$ la informatică sau una dintre primele 10 note $\ge 9$ la matematică primesc nota 10 la proba de admitere.
+*   **Facilitatea II:** Nota de la concurs poate înlocui nota de la proba scrisă. Dacă un candidat participă și la concurs și la examenul de admitere, se utilizează nota mai mare.
+
+**Formula mediei de admitere (avantaj bazat pe maxim):**
+*   În varianta standard, pentru calcularea notei se folosește `MAX(Nota Concurs Mate-Info UBB, Nota proba scrisă)`.","Da, candidații care obțin rezultate foarte bune pot beneficia de facilități la admiterea FMI UBB 2026:
+
+1. Categoria A – Media 10 la admitere  
+Candidații care au obținut anumite rezultate la olimpiade sau la Concursul Mate-Info UBB 2025 sau 2026 pot participa cu media 10 la admitere, adică primesc nota 10 direct, fără a mai susține proba scrisă. Aceasta se aplică pentru cei care au participat la faza internațională sau au obținut premii I, II, III, mențiuni ori medalii la faza națională la olimpiadele acceptate (Matematică, Astronomie și Astrofizică, Informatică, Tehnologia Informației – secțiunea C#, Informatică Aplicată AcadNet, Inteligență Artificială, Securitate Cibernetică).
+
+2. Facilități legate de Concursul Mate-Info UBB 2026  
+- Candidații care obțin una dintre primele 10 note ≥ 9 la informatică sau matematică primesc nota 10 la proba de admitere (Facilitatea I).  
+- Nota obținută la concurs poate înlocui nota de la proba scrisă de admitere, iar dacă un candidat participă și la concurs și la examenul de admitere, se utilizează nota mai mare (Facilitatea II).
+
+Astfel, o notă mare poate conduce la media 10 la admitere sau la înlocuirea notei de la proba scrisă cu o notă mai mare obținută la concurs, ceea ce reprezintă un avantaj important în procesul de admitere.",0.7462,0.3733
+410,Ce documente sunt obligatorii pentru înscriere la FMI UBB?,Acte necesare,"Conform contextului, documentele obligatorii pentru înscriere sunt următoarele:
+
+**Documente generale:**
+*   Cererea/formularul de înscriere completat online;
+*   Fișa candidatului – date de concurs (Anexa 2);
+*   Diploma de bacalaureat sau diplomă echivalentă;
+*   Foaia matricolă;
+*   Certificatul de naștere;
+*   Cardul de identitate;
+*   Certificatul de căsătorie (unde este cazul);
+*   Adevérința medicală tip;
+*   Dovada plății taxei de admitere sau documentele de scutire;
+*   Documente justificative pentru facilități sau categorii speciale.
+
+**Pentru Diploma de bacalaureat:**
+Diploma trebuie să fie scanată față-verso și să conțină:
+*   Media examenului de bacalaureat;
+*   Nota la Matematică sau Informatică.
+
+**Pentru absolvenții promoției 2026,** se poate depune adeverință-tip care atestă:
+*   Absolvirea liceului;
+*   Promovarea examenului de bacalaureat;
+*   Media de bacalaureat;
+*   Nota la Matematică sau Informatică.","Documentele obligatorii pentru înscriere la Facultatea de Matematică și Informatică (FMI) UBB sunt:
+
+### Documente generale
+- cererea/formularul de înscriere completat online;
+- fișa candidatului – date de concurs (Anexa 2);
+- diploma de bacalaureat sau diplomă echivalentă (scanată față-verso, care să conțină media examenului de bacalaureat și nota la Matematică sau Informatică);
+- foaia matricolă;
+- certificatul de naștere;
+- cartea de identitate;
+- certificatul de căsătorie (unde este cazul);
+- adeverință medicală tip (emisă de cabinetul școlar sau medicul de familie, cu maximum 3 luni înainte de înscriere, care să ateste că persoana este aptă pentru specializarea aleasă);
+- dovada plății taxei de admitere sau documentele de scutire;
+- documente justificative pentru facilități sau categorii speciale (dacă este cazul).
+
+### Pentru absolvenții promoției 2026
+- adeverință-tip care să ateste absolvirea liceului, promovarea examenului de bacalaureat, media de bacalaureat și nota la Matematică sau Informatică (în locul diplomei de bacalaureat).
+
+Mențiuni:
+- Nu este necesară legalizarea copiilor;
+- Copiile sunt certificate conform cu originalul de persoanele desemnate;
+- Declarațiile false și documentele falsificate atrag răspunderea penală conform legii.",0.8289,0.5673
+413,Ce informații trebuie să apară pe diploma de bacalaureat?,Acte necesare,"Diploma trebuie să conțină:
+* media examenului de bacalaureat;
+* nota la Matematică sau Informatică.","Diploma de bacalaureat trebuie să fie scanată față-verso și să conțină următoarele informații:
+
+- media examenului de bacalaureat;
+- nota la Matematică sau Informatică.",0.8732,0.7222
+417,În ce situații trebuie depus certificatul de căsătorie?,Acte necesare,"Certificatul de căsătorie trebuie depus în situațiile în care este cazul, fiind listat printre documentele generale obligatorii pentru înscriere.","Certificatul de căsătorie trebuie depus, unde este cazul, ca parte a documentelor obligatorii pentru înscriere.",0.8872,0.5882
+418,Ce tip de adeverință medicală este acceptată?,Acte necesare,"Adeverința medicală trebuie să fie:
+* emisă de cabinetul școlar sau medicul de familie;
+* emisă cu maximum 3 luni înainte de înscriere;
+* care să ateste că persoana este aptă pentru specializarea aleasă.","Adeverința medicală acceptată este cea emisă de cabinetul școlar sau de medicul de familie, emisă cu maximum 3 luni înainte de înscriere, care să ateste că persoana este aptă pentru specializarea aleasă.",0.9146,0.8889
+437,Ce trebuie să facă un candidat cu studii efectuate în străinătate pentru echivalare și cui poate cere informații?,Acte necesare,"Candidații trebuie să prezinte dovada echivalării studiilor. Pentru informații privind echivalarea, pot contacta:
+
+1. **Centrul de Cooperări Internaționale UBB:** pentru informații generale despre studenții UE.
+2. **Comisia de Admitere FMI UBB:** pentru echivalarea notelor (prin adresa de email: admitere.cs@ubbcluj.ro).","Candidații cu studii efectuate în străinătate trebuie să prezinte dovada echivalării studiilor. Pentru informații privind echivalarea, aceștia pot contacta Centrul de Cooperări Internaționale UBB la adresa:  
+[https://cci.ubbcluj.ro/degree_students/eu_students.php](https://cci.ubbcluj.ro/degree_students/eu_students.php)  
+
+Pentru echivalarea notelor, candidații pot solicita informații Comisiei de Admitere FMI UBB, prin email la: admitere.cs@ubbcluj.ro.",0.7923,0.5941
+438,Ce documente trebuie să depună un candidat admis pe loc cu taxă pentru a putea beneficia ulterior de redistribuire pe buget?,Acte necesare,"Pentru a putea beneficia de redistribuire, candidații trebuie să îndeplinească condițiile de eligibilitate și să depună diploma de bacalaureat și foaia matricolă în original până la 31 august 2026.","Un candidat admis pe loc cu taxă care dorește să beneficieze ulterior de redistribuire pe locuri bugetate trebuie să depună diploma de bacalaureat și foaia matricolă în original până la data de 31 august 2026. 
+
+Aceasta este condiția pentru schimbarea formei de finanțare în cadrul redistribuirii locurilor bugetate, care se face în perioada 1 august 2026 – 1 septembrie 2026, în ordinea descrescătoare a mediilor și în cadrul aceleiași specializări.",0.784,0.3673
+443,Ce documente trebuie să conțină dosarul unui candidat care aplică la o specializare în limba germană fără să susțină proba scrisă?,Acte necesare,Nu dețin această informație conform datelor extrase de pe site-ul oficial.,"Pentru un candidat care aplică la o specializare în limba germană fără să susțină proba scrisă, dosarul trebuie să conțină următoarele documente obligatorii pentru înscriere:
+
+- cererea/formularul de înscriere completat online;
+- fișa candidatului – date de concurs (Anexa 2);
+- diploma de bacalaureat sau diplomă echivalentă (scanată față-verso, cu media examenului de bacalaureat și nota la Matematică sau Informatică);
+- foaia matricolă;
+- certificatul de naștere;
+- cartea de identitate;
+- certificatul de căsătorie (unde este cazul);
+- adeverință medicală tip emisă cu maximum 3 luni înainte de înscriere, care să ateste că persoana este aptă pentru specializarea aleasă;
+- dovada plății taxei de admitere sau documentele de scutire;
+- documente justificative pentru facilități sau categorii speciale, dacă este cazul.
+
+În plus, deoarece candidatul nu susține proba scrisă și alege o specializare în limba germană, este necesar să prezinte un certificat lingvistic care să ateste competența în limba germană, conform următoarelor reguli:
+
+- certificatul trebuie să fie aprobat de Rectoratul UBB sau să fie un certificat de competență lingvistică de la Bacalaureat cu nivel minim B2;
+- dacă sunt alese specializări în mai multe limbi, trebuie certificat pentru fiecare limbă;
+- candidații care susțin proba scrisă în limba germană nu mai au nevoie de certificat pentru limba respectivă, însă în acest caz candidatul nu susține proba scrisă, deci certificatul este obligatoriu.
+
+Astfel, dosarul trebuie să conțină și certificatul lingvistic corespunzător pentru limba germană.",0.542,0.0256
+444,Ce acte trebuie prezentate de un candidat care urmează o a doua facultate și este deja finanțat de la buget?,Acte necesare,"Pentru un candidat care urmează o a doua facultate și este finanțat de la buget, sunt necesare următoarele documente:
+
+1. Diploma de licență.
+2. Adevérințe privind numărul de ani bugetați sau cu taxă.
+3. Adevérințe privind achitarea taxelor și lipsa debitelor.","Un candidat care urmează o a doua facultate și este deja finanțat de la buget trebuie să prezinte următoarele documente:
+
+* adeverințe privind:
+  * numărul de ani bugetați sau cu taxă;
+  * achitarea taxelor;
+  * lipsa debitelor;
+* diploma de licență (pentru cei care urmează o a doua facultate).
+
+În cazul studenților deja înscriși la alte programe, se poate depune copie certificată conform cu originalul, iar adeverința trebuie să confirme existența actului original la cealaltă instituție.",0.7937,0.5
+451,Ce diferență există între actele necesare pentru înscriere și cele necesare pentru confirmarea locului?,Acte necesare,"Pentru **înscriere**, candidații trebuie să depună documente obligatorii, care includ:
+*   Cererea/formularul de înscriere completat online;
+*   Fișa candidatului – date de concurs (Anexa 2);
+*   Diploma de bacalaureat sau diplomă echivalentă;
+*   Foaia matricolă;
+*   Certificatul de naștere;
+*   Cartea de identitate;
+*   Certificatul de căsătorie (unde este cazul);
+*   Adevérința medicală tip;
+*   Dovada plății taxei de admitere sau documentele de scutire;
+*   Documente justificative pentru facilități sau categorii speciale.
+
+Pentru **confirmarea locului**, candidații admiși trebuie să depună actele în original conform termenelor stabilite, să semneze contractul de școlarizare și să confirme locul conform calendarului.","Diferența dintre actele necesare pentru înscriere și cele necesare pentru confirmarea locului este următoarea:
+
+- Pentru înscriere, candidații trebuie să încarce online documentele scanate și semnate, printre care se numără cererea/formularul de înscriere, fișa candidatului, diploma de bacalaureat sau adeverința-tip pentru absolvenții promoției 2026, foaia matricolă, certificatul de naștere, cartea de identitate, certificatul de căsătorie (dacă este cazul), adeverința medicală tip, dovada plății taxei de admitere sau documentele de scutire, precum și documentele justificative pentru facilități sau categorii speciale. Candidații își asumă autenticitatea documentelor prin declarație scrisă semnată.
+
+- Pentru confirmarea locului și înmatriculare, candidații admiși trebuie să depună actele în original conform termenelor stabilite, să semneze contractul de școlarizare și să confirme locul conform calendarului. În cazul studenților deja înscriși la alte programe, se poate depune copie certificată conform cu originalul, însoțită de o adeverință care confirmă existența actului original la cealaltă instituție.
+
+Astfel, înscrierea se face pe baza documentelor scanate și asumate, iar confirmarea locului implică depunerea actelor în original sau copii certificate, precum și semnarea contractului de școlarizare.",0.7982,0.5504
+457,Ce diferențe există între actele necesare pentru candidații care urmează o a doua facultate și cei care aplică pentru prima facultate?,Acte necesare,"Pentru candidații care urmează sau au urmat altă facultate (adică o a doua facultate), documentele necesare includ:
+
+1.  Diploma de licență.
+2.  Adevérințe privind numărul de ani bugetați sau cu taxă, achitarea taxelor și lipsa debitelor.
+
+În cazul studenților deja înscriși la alte programe, se poate depune copie certificată conform originalului și este necesară o adeverință care confirmă existența actului original la cealaltă instituție.
+
+Contextul nu specifică explicit lista de documente pentru candidații care aplică pentru prima facultate, dar menționează că în general se solicită diploma de bacalaureat și alte date academice (numărul anilor urmați la buget etc.).","Diferențele între actele necesare pentru candidații care urmează o a doua facultate și cei care aplică pentru prima facultate sunt următoarele:
+
+- Candidații care aplică pentru prima facultate trebuie să depună documentele generale obligatorii pentru înscriere, cum ar fi cererea/formularul de înscriere completat online, fișa candidatului, diploma de bacalaureat sau echivalentă, foaia matricolă, certificatul de naștere, cartea de identitate, adeverința medicală tip, dovada plății taxei de admitere sau documentele de scutire, precum și documente justificative pentru facilități sau categorii speciale.
+
+- Candidații care urmează sau au urmat o altă facultate trebuie, pe lângă documentele generale, să depună adeverințe privind numărul de ani bugetați sau cu taxă, achitarea taxelor și lipsa debitelor, iar cei care urmează o a doua facultate trebuie să depună și diploma de licență.
+
+Astfel, pentru candidații la a doua facultate sunt necesare documente suplimentare care atestă situația lor academică anterioară și achitarea taxelor, precum și diploma de licență.  
+
+În concluzie, candidații la a doua facultate trebuie să prezinte documente suplimentare legate de studiile universitare anterioare, pe lângă documentele generale obligatorii pentru înscriere.",0.7447,0.2353
+458,Cum diferă condițiile privind diploma de bacalaureat pentru candidații admiși pe buget față de cei admiși la taxă?,Acte necesare,Nu dețin această informație conform datelor extrase de pe site-ul oficial.,Informația nu este specificată în ghidul de admitere.,0.7099,0.2
+461,Care este diferența dintre copia certificată conform cu originalul și depunerea actului în original la confirmarea locului?,Acte necesare,"Pentru studenții deja înscriși la alte programe, se poate depune copia certificată conform cu originalul și este necesară o adeverință care confirmă existența actului original la cealaltă instituție.
+
+În schimb, candidații admiși trebuie să depună actele în original conform termenelor stabilite atunci când își confirmă locul.","Diferența dintre copia certificată conform cu originalul și depunerea actului în original la confirmarea locului este următoarea:
+
+- Depunerea actului în original presupune predarea documentului original, conform termenelor stabilite, de către candidatul admis, pentru confirmarea locului și înmatriculare.
+
+- Copia certificată conform cu originalul este o copie a documentului original, certificată ca fiind conformă cu acesta de către o persoană desemnată. Aceasta poate fi depusă în cazul studenților deja înscriși la alte programe, împreună cu o adeverință care confirmă existența actului original la cealaltă instituție.
+
+Astfel, copia certificată permite confirmarea locului fără a preda efectiv documentul original, în situația studenților care sunt deja înscriși la alte programe, în timp ce depunerea actului în original este obligatorie pentru ceilalți candidați admiși.",0.7803,0.2439
+466,Ce documente trebuie depuse înainte de 31 august 2026 pentru schimbarea formei de finanțare?,Acte necesare,Candidații trebuie să depună diploma de bacalaureat și foaia matricolă în original până la 31 august 2026.,"Pentru schimbarea formei de finanțare, candidații trebuie să depună diploma de bacalaureat și foaia matricolă în original până la 31 august 2026.",0.9149,0.8718
+469,Când trebuie emisă adeverința medicală pentru a fi acceptată la înscriere?,Acte necesare,Adeverința medicală trebuie să fie emisă cu maximum 3 luni înainte de înscriere.,Adeverința medicală trebuie să fie emisă cu maximum 3 luni înainte de înscriere pentru a fi acceptată.,0.9673,0.8667
+478,Ce se întâmplă dacă un candidat încarcă documente false la înscriere?,Acte necesare,Declarațiile false și documentele falsificate atrag răspunderea penală conform legii.,Declarațiile false și documentele falsificate atrag răspunderea penală conform legii.,1.0,1.0
+480,Pot folosi o copie simplă a diplomei dacă originalul este depus la altă universitate?,Acte necesare,"Conform informațiilor disponibile pentru studenții deja înscriși la alte programe:
+
+*   Se poate depune copie certificată conform cu originalul.
+*   Este necesară adeverință care confirmă existența actului original la cealaltă instituție.","Da, în cazul studenților deja înscriși la alte programe, se poate depune copie certificată conform cu originalul a diplomei, fiind necesară și o adeverință care să confirme existența actului original la cealaltă instituție.",0.8916,0.7097
+489,Mai trebuie ceva dacă sunt deja student?,Acte necesare,"Dacă sunteți un student deja înscris la alte programe, trebuie să depuneți următoarele documente:
+
+1. Copia certificată conform originalului.
+2. O adeverință care confirmă existența actului original la cealaltă instituție.","Dacă ești deja student și dorești să te înscrii la admiterea FMI UBB, trebuie să depui copie certificată conform cu originalul a actelor de studii și o adeverință care să confirme existența actului original la cealaltă instituție. De asemenea, trebuie să completezi Anexa 1 – Declarație privind studiile universitare efectuate anterior, în care să declari situația ta (de exemplu, dacă ești student la altă specializare, absolvent cu diplomă de licență, etc.). 
+
+Informația detaliată este specificată în secțiunea „Înscriere și documente necesare” din ghidul de admitere.",0.7423,0.2807
+491,Se acceptă copie sau trebuie originalul?,Acte necesare,"Depozitarea documentelor depinde de situația dumneavoastră:
+
+1. **Pentru studenții deja înscriși la alte programe:** Se poate depune copie certificată conform cu originalul.
+2. **În cazul candidaților admiși:** Trebuie să depună actele în original conform termenelor stabilite.","Candidații admiși trebuie să depună actele în original conform termenelor stabilite. În cazul studenților deja înscriși la alte programe, se poate depune copie certificată conform cu originalul, însă este necesară și o adeverință care confirmă existența actului original la cealaltă instituție.",0.7961,0.3636
+497,Câte puncte bonus se acordă pentru voluntariat la admitere?,General,Nu dețin această informație conform datelor extrase de pe site-ul oficial.,Informația nu este specificată în ghidul de admitere.,0.7099,0.2
+501,Există reducere de 50% la taxa de admitere pentru elevii olimpici?,General,Nu dețin această informație conform datelor extrase de pe site-ul oficial.,Informația nu este specificată în ghidul de admitere.,0.7099,0.2
+503,Se organizează sesiune specială de admitere în luna august?,General,Nu dețin această informație conform datelor extrase de pe site-ul oficial.,Informația nu este specificată în ghidul de admitere.,0.7099,0.2
+513,Există locuri speciale pentru sportivi de performanță?,General,Nu dețin această informație conform datelor extrase de pe site-ul oficial.,Informația nu este specificată în ghidul de admitere.,0.7099,0.2
+524,FMI UBB organizează examen separat pentru românii din diaspora?,General,Nu dețin această informație conform datelor extrase de pe site-ul oficial.,Informația nu este specificată în ghidul de admitere.,0.7099,0.2
+531,Pot participa la admitere dacă am studiat în străinătate?,General,"Da, dar trebuie să prezentați dovada echivalării studiilor.","Da, pot participa la admitere candidații care au studiat în străinătate, însă aceștia trebuie să prezinte dovada echivalării studiilor. Pentru informații privind echivalarea, candidații pot contacta Centrul de Cooperări Internaționale UBB sau Comisia de Admitere FMI UBB la adresa de email admitere.cs@ubbcluj.ro.",0.7011,0.2264
+535,Cine poate beneficia de scutire de taxă?,General,"Beneficiarii scutirilor de taxe sunt împărțiți în două categorii principale:
+
+**1. Scutire de taxa de înscriere:**
+* Angajații UBB;
+* Copiii angajaților UBB;
+* Angajații Bibliotecii Centrale Universitare;
+* Copiii personalului din învățământul universitar și preuniversitar.
+
+**2. Scutire de taxa de admitere:**
+* Candidații orfani de unul sau ambii părinți;
+* Candidații proveniți din familii monoparentale;
+* Tinerii proveniți din centre de plasament cu vârsta până la 26 de ani;
+* Persoanele aflate în risc social din cauza: bolii, handicapului sau sărăciei.
+
+*(Rețineți că scutirile se acordă numai pe baza documentelor justificative depuse la momentul înscrierii.)*","Beneficiari ai scutirii de taxa de înscriere sunt:
+
+* angajații UBB;
+* copiii angajaților UBB;
+* angajații Bibliotecii Centrale Universitare;
+* copiii personalului din învățământul universitar și preuniversitar.
+
+Beneficiari ai scutirii de taxa de admitere sunt:
+
+* candidații orfani de unul sau ambii părinți;
+* candidații proveniți din familii monoparentale;
+* tinerii proveniți din centre de plasament cu vârsta până la 26 de ani;
+* persoane aflate în risc social din cauza:
+
+  * bolii;
+  * handicapului;
+  * sărăciei.
+
+Scutirile se acordă numai pe baza documentelor justificative, care trebuie depuse la momentul înscrierii. Nu se acceptă documente pentru scutire după finalizarea înscrierii.",0.8715,0.7865
+540,Care sunt condițiile pentru schimbarea de la taxă la buget?,General,"Pentru schimbarea formei de finanțare, candidații trebuie să:
+
+1. Să îndeplinească condițiile de eligibilitate;
+2. Să depună diploma de bacalaureat și foaia matricolă în original până la 31 august 2026.","Condițiile pentru schimbarea formei de finanțare de la taxă la buget sunt următoarele:
+
+* Candidații trebuie să îndeplinească condițiile de eligibilitate;
+* Să depună diploma de bacalaureat și foaia matricolă în original până la 31 august 2026.",0.8987,0.8308
+545,Când începe perioada de preînscriere?,General,Perioada de preînscriere începe pe 1 iulie 2026 și se încheie pe 8 iulie 2026.,Perioada de preînscriere începe pe 1 iulie 2026.,0.9315,0.6957
+547,Ce certificate lingvistice sunt acceptate pentru programele în engleză?,General,"Certificatele lingvistice acceptate sunt:
+
+* certificate aprobate de Rectoratul UBB;
+* certificat de competență lingvistică de la Bacalaureat cu nivel minim B2.","Certificatele lingvistice acceptate pentru programele în limba engleză sunt:
+
+- certificate aprobate de Rectoratul UBB;
+- certificat de competență lingvistică de la Bacalaureat cu nivel minim B2.
+
+De asemenea, candidații care susțin proba scrisă în limba engleză nu mai au nevoie de certificat pentru limba respectivă.",0.8743,0.625

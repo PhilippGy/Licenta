@@ -5,3 +5,9 @@
 Intrebarile au fost impartite pe categorii 
 (de ex. intrebari factual: 4 "Acte necesare", 3 "Taxe admitere" etc.)
 
+Total experiment duration: 174m58s
+
+Experiment conclusion:
+Without reranking has a better overall score than with reranking
+1000 chunk size is the overall winner
+Top 8 is the overall winner

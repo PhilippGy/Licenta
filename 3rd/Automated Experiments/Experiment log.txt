@@ -1,0 +1,1636 @@
+-----EXPERIMENT 1-----
+Answered question  1
+Time: 0m14s
+Answered question  3
+Time: 0m12s
+Answered question  7
+Time: 0m10s
+Answered question  22
+Time: 0m17s
+Answered question  23
+Time: 0m11s
+Answered question  30
+Time: 0m22s
+Answered question  43
+Time: 0m19s
+Answered question  47
+Time: 0m25s
+Answered question  50
+Time: 0m29s
+Answered question  55
+Time: 0m16s
+Answered question  57
+Time: 0m17s
+Answered question  69
+Time: 0m20s
+Answered question  70
+Time: 0m21s
+Answered question  73
+Time: 0m20s
+Answered question  86
+Time: 0m13s
+Answered question  97
+Time: 0m13s
+Answered question  99
+Time: 0m12s
+Answered question  101
+Time: 0m16s
+Answered question  108
+Time: 0m21s
+Answered question  111
+Time: 0m17s
+Answered question  120
+Time: 0m18s
+Answered question  123
+Time: 0m15s
+Answered question  130
+Time: 0m19s
+Answered question  137
+Time: 0m13s
+Answered question  140
+Time: 0m17s
+Answered question  152
+Time: 0m11s
+Answered question  161
+Time: 0m12s
+Answered question  165
+Time: 0m14s
+Answered question  172
+Time: 0m11s
+Answered question  181
+Time: 0m11s
+Answered question  188
+Time: 0m17s
+Answered question  196
+Time: 0m16s
+Answered question  197
+Time: 0m14s
+Answered question  206
+Time: 0m17s
+Answered question  208
+Time: 0m19s
+Answered question  216
+Time: 0m21s
+Answered question  225
+Time: 0m19s
+Answered question  227
+Time: 0m13s
+Answered question  232
+Time: 0m13s
+Answered question  233
+Time: 0m16s
+Answered question  245
+Time: 0m19s
+Answered question  252
+Time: 0m12s
+Answered question  253
+Time: 0m12s
+Answered question  254
+Time: 0m15s
+Answered question  257
+Time: 0m13s
+Answered question  270
+Time: 0m21s
+Answered question  275
+Time: 0m15s
+Answered question  280
+Time: 0m16s
+Answered question  283
+Time: 0m25s
+Answered question  291
+Time: 0m19s
+Answered question  296
+Time: 0m17s
+Answered question  298
+Time: 0m14s
+Answered question  304
+Time: 0m20s
+Answered question  306
+Time: 0m15s
+Answered question  308
+Time: 0m14s
+Answered question  316
+Time: 0m13s
+Answered question  319
+Time: 0m12s
+Answered question  328
+Time: 0m16s
+Answered question  333
+Time: 0m13s
+Answered question  336
+Time: 0m16s
+Answered question  348
+Time: 0m14s
+Answered question  353
+Time: 0m23s
+Answered question  359
+Time: 0m13s
+Answered question  361
+Time: 0m16s
+Answered question  363
+Time: 0m12s
+Answered question  379
+Time: 0m20s
+Answered question  385
+Time: 0m28s
+Answered question  388
+Time: 0m17s
+Answered question  392
+Time: 0m12s
+Answered question  399
+Time: 0m14s
+Answered question  400
+Time: 0m20s
+Answered question  405
+Time: 0m23s
+Answered question  410
+Time: 0m18s
+Answered question  413
+Time: 0m16s
+Answered question  417
+Time: 0m11s
+Answered question  418
+Time: 0m12s
+Answered question  437
+Time: 0m15s
+Answered question  438
+Time: 0m18s
+Answered question  443
+Time: 0m28s
+Answered question  444
+Time: 0m16s
+Answered question  451
+Time: 0m20s
+Answered question  457
+Time: 0m24s
+Answered question  458
+Time: 0m18s
+Answered question  461
+Time: 0m18s
+Answered question  466
+Time: 0m13s
+Answered question  469
+Time: 0m11s
+Answered question  478
+Time: 0m13s
+Answered question  480
+Time: 0m15s
+Answered question  489
+Time: 0m24s
+Answered question  491
+Time: 0m21s
+Answered question  497
+Time: 0m10s
+Answered question  501
+Time: 0m12s
+Answered question  503
+Time: 0m14s
+Answered question  513
+Time: 0m17s
+Answered question  524
+Time: 0m14s
+Answered question  531
+Time: 0m11s
+Answered question  535
+Time: 0m24s
+Answered question  540
+Time: 0m15s
+Answered question  545
+Time: 0m12s
+Answered question  547
+Time: 0m15s
+Total time: 27m15s
+--Finished: Without reranking--
+
+Answered question  1
+Time: 0m15s
+Answered question  3
+Time: 0m13s
+Answered question  7
+Time: 0m19s
+Answered question  22
+Time: 0m18s
+Answered question  23
+Time: 0m13s
+Answered question  30
+Time: 0m19s
+Answered question  43
+Time: 0m16s
+Answered question  47
+Time: 0m31s
+Answered question  50
+Time: 0m22s
+Answered question  55
+Time: 0m22s
+Answered question  57
+Time: 0m20s
+Answered question  69
+Time: 0m25s
+Answered question  70
+Time: 0m14s
+Answered question  73
+Time: 0m31s
+Answered question  86
+Time: 0m20s
+Answered question  97
+Time: 0m15s
+Answered question  99
+Time: 0m13s
+Answered question  101
+Time: 0m16s
+Answered question  108
+Time: 0m14s
+Answered question  111
+Time: 0m24s
+Answered question  120
+Time: 0m16s
+Answered question  123
+Time: 0m21s
+Answered question  130
+Time: 0m16s
+Answered question  137
+Time: 0m13s
+Answered question  140
+Time: 0m15s
+Answered question  152
+Time: 0m13s
+Answered question  161
+Time: 0m12s
+Answered question  165
+Time: 0m13s
+Answered question  172
+Time: 0m14s
+Answered question  181
+Time: 0m14s
+Answered question  188
+Time: 0m18s
+Answered question  196
+Time: 0m18s
+Answered question  197
+Time: 0m13s
+Answered question  206
+Time: 0m21s
+Answered question  208
+Time: 0m20s
+Answered question  216
+Time: 0m16s
+Answered question  225
+Time: 0m11s
+Answered question  227
+Time: 0m12s
+Answered question  232
+Time: 0m12s
+Answered question  233
+Time: 0m15s
+Answered question  245
+Time: 0m18s
+Answered question  252
+Time: 0m13s
+Answered question  253
+Time: 0m12s
+Answered question  254
+Time: 0m12s
+Answered question  257
+Time: 0m15s
+Answered question  270
+Time: 0m14s
+Answered question  275
+Time: 0m18s
+Answered question  280
+Time: 0m16s
+Answered question  283
+Time: 0m24s
+Answered question  291
+Time: 0m21s
+Answered question  296
+Time: 0m18s
+Answered question  298
+Time: 0m16s
+Answered question  304
+Time: 0m22s
+Answered question  306
+Time: 0m19s
+Answered question  308
+Time: 0m14s
+Answered question  316
+Time: 0m15s
+Answered question  319
+Time: 0m18s
+Answered question  328
+Time: 0m18s
+Answered question  333
+Time: 0m13s
+Answered question  336
+Time: 0m13s
+Answered question  348
+Time: 0m14s
+Answered question  353
+Time: 0m17s
+Answered question  359
+Time: 0m17s
+Answered question  361
+Time: 0m18s
+Answered question  363
+Time: 0m16s
+Answered question  379
+Time: 0m15s
+Answered question  385
+Time: 0m21s
+Answered question  388
+Time: 0m22s
+Answered question  392
+Time: 0m12s
+Answered question  399
+Time: 0m14s
+Answered question  400
+Time: 0m24s
+Answered question  405
+Time: 0m22s
+Answered question  410
+Time: 0m25s
+Answered question  413
+Time: 0m15s
+Answered question  417
+Time: 0m12s
+Answered question  418
+Time: 0m14s
+Answered question  437
+Time: 0m18s
+Answered question  438
+Time: 0m18s
+Answered question  443
+Time: 0m17s
+Answered question  444
+Time: 0m21s
+Answered question  451
+Time: 0m22s
+Answered question  457
+Time: 0m26s
+Answered question  458
+Time: 0m22s
+Answered question  461
+Time: 0m19s
+Answered question  466
+Time: 0m12s
+Answered question  469
+Time: 0m13s
+Answered question  478
+Time: 0m14s
+Answered question  480
+Time: 0m19s
+Answered question  489
+Time: 0m21s
+Answered question  491
+Time: 0m18s
+Answered question  497
+Time: 0m15s
+Answered question  501
+Time: 0m14s
+Answered question  503
+Time: 0m15s
+Answered question  513
+Time: 0m17s
+Answered question  524
+Time: 0m14s
+Answered question  531
+Time: 0m12s
+Answered question  535
+Time: 0m23s
+Answered question  540
+Time: 0m16s
+Answered question  545
+Time: 0m11s
+Answered question  547
+Time: 0m16s
+Total time: 28m23s
+--Finished: With reranking--
+
+
+-----EXPERIMENT 2-----
+Generat 93 chunks optimizați.
+Answered question  1
+Time: 0m13s
+Answered question  3
+Time: 0m13s
+Answered question  7
+Time: 0m17s
+Answered question  22
+Time: 0m18s
+Answered question  23
+Time: 0m13s
+Answered question  30
+Time: 0m23s
+Answered question  43
+Time: 0m16s
+Answered question  47
+Time: 0m24s
+Answered question  50
+Time: 0m23s
+Answered question  55
+Time: 0m14s
+Answered question  57
+Time: 0m14s
+Answered question  69
+Time: 0m21s
+Answered question  70
+Time: 0m13s
+Answered question  73
+Time: 0m23s
+Answered question  86
+Time: 0m14s
+Answered question  97
+Time: 0m17s
+Answered question  99
+Time: 0m13s
+Answered question  101
+Time: 0m15s
+Answered question  108
+Time: 0m14s
+Answered question  111
+Time: 0m19s
+Answered question  120
+Time: 0m15s
+Answered question  123
+Time: 0m18s
+Answered question  130
+Time: 0m20s
+Answered question  137
+Time: 0m15s
+Answered question  140
+Time: 0m18s
+Answered question  152
+Time: 0m11s
+Answered question  161
+Time: 0m12s
+Answered question  165
+Time: 0m14s
+Answered question  172
+Time: 0m14s
+Answered question  181
+Time: 0m13s
+Answered question  188
+Time: 0m18s
+Answered question  196
+Time: 0m18s
+Answered question  197
+Time: 0m14s
+Answered question  206
+Time: 0m20s
+Answered question  208
+Time: 0m21s
+Answered question  216
+Time: 0m16s
+Answered question  225
+Time: 0m11s
+Answered question  227
+Time: 0m13s
+Answered question  232
+Time: 0m12s
+Answered question  233
+Time: 0m13s
+Answered question  245
+Time: 0m18s
+Answered question  252
+Time: 0m13s
+Answered question  253
+Time: 0m11s
+Answered question  254
+Time: 0m13s
+Answered question  257
+Time: 0m15s
+Answered question  270
+Time: 0m17s
+Answered question  275
+Time: 0m16s
+Answered question  280
+Time: 0m19s
+Answered question  283
+Time: 0m26s
+Answered question  291
+Time: 0m26s
+Answered question  296
+Time: 0m18s
+Answered question  298
+Time: 0m13s
+Answered question  304
+Time: 0m23s
+Answered question  306
+Time: 0m20s
+Answered question  308
+Time: 0m13s
+Answered question  316
+Time: 0m14s
+Answered question  319
+Time: 0m16s
+Answered question  328
+Time: 0m17s
+Answered question  333
+Time: 0m13s
+Answered question  336
+Time: 0m12s
+Answered question  348
+Time: 0m14s
+Answered question  353
+Time: 0m20s
+Answered question  359
+Time: 0m16s
+Answered question  361
+Time: 0m18s
+Answered question  363
+Time: 0m12s
+Answered question  379
+Time: 0m17s
+Answered question  385
+Time: 0m27s
+Answered question  388
+Time: 0m21s
+Answered question  392
+Time: 0m11s
+Answered question  399
+Time: 0m13s
+Answered question  400
+Time: 0m24s
+Answered question  405
+Time: 0m21s
+Answered question  410
+Time: 0m25s
+Answered question  413
+Time: 0m17s
+Answered question  417
+Time: 0m19s
+Answered question  418
+Time: 0m14s
+Answered question  437
+Time: 0m18s
+Answered question  438
+Time: 0m28s
+Answered question  443
+Time: 0m19s
+Answered question  444
+Time: 0m18s
+Answered question  451
+Time: 0m26s
+Answered question  457
+Time: 0m24s
+Answered question  458
+Time: 0m22s
+Answered question  461
+Time: 0m21s
+Answered question  466
+Time: 0m14s
+Answered question  469
+Time: 0m13s
+Answered question  478
+Time: 0m13s
+Answered question  480
+Time: 0m19s
+Answered question  489
+Time: 0m19s
+Answered question  491
+Time: 0m21s
+Answered question  497
+Time: 0m14s
+Answered question  501
+Time: 0m17s
+Answered question  503
+Time: 0m15s
+Answered question  513
+Time: 0m21s
+Answered question  524
+Time: 0m14s
+Answered question  531
+Time: 0m13s
+Answered question  535
+Time: 0m21s
+Answered question  540
+Time: 0m16s
+Answered question  545
+Time: 0m12s
+Answered question  547
+Time: 0m13s
+Total time: 28m16s
+--Finished: 500 chunks--
+
+Generat 39 chunks optimizați.
+Answered question  1
+Time: 0m15s
+Answered question  3
+Time: 0m13s
+Answered question  7
+Time: 0m16s
+Answered question  22
+Time: 0m18s
+Answered question  23
+Time: 0m13s
+Answered question  30
+Time: 0m20s
+Answered question  43
+Time: 0m15s
+Answered question  47
+Time: 0m27s
+Answered question  50
+Time: 0m24s
+Answered question  55
+Time: 0m16s
+Answered question  57
+Time: 0m19s
+Answered question  69
+Time: 0m23s
+Answered question  70
+Time: 0m17s
+Answered question  73
+Time: 0m30s
+Answered question  86
+Time: 0m13s
+Answered question  97
+Time: 0m15s
+Answered question  99
+Time: 0m13s
+Answered question  101
+Time: 0m15s
+Answered question  108
+Time: 0m15s
+Answered question  111
+Time: 0m13s
+Answered question  120
+Time: 0m17s
+Answered question  123
+Time: 0m15s
+Answered question  130
+Time: 0m20s
+Answered question  137
+Time: 0m14s
+Answered question  140
+Time: 0m17s
+Answered question  152
+Time: 0m11s
+Answered question  161
+Time: 0m12s
+Answered question  165
+Time: 0m13s
+Answered question  172
+Time: 0m14s
+Answered question  181
+Time: 0m14s
+Answered question  188
+Time: 0m20s
+Answered question  196
+Time: 0m17s
+Answered question  197
+Time: 0m14s
+Answered question  206
+Time: 0m20s
+Answered question  208
+Time: 0m24s
+Answered question  216
+Time: 0m17s
+Answered question  225
+Time: 0m11s
+Answered question  227
+Time: 0m12s
+Answered question  232
+Time: 0m13s
+Answered question  233
+Time: 0m15s
+Answered question  245
+Time: 0m19s
+Answered question  252
+Time: 0m12s
+Answered question  253
+Time: 0m11s
+Answered question  254
+Time: 0m13s
+Answered question  257
+Time: 0m13s
+Answered question  270
+Time: 0m17s
+Answered question  275
+Time: 0m17s
+Answered question  280
+Time: 0m17s
+Answered question  283
+Time: 0m19s
+Answered question  291
+Time: 0m20s
+Answered question  296
+Time: 0m17s
+Answered question  298
+Time: 0m18s
+Answered question  304
+Time: 0m22s
+Answered question  306
+Time: 0m14s
+Answered question  308
+Time: 0m13s
+Answered question  316
+Time: 0m15s
+Answered question  319
+Time: 0m16s
+Answered question  328
+Time: 0m17s
+Answered question  333
+Time: 0m14s
+Answered question  336
+Time: 0m13s
+Answered question  348
+Time: 0m14s
+Answered question  353
+Time: 0m17s
+Answered question  359
+Time: 0m15s
+Answered question  361
+Time: 0m16s
+Answered question  363
+Time: 0m14s
+Answered question  379
+Time: 0m17s
+Answered question  385
+Time: 0m28s
+Answered question  388
+Time: 0m23s
+Answered question  392
+Time: 0m11s
+Answered question  399
+Time: 0m12s
+Answered question  400
+Time: 0m26s
+Answered question  405
+Time: 0m21s
+Answered question  410
+Time: 0m25s
+Answered question  413
+Time: 0m16s
+Answered question  417
+Time: 0m11s
+Answered question  418
+Time: 0m15s
+Answered question  437
+Time: 0m18s
+Answered question  438
+Time: 0m24s
+Answered question  443
+Time: 0m24s
+Answered question  444
+Time: 0m21s
+Answered question  451
+Time: 0m23s
+Answered question  457
+Time: 0m21s
+Answered question  458
+Time: 0m21s
+Answered question  461
+Time: 0m20s
+Answered question  466
+Time: 0m14s
+Answered question  469
+Time: 0m14s
+Answered question  478
+Time: 0m14s
+Answered question  480
+Time: 0m19s
+Answered question  489
+Time: 0m17s
+Answered question  491
+Time: 0m18s
+Answered question  497
+Time: 0m14s
+Answered question  501
+Time: 0m14s
+Answered question  503
+Time: 0m15s
+Answered question  513
+Time: 0m19s
+Answered question  524
+Time: 0m18s
+Answered question  531
+Time: 0m16s
+Answered question  535
+Time: 0m21s
+Answered question  540
+Time: 0m12s
+Answered question  545
+Time: 0m11s
+Answered question  547
+Time: 0m15s
+Total time: 28m1s
+--Finished: 1000 chunks--
+
+Generat 23 chunks optimizați.
+Answered question  1
+Time: 0m13s
+Answered question  3
+Time: 0m12s
+Answered question  7
+Time: 0m15s
+Answered question  22
+Time: 0m18s
+Answered question  23
+Time: 0m13s
+Answered question  30
+Time: 0m21s
+Answered question  43
+Time: 0m15s
+Answered question  47
+Time: 0m28s
+Answered question  50
+Time: 0m22s
+Answered question  55
+Time: 0m14s
+Answered question  57
+Time: 0m17s
+Answered question  69
+Time: 0m25s
+Answered question  70
+Time: 0m15s
+Answered question  73
+Time: 0m27s
+Answered question  86
+Time: 0m13s
+Answered question  97
+Time: 0m18s
+Answered question  99
+Time: 0m13s
+Answered question  101
+Time: 0m15s
+Answered question  108
+Time: 0m17s
+Answered question  111
+Time: 0m14s
+Answered question  120
+Time: 0m16s
+Answered question  123
+Time: 0m15s
+Answered question  130
+Time: 0m15s
+Answered question  137
+Time: 0m16s
+Answered question  140
+Time: 0m20s
+Answered question  152
+Time: 0m11s
+Answered question  161
+Time: 0m12s
+Answered question  165
+Time: 0m14s
+Answered question  172
+Time: 0m14s
+Answered question  181
+Time: 0m14s
+Answered question  188
+Time: 0m19s
+Answered question  196
+Time: 0m16s
+Answered question  197
+Time: 0m16s
+Answered question  206
+Time: 0m19s
+Answered question  208
+Time: 0m21s
+Answered question  216
+Time: 0m17s
+Answered question  225
+Time: 0m11s
+Answered question  227
+Time: 0m12s
+Answered question  232
+Time: 0m11s
+Answered question  233
+Time: 0m14s
+Answered question  245
+Time: 0m16s
+Answered question  252
+Time: 0m12s
+Answered question  253
+Time: 0m12s
+Answered question  254
+Time: 0m14s
+Answered question  257
+Time: 0m14s
+Answered question  270
+Time: 0m17s
+Answered question  275
+Time: 0m16s
+Answered question  280
+Time: 0m19s
+Answered question  283
+Time: 0m23s
+Answered question  291
+Time: 0m22s
+Answered question  296
+Time: 0m17s
+Answered question  298
+Time: 0m14s
+Answered question  304
+Time: 0m22s
+Answered question  306
+Time: 0m12s
+Answered question  308
+Time: 0m13s
+Answered question  316
+Time: 0m15s
+Answered question  319
+Time: 0m17s
+Answered question  328
+Time: 0m15s
+Answered question  333
+Time: 0m13s
+Answered question  336
+Time: 0m14s
+Answered question  348
+Time: 0m14s
+Answered question  353
+Time: 0m17s
+Answered question  359
+Time: 0m14s
+Answered question  361
+Time: 0m17s
+Answered question  363
+Time: 0m13s
+Answered question  379
+Time: 0m17s
+Answered question  385
+Time: 0m27s
+Answered question  388
+Time: 0m27s
+Answered question  392
+Time: 0m12s
+Answered question  399
+Time: 0m12s
+Answered question  400
+Time: 0m24s
+Answered question  405
+Time: 0m22s
+Answered question  410
+Time: 0m20s
+Answered question  413
+Time: 0m19s
+Answered question  417
+Time: 0m12s
+Answered question  418
+Time: 0m13s
+Answered question  437
+Time: 0m21s
+Answered question  438
+Time: 0m18s
+Answered question  443
+Time: 0m23s
+Answered question  444
+Time: 0m23s
+Answered question  451
+Time: 0m20s
+Answered question  457
+Time: 0m20s
+Answered question  458
+Time: 0m22s
+Answered question  461
+Time: 0m19s
+Answered question  466
+Time: 0m13s
+Answered question  469
+Time: 0m13s
+Answered question  478
+Time: 0m13s
+Answered question  480
+Time: 0m18s
+Answered question  489
+Time: 0m25s
+Answered question  491
+Time: 0m18s
+Answered question  497
+Time: 0m15s
+Answered question  501
+Time: 0m15s
+Answered question  503
+Time: 0m15s
+Answered question  513
+Time: 0m18s
+Answered question  524
+Time: 0m14s
+Answered question  531
+Time: 0m16s
+Answered question  535
+Time: 0m24s
+Answered question  540
+Time: 0m12s
+Answered question  545
+Time: 0m12s
+Answered question  547
+Time: 0m14s
+Total time: 27m46s
+--Finished: 1500 chunks--
+
+
+-----EXPERIMENT 3-----
+Answered question  1
+Time: 0m14s
+Answered question  3
+Time: 0m11s
+Answered question  7
+Time: 0m11s
+Answered question  22
+Time: 0m16s
+Answered question  23
+Time: 0m12s
+Answered question  30
+Time: 0m18s
+Answered question  43
+Time: 0m14s
+Answered question  47
+Time: 0m21s
+Answered question  50
+Time: 0m14s
+Answered question  55
+Time: 0m14s
+Answered question  57
+Time: 0m15s
+Answered question  69
+Time: 0m17s
+Answered question  70
+Time: 0m13s
+Answered question  73
+Time: 0m19s
+Answered question  86
+Time: 0m16s
+Answered question  97
+Time: 0m15s
+Answered question  99
+Time: 0m13s
+Answered question  101
+Time: 0m12s
+Answered question  108
+Time: 0m14s
+Answered question  111
+Time: 0m20s
+Answered question  120
+Time: 0m15s
+Answered question  123
+Time: 0m13s
+Answered question  130
+Time: 0m15s
+Answered question  137
+Time: 0m14s
+Answered question  140
+Time: 0m17s
+Answered question  152
+Time: 0m13s
+Answered question  161
+Time: 0m12s
+Answered question  165
+Time: 0m11s
+Answered question  172
+Time: 0m14s
+Answered question  181
+Time: 0m13s
+Answered question  188
+Time: 0m14s
+Answered question  196
+Time: 0m18s
+Answered question  197
+Time: 0m17s
+Answered question  206
+Time: 0m15s
+Answered question  208
+Time: 0m22s
+Answered question  216
+Time: 0m18s
+Answered question  225
+Time: 0m14s
+Answered question  227
+Time: 0m14s
+Answered question  232
+Time: 0m12s
+Answered question  233
+Time: 0m14s
+Answered question  245
+Time: 0m16s
+Answered question  252
+Time: 0m17s
+Answered question  253
+Time: 0m12s
+Answered question  254
+Time: 0m14s
+Answered question  257
+Time: 0m12s
+Answered question  270
+Time: 0m16s
+Answered question  275
+Time: 0m16s
+Answered question  280
+Time: 0m19s
+Answered question  283
+Time: 0m14s
+Answered question  291
+Time: 0m17s
+Answered question  296
+Time: 0m18s
+Answered question  298
+Time: 0m12s
+Answered question  304
+Time: 0m21s
+Answered question  306
+Time: 0m14s
+Answered question  308
+Time: 0m12s
+Answered question  316
+Time: 0m13s
+Answered question  319
+Time: 0m13s
+Answered question  328
+Time: 0m10s
+Answered question  333
+Time: 0m13s
+Answered question  336
+Time: 0m13s
+Answered question  348
+Time: 0m13s
+Answered question  353
+Time: 0m12s
+Answered question  359
+Time: 0m17s
+Answered question  361
+Time: 0m16s
+Answered question  363
+Time: 0m13s
+Answered question  379
+Time: 0m17s
+Answered question  385
+Time: 0m13s
+Answered question  388
+Time: 0m22s
+Answered question  392
+Time: 0m11s
+Answered question  399
+Time: 0m11s
+Answered question  400
+Time: 0m27s
+Answered question  405
+Time: 0m21s
+Answered question  410
+Time: 0m20s
+Answered question  413
+Time: 0m13s
+Answered question  417
+Time: 0m11s
+Answered question  418
+Time: 0m14s
+Answered question  437
+Time: 0m14s
+Answered question  438
+Time: 0m16s
+Answered question  443
+Time: 0m20s
+Answered question  444
+Time: 0m19s
+Answered question  451
+Time: 0m24s
+Answered question  457
+Time: 0m22s
+Answered question  458
+Time: 0m18s
+Answered question  461
+Time: 0m16s
+Answered question  466
+Time: 0m12s
+Answered question  469
+Time: 0m12s
+Answered question  478
+Time: 0m14s
+Answered question  480
+Time: 0m18s
+Answered question  489
+Time: 0m23s
+Answered question  491
+Time: 0m14s
+Answered question  497
+Time: 0m13s
+Answered question  501
+Time: 0m14s
+Answered question  503
+Time: 0m14s
+Answered question  513
+Time: 0m16s
+Answered question  524
+Time: 0m13s
+Answered question  531
+Time: 0m11s
+Answered question  535
+Time: 0m18s
+Answered question  540
+Time: 0m16s
+Answered question  545
+Time: 0m12s
+Answered question  547
+Time: 0m14s
+Total time: 25m20s
+--Finished: top 3--
+
+Answered question  1
+Time: 0m14s
+Answered question  3
+Time: 0m13s
+Answered question  7
+Time: 0m15s
+Answered question  22
+Time: 0m16s
+Answered question  23
+Time: 0m12s
+Answered question  30
+Time: 0m25s
+Answered question  43
+Time: 0m15s
+Answered question  47
+Time: 0m26s
+Answered question  50
+Time: 0m23s
+Answered question  55
+Time: 0m15s
+Answered question  57
+Time: 0m19s
+Answered question  69
+Time: 0m23s
+Answered question  70
+Time: 0m15s
+Answered question  73
+Time: 0m27s
+Answered question  86
+Time: 0m13s
+Answered question  97
+Time: 0m13s
+Answered question  99
+Time: 0m13s
+Answered question  101
+Time: 0m15s
+Answered question  108
+Time: 0m14s
+Answered question  111
+Time: 0m18s
+Answered question  120
+Time: 0m14s
+Answered question  123
+Time: 0m15s
+Answered question  130
+Time: 0m18s
+Answered question  137
+Time: 0m20s
+Answered question  140
+Time: 0m16s
+Answered question  152
+Time: 0m13s
+Answered question  161
+Time: 0m12s
+Answered question  165
+Time: 0m14s
+Answered question  172
+Time: 0m14s
+Answered question  181
+Time: 0m13s
+Answered question  188
+Time: 0m19s
+Answered question  196
+Time: 0m18s
+Answered question  197
+Time: 0m19s
+Answered question  206
+Time: 0m21s
+Answered question  208
+Time: 0m22s
+Answered question  216
+Time: 0m14s
+Answered question  225
+Time: 0m12s
+Answered question  227
+Time: 0m12s
+Answered question  232
+Time: 0m11s
+Answered question  233
+Time: 0m15s
+Answered question  245
+Time: 0m18s
+Answered question  252
+Time: 0m13s
+Answered question  253
+Time: 0m12s
+Answered question  254
+Time: 0m13s
+Answered question  257
+Time: 0m15s
+Answered question  270
+Time: 0m17s
+Answered question  275
+Time: 0m17s
+Answered question  280
+Time: 0m18s
+Answered question  283
+Time: 0m18s
+Answered question  291
+Time: 0m24s
+Answered question  296
+Time: 0m19s
+Answered question  298
+Time: 0m14s
+Answered question  304
+Time: 0m22s
+Answered question  306
+Time: 0m18s
+Answered question  308
+Time: 0m15s
+Answered question  316
+Time: 0m17s
+Answered question  319
+Time: 0m17s
+Answered question  328
+Time: 0m14s
+Answered question  333
+Time: 0m12s
+Answered question  336
+Time: 0m11s
+Answered question  348
+Time: 0m15s
+Answered question  353
+Time: 0m16s
+Answered question  359
+Time: 0m16s
+Answered question  361
+Time: 0m16s
+Answered question  363
+Time: 0m17s
+Answered question  379
+Time: 0m16s
+Answered question  385
+Time: 0m25s
+Answered question  388
+Time: 0m21s
+Answered question  392
+Time: 0m12s
+Answered question  399
+Time: 0m13s
+Answered question  400
+Time: 0m24s
+Answered question  405
+Time: 0m20s
+Answered question  410
+Time: 0m18s
+Answered question  413
+Time: 0m18s
+Answered question  417
+Time: 0m11s
+Answered question  418
+Time: 0m15s
+Answered question  437
+Time: 0m21s
+Answered question  438
+Time: 0m19s
+Answered question  443
+Time: 0m14s
+Answered question  444
+Time: 0m17s
+Answered question  451
+Time: 0m23s
+Answered question  457
+Time: 0m24s
+Answered question  458
+Time: 0m23s
+Answered question  461
+Time: 0m20s
+Answered question  466
+Time: 0m14s
+Answered question  469
+Time: 0m13s
+Answered question  478
+Time: 0m17s
+Answered question  480
+Time: 0m20s
+Answered question  489
+Time: 0m18s
+Answered question  491
+Time: 0m16s
+Answered question  497
+Time: 0m17s
+Answered question  501
+Time: 0m18s
+Answered question  503
+Time: 0m15s
+Answered question  513
+Time: 0m17s
+Answered question  524
+Time: 0m19s
+Answered question  531
+Time: 0m16s
+Answered question  535
+Time: 0m20s
+Answered question  540
+Time: 0m12s
+Answered question  545
+Time: 0m12s
+Answered question  547
+Time: 0m16s
+Total time: 27m54s
+--Finished: top 5--
+
+Answered question  1
+Time: 0m15s
+Answered question  3
+Time: 0m14s
+Answered question  7
+Time: 0m14s
+Answered question  22
+Time: 0m19s
+Answered question  23
+Time: 0m13s
+Answered question  30
+Time: 0m23s
+Answered question  43
+Time: 0m16s
+Answered question  47
+Time: 0m33s
+Answered question  50
+Time: 0m28s
+Answered question  55
+Time: 0m17s
+Answered question  57
+Time: 0m19s
+Answered question  69
+Time: 0m26s
+Answered question  70
+Time: 0m13s
+Answered question  73
+Time: 0m27s
+Answered question  86
+Time: 0m13s
+Answered question  97
+Time: 0m15s
+Answered question  99
+Time: 0m14s
+Answered question  101
+Time: 0m14s
+Answered question  108
+Time: 0m20s
+Answered question  111
+Time: 0m16s
+Answered question  120
+Time: 0m33s
+Answered question  123
+Time: 0m18s
+Answered question  130
+Time: 0m15s
+Answered question  137
+Time: 0m16s
+Answered question  140
+Time: 0m24s
+Answered question  152
+Time: 0m12s
+Answered question  161
+Time: 0m12s
+Answered question  165
+Time: 0m14s
+Answered question  172
+Time: 0m15s
+Answered question  181
+Time: 0m17s
+Answered question  188
+Time: 0m18s
+Answered question  196
+Time: 0m19s
+Answered question  197
+Time: 0m15s
+Answered question  206
+Time: 0m19s
+Answered question  208
+Time: 0m21s
+Answered question  216
+Time: 0m18s
+Answered question  225
+Time: 0m13s
+Answered question  227
+Time: 0m14s
+Answered question  232
+Time: 0m12s
+Answered question  233
+Time: 0m17s
+Answered question  245
+Time: 0m21s
+Answered question  252
+Time: 0m15s
+Answered question  253
+Time: 0m13s
+Answered question  254
+Time: 0m16s
+Answered question  257
+Time: 0m15s
+Answered question  270
+Time: 0m15s
+Answered question  275
+Time: 0m17s
+Answered question  280
+Time: 0m20s
+Answered question  283
+Time: 0m24s
+Answered question  291
+Time: 0m20s
+Answered question  296
+Time: 0m21s
+Answered question  298
+Time: 0m22s
+Answered question  304
+Time: 0m22s
+Answered question  306
+Time: 0m17s
+Answered question  308
+Time: 0m16s
+Answered question  316
+Time: 0m17s
+Answered question  319
+Time: 0m16s
+Answered question  328
+Time: 0m21s
+Answered question  333
+Time: 0m18s
+Answered question  336
+Time: 0m13s
+Answered question  348
+Time: 0m15s
+Answered question  353
+Time: 0m21s
+Answered question  359
+Time: 0m19s
+Answered question  361
+Time: 0m21s
+Answered question  363
+Time: 0m15s
+Answered question  379
+Time: 0m21s
+Answered question  385
+Time: 0m23s
+Answered question  388
+Time: 0m28s
+Answered question  392
+Time: 0m13s
+Answered question  399
+Time: 0m16s
+Answered question  400
+Time: 0m31s
+Answered question  405
+Time: 0m22s
+Answered question  410
+Time: 0m25s
+Answered question  413
+Time: 0m17s
+Answered question  417
+Time: 0m12s
+Answered question  418
+Time: 0m16s
+Answered question  437
+Time: 0m17s
+Answered question  438
+Time: 0m22s
+Answered question  443
+Time: 0m21s
+Answered question  444
+Time: 0m25s
+Answered question  451
+Time: 0m27s
+Answered question  457
+Time: 0m27s
+Answered question  458
+Time: 0m20s
+Answered question  461
+Time: 0m20s
+Answered question  466
+Time: 0m14s
+Answered question  469
+Time: 0m13s
+Answered question  478
+Time: 0m16s
+Answered question  480
+Time: 0m18s
+Answered question  489
+Time: 0m27s
+Answered question  491
+Time: 0m21s
+Answered question  497
+Time: 0m18s
+Answered question  501
+Time: 0m18s
+Answered question  503
+Time: 0m14s
+Answered question  513
+Time: 0m18s
+Answered question  524
+Time: 0m16s
+Answered question  531
+Time: 0m23s
+Answered question  535
+Time: 0m19s
+Answered question  540
+Time: 0m16s
+Answered question  545
+Time: 0m15s
+Answered question  547
+Time: 0m16s
+Total time: 30m46s
+--Finished: top 8--
+
+
+
+
+Process finished!
