@@ -8,6 +8,16 @@ Intrebarile au fost impartite pe categorii
 Total experiment duration: 174m58s
 
 Experiment conclusion:
-Without reranking has a better overall score than with reranking
+Without reranking has a slightly better overall score than with reranking
 1000 chunk size is the overall winner
 Top 8 is the overall winner
+
+Experiment 1 - WithReranking 
+      -> major issue identified: the current reranker model (ms-marco-MiniLM-L-6-v2)
+         was trained exclusively on english; faillure was to be expected
+      -> chose a new multilingual reranker model (mmarco-mMiniLMv2-L12-H384-v1)
+      -> experiment 1 WithReranking part must be repeated
+      ==> outcome has improved, WithReranking is better now
+
+==> Final best config:
+With reranking, chunk size 1000, top 8
