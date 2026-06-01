@@ -1,0 +1,1159 @@
+id,question,category,chatbot_answer,gold_answer,judge_score,frontier_evaluation
+548,Care este adresa de email a comisiei de admitere FMI UBB?,General,Adresa de email a Comisiei de Admitere FMI UBB este: admitere.cs@ubbcluj.ro,admitere.cs@ubbcluj.ro,"{""factual"": 10, ""complete"": 10, ""clarity"": 10, ""no_hallucination"": 10, ""brief_reason"": ""The chatbot provided the correct email address directly from the context."", ""final_score"": 10.0}","{
+  ""factuality"": 10,
+  ""completeness"": 10,
+  ""hallucinations"": 10,
+  ""clarity"": 10,
+  ""final_score"": 10.0,
+  ""judge_agreement"": ""YES"",
+  ""evaluation_bias"": ""accurate"",
+  ""brief_reason"": ""The chatbot answer exactly matches the golden answer with no added or missing information, and is clearly stated.""
+}"
+1,Care este media minimă necesară pentru a fi declarat admis?,Regulamente / admitere generală,"Sunt declarați admiși candidații care au media de admitere minimum 5,00. De asemenea, trebuie să aibă minimum 5,00 la proba scrisă, cu excepția candidaților din Categoria A.","Sunt declarați admiși candidații care au media de admitere minimum 5,00 și care au minimum 5,00 la proba scrisă, cu excepția candidaților din Categoria A.","{""factual"": 10, ""complete"": 10, ""clarity"": 10, ""no_hallucination"": 10, ""brief_reason"": ""The chatbot's answer accurately reflects the information provided in the context regarding the minimum admission average and the exception for Category A candidates."", ""final_score"": 10.0}","{
+  ""factuality"": 10,
+  ""completeness"": 10,
+  ""hallucinations"": 10,
+  ""clarity"": 10,
+  ""final_score"": 10.0,
+  ""judge_agreement"": ""YES"",
+  ""evaluation_bias"": ""accurate"",
+  ""brief_reason"": ""The chatbot answer fully matches the golden answer in factual content, including the minimum average and the exception for Category A candidates, without adding any unsupported information.""
+}"
+530,Care este platforma oficială pentru înscriere?,General,Înscrierea se realizează exclusiv online prin platforma: [https://admitere.ubbcluj.ro](https://admitere.ubbcluj.ro),Platforma oficială pentru înscriere este: https://admitere.ubbcluj.ro,"{""factual"": 10, ""complete"": 10, ""clarity"": 10, ""no_hallucination"": 10, ""brief_reason"": ""The chatbot provided the correct platform for enrollment and did not hallucinate any information."", ""final_score"": 10.0}","{
+  ""factuality"": 10,
+  ""completeness"": 10,
+  ""hallucinations"": 10,
+  ""clarity"": 10,
+  ""final_score"": 10.0,
+  ""judge_agreement"": ""YES"",
+  ""evaluation_bias"": ""accurate"",
+  ""brief_reason"": ""The chatbot answer correctly identifies the official enrollment platform URL without adding any unsupported information, fully matching the golden answer.""
+}"
+529,Există locuri speciale pentru candidații din mediul rural?,General,"Da, există o categorie de locuri speciale pentru absolvenții liceelor din mediul rural.","Da, pot exista locuri speciale dedicate pentru absolvenții liceelor din mediul rural, conform categoriei speciale de locuri stabilite prin ordin ministerial.","{""factual"": 10, ""complete"": 10, ""clarity"": 10, ""no_hallucination"": 10, ""brief_reason"": ""The chatbot correctly identifies the existence of special places for rural high school graduates based on the provided context."", ""final_score"": 10.0}","{
+  ""factuality"": 10,
+  ""completeness"": 10,
+  ""hallucinations"": 10,
+  ""clarity"": 10,
+  ""final_score"": 10.0,
+  ""judge_agreement"": ""YES"",
+  ""evaluation_bias"": ""accurate"",
+  ""brief_reason"": ""The chatbot answer correctly states the existence of special places for rural high school graduates, matching the golden answer without adding or omitting information.""
+}"
+526,Când are loc proba scrisă din sesiunea de vară?,General,,"Proba scrisă din sesiunea de vară are loc pe 17 iulie 2026, începând cu ora 09:00.","{""factual"": 10, ""complete"": 10, ""clarity"": 10, ""no_hallucination"": 10, ""brief_reason"": ""The chatbot correctly identified the date of the written exam from the provided context."", ""final_score"": 10.0}","{
+  ""factuality"": 0,
+  ""completeness"": 0,
+  ""hallucinations"": 10,
+  ""clarity"": 0,
+  ""final_score"": 0.0,
+  ""judge_agreement"": ""NO"",
+  ""evaluation_bias"": ""accurate"",
+  ""brief_reason"": ""The chatbot answer is 'nan', which provides no factual information and no relevant content, thus it cannot be considered correct or complete. There is no hallucination since no information is given, but the answer is unclear and uninformative.""
+}"
+525,Care este taxa de înscriere la admitere?,General,Taxa de înscriere se achită conform regulamentului facultății.,Informația privind cuantumul exact al taxei de înscriere la admitere nu este specificată în ghidul de admitere. Valorile taxelor vor fi publicate după aprobarea lor de către Senatul UBB.,"{""factual"": 10, ""complete"": 10, ""clarity"": 10, ""no_hallucination"": 10, ""brief_reason"": ""The chatbot correctly identified that the exact amount of the application fee is not specified in the provided text and accurately reflected this in its response."", ""final_score"": 10.0}","{
+  ""factuality"": 5,
+  ""completeness"": 3,
+  ""hallucinations"": 10,
+  ""clarity"": 8,
+  ""final_score"": 5.95,
+  ""judge_agreement"": ""NO"",
+  ""evaluation_bias"": ""over-penalized"",
+  ""brief_reason"": ""The chatbot answer is factually incomplete as it does not mention that the exact fee amount is not specified and will be published after Senate approval, which is the key information in the golden answer. However, it does not hallucinate any information and is mostly clear.""
+}"
+524,FMI UBB organizează examen separat pentru românii din diaspora?,General,Nu dețin această informație conform datelor extrase de pe site-ul oficial.,Informația nu este specificată în ghidul de admitere.,"{""factual"": 10, ""complete"": 10, ""clarity"": 10, ""no_hallucination"": 10, ""brief_reason"": ""The chatbot correctly stated it did not have the information in the provided context."", ""final_score"": 10.0}","{
+  ""factuality"": 10,
+  ""completeness"": 10,
+  ""hallucinations"": 10,
+  ""clarity"": 10,
+  ""final_score"": 10.0,
+  ""judge_agreement"": ""YES"",
+  ""evaluation_bias"": ""accurate"",
+  ""brief_reason"": ""The chatbot answer correctly indicates the lack of information about a separate exam for diaspora Romanians, matching the golden answer and containing no hallucinations.""
+}"
+522,Se poate susține simultan proba la matematică și informatică?,General,Nu dețin această informație conform datelor extrase de pe site-ul oficial.,Informația nu este specificată în ghidul de admitere.,"{""factual"": 10, ""complete"": 10, ""clarity"": 10, ""no_hallucination"": 10, ""brief_reason"": ""The chatbot correctly stated that the information was not available in the provided context."", ""final_score"": 10.0}","{
+  ""factuality"": 10,
+  ""completeness"": 10,
+  ""hallucinations"": 10,
+  ""clarity"": 10,
+  ""final_score"": 10.0,
+  ""judge_agreement"": ""YES"",
+  ""evaluation_bias"": ""accurate"",
+  ""brief_reason"": ""The chatbot answer correctly indicates that the information is not available, matching the golden answer and containing no hallucinations.""
+}"
+520,Se acordă punctaj suplimentar pentru media anilor de liceu?,General,Nu dețin această informație conform datelor extrase de pe site-ul oficial.,Informația nu este specificată în ghidul de admitere.,"{""factual"": 10, ""complete"": 10, ""clarity"": 10, ""no_hallucination"": 10, ""brief_reason"": ""The chatbot correctly stated that the information was not found in the provided context."", ""final_score"": 10.0}","{
+  ""factuality"": 10,
+  ""completeness"": 10,
+  ""hallucinations"": 10,
+  ""clarity"": 10,
+  ""final_score"": 10.0,
+  ""judge_agreement"": ""YES"",
+  ""evaluation_bias"": ""accurate"",
+  ""brief_reason"": ""The chatbot correctly indicates that the information about additional points for high school grades is not specified, matching the golden answer and containing no hallucinations.""
+}"
+519,Există limită de vârstă pentru înscrierea la licență?,General,Nu dețin această informație conform datelor extrase de pe site-ul oficial.,Informația nu este specificată în ghidul de admitere.,"{""factual"": 10, ""complete"": 10, ""clarity"": 10, ""no_hallucination"": 10, ""brief_reason"": ""The chatbot correctly stated that the information about age limits was not found in the provided context."", ""final_score"": 10.0}","{
+  ""factuality"": 10,
+  ""completeness"": 10,
+  ""hallucinations"": 10,
+  ""clarity"": 10,
+  ""final_score"": 10.0,
+  ""judge_agreement"": ""YES"",
+  ""evaluation_bias"": ""accurate"",
+  ""brief_reason"": ""The chatbot correctly indicates that there is no specified age limit for enrollment in the bachelor's program, matching the golden answer and containing no hallucinations.""
+}"
+518,Taxa de procesare se restituie dacă dosarul este respins automat?,General,Nu dețin această informație conform datelor extrase de pe site-ul oficial.,Taxa de procesare nu se returnează în cazul retragerii sau respingerii dosarului.,"{""factual"": 10, ""complete"": 10, ""clarity"": 10, ""no_hallucination"": 10, ""brief_reason"": ""The chatbot correctly stated that the processing fee is not refundable based on the provided context."", ""final_score"": 10.0}","{
+  ""factuality"": 0,
+  ""completeness"": 0,
+  ""hallucinations"": 10,
+  ""clarity"": 10,
+  ""final_score"": 3.5,
+  ""judge_agreement"": ""NO"",
+  ""evaluation_bias"": ""over-penalized"",
+  ""brief_reason"": ""The chatbot answer states it does not have the information, which is factually incorrect given the golden answer clearly states the processing fee is not refunded. There is no hallucination, and the answer is clear, but it fails to provide the correct factual information.""
+}"
+517,Candidații pot încărca documentele după încheierea perioadei de înscriere?,General,Nu dețin această informație conform datelor extrase de pe site-ul oficial.,"Nu, candidații nu pot încărca documentele după încheierea perioadei de înscriere. Documentele justificative pentru scutiri sau facilități trebuie depuse la momentul înscrierii, iar documente pentru scutire nu se acceptă după finalizarea înscrierii.","{""factual"": 10, ""complete"": 10, ""clarity"": 10, ""no_hallucination"": 10, ""brief_reason"": ""The chatbot correctly stated that candidates cannot upload documents after the registration period based on the provided context."", ""final_score"": 10.0}","{
+  ""factuality"": 0,
+  ""completeness"": 0,
+  ""hallucinations"": 10,
+  ""clarity"": 10,
+  ""final_score"": 4.0,
+  ""judge_agreement"": ""NO"",
+  ""evaluation_bias"": ""over-penalized"",
+  ""brief_reason"": ""The chatbot answer states it does not have the information, which is factually incorrect given the golden answer clearly states candidates cannot upload documents after the registration period. There is no hallucination, but the answer is incomplete and factually incorrect.""
+}"
+516,Există probă separată de logică pentru specializarea Inteligență Artificială?,General,Nu dețin această informație conform datelor extrase de pe site-ul oficial.,Informația nu este specificată în ghidul de admitere.,"{""factual"": 10, ""complete"": 10, ""clarity"": 10, ""no_hallucination"": 10, ""brief_reason"": ""The chatbot correctly stated that the information was not available in the provided context."", ""final_score"": 10.0}","{
+  ""factuality"": 10,
+  ""completeness"": 10,
+  ""hallucinations"": 10,
+  ""clarity"": 10,
+  ""final_score"": 10.0,
+  ""judge_agreement"": ""YES"",
+  ""evaluation_bias"": ""accurate"",
+  ""brief_reason"": ""The chatbot answer correctly indicates that the information about a separate logic test for the AI specialization is not specified, matching the golden answer without adding unsupported details.""
+}"
+515,FMI UBB acceptă certificate Cambridge în locul probei scrise?,General,Nu dețin această informație conform datelor extrase de pe site-ul oficial.,"Certificatele lingvistice sunt necesare pentru candidații care aleg programe în limbi străine sau care nu susțin proba scrisă și aleg specializări în engleză sau germană. Sunt acceptate certificate aprobate de Rectoratul UBB sau certificate de competență lingvistică de la Bacalaureat cu nivel minim B2. Nu este menționată acceptarea explicită a certificatelor Cambridge în locul probei scrise.
+
+Prin urmare, FMI UBB nu specifică acceptarea certificatelor Cambridge în locul probei scrise.
+
+Răspuns oficial: Informația nu este specificată în ghidul de admitere.","{""factual"": 10, ""complete"": 10, ""clarity"": 10, ""no_hallucination"": 10, ""brief_reason"": ""The chatbot correctly identified that the provided context did not contain information about Cambridge certificates and thus answered appropriately."", ""final_score"": 10.0}","{
+  ""factuality"": 10,
+  ""completeness"": 10,
+  ""hallucinations"": 10,
+  ""clarity"": 10,
+  ""final_score"": 10.0,
+  ""judge_agreement"": ""YES"",
+  ""evaluation_bias"": ""accurate"",
+  ""brief_reason"": ""The chatbot correctly states that it does not have information about Cambridge certificates from the official source, aligning with the golden answer that the acceptance of Cambridge certificates is not specified. There are no hallucinations or factual errors.""
+}"
+34,Ce condiții trebuie să îndeplinească adeverința medicală și cine o poate elibera?,Regulamente / admitere generală,"Adeverința medicală trebuie să fie emisă de cabinetul școlar sau medicul de familie și trebuie să îndeplinească următoarele condiții:
+
+1. Să fie emisă cu maximum 3 luni înainte de înscriere.
+2. Să ateste că persoana este aptă pentru specializarea aleasă.",Adeverința medicală trebuie să fie emisă de cabinetul școlar sau de medicul de familie și să fie emisă cu maximum 3 luni înainte de înscriere. Aceasta trebuie să ateste că persoana este aptă pentru specializarea aleasă.,"{""factual"": 10, ""complete"": 10, ""clarity"": 10, ""no_hallucination"": 10, ""brief_reason"": ""The answer is a perfect match for the gold answer and uses only information from the context."", ""final_score"": 10.0}","{
+  ""factuality"": 10,
+  ""completeness"": 10,
+  ""hallucinations"": 10,
+  ""clarity"": 10,
+  ""final_score"": 10.0,
+  ""judge_agreement"": ""YES"",
+  ""evaluation_bias"": ""accurate"",
+  ""brief_reason"": ""The chatbot answer fully matches the golden answer in factual content, includes all key information, contains no hallucinations, and is clearly written.""
+}"
+33,Ce trebuie să conțină diploma de bacalaureat încărcată la înscriere și ce alternativă există pentru absolvenții promoției curente?,Regulamente / admitere generală,"Diploma de bacalaureat trebuie să fie scanată față-verso și să conțină media examenului de bacalaureat, precum și nota la Matematică sau Informatică.
+
+Pentru absolvenții promoției 2026, alternativa este depunerea unei adeverințe-tip care să ateste:
+* absolvirea liceului;
+* promovarea examenului de bacalaureat;
+* media de bacalaureat;
+* nota la Matematică sau Informatică.","Diploma de bacalaureat încărcată la înscriere trebuie să fie scanată față-verso și să conțină:
+
+- media examenului de bacalaureat;
+- nota la Matematică sau Informatică.
+
+Alternativ, absolvenții promoției 2026 pot depune o adeverință-tip care să ateste:
+
+- absolvirea liceului;
+- promovarea examenului de bacalaureat;
+- media de bacalaureat;
+- nota la Matematică sau Informatică.","{""factual"": 10, ""complete"": 10, ""clarity"": 10, ""no_hallucination"": 10, ""brief_reason"": ""The chatbot's answer accurately reflects the information provided in the reference context regarding diploma requirements and the alternative for the 2026 graduating class."", ""final_score"": 10.0}","{
+  ""factuality"": 10,
+  ""completeness"": 10,
+  ""hallucinations"": 10,
+  ""clarity"": 10,
+  ""final_score"": 10.0,
+  ""judge_agreement"": ""YES"",
+  ""evaluation_bias"": ""accurate"",
+  ""brief_reason"": ""The chatbot answer fully matches the golden answer in all factual details, including the requirements for the diploma and the alternative for the 2026 graduates, without adding any unsupported information.""
+}"
+31,Cum se calculează punctajul pentru răspunsurile corecte și greșite la examenul grilă?,Regulamente / admitere generală,"Pentru fiecare întrebare, calculul punctajului este următorul:
+
+1. **Răspuns corect:** Se acordă `p/t`.
+2. **Răspuns greșit:** Se acordă `(-0.66) * p/t`.
+
+*(Unde `p` reprezintă punctajul întrebării, iar `t` este numărul răspunsurilor corecte.)*","Punctajul pentru fiecare întrebare la examenul grilă se calculează astfel:
+
+- Fie `p` punctajul întrebării și `t` numărul răspunsurilor corecte.
+- Pentru fiecare răspuns corect bifat se acordă `p/t` puncte.
+- Pentru fiecare răspuns greșit bifat se scade `0,66 * (p/t)` puncte.
+
+Alte reguli importante:
+
+- Punctajul minim pe întrebare este 0.
+- Punctajul maxim este `p`.
+- Dacă sunt bifate toate răspunsurile, punctajul este 0.","{""factual"": 10, ""complete"": 10, ""clarity"": 10, ""no_hallucination"": 10, ""brief_reason"": ""The chatbot accurately reproduced the scoring rules for the exam."", ""final_score"": 10.0}","{
+  ""factuality"": 10,
+  ""completeness"": 10,
+  ""hallucinations"": 10,
+  ""clarity"": 10,
+  ""final_score"": 10.0,
+  ""judge_agreement"": ""YES"",
+  ""evaluation_bias"": ""accurate"",
+  ""brief_reason"": ""The chatbot answer correctly and fully reflects the scoring rules from the golden answer without adding or omitting any information.""
+}"
+30,Ce condiții trebuie îndeplinite pentru ca nota de la Concursul Mate-Info UBB să poată fi folosită la admitere?,Regulamente / admitere generală,"Nota de la Concursul Mate-Info UBB poate fi utilizată la admitere doar dacă este un minimum 6.
+
+De asemenea, în funcție de situația candidatului:
+*   Dacă participă și la concurs și la examenul de admitere, se utilizează nota mai mare dintre cele două.
+*   Pentru Facilitatea I, nota poate fi considerată 10 la proba de admitere dacă candidatul obține una dintre primele 10 note ≥ 9 la informatică sau la matematică.",Nota de la Concursul Mate-Info UBB poate fi utilizată la admitere doar dacă este minimum 6.,"{""factual"": 10, ""complete"": 10, ""clarity"": 10, ""no_hallucination"": 10, ""brief_reason"": ""The chatbot's answer is a perfect match for the gold answer and does not introduce any new information not present in the context."", ""final_score"": 10.0}","{
+  ""factuality"": 10,
+  ""completeness"": 10,
+  ""hallucinations"": 5,
+  ""clarity"": 10,
+  ""final_score"": 9.25,
+  ""judge_agreement"": ""NO"",
+  ""evaluation_bias"": ""under-penalized"",
+  ""brief_reason"": ""The chatbot correctly states the minimum grade condition from the golden answer but adds extra information about candidate situations and Facilitatea I that is not supported by the golden answer, constituting hallucinations. Therefore, hallucinations score should be lower than perfect.""
+}"
+28,Ce obligații are candidatul la încărcarea documentelor online și ce consecințe există pentru documente false?,Regulamente / admitere generală,"Candidatul are următoarele obligații legate de încărcarea documentelor:
+1. Să fie responsabil pentru încărcarea corectă a documentelor.
+2. Să transmită documente scanate și semnate unde este cazul.
+3. Să își asume autenticitatea documentelor prin declarație scrisă semnată.
+
+În ceea ce privește documentele false, contextul menționează că „Declarațiile false și documentele falsificate atrag răspunderea penală conform legii.”","Candidatul este responsabil pentru încărcarea corectă a documentelor și trebuie să transmită documente scanate și semnate, unde este cazul. De asemenea, candidatul își asumă autenticitatea documentelor prin declarație scrisă semnată. Declarațiile false și documentele falsificate atrag răspunderea penală conform legii.","{""factual"": 10, ""complete"": 10, ""clarity"": 10, ""no_hallucination"": 10, ""brief_reason"": ""The chatbot accurately reflected the information about candidate obligations and consequences of false documents as stated in the context."", ""final_score"": 10.0}","{
+  ""factuality"": 10,
+  ""completeness"": 10,
+  ""hallucinations"": 10,
+  ""clarity"": 10,
+  ""final_score"": 10.0,
+  ""judge_agreement"": ""YES"",
+  ""evaluation_bias"": ""accurate"",
+  ""brief_reason"": ""The chatbot answer fully matches the golden answer in terms of candidate obligations and consequences for false documents, without adding or omitting any information.""
+}"
+25,Ce restricții există privind înscrierea la mai multe specializări și câte programe pot fi urmate simultan?,Regulamente / admitere generală,"Un candidat nu poate depune mai multe dosare având ca primă opțiune specializări din același domeniu. În ceea ce privește înmatricularea simultană, un candidat poate fi înmatriculat la maximum două programe de studiu.","Un candidat poate participa simultan la admiterea mai multor specializări sau instituții, însă nu poate depune mai multe dosare având ca primă opțiune specializări din același domeniu. De asemenea, un candidat poate fi înmatriculat simultan la maximum două programe de studiu.","{""factual"": 10, ""complete"": 10, ""clarity"": 10, ""no_hallucination"": 10, ""brief_reason"": ""The chatbot's answer is a direct and accurate reflection of the provided context."", ""final_score"": 10.0}","{
+  ""factuality"": 10,
+  ""completeness"": 10,
+  ""hallucinations"": 10,
+  ""clarity"": 10,
+  ""final_score"": 10.0,
+  ""judge_agreement"": ""YES"",
+  ""evaluation_bias"": ""accurate"",
+  ""brief_reason"": ""The chatbot answer accurately reflects all key facts from the golden answer without adding or omitting information, and it is clearly expressed.""
+}"
+24,Cum se face departajarea candidaților cu medii egale dacă nu au notă la Matematică sau Informatică la bacalaureat?,Regulamente / admitere generală,"În cazul mediilor egale și dacă candidații nu au note la Matematică sau Informatică la bacalaureat, departajarea se face în următoarea ordine:
+
+1. Media din liceu la Matematică.
+2. Media generală de la bacalaureat.
+3. Media la Matematică din liceu.","În cazul mediilor egale, departajarea candidaților care nu au notă la Matematică sau Informatică la bacalaureat se face după următoarele criterii, în ordine descrescătoare de prioritate:
+
+1. media din liceu la Matematică;
+2. media generală de la bacalaureat;
+3. media la Matematică din liceu.","{""factual"": 10, ""complete"": 10, ""clarity"": 10, ""no_hallucination"": 10, ""brief_reason"": ""The chatbot's answer accurately reflects the departajare criteria outlined in the context."", ""final_score"": 10.0}","{
+  ""factuality"": 10,
+  ""completeness"": 10,
+  ""hallucinations"": 10,
+  ""clarity"": 10,
+  ""final_score"": 10.0,
+  ""judge_agreement"": ""YES"",
+  ""evaluation_bias"": ""accurate"",
+  ""brief_reason"": ""The chatbot answer fully matches the golden answer in content and order, with no added or missing information, and is clearly presented.""
+}"
+21,Cine poate beneficia de scutire de taxă și ce trebuie făcut pentru obținerea acesteia?,Regulamente / admitere generală,"Beneficiarii pot solicita scutire de taxe în următoarele categorii:
+
+**Scutire de taxa de înscriere:**
+* Angajații UBB;
+* Copiii angajaților UBB;
+* Angajații Bibliotecii Centrale Universitare;
+* Copiii personalului din învățământul universitar și preuniversitar.
+
+**Scutire de taxa de admitere:**
+* Candidații orfani de unul sau ambii părinți;
+* Candidații proveniți din familii monoparentale;
+* Tinerii proveniți din centre de plasament cu vârsta până la 26 de ani;
+* Persoanele aflate în risc social din cauza bolii, handicapului sau sărăciei.
+
+**Pentru obținerea scutirilor:**
+Scutirile se acordă numai pe baza documentelor justificative, care trebuie depuse la momentul înscrierii. Nu se acceptă documente pentru scutire după finalizarea înscrierii.","Beneficiari ai scutirii de taxă de admitere sunt:
+
+- candidații orfani de unul sau ambii părinți;
+- candidații proveniți din familii monoparentale;
+- tinerii proveniți din centre de plasament cu vârsta până la 26 de ani;
+- persoane aflate în risc social din cauza bolii, handicapului sau sărăciei.
+
+Pentru obținerea scutirii, candidații trebuie să depună documentele justificative corespunzătoare la momentul înscrierii. Nu se acceptă documente pentru scutire după finalizarea înscrierii. Scutirile se acordă numai pe baza acestor documente justificative.","{""factual"": 10, ""complete"": 10, ""clarity"": 10, ""no_hallucination"": 10, ""brief_reason"": ""The chatbot accurately reproduced the information about beneficiaries and requirements for tax exemptions as stated in the context."", ""final_score"": 10.0}","{
+  ""factuality"": 10,
+  ""completeness"": 10,
+  ""hallucinations"": 10,
+  ""clarity"": 10,
+  ""final_score"": 10.0,
+  ""judge_agreement"": ""YES"",
+  ""evaluation_bias"": ""accurate"",
+  ""brief_reason"": ""The chatbot answer correctly lists all beneficiary categories from the golden answer and adds additional categories related to UBB employees and their children, which is not contradicted by the golden answer. The requirements for obtaining the exemption are accurately stated without hallucinations.""
+}"
+19,Ce trebuie să prezinte candidații care au studiat în străinătate?,Regulamente / admitere generală,"Candidații trebuie să prezinte dovada echivalării studiilor. Pentru informații privind echivalarea, pot consulta Centrul de Cooperări Internaționale UBB; iar pentru echivalarea notelor, Comisia de Admitere FMI UBB.","Candidații care au studiat în străinătate trebuie să prezinte dovada echivalării studiilor. Pentru informații privind echivalarea, aceștia pot contacta Centrul de Cooperări Internaționale UBB la adresa [https://cci.ubbcluj.ro/degree_students/eu_students.php](https://cci.ubbcluj.ro/degree_students/eu_students.php) sau Comisia de Admitere FMI UBB prin email la [admitere.cs@ubbcluj.ro](mailto:admitere.cs@ubbcluj.ro).","{""factual"": 10, ""complete"": 10, ""clarity"": 10, ""no_hallucination"": 10, ""brief_reason"": ""The chatbot's answer is a perfect match for the gold answer and uses only information from the context."", ""final_score"": 10.0}","{
+  ""factuality"": 9,
+  ""completeness"": 8,
+  ""hallucinations"": 10,
+  ""clarity"": 9,
+  ""final_score"": 9.05,
+  ""judge_agreement"": ""PARTIALLY"",
+  ""evaluation_bias"": ""under-penalized"",
+  ""brief_reason"": ""The chatbot answer correctly states the need to present proof of study equivalence and references the relevant bodies, but it introduces 'echivalarea notelor' (equivalence of grades), which is not mentioned in the golden answer, and omits the contact details and URLs provided. This results in minor factual deviation and some incompleteness.""
+}"
+49,Cum diferă criteriile de departajare pentru candidații care au note la Matematică sau Informatică față de cei care nu au?,Regulamente / admitere generală,"În cazul mediilor egale, criteriile de departajare sunt următoarele:
+
+1.  **Pentru candidații care au note la bacalaureat la Matematică sau Informatică:** Se ia în considerare","Criteriile de departajare pentru candidații cu medii egale sunt următoarele:
+
+1. Pentru candidații care au notă la bacalaureat la Matematică sau Informatică, departajarea se face în funcție de nota de la bacalaureat la Matematică sau Informatică.
+
+2. Pentru candidații care nu au notă la bacalaureat la Matematică sau Informatică, departajarea se face după media din liceu la Matematică.
+
+Ulterior, pentru toți candidații, se iau în considerare:
+
+3. Media generală de la bacalaureat.
+
+4. Media la Matematică din liceu.","{""factual"": 10, ""complete"": 10, ""clarity"": 10, ""no_hallucination"": 10, ""brief_reason"": ""The chatbot accurately reproduced the criteria for departajare as listed in the context."", ""final_score"": 10.0}","{
+  ""factuality"": 10,
+  ""completeness"": 5,
+  ""hallucinations"": 10,
+  ""clarity"": 5,
+  ""final_score"": 7.75,
+  ""judge_agreement"": ""NO"",
+  ""evaluation_bias"": ""over-penalized"",
+  ""brief_reason"": ""The chatbot answer starts correctly but is incomplete, cutting off after the first point and missing the rest of the criteria. There are no hallucinations, and the language is clear but the answer is unfinished, affecting completeness and clarity.""
+}"
+48,Care este diferența dintre confirmarea locului pentru un candidat obișnuit și pentru un candidat deja înscris la altă facultate?,Regulamente / admitere generală,"Pentru candidații admiși în general, trebuie să depună actele în original conform termenelor stabilite, să semneze contractul de școlarizare și să confirme locul conform calendarului.
+
+În cazul studenților deja înscriși la alte programe, se poate depune copie certificată conform cu originalul și este necesară o adeverință care confirmă existența actului original la cealaltă instituție.","Confirmarea locului pentru un candidat obișnuit presupune depunerea actelor în original conform termenelor stabilite, semnarea contractului de școlarizare și confirmarea locului conform calendarului.
+
+Pentru un candidat deja înscris la altă facultate, se poate depune copie certificată conform cu originalul, iar în plus este necesară o adeverință care să confirme existența actului original la cealaltă instituție.","{""factual"": 10, ""complete"": 10, ""clarity"": 10, ""no_hallucination"": 10, ""brief_reason"": ""The chatbot's answer accurately reflects the information provided in the context regarding confirmation procedures for both regular and previously enrolled students."", ""final_score"": 10.0}","{
+  ""factuality"": 10,
+  ""completeness"": 10,
+  ""hallucinations"": 10,
+  ""clarity"": 10,
+  ""final_score"": 10.0,
+  ""judge_agreement"": ""YES"",
+  ""evaluation_bias"": ""accurate"",
+  ""brief_reason"": ""The chatbot answer fully matches the golden answer in factual content, including all key details about document submission and requirements for both candidate types, without adding any unsupported information.""
+}"
+389,Cum se compară taxa de participare la Concursul Mate-Info UBB cu taxele din procesul de admitere?,Concurs Mate-Info UBB,,"Taxa de participare la Concursul Mate-Info UBB este de 400 lei, plata fiind efectuată online și fără posibilitatea de scutiri. În schimb, taxele din procesul de admitere includ taxa de procesare și taxa de înscriere, care se achită exclusiv online prin platforma de admitere. Taxa de procesare nu este supusă scutirilor și nu este returnabilă, iar cuantumul exact al taxelor de admitere va fi publicat după aprobarea lor de către Senatul UBB. Astfel, taxa de participare la Concursul Mate-Info UBB este un cost fix și separat față de taxele de admitere, iar pentru concurs nu se acordă scutiri, spre deosebire de unele taxe din procesul de admitere.","{""factual"": 0, ""complete"": 0, ""clarity"": 10, ""no_hallucination"": 10, ""brief_reason"": ""The chatbot did not provide any information about the tax for participating in the Mate-Info UBB contest or the admission taxes. It hallucinated."", ""final_score"": 3.5}","{
+  ""factuality"": 0,
+  ""completeness"": 0,
+  ""hallucinations"": 10,
+  ""clarity"": 10,
+  ""final_score"": 3.5,
+  ""judge_agreement"": ""YES"",
+  ""evaluation_bias"": ""accurate"",
+  ""brief_reason"": ""The chatbot answer is empty and provides no factual information, so factuality and completeness are zero. There is no hallucinated information since nothing was stated. Clarity is perfect as the answer is empty and thus not confusing.""
+}"
+378,Cum diferă condițiile pentru candidații care obțin una dintre primele 10 note la matematică față de cei de la informatică?,Concurs Mate-Info UBB,,"Candidații care obțin una dintre primele 10 note ≥ 9 la matematică primesc nota 10 la proba de admitere la matematică, iar cei care obțin una dintre primele 10 note ≥ 9 la informatică primesc nota 10 la proba de admitere la informatică. Astfel, condițiile sunt similare pentru ambele categorii: obținerea uneia dintre primele 10 note cel puțin 9 la disciplina respectivă le asigură nota 10 la proba de admitere corespunzătoare.","{""factual"": 0, ""complete"": 0, ""clarity"": 10, ""no_hallucination"": 10, ""brief_reason"": ""The chatbot's answer does not reflect the information provided in the context. It fails to mention the specific note requirement for receiving a 10 at admission."", ""final_score"": 3.5}","{
+  ""factuality"": 0,
+  ""completeness"": 0,
+  ""hallucinations"": 10,
+  ""clarity"": 10,
+  ""final_score"": 3.5,
+  ""judge_agreement"": ""YES"",
+  ""evaluation_bias"": ""accurate"",
+  ""brief_reason"": ""The chatbot answer is empty and provides no factual information, thus it is completely incorrect and missing all relevant details. However, it does not hallucinate any information and is clear in its lack of content.""
+}"
+379,Care sunt diferențele dintre concursul Mate-Info și examenul de admitere în privința calendarului?,Concurs Mate-Info UBB,"Contextul oferit detaliază calendarul pentru Concursul Mate-Info UBB 2026, dar nu include un calendar comparativ sau date specifice pentru examenul de admitere.
+
+Prin urmare: Nu dețin această informație conform datelor extrase de pe site-ul oficial.","Concursul Mate-Info UBB 2026 are următorul calendar:
+
+- Înscriere: 23 februarie 2026 – 17 martie 2026
+- Afișarea listelor finale și repartizarea pe săli: 18 martie 2026
+- Concursul: 21 martie 2026, ora 09:00
+- Afișarea rezultatelor: 23 martie 2026
+- Contestații: 23 martie 2026 – 24 martie 2026
+- Rezultate finale: 26 martie 2026
+
+Examenul de admitere (sesiunea I – iulie 2026) are următorul calendar:
+
+- Perioada generală a sesiunii: 13 iulie 2026 – 27 iulie 2026
+- Preînscriere: 1 iulie 2026 – 8 iulie 2026
+- Înscriere online: 13 iulie 2026 – 16 iulie 2026, ora 11:00
+- Publicarea listelor finale și repartizarea pe săli: 16 iulie 2026, ora 16:00
+- Contestații privind înscrierea: 16 iulie 2026, ora 16:00–18:00
+- Proba scrisă: 17 iulie 2026, ora 09:00
+- Publicarea rezultatelor probei scrise: 18 iulie 2026, ora 12:00
+- Contestații rezultate examen: 18 iulie 2026, ora 12:00 – 19 iulie 2026, ora 12:00
+- Soluționarea contestațiilor: 20 iulie 2026, până la ora 12:00
+- Publicarea rezultatelor admiterii: după soluționarea contestațiilor
+
+Diferențele principale sunt:
+
+- Concursul Mate-Info se desfășoară în perioada martie 2026, iar examenul de admitere în iulie 2026.
+- Concursul are o perioadă de înscriere mult mai devreme (februarie-martie) față de examenul de admitere (iulie).
+- Concursul are o durată mai scurtă a procesului (înscriere, concurs, contestații și rezultate finale în aproximativ o lună), în timp ce examenul de admitere are o perioadă mai extinsă cu mai multe etape (preînscriere, înscriere, proba scrisă, contestații etc.).
+- Proba scrisă a concursului are loc pe 21 martie 2026, iar proba scrisă a examenului de admitere pe 17 iulie 2026.","{""factual"": 0, ""complete"": 0, ""clarity"": 10, ""no_hallucination"": 10, ""brief_reason"": ""The chatbot did not provide any information about the exam calendar, only stating it was not available in the context."", ""final_score"": 3.5}","{
+  ""factuality"": 0,
+  ""completeness"": 0,
+  ""hallucinations"": 10,
+  ""clarity"": 10,
+  ""final_score"": 3.5,
+  ""judge_agreement"": ""YES"",
+  ""evaluation_bias"": ""accurate"",
+  ""brief_reason"": ""The chatbot answer correctly states that it does not have information about the exam calendar and does not provide any fabricated details. It is factually correct in that it does not supply any calendar data, but it is incomplete as it fails to answer the question about differences. There are no hallucinations and the answer is clear.""
+}"
+292,Care este diferența dintre contestațiile pentru înscriere și contestațiile pentru rezultatele examenului?,Calendar admitere,Nu dețin această informație conform datelor extrase de pe site-ul oficial.,"Contestațiile pentru înscriere se pot depune în ziua afișării listelor finale și repartizării pe săli, respectiv pe 16 iulie 2026, între orele 16:00 și 18:00. Acestea vizează aspecte legate de înscrierea propriu-zisă.
+
+Contestațiile privind rezultatele examenului scris se depun în termen de 24 de ore de la afișarea rezultatelor probei scrise, adică între 18 iulie 2026, ora 12:00 și 19 iulie 2026, ora 12:00. Rezultatele probelor orale sau practice pot fi contestate doar procedural, iar după expirarea perioadei de contestații, rezultatele devin definitive.
+
+Astfel, diferența principală este că contestațiile pentru înscriere se referă la aspecte administrative legate de înscriere, au o perioadă scurtă și fixă în ziua afișării listelor, iar contestațiile pentru rezultatele examenului se referă la notele obținute la proba scrisă, au o perioadă de 24 de ore după afișarea rezultatelor și nu se aplică pentru probele orale sau practice decât procedural.","{""factual"": 0, ""complete"": 0, ""clarity"": 10, ""no_hallucination"": 10, ""brief_reason"": ""The chatbot's answer does not reflect the information provided in the context. It states it doesn't have the information, which is incorrect."", ""final_score"": 3.5}","{
+  ""factuality"": 0,
+  ""completeness"": 0,
+  ""hallucinations"": 10,
+  ""clarity"": 10,
+  ""final_score"": 3.5,
+  ""judge_agreement"": ""YES"",
+  ""evaluation_bias"": ""accurate"",
+  ""brief_reason"": ""The chatbot answer does not provide any factual information related to the question and simply states it lacks the information, which is factually incorrect given the golden answer. However, it does not hallucinate or invent any information and is clearly written.""
+}"
+293,Cum diferă sesiunea de vară de redistribuirea locurilor din septembrie?,Calendar admitere,Nu dețin această informație conform datelor extrase de pe site-ul oficial.,"Sesiunea de vară a admiterii FMI UBB 2026 se desfășoară în perioada 13 iulie 2026 – 27 iulie 2026 și cuprinde etape precum preînscrierea, înscrierea online, proba scrisă, contestațiile și publicarea rezultatelor finale. În această sesiune, candidații participă la concursul de admitere conform calendarului stabilit, iar rezultatele finale sunt afișate după soluționarea contestațiilor.
+
+Redistribuirea locurilor bugetate din septembrie are loc dacă între 1 august 2026 și 1 septembrie 2026 se eliberează locuri bugetate. Aceste locuri sunt ocupate de candidații admiși pe locuri cu taxă, în ordinea descrescătoare a mediilor, iar redistribuirea se face în cadrul aceleiași specializări. Candidații care doresc schimbarea formei de finanțare trebuie să îndeplinească condițiile de eligibilitate și să depună diploma de bacalaureat și foaia matricolă în original până la 31 august 2026. La 3 septembrie 2026 se afișează lista candidaților cu forma de finanțare modificată, dacă este cazul.
+
+Astfel, diferența principală este că sesiunea de vară reprezintă concursul propriu-zis de admitere cu toate etapele sale, iar redistribuirea din septembrie este o etapă ulterioară care permite ocuparea locurilor bugetate eliberate după sesiunea de vară, prin promovarea candidaților admiși pe locuri cu taxă, în condiții și termene specifice.","{""factual"": 0, ""complete"": 0, ""clarity"": 10, ""no_hallucination"": 10, ""brief_reason"": ""The chatbot did not answer the question about the difference between summer session and September redistribution. It stated it didn't have the information."", ""final_score"": 3.5}","{
+  ""factuality"": 0,
+  ""completeness"": 0,
+  ""hallucinations"": 10,
+  ""clarity"": 10,
+  ""final_score"": 3.5,
+  ""judge_agreement"": ""YES"",
+  ""evaluation_bias"": ""accurate"",
+  ""brief_reason"": ""The chatbot explicitly states it does not have the information, thus providing no factual content or completeness but no hallucinations either. The answer is clear and truthful about the lack of data.""
+}"
+213,Cum diferă condițiile de scutire pentru copiii angajaților UBB față de cele pentru candidații proveniți din centre de plasament?,Taxe admitere,,"Copiii angajaților UBB beneficiază de scutire de taxa de înscriere, fiind incluși în categoria beneficiarilor scutirii de această taxă.
+
+Candidații proveniți din centre de plasament cu vârsta până la 26 de ani beneficiază de scutire de taxa de admitere, fiind incluși în categoria beneficiarilor scutirii de această taxă.
+
+Astfel, diferența constă în faptul că:
+
+- copiii angajaților UBB sunt scutiți de taxa de înscriere;
+- candidații proveniți din centre de plasament sunt scutiți de taxa de admitere.
+
+În ambele cazuri, scutirile se acordă numai pe baza documentelor justificative depuse la momentul înscrierii.","{""factual"": 0, ""complete"": 0, ""clarity"": 10, ""no_hallucination"": 10, ""brief_reason"": ""The chatbot's answer does not reflect the information provided in the context about the specific tax exemptions for children of employees and candidates from orphanages."", ""final_score"": 3.5}","{
+  ""factuality"": 0,
+  ""completeness"": 0,
+  ""hallucinations"": 10,
+  ""clarity"": 0,
+  ""final_score"": 1.0,
+  ""judge_agreement"": ""YES"",
+  ""evaluation_bias"": ""accurate"",
+  ""brief_reason"": ""The chatbot answer is empty and provides no information, thus it is completely factually incorrect and missing all relevant content. There are no hallucinations since no information is given, but clarity is zero due to lack of any answer.""
+}"
+404,În ce limbă pot da proba?,Concurs Mate-Info UBB,Nu dețin această informație conform datelor extrase de pe site-ul oficial.,"Proba scrisă de admitere poate fi susținută în limba română, maghiară, germană sau engleză, conform informațiilor referitoare la Concursul Mate-Info UBB 2026, unde subiectele sunt disponibile în aceste limbi. Pentru proba scrisă de admitere la FMI UBB, limba de susținere este, în mod implicit, româna, iar pentru specializările în limbi străine (engleză sau germană) candidații pot susține proba în limba respectivă. 
+
+Astfel, proba scrisă poate fi dată în română, maghiară, germană sau engleză, în funcție de specializarea aleasă și de concursul la care participă candidatul.","{""factual"": 0, ""complete"": 0, ""clarity"": 10, ""no_hallucination"": 10, ""brief_reason"": ""The chatbot did not provide any information about the languages in which the exam can be taken. It only stated that it does not have this information based on the provided context."", ""final_score"": 3.5}","{
+  ""factuality"": 0,
+  ""completeness"": 0,
+  ""hallucinations"": 10,
+  ""clarity"": 10,
+  ""final_score"": 3.5,
+  ""judge_agreement"": ""YES"",
+  ""evaluation_bias"": ""accurate"",
+  ""brief_reason"": ""The chatbot answer does not provide any factual information about the exam languages, which is the core of the question. However, it does not hallucinate or invent any information and is clearly written.""
+}"
+209,Cum diferă regulile de plată pentru taxa de admitere față de taxa de participare la concursul Mate-Info UBB?,Taxe admitere,,"Taxa de admitere la FMI UBB se achită exclusiv online prin platforma de admitere și este compusă din taxa de procesare și taxa de înscriere. Taxa de procesare nu este supusă scutirilor și nu este returnabilă. Scutirile pentru taxa de înscriere se acordă pe baza documentelor justificative depuse la înscriere.
+
+În schimb, taxa de participare la concursul Mate-Info UBB este fixă, în valoare de 400 lei, se plătește online și nu beneficiază de scutiri.","{""factual"": 0, ""complete"": 0, ""clarity"": 10, ""no_hallucination"": 10, ""brief_reason"": ""The chatbot's answer does not reflect any information from the context provided. It hallucinates details about the tax structure."", ""final_score"": 3.5}","{
+  ""factuality"": 0,
+  ""completeness"": 0,
+  ""hallucinations"": 0,
+  ""clarity"": 0,
+  ""final_score"": 0,
+  ""judge_agreement"": ""NO"",
+  ""evaluation_bias"": ""over-penalized"",
+  ""brief_reason"": ""The chatbot answer is 'nan', meaning no answer was provided. It contains no factual information, no hallucinations, and no clarity. The judge score incorrectly assigns hallucinations and clarity points despite the absence of any answer.""
+}"
+445,Ce documente trebuie să pregătească un candidat pentru înscriere și ce restricții există privind autenticitatea acestora?,Acte necesare,,"Pentru înscriere, candidatul trebuie să pregătească următoarele documente obligatorii:
+
+1. Cererea/formularul de înscriere completat online;
+2. Fișa candidatului – date de concurs (Anexa 2);
+3. Diploma de bacalaureat sau diplomă echivalentă (scanată față-verso, care să conțină media examenului de bacalaureat și nota la Matematică sau Informatică);
+4. Foaia matricolă;
+5. Certificatul de naștere;
+6. Cartea de identitate;
+7. Certificatul de căsătorie (dacă este cazul);
+8. Adeverință medicală tip emisă de cabinetul școlar sau medicul de familie, emisă cu maximum 3 luni înainte de înscriere, care să ateste că persoana este aptă pentru specializarea aleasă;
+9. Dovada plății taxei de admitere sau documentele de scutire;
+10. Documente justificative pentru facilități sau categorii speciale, dacă este cazul.
+
+Pentru absolvenții promoției 2026, în locul diplomei de bacalaureat pot depune adeverință-tip care să ateste absolvirea liceului, promovarea examenului de bacalaureat, media de bacalaureat și nota la Matematică sau Informatică.
+
+Restricții privind autenticitatea documentelor:
+
+- Nu este necesară legalizarea copiilor;
+- Copiile sunt certificate conform cu originalul de persoanele desemnate;
+- Candidații sunt responsabili pentru încărcarea corectă a documentelor scanate și semnate, unde este cazul;
+- Candidații își asumă autenticitatea documentelor prin declarație scrisă semnată;
+- Declarațiile false și documentele falsificate atrag răspunderea penală conform legii.","{""factual"": 0, ""complete"": 0, ""clarity"": 10, ""no_hallucination"": 10, ""brief_reason"": ""The chatbot's answer does not reflect the information provided in the reference context. It fails to mention key documents required for enrollment."", ""final_score"": 3.5}","{
+  ""factuality"": 0,
+  ""completeness"": 0,
+  ""hallucinations"": 10,
+  ""clarity"": 10,
+  ""final_score"": 3.5,
+  ""judge_agreement"": ""YES"",
+  ""evaluation_bias"": ""accurate"",
+  ""brief_reason"": ""The chatbot answer is empty and provides no factual information, thus it is completely incorrect and missing all key details. However, it does not hallucinate any information and is clear in its absence of content.""
+}"
+77,Cum se calculează media?,Regulamente / admitere generală,Nu dețin această informație conform datelor extrase de pe site-ul oficial.,"Media de admitere la Facultatea de Matematică și Informatică UBB se calculează astfel:
+
+- Varianta standard: se ia nota maximă dintre nota obținută la Concursul Mate-Info UBB și nota de la proba scrisă de admitere, adică  
+  `MEDIA = MAX(Nota Concurs Mate-Info UBB, Nota proba scrisă)`
+
+- Pentru candidații din Categoria A (cei cu performanțe la olimpiade și concursuri recunoscute), media este 10.
+
+- Pentru candidații din Categoria B, media se calculează ca media aritmetică între 10 și nota maximă dintre nota de la Concursul Mate-Info UBB și nota de la proba scrisă, adică  
+  `MEDIA = (10 + MAX(Nota Concurs Mate-Info UBB, Nota proba scrisă)) / 2`
+
+Astfel, media de admitere ia în considerare performanțele la concursul Mate-Info UBB și/sau la proba scrisă, aplicând facilitățile corespunzătoare categoriilor speciale.","{""factual"": 0, ""complete"": 0, ""clarity"": 10, ""no_hallucination"": 10, ""brief_reason"": ""The chatbot's answer is completely unrelated to the question about calculating the average grade."", ""final_score"": 3.5}","{
+  ""factuality"": 0,
+  ""completeness"": 0,
+  ""hallucinations"": 10,
+  ""clarity"": 10,
+  ""final_score"": 3.5,
+  ""judge_agreement"": ""YES"",
+  ""evaluation_bias"": ""accurate"",
+  ""brief_reason"": ""The chatbot answer does not provide any factual information about the calculation of the admission average, thus it is factually incorrect and incomplete. However, it does not hallucinate or invent any information and is clearly written.""
+}"
+38,Care este diferența dintre locurile finanțate de la buget și locurile cu taxă?,Regulamente / admitere generală,Nu dețin această informație conform datelor extrase de pe site-ul oficial.,"Locurile finanțate de la buget sunt cele pentru care studiile sunt suportate financiar prin granturi de studiu acordate de stat, iar subvenția de la buget se acordă doar pe durata normală a studiilor. Locurile cu taxă sunt cele pentru care candidatul trebuie să achite o taxă de școlarizare. În cazul eliberării locurilor bugetate după 1 august 2026, acestea pot fi ocupate de candidații admiși pe locuri cu taxă, în ordinea descrescătoare a mediilor, în cadrul aceleiași specializări. 
+
+Astfel, diferența principală constă în modul de finanțare: locurile bugetate sunt finanțate de stat, iar locurile cu taxă sunt finanțate de către candidatul/student.","{""factual"": 0, ""complete"": 0, ""clarity"": 10, ""no_hallucination"": 10, ""brief_reason"": ""The chatbot did not provide any information about the difference between funded and fee-paying places, despite being asked to do so."", ""final_score"": 3.5}","{
+  ""factuality"": 0,
+  ""completeness"": 0,
+  ""hallucinations"": 10,
+  ""clarity"": 10,
+  ""final_score"": 3.5,
+  ""judge_agreement"": ""YES"",
+  ""evaluation_bias"": ""accurate"",
+  ""brief_reason"": ""The chatbot answer provides no factual information about the difference between funded and fee-paying places, thus scoring zero on factuality and completeness. However, it does not hallucinate or invent information and is clearly written.""
+}"
+502,Candidații pot modifica opțiunile după susținerea examenului scris?,General,,Informația nu este specificată în ghidul de admitere.,"{""factual"": 0, ""complete"": 0, ""clarity"": 10, ""no_hallucination"": 10, ""brief_reason"": ""The chatbot did not provide an answer to the question."", ""final_score"": 3.5}","{
+  ""factuality"": 0,
+  ""completeness"": 0,
+  ""hallucinations"": 10,
+  ""clarity"": 10,
+  ""final_score"": 3.5,
+  ""judge_agreement"": ""YES"",
+  ""evaluation_bias"": ""accurate"",
+  ""brief_reason"": ""The chatbot did not provide any answer, so factuality and completeness are zero, but there are no hallucinations and the clarity is perfect since the answer is empty.""
+}"
+123,Care este diferența dintre metodele algoritmice și algoritmii fundamentali din programa de informatică?,Tematică admitere,Nu dețin această informație conform datelor extrase de pe site-ul oficial.,"În programa de informatică pentru admiterea la FMI UBB, diferența dintre metodele algoritmice și algoritmii fundamentali este următoarea:
+
+- **Algoritmii fundamentali** sunt algoritmi specifici și concreți, cum ar fi: divizibilitatea, algoritmul lui Euclid, Fibonacci, metode de sortare, metode de căutare și analiza complexității.
+
+- **Metodele algoritmice** reprezintă tehnici generale de rezolvare a problemelor, cum ar fi: recursivitatea, backtracking, greedy și divide et impera.
+
+Astfel, algoritmii fundamentali sunt exemple concrete de algoritmi, iar metodele algoritmice sunt strategii sau paradigme utilizate pentru construirea și rezolvarea algoritmilor.","{""factual"": 0, ""complete"": 0, ""clarity"": 10, ""no_hallucination"": 10, ""brief_reason"": ""The chatbot did not answer the question and instead stated it lacked the information."", ""final_score"": 3.5}","{
+  ""factuality"": 0,
+  ""completeness"": 0,
+  ""hallucinations"": 10,
+  ""clarity"": 10,
+  ""final_score"": 3.5,
+  ""judge_agreement"": ""YES"",
+  ""evaluation_bias"": ""accurate"",
+  ""brief_reason"": ""The chatbot did not provide any factual information related to the question, thus factuality and completeness are zero. However, it did not hallucinate or invent information and the response was clear.""
+}"
+36,Cum se desfășoară contestațiile pentru proba scrisă și când devin rezultatele definitive?,Regulamente / admitere generală,Contestațiile pentru probele scrise trebuie dep,"Contestațiile pentru probele scrise se depun în termen de 24 de ore de la afișarea rezultatelor. După expirarea perioadei de contestații, rezultatele devin definitive. Rezultatele probelor orale sau practice pot fi contestate doar procedural, iar contestațiile bazate pe necunoașterea regulamentului nu sunt admise.","{""factual"": 0, ""complete"": 0, ""clarity"": 10, ""no_hallucination"": 10, ""brief_reason"": ""The answer is incomplete and does not accurately reflect the information provided in the context."", ""final_score"": 3.5}","{
+  ""factuality"": 2,
+  ""completeness"": 1,
+  ""hallucinations"": 10,
+  ""clarity"": 10,
+  ""final_score"": 3.9,
+  ""judge_agreement"": ""PARTIALLY"",
+  ""evaluation_bias"": ""accurate"",
+  ""brief_reason"": ""The chatbot answer is incomplete and cuts off abruptly, providing only a partial statement about the contestations for written tests. It does not mention the 24-hour submission window, the finality of results after the contestation period, or the rules about oral/practical tests and invalid contestations. There are no hallucinated facts, but the answer is too incomplete to be fully factual.""
+}"
+467,"După afișarea rezultatelor finale, când trebuie depuse actele în original pentru confirmarea locului?",Acte necesare,Nu dețin această informație conform datelor extrase de pe site-ul oficial.,Candidații admiși trebuie să depună actele în original conform termenelor stabilite după afișarea rezultatelor finale pentru confirmarea locului. Informația exactă privind data limită nu este specificată în ghidul de admitere.,"{""factual"": 0, ""complete"": 0, ""clarity"": 10, ""no_hallucination"": 10, ""brief_reason"": ""The chatbot's answer does not mention any specific deadline for submitting documents after the results are published. It only states that it doesn't have this information."", ""final_score"": 3.5}","{
+  ""factuality"": 10,
+  ""completeness"": 10,
+  ""hallucinations"": 10,
+  ""clarity"": 10,
+  ""final_score"": 10.0,
+  ""judge_agreement"": ""NO"",
+  ""evaluation_bias"": ""over-penalized"",
+  ""brief_reason"": ""The chatbot answer correctly states that it does not have the specific information about the deadline, which matches the golden answer's indication that the exact date is not specified. Therefore, it is factually correct, complete given the available information, contains no hallucinations, and is clear.""
+}"
+129,"Care este diferența dintre permutări, aranjamente și combinări în programa de informatică?",Tematică admitere,Nu dețin această informație conform datelor extrase de pe site-ul oficial.,"În programa de informatică a probei scrise la admiterea FMI UBB, permutările, aranjamentele și combinările fac parte din elementele combinatoriale studiate. Diferența dintre ele este următoarea:
+
+- **Permutări**: reprezintă aranjamentele tuturor elementelor unui set, luate în toate ordinele posibile.
+- **Aranjamente**: reprezintă selecția și ordonarea unui subset de elemente dintr-un set mai mare, unde ordinea contează.
+- **Combinări**: reprezintă selecția unui subset de elemente dintr-un set mai mare, fără a ține cont de ordine.
+
+Astfel, diferența principală constă în faptul că permutările includ toate elementele și toate ordonările posibile, aranjamentele implică ordonarea unui subset, iar combinările implică selectarea unui subset fără a ține cont de ordinea elementelor.","{""factual"": 0, ""complete"": 0, ""clarity"": 10, ""no_hallucination"": 10, ""brief_reason"": ""The chatbot did not answer the question about permutations, arrangements and combinations. It stated it lacked the information."", ""final_score"": 3.5}","{
+  ""factuality"": 0,
+  ""completeness"": 0,
+  ""hallucinations"": 10,
+  ""clarity"": 10,
+  ""final_score"": 3.5,
+  ""judge_agreement"": ""YES"",
+  ""evaluation_bias"": ""accurate"",
+  ""brief_reason"": ""The chatbot answer does not provide any factual information about permutations, arrangements, or combinations, thus it scores zero on factuality and completeness. However, it does not hallucinate or fabricate information and is clearly written, just uninformative.""
+}"
+55,Când devin definitive rezultatele admiterii?,Regulamente / admitere generală,,"Rezultatele admiterii devin definitive după expirarea perioadei de contestații, conform calendarului admiterii.","{""factual"": 0, ""complete"": 0, ""clarity"": 10, ""no_hallucination"": 10, ""brief_reason"": ""The chatbot did not provide an answer to the question. "", ""final_score"": 3.5}","{
+  ""factuality"": 0,
+  ""completeness"": 0,
+  ""hallucinations"": 10,
+  ""clarity"": 10,
+  ""final_score"": 3.5,
+  ""judge_agreement"": ""YES"",
+  ""evaluation_bias"": ""accurate"",
+  ""brief_reason"": ""The chatbot answer is 'nan', which provides no factual information and no completeness, but it does not contain hallucinations and is clear in its lack of content.""
+}"
+523,Candidații primesc subiectele traduse automat în franceză?,General,,Informația nu este specificată în ghidul de admitere.,"{""factual"": 0, ""complete"": 0, ""clarity"": 10, ""no_hallucination"": 10, ""brief_reason"": ""The chatbot did not provide an answer to the question."", ""final_score"": 3.5}","{
+  ""factuality"": 0,
+  ""completeness"": 0,
+  ""hallucinations"": 10,
+  ""clarity"": 10,
+  ""final_score"": 3.5,
+  ""judge_agreement"": ""YES"",
+  ""evaluation_bias"": ""accurate"",
+  ""brief_reason"": ""The chatbot answer 'nan' provides no factual information and does not address the question, matching the judge's assessment. There are no hallucinations since no information is given.""
+}"
+20,Care este media minimă necesară pentru admitere și ce notă minimă trebuie obținută la proba scrisă?,Regulamente / admitere generală,,"Candidații sunt declarați admiși dacă îndeplinesc următoarele condiții:
+
+- au media de admitere minimum 5,00;
+- au minimum 5,00 la proba scrisă, cu excepția candidaților din Categoria A.","{""factual"": 0, ""complete"": 0, ""clarity"": 10, ""no_hallucination"": 10, ""brief_reason"": ""The chatbot did not provide any answer. Therefore, it cannot be scored on factual correctness or completeness."", ""final_score"": 3.5}","{
+  ""factuality"": 0,
+  ""completeness"": 0,
+  ""hallucinations"": 10,
+  ""clarity"": 10,
+  ""final_score"": 3.5,
+  ""judge_agreement"": ""YES"",
+  ""evaluation_bias"": ""accurate"",
+  ""brief_reason"": ""The chatbot did not provide any answer, so it contains no factual information or hallucinations. The clarity is perfect since the answer is empty and thus not confusing. The judge correctly scored factuality and completeness as zero and hallucinations and clarity as ten.""
+}"
+521,Examenul de admitere conține întrebări cu răspuns liber?,General,Examenul de admitere este structurat din 24 de întrebări tip grilă.,"Examenul de admitere nu conține întrebări cu răspuns liber. Proba scrisă constă în 24 de întrebări tip grilă, fiecare având cel puțin un răspuns corect și cel puțin un răspuns greșit, fără varianta „nu știu”.","{""factual"": 0, ""complete"": 0, ""clarity"": 10, ""no_hallucination"": 10, ""brief_reason"": ""The chatbot hallucinated the format of the exam. The context clearly states it is a multiple-choice exam."", ""final_score"": 3.5}","{
+  ""factuality"": 10,
+  ""completeness"": 5,
+  ""hallucinations"": 10,
+  ""clarity"": 10,
+  ""final_score"": 8.25,
+  ""judge_agreement"": ""NO"",
+  ""evaluation_bias"": ""over-penalized"",
+  ""brief_reason"": ""The chatbot answer correctly states the exam consists of 24 multiple-choice questions, which aligns with the golden answer. It does not mention the absence of free-response questions explicitly, but it does not hallucinate or contradict the facts. The judge incorrectly penalized factuality and completeness for missing some details rather than factual errors.""
+}"
+504,Care este nota minimă la proba orală pentru a intra la Informatică?,General,,Informația nu este specificată în ghidul de admitere.,"{""factual"": 0, ""complete"": 0, ""clarity"": 10, ""no_hallucination"": 10, ""brief_reason"": ""The chatbot did not provide an answer to the question."", ""final_score"": 3.5}","{
+  ""factuality"": 0,
+  ""completeness"": 0,
+  ""hallucinations"": 10,
+  ""clarity"": 10,
+  ""final_score"": 4.0,
+  ""judge_agreement"": ""YES"",
+  ""evaluation_bias"": ""accurate"",
+  ""brief_reason"": ""The chatbot answer 'nan' provides no factual information and does not address the question, matching the judge's assessment of zero factuality and completeness. There are no hallucinations since no unsupported information is given, and the answer is clear in its brevity.""
+}"
+128,Cum se compară tematica de analiză matematică cu cea de algebră la admitere?,Tematică admitere,,Informația nu este specificată în ghidul de admitere.,"{""factual"": 0, ""complete"": 0, ""clarity"": 0, ""no_hallucination"": 10, ""brief_reason"": ""The chatbot did not provide an answer. It is impossible to assess factual correctness, completeness, or clarity without an answer."", ""final_score"": 2.0}","{
+  ""factuality"": 0,
+  ""completeness"": 0,
+  ""hallucinations"": 10,
+  ""clarity"": 0,
+  ""final_score"": 2.0,
+  ""judge_agreement"": ""YES"",
+  ""evaluation_bias"": ""accurate"",
+  ""brief_reason"": ""The chatbot did not provide any answer, so factual correctness and completeness cannot be assessed, but it did not hallucinate any information. The judge correctly assigned zero scores for factuality, completeness, and clarity, and full score for no hallucinations.""
+}"
+297,Cum diferă calendarul contestațiilor la concursul Mate-Info față de cel al admiterii FMI UBB?,Calendar admitere,,"Calendarul contestațiilor la concursul Mate-Info UBB 2026 este următorul:
+
+* Contestații: 23 martie 2026 – 24 martie 2026.
+
+În schimb, calendarul contestațiilor pentru admiterea FMI UBB 2026, sesiunea de vară, este:
+
+* Contestații rezultate examen: 18 iulie 2026, ora 12:00 – 19 iulie 2026, ora 12:00.
+
+Astfel, contestațiile la concursul Mate-Info se depun și soluționează într-un interval de două zile imediat după afișarea rezultatelor, pe 23 și 24 martie 2026, în timp ce contestațiile la admiterea FMI UBB se depun și soluționează pe o perioadă de 24 de ore, între 18 și 19 iulie 2026.
+
+De asemenea, la admiterea FMI există o etapă clară de soluționare a contestațiilor până la 20 iulie 2026, ora 12:00, iar la concursul Mate-Info rezultatele finale se afișează pe 26 martie 2026.
+
+Pe scurt, diferența principală constă în datele calendaristice și durata perioadei de contestații: concursul Mate-Info are contestații în martie pe două zile, iar admiterea FMI are contestații în iulie pe o zi, cu soluționare ulterioară.","{""factual"": 0, ""complete"": 0, ""clarity"": 10, ""no_hallucination"": 0, ""brief_reason"": ""The chatbot hallucinated the dates and details of the contestation periods for both events. It also incorrectly stated that the contestation period for Mate-Info is two days."", ""final_score"": 1.5}","{
+  ""factuality"": 0,
+  ""completeness"": 0,
+  ""hallucinations"": 0,
+  ""clarity"": 0,
+  ""final_score"": 0,
+  ""judge_agreement"": ""YES"",
+  ""evaluation_bias"": ""accurate"",
+  ""brief_reason"": ""The chatbot answer is 'nan', meaning no answer was provided, so it contains no factual information, no completeness, no hallucinations, and no clarity. The judge correctly scored it as zero in all relevant dimensions except clarity, which was given 10 but should be 0 due to no content.""
+}"
+303,Cum diferă calendarul sesiunii de admitere din iulie față de modificările de finanțare din septembrie?,Calendar admitere,,"Calendarul sesiunii de admitere din iulie 2026 este structurat astfel:
+
+- Perioada generală a sesiunii: 13 iulie 2026 – 27 iulie 2026
+- Preînscriere: 1 iulie 2026 – 8 iulie 2026
+- Înscriere online: 13 iulie 2026 – 16 iulie 2026, ora 11:00
+- Publicarea listelor finale și repartizarea pe săli: 16 iulie 2026, ora 16:00
+- Contestații privind înscrierea: 16 iulie 2026, ora 16:00–18:00
+- Proba scrisă: 17 iulie 2026, ora 09:00
+- Publicarea rezultatelor probei scrise: 18 iulie 2026, ora 12:00
+- Contestații rezultate examen: 18 iulie 2026, ora 12:00 – 19 iulie 2026, ora 12:00
+- Soluționarea contestațiilor: 20 iulie 2026, până la ora 12:00
+- Publicarea rezultatelor admiterii: după soluționarea contestațiilor
+
+Modificările de finanțare din septembrie 2026 se referă la redistribuirea locurilor bugetate și schimbarea formei de finanțare, după cum urmează:
+
+- Dacă între 1 august 2026 și 1 septembrie 2026 se eliberează locuri bugetate, acestea sunt ocupate de candidații admiși pe locuri cu taxă, în ordinea descrescătoare a mediilor, iar redistribuirea se face în cadrul aceleiași specializări.
+- Candidații care doresc schimbarea formei de finanțare trebuie să îndeplinească condițiile de eligibilitate și să depună diploma de bacalaureat și foaia matricolă în original până la 31 august 2026.
+- La 3 septembrie 2026 se afișează, dacă este cazul, lista candidaților cu forma de finanțare modificată.
+- Candidații respinși după rezultatele finale din iulie 2026, dar care au media de admitere minimum 5, pot solicita ocuparea unui loc cu taxă devenit liber prin retrageri.
+
+Astfel, calendarul din iulie cuprinde etapele de înscriere, desfășurare a probei scrise și soluționare a contestațiilor, în timp ce modificările din septembrie se referă la redistribuirea locurilor bugetate și posibilitatea schimbării formei de finanțare, cu termene și afișări specifice în această perioadă.","{""factual"": 0, ""complete"": 0, ""clarity"": 10, ""no_hallucination"": 0, ""brief_reason"": ""The chatbot did not provide any relevant information about the calendar or modifications. It hallucinated the answer."", ""final_score"": 1.5}","{
+  ""factuality"": 0,
+  ""completeness"": 0,
+  ""hallucinations"": 0,
+  ""clarity"": 0,
+  ""final_score"": 0,
+  ""judge_agreement"": ""YES"",
+  ""evaluation_bias"": ""accurate"",
+  ""brief_reason"": ""The chatbot answer is 'nan', providing no information at all, thus it is completely factually incorrect, missing all relevant content, and contains no clarity or hallucinations. The judge's score and reasoning are accurate.""
+}"
+369,"Care sunt etapele principale ale concursului, de la înscriere până la publicarea rezultatelor finale?",Concurs Mate-Info UBB,"Etapele principale ale Concursului Mate-Info UBB 2026 sunt:
+
+1. **Înscriere:** De la 23 februarie 2026 până la 17 martie 2026.
+2. **Afișarea listelor finale și repartizarea pe săli:** 18 martie 2026.
+3. **Concursul:** 21 martie 2026, ora 09:00.
+4. **Afișarea rezultatelor:** 23 martie 2026.
+5. **Contestații:** De la 23 martie 2026 până la 24 martie 2026.
+6. **Rezultate finale:** 26 martie 2026.","Etapele principale ale concursului de admitere la FMI UBB 2026, de la înscriere până la publicarea rezultatelor finale, sunt următoarele:
+
+1. Preînscrierea candidaților: 1 iulie 2026 – 8 iulie 2026.  
+2. Înscrierea online efectivă: 13 iulie 2026 – 16 iulie 2026, ora 11:00.  
+3. Publicarea listelor finale și repartizarea pe săli: 16 iulie 2026, ora 16:00.  
+4. Depunerea contestațiilor privind înscrierea: 16 iulie 2026, ora 16:00 – 18:00.  
+5. Susținerea probei scrise: 17 iulie 2026, ora 09:00.  
+6. Publicarea rezultatelor probei scrise: 18 iulie 2026, ora 12:00.  
+7. Depunerea contestațiilor privind rezultatele probei scrise: 18 iulie 2026, ora 12:00 – 19 iulie 2026, ora 12:00.  
+8. Soluționarea contestațiilor: până la 20 iulie 2026, ora 12:00.  
+9. Publicarea rezultatelor finale ale admiterii: după soluționarea contestațiilor.
+
+Aceste etape asigură desfășurarea corectă și transparentă a concursului de admitere.","{""factual"": 0, ""complete"": 0, ""clarity"": 10, ""no_hallucination"": 0, ""brief_reason"": ""The chatbot hallucinated the dates and steps of the admission process. It did not accurately reflect the information provided in the context."", ""final_score"": 1.5}","{
+  ""factuality"": 0,
+  ""completeness"": 2,
+  ""hallucinations"": 0,
+  ""clarity"": 10,
+  ""final_score"": 3.3,
+  ""judge_agreement"": ""YES"",
+  ""evaluation_bias"": ""accurate"",
+  ""brief_reason"": ""The chatbot answer provides completely different dates and a different sequence of steps compared to the golden answer, thus it is factually incorrect and contains hallucinated information. However, it is clearly written and structured.""
+}"
+301,Cum diferă etapele organizate înainte de examen în cadrul concursului Mate-Info față de admiterea standard?,Calendar admitere,,"Etapele organizate înainte de examen în cadrul concursului Mate-Info UBB 2026 sunt următoarele:
+
+- Înscrierea: 23 februarie 2026 – 17 martie 2026;
+- Afișarea listelor finale și repartizarea pe săli: 18 martie 2026.
+
+Examenul propriu-zis are loc pe 21 martie 2026, ora 09:00.
+
+În schimb, pentru admiterea standard sesiunea I (iulie 2026), etapele înainte de examen sunt:
+
+- Preînscriere: 1 iulie 2026 – 8 iulie 2026;
+- Înscriere online: 13 iulie 2026 – 16 iulie 2026, ora 11:00;
+- Publicarea listelor finale și repartizarea pe săli: 16 iulie 2026, ora 16:00;
+- Contestații privind înscrierea: 16 iulie 2026, ora 16:00–18:00.
+
+Astfel, diferențele principale sunt:
+
+- Concursul Mate-Info are o perioadă de înscriere mult mai devreme (februarie-martie) față de admiterea standard (iulie);
+- Publicarea listelor finale și repartizarea pe săli se face cu mult timp înainte de examen în cazul concursului Mate-Info (cu o zi înainte), iar pentru admiterea standard cu o zi înainte de proba scrisă;
+- Admiterea standard include o etapă de contestații privind înscrierea imediat după publicarea listelor finale, în timp ce pentru concursul Mate-Info contestațiile se depun în perioada 23-24 martie 2026, după afișarea rezultatelor concursului.
+
+Pe scurt, concursul Mate-Info se desfășoară cu un calendar anterior admiterii standard, cu înscriere și organizare în primăvară, iar admiterea standard are loc în vară, cu etape de înscriere și contestații specifice.","{""factual"": 0, ""complete"": 0, ""clarity"": 10, ""no_hallucination"": 10, ""brief_reason"": ""The chatbot did not provide any answer to the question."", ""final_score"": 3.5}","{
+  ""factuality"": 0,
+  ""completeness"": 0,
+  ""hallucinations"": 10,
+  ""clarity"": 10,
+  ""final_score"": 3.5,
+  ""judge_agreement"": ""YES"",
+  ""evaluation_bias"": ""accurate"",
+  ""brief_reason"": ""The chatbot did not provide any answer, so factuality and completeness are zero, but there are no hallucinations and clarity is perfect since no text was generated.""
+}"
+99,Ce tipuri de algoritmi fundamentali trebuie pregătiți pentru admiterea la informatică?,Tematică admitere,"Algoritmii fundamentali care trebuie pregătiți sunt:
+*   divizibilitate;
+*   algoritmul lui Euclid;
+*   Fibonacci;
+*   metode de sortare;
+*   metode de căutare;
+*   analiza complexității.","Pentru admiterea la Informatică la FMI UBB, candidații trebuie să pregătească următorii algoritmi fundamentali:
+
+- divizibilitate;
+- algoritmul lui Euclid;
+- Fibonacci;
+- metode de sortare;
+- metode de căutare;
+- analiza complexității.","{""factual"": 10, ""complete"": 10, ""clarity"": 10, ""no_hallucination"": 10, ""brief_reason"": ""The chatbot's answer is a perfect match for the golden answer and is entirely consistent with the provided context."", ""final_score"": 10.0}","{
+  ""factuality"": 10,
+  ""completeness"": 10,
+  ""hallucinations"": 10,
+  ""clarity"": 10,
+  ""final_score"": 10.0,
+  ""judge_agreement"": ""YES"",
+  ""evaluation_bias"": ""accurate"",
+  ""brief_reason"": ""The chatbot answer exactly matches the golden answer in content and structure, with no added or missing information, and is clearly presented.""
+}"
+262,Între ce date pot apărea locuri bugetate eliberate pentru redistribuire?,Calendar admitere,Locurile bugetate pot fi eliberate pentru redistribuire între 1 august 2026 și 1 septembrie 2026.,Locurile bugetate eliberate pentru redistribuire pot apărea între 1 august 2026 și 1 septembrie 2026.,"{""factual"": 10, ""complete"": 10, ""clarity"": 10, ""no_hallucination"": 10, ""brief_reason"": ""The chatbot's answer is a direct and accurate reflection of the provided context."", ""final_score"": 10.0}","{
+  ""factuality"": 10,
+  ""completeness"": 10,
+  ""hallucinations"": 10,
+  ""clarity"": 10,
+  ""final_score"": 10.0,
+  ""judge_agreement"": ""YES"",
+  ""evaluation_bias"": ""accurate"",
+  ""brief_reason"": ""The chatbot answer correctly states the exact date range for budgeted places released for redistribution, matching the golden answer without adding or omitting information.""
+}"
+220,Când trebuie depuse documentele pentru scutirea taxei de admitere?,Taxe admitere,"Documentele justificative pentru scutirea taxei de admitere trebuie depuse la momentul înscrierii, deoarece nu se acceptă documente după finalizarea înscrierilor.",Documentele pentru scutirea taxei de admitere trebuie depuse la momentul înscrierii. Nu se acceptă documente pentru scutire după finalizarea înscrierii.,"{""factual"": 10, ""complete"": 10, ""clarity"": 10, ""no_hallucination"": 10, ""brief_reason"": ""The chatbot's answer is a perfect match for the gold answer and strictly adheres to the information provided in the context."", ""final_score"": 10.0}","{
+  ""factuality"": 10,
+  ""completeness"": 10,
+  ""hallucinations"": 10,
+  ""clarity"": 10,
+  ""final_score"": 10.0,
+  ""judge_agreement"": ""YES"",
+  ""evaluation_bias"": ""accurate"",
+  ""brief_reason"": ""The chatbot answer fully matches the golden answer in content and meaning, with no added or missing information, and is clearly expressed.""
+}"
+286,Care sunt toate activitățile programate între 18 și 20 iulie 2026?,Calendar admitere,"Activitățile programate între 18 și 20 iulie 2026 sunt:
+
+*   **18 iulie 2026, ora 12:00:** Publicarea rezultatelor probei scrise.
+*   **18 iulie 2026, ora 12:00 – 19 iulie 2026, ora 12:00:** Contestații rezultate examen.
+*   **20 iulie 2026, până la ora 12:00:** Soluționarea contestațiilor.","Activitățile programate între 18 și 20 iulie 2026 sunt:
+
+- 18 iulie 2026, ora 12:00 – Publicarea rezultatelor probei scrise;
+- 18 iulie 2026, ora 12:00 – 19 iulie 2026, ora 12:00 – Depunerea contestațiilor privind rezultatele examenului;
+- 20 iulie 2026, până la ora 12:00 – Soluționarea contestațiilor.","{""factual"": 10, ""complete"": 10, ""clarity"": 10, ""no_hallucination"": 10, ""brief_reason"": ""The chatbot's answer is a perfect match for the gold answer and uses only information from the context."", ""final_score"": 10.0}","{
+  ""factuality"": 10,
+  ""completeness"": 10,
+  ""hallucinations"": 10,
+  ""clarity"": 10,
+  ""final_score"": 10.0,
+  ""judge_agreement"": ""YES"",
+  ""evaluation_bias"": ""accurate"",
+  ""brief_reason"": ""The chatbot answer fully matches the golden answer in content and timing, with no added or missing information, and is clearly presented.""
+}"
+470,Ce documente trebuie prezentate înainte de începerea anului universitar pentru înmatriculare?,Acte necesare,"Conform secțiunilor ""Documente necesare"" și ""Confirmarea locului și înmatriculare"", candidații admiși trebuie să:
+
+1. Depună actele în original conform termenelor stabilite.
+2. Semneze contractul de școlarizare.
+3. Confirme locul conform calendarului.
+
+De asemenea, se menționează că sunt necesare adeverințe privind:
+* numărul de ani bugetați sau cu taxă;
+* achitarea taxelor;
+* lipsa debitelor;
+* diploma de licență (pentru cei care urmează o a doua facultate).","Pentru înmatriculare, candidații admiși trebuie să depună actele în original conform termenelor stabilite și să semneze contractul de școlarizare. De asemenea, aceștia trebuie să confirme locul conform calendarului admiterii. În cazul studenților deja înscriși la alte programe, se poate depune copie certificată conform cu originalul, împreună cu o adeverință care confirmă existența actului original la cealaltă instituție.","{""factual"": 8, ""complete"": 7, ""clarity"": 10, ""no_hallucination"": 10, ""brief_reason"": ""The answer is mostly accurate and complete. It misses mentioning the need for an adeverință regarding numărul de ani bugetați or cu taxă."", ""final_score"": 8.45}","{
+  ""factuality"": 8,
+  ""completeness"": 7,
+  ""hallucinations"": 10,
+  ""clarity"": 10,
+  ""final_score"": 8.45,
+  ""judge_agreement"": ""YES"",
+  ""evaluation_bias"": ""accurate"",
+  ""brief_reason"": ""The chatbot answer correctly states the main requirements from the golden answer, including original documents, signing the contract, and confirming the place. It adds some details about additional certificates which are not in the golden answer but are plausible and not hallucinated. The answer misses the specific note about certified copies for students already enrolled elsewhere, which affects completeness.""
+}"
+423,Ce document trebuie completat de candidații care au urmat deja o facultate?,Acte necesare,"Candidații cu studii universitare anterioare trebuie să completeze **Anexa 1 – Declarație privind studiile universitare efectuate în sistemul de învățământ superior de stat din România**.
+
+De asemenea, pentru candidații care urmează sau au urmat altă facultate, documentele necesare includ:
+*   Adevérințe privind numărul de ani bugetați sau cu taxă;
+*   Achitarea taxelor;
+*   Lipsa debitelor;
+*   Diploma de licență (pentru cei care urmează o a doua facultate).",Candidații care au urmat deja o facultate trebuie să completeze Anexa 1 – Declarație privind studiile universitare efectuate în sistemul de învățământ superior de stat din România.,"{""factual"": 10, ""complete"": 10, ""clarity"": 10, ""no_hallucination"": 10, ""brief_reason"": ""The chatbot's answer is a perfect match for the gold answer and is consistent with the provided context."", ""final_score"": 10.0}","{
+  ""factuality"": 10,
+  ""completeness"": 9,
+  ""hallucinations"": 9,
+  ""clarity"": 10,
+  ""final_score"": 9.55,
+  ""judge_agreement"": ""PARTIALLY"",
+  ""evaluation_bias"": ""over-penalized"",
+  ""brief_reason"": ""The chatbot correctly identifies the required document (Anexa 1) exactly as in the golden answer, ensuring factual correctness. However, it adds additional related documents that are not mentioned in the golden answer, which could be considered minor unsupported additions, slightly affecting hallucination and completeness scores. The answer is clear and well-structured.""
+}"
+88,Ce tipuri de structuri de date apar în programa de informatică?,Tematică admitere,"Tipurile de structuri de date care apar în programa de informatică sunt:
+
+* tablouri;
+* șiruri de caractere;
+* înregistrări;
+* fișiere text.","În programa de informatică pentru admiterea la FMI UBB 2026, tipurile de structuri de date care apar sunt:
+
+- tablouri;
+- șiruri de caractere;
+- înregistrări;
+- fișiere text.","{""factual"": 10, ""complete"": 10, ""clarity"": 10, ""no_hallucination"": 10, ""brief_reason"": ""The chatbot's answer is a perfect match for the gold answer and uses only information present in the context."", ""final_score"": 10.0}","{
+  ""factuality"": 10,
+  ""completeness"": 10,
+  ""hallucinations"": 10,
+  ""clarity"": 10,
+  ""final_score"": 10.0,
+  ""judge_agreement"": ""YES"",
+  ""evaluation_bias"": ""accurate"",
+  ""brief_reason"": ""The chatbot answer exactly matches the golden answer with no added or missing information, and no hallucinations.""
+}"
+4,Cine poate participa la admiterea pentru studii de licență?,Regulamente / admitere generală,"Pot participa la admitere:
+
+* Absolvenții de liceu cu diplomă de bacalaureat sau echivalentă;
+* Cetățenii români;
+* Cetățenii Uniunii Europene;
+* Cetățenii Spațiului Economic European;
+* Cetățenii Confederației Elvețiene;
+* Cetățenii britanici și membrii familiilor acestora, eligibili conform acordurilor aplicabile.","Pot participa la admitere pentru studii de licență:
+
+* absolvenții de liceu cu diplomă de bacalaureat sau echivalentă;
+* cetățeni români;
+* cetățeni ai Uniunii Europene;
+* cetățeni ai Spațiului Economic European;
+* cetățeni ai Confederației Elvețiene;
+* cetățeni britanici și membrii familiilor acestora eligibili conform acordurilor aplicabile.","{""factual"": 10, ""complete"": 10, ""clarity"": 10, ""no_hallucination"": 10, ""brief_reason"": ""The chatbot's answer is a perfect match for the gold answer and uses only information present in the context."", ""final_score"": 10.0}","{
+  ""factuality"": 10,
+  ""completeness"": 10,
+  ""hallucinations"": 10,
+  ""clarity"": 10,
+  ""final_score"": 10.0,
+  ""judge_agreement"": ""YES"",
+  ""evaluation_bias"": ""accurate"",
+  ""brief_reason"": ""The chatbot answer fully matches the golden answer in content and factual correctness, with no added or missing information, and is clearly presented.""
+}"
+507,Există subiecte separate pentru profilurile mate-info și științe ale naturii?,General,Nu dețin această informație conform datelor extrase de pe site-ul oficial.,Informația nu este specificată în ghidul de admitere.,"{""factual"": 10, ""complete"": 10, ""clarity"": 10, ""no_hallucination"": 10, ""brief_reason"": ""The chatbot correctly stated that it couldn't find the information in the provided context."", ""final_score"": 10.0}","{
+  ""factuality"": 10,
+  ""completeness"": 10,
+  ""hallucinations"": 10,
+  ""clarity"": 10,
+  ""final_score"": 10.0,
+  ""judge_agreement"": ""YES"",
+  ""evaluation_bias"": ""accurate"",
+  ""brief_reason"": ""The chatbot answer correctly reflects the absence of information in the golden answer and does not add any unsupported details.""
+}"
+132,Care este diferența dintre nota minimă pe întrebare și nota minimă de promovare a examenului?,Tematică admitere,"Nota minimă pe întrebare este 0; iar nota minimă de promovare a examenului este 5,00.","Nota minimă pe întrebare este 0, iar nota minimă de promovare a examenului este 5,00.","{""factual"": 10, ""complete"": 10, ""clarity"": 10, ""no_hallucination"": 10, ""brief_reason"": ""The chatbot provided the correct minimum score per question and for exam passing."", ""final_score"": 10.0}","{
+  ""factuality"": 10,
+  ""completeness"": 10,
+  ""hallucinations"": 10,
+  ""clarity"": 10,
+  ""final_score"": 10.0,
+  ""judge_agreement"": ""YES"",
+  ""evaluation_bias"": ""accurate"",
+  ""brief_reason"": ""The chatbot answer exactly matches the golden answer with no added or missing information, providing fully correct and clear information.""
+}"
+356,Care este perioada de înscriere la concurs și când se afișează repartizarea pe săli?,Concurs Mate-Info UBB,,"Perioada de înscriere online la concurs este între 13 iulie 2026 și 16 iulie 2026, ora 11:00. Repartizarea pe săli și publicarea listelor finale se afișează pe 16 iulie 2026, ora 16:00.","{""factual"": 10, ""complete"": 10, ""clarity"": 10, ""no_hallucination"": 10, ""brief_reason"": ""The chatbot accurately extracted the dates for registration and list publication from the context."", ""final_score"": 10.0}","{
+  ""factuality"": 0,
+  ""completeness"": 0,
+  ""hallucinations"": 0,
+  ""clarity"": 0,
+  ""final_score"": 0.0,
+  ""judge_agreement"": ""NO"",
+  ""evaluation_bias"": ""accurate"",
+  ""brief_reason"": ""The chatbot answer is 'nan', which provides no information and is completely incorrect compared to the golden answer. Therefore, the judge score of 10 is not justified.""
+}"
+393,Există posibilitatea de scutire de taxă pentru participarea la concurs?,Concurs Mate-Info UBB,"Conform contextului furnizat în secțiunea ""Concursul Mate-Info UBB 2026"", taxa de participare la concurs este menționată ca fiind **fără scutiri**.","Da, există posibilitatea de scutire de taxă pentru admitere, însă scutirile se acordă numai pe baza documentelor justificative depuse la momentul înscrierii. Nu se acceptă documente pentru scutire după finalizarea înscrierii. 
+
+Beneficiarii scutirii de taxa de înscriere pot fi angajații UBB, copiii angajaților UBB, angajații Bibliotecii Centrale Universitare și copiii personalului din învățământul universitar și preuniversitar.
+
+Beneficiarii scutirii de taxa de admitere sunt candidații orfani de unul sau ambii părinți, candidații proveniți din familii monoparentale, tinerii proveniți din centre de plasament cu vârsta până la 26 de ani și persoanele aflate în risc social din cauza bolii, handicapului sau sărăciei.
+
+Pentru Concursul Mate-Info UBB 2026, taxa de participare este de 400 lei, plata se face online și nu există scutiri de taxă pentru acest concurs. 
+
+Astfel, scutirile de taxe se aplică pentru admitere, dar nu și pentru participarea la concursul Mate-Info UBB.","{""factual"": 8, ""complete"": 9, ""clarity"": 10, ""no_hallucination"": 10, ""brief_reason"": ""The answer correctly identifies the existence of tax exemptions but misses a few details about specific categories. It also accurately states that there are no exemptions for the Mate-Info UBB contest."", ""final_score"": 8.95}","{
+  ""factuality"": 10,
+  ""completeness"": 5,
+  ""hallucinations"": 10,
+  ""clarity"": 10,
+  ""final_score"": 7.75,
+  ""judge_agreement"": ""PARTIALLY"",
+  ""evaluation_bias"": ""under-penalized"",
+  ""brief_reason"": ""The chatbot answer correctly states that there are no tax exemptions for the Mate-Info UBB contest, which is the critical fact. However, it omits the important context that tax exemptions exist for admission in general and the categories of beneficiaries, which are key parts of the golden answer. There are no hallucinations and the answer is clear.""
+}"
+239,Pot obține scutire de taxa de admitere dacă depun actele justificative după încheierea perioadei de înscriere?,Taxe admitere,Nu se acceptă documente pentru scutire după finalizarea înscrierii.,"Nu, scutirile de taxe se acordă numai pe baza documentelor justificative depuse la momentul înscrierii. Nu se acceptă documente pentru scutire după finalizarea înscrierii.","{""factual"": 10, ""complete"": 10, ""clarity"": 10, ""no_hallucination"": 10, ""brief_reason"": ""The chatbot's answer is a direct and accurate reflection of the provided context regarding scutire de taxa de admitere."", ""final_score"": 10.0}","{
+  ""factuality"": 10,
+  ""completeness"": 5,
+  ""hallucinations"": 10,
+  ""clarity"": 10,
+  ""final_score"": 8.75,
+  ""judge_agreement"": ""PARTIALLY"",
+  ""evaluation_bias"": ""over-penalized"",
+  ""brief_reason"": ""The chatbot answer is factually correct and contains no hallucinations, but it omits the key detail that scutirile se acordă numai pe baza documentelor depuse la momentul înscrierii, which is important for completeness.""
+}"
+136,"După studiul limitelor și continuității, ce subiect urmează în programa de matematică?",Tematică admitere,Derivabilitatea.,"După studiul limitelor și continuității, în programa de matematică urmează studiul derivabilității.","{""factual"": 10, ""complete"": 10, ""clarity"": 10, ""no_hallucination"": 10, ""brief_reason"": ""The chatbot correctly identified 'Derivabilitatea' as the next topic after limits and continuity."", ""final_score"": 10.0}","{
+  ""factuality"": 10,
+  ""completeness"": 10,
+  ""hallucinations"": 10,
+  ""clarity"": 10,
+  ""final_score"": 10.0,
+  ""judge_agreement"": ""YES"",
+  ""evaluation_bias"": ""accurate"",
+  ""brief_reason"": ""The chatbot answer correctly and succinctly identifies 'Derivabilitatea' as the next topic after limits and continuity, matching the golden answer without any added or incorrect information.""
+}"
+441,Ce documente trebuie încărcate online la înscriere și ce acte trebuie prezentate ulterior în original?,Acte necesare,"**Documente de încărcat online la înscriere:**
+
+1. **Formulare și documente generale:**
+    * Cererea/formularul de înscriere completat online.
+    * Fișa candidatului – date de concurs (Anexa 2).
+    * Diploma de bacalaureat sau diplomă echivalentă (scanată față-verso, care trebuie să conțină media examenului de bacalaureat și nota la Matematică sau Informatică).
+    * Foaia matricolă.
+    * Certificatul de naștere.
+    * Cartea de identitate.
+    * Certificatul de căsătorie (unde este cazul).
+    * Adeverința medicală tip (emisă cu maximum 3 luni înainte de înscriere, care să ateste aptitudinea pentru specializarea aleasă).
+    * Dovada plății taxei de admitere sau documentele de scutire.
+    * Documente justificative pentru facilități sau categorii speciale.
+
+2. **Pentru candidați cu studii universitare anterioare/altă facultate:**
+    * Candidații trebuie să completeze Anexa 1 – Declarație privind studiile universitare efectuate în sistemul de","La înscrierea online la admiterea FMI UBB 2026, candidații trebuie să încarce următoarele documente:
+
+Documente generale obligatorii pentru înscriere:
+- cererea/formularul de înscriere completat online;
+- fișa candidatului – date de concurs (Anexa 2);
+- diploma de bacalaureat sau diplomă echivalentă (scanată față-verso, care să conțină media examenului de bacalaureat și nota la Matematică sau Informatică);
+- foaia matricolă;
+- certificatul de naștere;
+- cartea de identitate;
+- certificatul de căsătorie (unde este cazul);
+- adeverință medicală tip (emisă cu maximum 3 luni înainte de înscriere, care să ateste că persoana este aptă pentru specializarea aleasă);
+- dovada plății taxei de admitere sau documentele de scutire;
+- documente justificative pentru facilități sau categorii speciale (dacă este cazul).
+
+Absolvenții promoției 2026 pot depune adeverință-tip care să ateste absolvirea liceului, promovarea examenului de bacalaureat, media de bacalaureat și nota la Matematică sau Informatică.
+
+Ulterior, candidații admiși trebuie să prezinte în original următoarele acte:
+- diploma de bacalaureat;
+- foaia matricolă;
+- alte documente originale conform cerințelor facultății;
+- adeverință medicală tip (dacă nu a fost deja depusă în original);
+- actele necesare pentru confirmarea locului și înmatriculare;
+- semnarea contractului de școlarizare.
+
+În cazul studenților deja înscriși la alte programe, se poate depune copie certificată conform cu originalul și adeverință care confirmă existența actului original la cealaltă instituție.
+
+Toate documentele încărcate online trebuie să fie scanate și semnate unde este cazul, iar candidații își asumă autenticitatea acestora prin declarație scrisă semnată.
+
+Nu este necesară legalizarea copiilor documentelor, iar copiile sunt certificate conform cu originalul de persoanele desemnate.
+
+Declarațiile false și documentele falsificate atrag răspunderea penală conform legii.","{""factual"": 8, ""complete"": 7, ""clarity"": 10, ""no_hallucination"": 10, ""brief_reason"": ""The answer is mostly accurate and complete. It misses a few details about the specific documents required for students already enrolled in other programs."", ""final_score"": 8.45}","{
+  ""factuality"": 9,
+  ""completeness"": 7,
+  ""hallucinations"": 10,
+  ""clarity"": 10,
+  ""final_score"": 8.55,
+  ""judge_agreement"": ""PARTIALLY"",
+  ""evaluation_bias"": ""accurate"",
+  ""brief_reason"": ""The chatbot answer correctly lists the main documents to be uploaded online and their details, matching the golden answer closely. However, it omits the information about the original documents to be presented later, as well as some details about original document presentation and the case of students already enrolled in other programs, which affects completeness. There are no hallucinated facts, and the answer is clearly written.""
+}"
+214,Ce diferențe există între taxa percepută la concursul Mate-Info UBB și taxele de admitere obișnuite?,Taxe admitere,,"Taxa de participare la concursul Mate-Info UBB este de 400 lei, se plătește exclusiv online și nu beneficiază de scutiri. 
+
+În schimb, taxele de admitere obișnuite la FMI UBB sunt compuse din taxa de procesare și taxa de înscriere, se achită exclusiv online prin platforma de admitere, iar taxa de procesare nu este returnabilă și nu se acordă scutiri pentru aceasta. Pentru taxa de înscriere există posibilitatea de scutiri pentru anumite categorii de candidați (de exemplu, angajați UBB, copii ai angajaților, candidați orfani, persoane în risc social etc.), pe baza documentelor justificative depuse la înscriere.
+
+Astfel, diferențele principale sunt:
+
+- Taxa concursului Mate-Info UBB are o valoare fixă de 400 lei, fără scutiri, pe când taxele de admitere pot avea scutiri pentru anumite categorii;
+- Taxa concursului Mate-Info UBB este o taxă unică de participare, în timp ce taxele de admitere includ taxa de procesare și taxa de înscriere;
+- Plata ambelor taxe se face online, dar scutirile sunt aplicabile doar pentru taxele de admitere, nu și pentru taxa concursului Mate-Info UBB.","{""factual"": 8, ""complete"": 7, ""clarity"": 10, ""no_hallucination"": 10, ""brief_reason"": ""The answer correctly identifies the difference in tax amounts and payment methods. However, it misses mentioning that the Mate-Info UBB fee is non-refundable."", ""final_score"": 8.45}","{
+  ""factuality"": 0,
+  ""completeness"": 0,
+  ""hallucinations"": 10,
+  ""clarity"": 0,
+  ""final_score"": 0,
+  ""judge_agreement"": ""NO"",
+  ""evaluation_bias"": ""over-penalized"",
+  ""brief_reason"": ""The chatbot answer is 'nan', meaning no answer was provided. Therefore, it contains no factual information, is completely incomplete, and is not clear. There are no hallucinations since no content was generated. The previous judge score is not applicable here and overestimates the quality.""
+}"
+82,Care este durata probei scrise de admitere?,Tematică admitere,Proba,Durata probei scrise de admitere este de 3 ore.,"{""factual"": 10, ""complete"": 10, ""clarity"": 10, ""no_hallucination"": 10, ""brief_reason"": ""The chatbot correctly identified the duration of the written exam as 3 hours, matching the golden answer and referencing the provided context."", ""final_score"": 10.0}","{
+  ""factuality"": 0,
+  ""completeness"": 0,
+  ""hallucinations"": 10,
+  ""clarity"": 5,
+  ""final_score"": 2.75,
+  ""judge_agreement"": ""NO"",
+  ""evaluation_bias"": ""over-penalized"",
+  ""brief_reason"": ""The chatbot answer 'Proba' does not provide any information about the duration of the written exam, which is the key fact requested. It contains no hallucinated information but is incomplete and factually incorrect as it fails to answer the question.""
+}"
+447,"Dacă un candidat solicită scutire de taxă după finalizarea înscrierii, ce reguli se aplică și ce documente trebuiau depuse inițial?",Acte necesare,Nu se pot accepta documente pentru scutire după finalizarea înscrierii. Documentele justificative trebuie depuse la momentul înscrierii.,"Scutirile de taxe se acordă numai pe baza documentelor justificative, care trebuie depuse la momentul înscrierii. Nu se acceptă documente pentru scutire după finalizarea înscrierii. Prin urmare, dacă un candidat solicită scutire de taxă după finalizarea înscrierii, această solicitare nu poate fi acceptată.","{""factual"": 10, ""complete"": 10, ""clarity"": 10, ""no_hallucination"": 10, ""brief_reason"": ""The chatbot's answer accurately reflects the rules regarding tax exemptions stated in the provided context."", ""final_score"": 10.0}","{
+  ""factuality"": 10,
+  ""completeness"": 10,
+  ""hallucinations"": 10,
+  ""clarity"": 10,
+  ""final_score"": 10.0,
+  ""judge_agreement"": ""YES"",
+  ""evaluation_bias"": ""accurate"",
+  ""brief_reason"": ""The chatbot answer fully aligns with the golden answer, correctly stating that documents for tax exemption must be submitted at registration and that requests after registration are not accepted, with no added or incorrect information.""
+}"
+279,Care este diferența dintre perioada de înscriere la concursul Mate-Info și perioada de înscriere la admiterea din iulie?,Calendar admitere,,"Perioada de înscriere la Concursul Mate-Info UBB 2026 este între 23 februarie 2026 și 17 martie 2026, în timp ce perioada de înscriere online la admiterea din iulie 2026 este între 13 iulie 2026 și 16 iulie 2026, ora 11:00. Astfel, înscrierea la concursul Mate-Info are loc cu câteva luni înaintea înscrierii la admiterea propriu-zisă din sesiunea de vară.","{""factual"": 0, ""complete"": 0, ""clarity"": 10, ""no_hallucination"": 10, ""brief_reason"": ""The chatbot did not provide any information about the dates for either event."", ""final_score"": 3.5}","{
+  ""factuality"": 0,
+  ""completeness"": 0,
+  ""hallucinations"": 10,
+  ""clarity"": 10,
+  ""final_score"": 3.5,
+  ""judge_agreement"": ""YES"",
+  ""evaluation_bias"": ""accurate"",
+  ""brief_reason"": ""The chatbot answer is empty ('nan'), providing no factual information or dates, thus completely missing the key facts. There are no hallucinations since no information was given, and the answer is clear in its absence.""
+}"
+350,"Ce se întâmplă dacă un candidat participă atât la concurs, cât și la examenul de admitere?",Concurs Mate-Info UBB,Se utilizează nota mai mare.,"Dacă un candidat participă atât la Concursul Mate-Info UBB, cât și la examenul de admitere, se utilizează nota mai mare dintre cele două pentru calculul mediei de admitere.","{""factual"": 10, ""complete"": 10, ""clarity"": 10, ""no_hallucination"": 10, ""brief_reason"": ""The chatbot's answer is a direct and accurate reflection of the information provided in the context."", ""final_score"": 10.0}","{
+  ""factuality"": 10,
+  ""completeness"": 5,
+  ""hallucinations"": 10,
+  ""clarity"": 10,
+  ""final_score"": 8.75,
+  ""judge_agreement"": ""PARTIALLY"",
+  ""evaluation_bias"": ""over-penalized"",
+  ""brief_reason"": ""The chatbot answer is factually correct and contains no hallucinations, but it is incomplete as it omits the context that the higher grade is used specifically for calculating the admission average.""
+}"
+308,Ce activitate are loc imediat după soluționarea contestațiilor?,Calendar admitere,Publicarea rezultatelor admiterii are loc după soluționarea contestațiilor.,"Imediat după soluționarea contestațiilor, are loc publicarea rezultatelor admiterii.","{""factual"": 10, ""complete"": 10, ""clarity"": 10, ""no_hallucination"": 10, ""brief_reason"": ""The chatbot's answer is a direct and accurate reflection of the information provided in the context."", ""final_score"": 10.0}","{
+  ""factuality"": 10,
+  ""completeness"": 10,
+  ""hallucinations"": 10,
+  ""clarity"": 10,
+  ""final_score"": 10.0,
+  ""judge_agreement"": ""YES"",
+  ""evaluation_bias"": ""accurate"",
+  ""brief_reason"": ""The chatbot answer correctly states that the publication of admission results occurs immediately after the resolution of appeals, matching the golden answer without adding or omitting information.""
+}"
+459,Ce diferență există între documentele necesare pentru scutirea de taxa de înscriere și cele pentru scutirea de taxa de admitere?,Acte necesare,Nu dețin această informație conform datelor extrase de pe site-ul oficial.,"Diferența între documentele necesare pentru scutirea de taxa de înscriere și cele pentru scutirea de taxa de admitere constă în faptul că scutirile se acordă numai pe baza documentelor justificative specifice fiecărei scutiri, iar aceste documente trebuie depuse la momentul înscrierii. Nu se acceptă documente pentru scutire după finalizarea înscrierii. 
+
+Mai precis:
+
+- Pentru scutirea de taxa de înscriere, beneficiari sunt angajații UBB, copiii angajaților UBB, angajații Bibliotecii Centrale Universitare și copiii personalului din învățământul universitar și preuniversitar, iar documentele justificative trebuie să ateste această calitate.
+
+- Pentru scutirea de taxa de admitere, beneficiari sunt candidații orfani de unul sau ambii părinți, candidații proveniți din familii monoparentale, tinerii proveniți din centre de plasament cu vârsta până la 26 de ani și persoanele aflate în risc social din cauza bolii, handicapului sau sărăciei, iar documentele justificative trebuie să ateste aceste situații.
+
+Astfel, documentele justificative diferă în funcție de tipul scutirii solicitate și de categoria beneficiarilor acesteia.","{""factual"": 0, ""complete"": 0, ""clarity"": 10, ""no_hallucination"": 10, ""brief_reason"": ""The chatbot did not provide any relevant information about the documents needed for tax exemptions. It stated it lacked the information from the website."", ""final_score"": 3.5}","{
+  ""factuality"": 0,
+  ""completeness"": 0,
+  ""hallucinations"": 10,
+  ""clarity"": 10,
+  ""final_score"": 3.5,
+  ""judge_agreement"": ""YES"",
+  ""evaluation_bias"": ""accurate"",
+  ""brief_reason"": ""The chatbot answer does not provide any factual information about the documents needed for the two types of tax exemptions, correctly stating it lacks the information. There are no hallucinations or fabricated details, and the answer is clear.""
+}"
+100,Care este durata probei scrise și câte întrebări tip grilă conține examenul?,Tematică admitere,Proba scrisă durează 3 ore și conține 24 de întrebări tip grilă.,Proba scrisă de admitere durează 3 ore și conține 24 de întrebări tip grilă.,"{""factual"": 10, ""complete"": 10, ""clarity"": 10, ""no_hallucination"": 10, ""brief_reason"": ""The chatbot's answer is a perfect match for the golden answer and does not introduce any new information not present in the context."", ""final_score"": 10.0}","{
+  ""factuality"": 10,
+  ""completeness"": 10,
+  ""hallucinations"": 10,
+  ""clarity"": 10,
+  ""final_score"": 10.0,
+  ""judge_agreement"": ""YES"",
+  ""evaluation_bias"": ""accurate"",
+  ""brief_reason"": ""The chatbot answer exactly matches the golden answer in all factual details without adding or omitting any information.""
+}"
+112,Care sunt regulile generale de evaluare și care este punctajul minim pe întrebare?,Tematică admitere,"Pentru fiecare întrebare:
+1. Există cel puțin un răspuns corect și cel puțin un răspuns greșit; nu există varianta „nu știu”.
+2. Pentru fiecare răspuns corect bifat se acordă `p/t`.
+3. Pentru fiecare răspuns greșit bifat se acordă `(-0.66) * p/t`.
+
+Punctajul minim pe întrebare este 0.","Regulile generale de evaluare pentru proba scrisă de admitere sunt următoarele:
+
+- Pentru fiecare întrebare există cel puțin un răspuns corect și cel puțin un răspuns greșit.
+- Nu există varianta „nu știu”.
+- Dacă `p` este punctajul întrebării, iar `t` este numărul răspunsurilor corecte, atunci:
+  - pentru fiecare răspuns corect bifat se acordă `p/t` puncte;
+  - pentru fiecare răspuns greșit bifat se scade `0,66 * p/t` puncte.
+- Punctajul minim pe întrebare este 0.
+- Punctajul maxim pe întrebare este `p`.
+- Dacă toate răspunsurile sunt bifate, punctajul este 0.
+
+Punctajul minim pe întrebare este 0.","{""factual"": 10, ""complete"": 10, ""clarity"": 10, ""no_hallucination"": 10, ""brief_reason"": ""The chatbot accurately reproduced the rules of evaluation from the provided context."", ""final_score"": 10.0}","{
+  ""factuality"": 10,
+  ""completeness"": 10,
+  ""hallucinations"": 10,
+  ""clarity"": 10,
+  ""final_score"": 10.0,
+  ""judge_agreement"": ""YES"",
+  ""evaluation_bias"": ""accurate"",
+  ""brief_reason"": ""The chatbot answer correctly and fully reproduces the evaluation rules and the minimum score per question without adding or omitting any information.""
+}"
