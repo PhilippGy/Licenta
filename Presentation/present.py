@@ -1,3 +1,0 @@
-import programFunctionality
-
-programFunctionality.launch_ui()

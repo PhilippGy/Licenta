@@ -5,8 +5,8 @@ import faiss
 import numpy as np
 
 
-chunks = np.load("Presentation/Data/chunks.npy", allow_pickle=True)
-index = faiss.read_index("Presentation/Data/index.faiss")
+chunks = np.load("Data/chunks.npy", allow_pickle=True)
+index = faiss.read_index("Data/index.faiss")
 
 embedding_model = SentenceTransformer("intfloat/multilingual-e5-small")
 reranker_model = CrossEncoder('cross-encoder/ms-marco-MiniLM-L-6-v2')
