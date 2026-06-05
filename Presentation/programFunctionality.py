@@ -17,7 +17,7 @@ reranker_model = CrossEncoder('cross-encoder/ms-marco-MiniLM-L-6-v2')
 # RETRIEVAL 
 # retrieve top 20 chunks with the embedding model -> choose top 5 with the reranker model
 
-def retrieve(query, k_initial=20, k_final=5):
+def retrieve(query, k_initial=20, k_final=8):
     # Pasul A: Retrieval inițial (extrage mai multe fragmente)
     query_prefixed = "query: " + query
     q_emb = embedding_model.encode([query_prefixed])
@@ -173,18 +173,11 @@ import threading
 import time
 
 
-# ── Paste / import your existing helpers here ──────────────────────────────
-# from your_module import retrieve, answer_question, score_answer, load_questions, save_results
-# ───────────────────────────────────────────────────────────────────────────
-
-
 def answerAndScore(
-    path=None,
     initialK=20,
     finalK=5,
     question=None,
-    experimentType="Manual Experiments",
-    ui_callbacks=None,          # NEW: dict of callbacks used in single-question mode
+    ui_callbacks=None,          
 ):
     """
     Batch mode  (path != None, question == None) : unchanged — iterates over
@@ -200,78 +193,41 @@ def answerAndScore(
         on_error(msg)     – called on unexpected exceptions
     """
 
-    # ── Batch mode ────────────────────────────────────────────────────────
-    if path is not None and question is None:
-        questions = load_questions()
-        answers, scores = [], []
-        totalTime = 0
+    
+    cb = ui_callbacks or {}
+    try:
+        relevant_chunks = retrieve(question, initialK, finalK)
 
-        for ct, q in enumerate(questions, 1):
-            start = time.time()
-
-            relevant_chunks = retrieve(q["question"], initialK, finalK)
-            answer = answer_question(q["question"], relevant_chunks)
-            answers.append({
-                "id": q["id"], "question": q["question"],
-                "category": q["category"], "difficulty": q["difficulty"],
-                "answer": answer,
-            })
-
-            score = score_answer(q, relevant_chunks, answer)
-            scores.append({
-                "id": q["id"], "question": q["question"],
-                "category": q["category"], "difficulty": q["difficulty"],
-                "answer": answer, "score": score,
-            })
-
-            elapsed = int(time.time() - start)
-            totalTime += elapsed
-            save_results(experimentType, path, answers, scores)
-
-        return answers, scores
-
-    # ── Single-question mode ──────────────────────────────────────────────
-    elif path is None and question is not None:
-        cb = ui_callbacks or {}
-        try:
-            relevant_chunks = retrieve(question, initialK, finalK)
-
-            answer = answer_question(question, relevant_chunks)
-            if "on_answer" in cb:
+        answer = answer_question(question, relevant_chunks)
+        if "on_answer" in cb:
                 cb["on_answer"](answer)
 
-            score = score_answer(question, relevant_chunks, answer)
-            if "on_score" in cb:
-                cb["on_score"](score)
+        score = score_answer(question, relevant_chunks, answer)
+        if "on_score" in cb:
+            cb["on_score"](score)
 
-            if "on_done" in cb:
-                cb["on_done"]()
+        if "on_done" in cb:
+            cb["on_done"]()
 
-        except Exception as exc:
-            if "on_error" in cb:
-                cb["on_error"](str(exc))
-
-    else:
-        raise ValueError("Provide either path (batch) or question (single), not both or neither.")
+    except Exception as exc:
+        if "on_error" in cb:
+            cb["on_error"](str(exc))
 
 
-# ══════════════════════════════════════════════════════════════════════════════
-#  UI
-# ══════════════════════════════════════════════════════════════════════════════
+# UI
 
-# ── Palette ──────────────────────────────────────────────────────────────────
 BG          = "#0f1117"
 PANEL       = "#1a1d27"
 BORDER      = "#2a2d3d"
-ACCENT      = "#7c6af7"          # violet
-ACCENT2     = "#4fd1c5"          # teal  (judge)
+ACCENT      = "#7c6af7"          
+ACCENT2     = "#4fd1c5"          
 TEXT        = "#e2e8f0"
 TEXT_DIM    = "#64748b"
 ENTRY_BG    = "#151821"
 BTN_ACTIVE  = "#6254d4"
 
-# ── Typing speed (ms between tokens) ─────────────────────────────────────────
-TOKEN_DELAY = 28                 # tweak to taste
+
+TOKEN_DELAY = 28                 
 
 
 class ChatbotUI:
@@ -285,7 +241,6 @@ class ChatbotUI:
         self._setup_fonts()
         self._build_layout()
 
-    # ── Fonts ─────────────────────────────────────────────────────────────
     def _setup_fonts(self):
         self.font_label  = tkfont.Font(family="Courier New", size=9,  weight="bold")
         self.font_input  = tkfont.Font(family="Courier New", size=11)
@@ -293,11 +248,9 @@ class ChatbotUI:
         self.font_title  = tkfont.Font(family="Courier New", size=13, weight="bold")
         self.font_btn    = tkfont.Font(family="Courier New", size=10, weight="bold")
 
-    # ── Layout ────────────────────────────────────────────────────────────
     def _build_layout(self):
         root = self.root
 
-        # ── Header ──
         header = tk.Frame(root, bg=BG)
         header.pack(fill="x", padx=24, pady=(20, 4))
         tk.Label(
@@ -305,7 +258,6 @@ class ChatbotUI:
             font=self.font_title, fg=ACCENT, bg=BG,
         ).pack(side="left")
 
-        # ── Question input panel ──
         q_outer, q_frame = self._panel(root, label="QUESTION")
         q_outer.pack(fill="x", padx=24, pady=(10, 0))
 
@@ -318,7 +270,7 @@ class ChatbotUI:
         )
         self.question_text.pack(fill="x", padx=12, pady=(4, 8))
         self.question_text.bind("<Return>",    self._on_enter)
-        self.question_text.bind("<Shift-Return>", lambda e: None)   # allow newline
+        self.question_text.bind("<Shift-Return>", lambda e: None)   
 
         btn_row = tk.Frame(q_frame, bg=PANEL)
         btn_row.pack(fill="x", padx=12, pady=(0, 10))
@@ -347,13 +299,11 @@ class ChatbotUI:
         )
         self.clear_btn.pack(side="right")
 
-        # ── Answer panel ──
         ans_outer, ans_inner = self._panel(root, label="ANSWER")
         ans_outer.pack(fill="both", expand=True, padx=24, pady=(12, 0))
 
         self.answer_text = self._output_box(ans_inner, ACCENT)
 
-        # ── Judge panel ──
         judge_outer, judge_inner = self._panel(root, label="JUDGE VERDICT")
         judge_outer.pack(fill="both", expand=True, padx=24, pady=(10, 20))
 
@@ -380,17 +330,16 @@ class ChatbotUI:
             spacing1=2, spacing3=2,
         )
         box.pack(fill="both", expand=True, padx=0, pady=(2, 8))
-        # colour tags
+     
         box.tag_config("dim",   foreground=TEXT_DIM)
         box.tag_config("token", foreground=TEXT)
         return box
 
-    # ── Interaction ───────────────────────────────────────────────────────
     def _on_enter(self, event):
-        if event.state & 0x1:           # Shift held → normal newline
+        if event.state & 0x1:         
             return
         self._submit()
-        return "break"                  # swallow the newline
+        return "break"                 
 
     def _submit(self):
         question = self.question_text.get("1.0", "end-1c").strip()
@@ -425,7 +374,6 @@ class ChatbotUI:
     def _status(self, msg: str):
         self.root.after(0, self.status_label.config, {"text": msg})
 
-    # ── Pipeline (runs in worker thread) ─────────────────────────────────
     def _run_pipeline(self, question: str):
         self._status("generating answer…")
 
@@ -437,12 +385,12 @@ class ChatbotUI:
 
         def on_answer(text):
             answer_holder[0] = text
-            # start typing the answer; block until done before scoring begins
+            
             self.root.after(0, self._type_into, self.answer_text, text,
-                            0, score_event.set)         # set event when typing done
+                            0, score_event.set)         
 
         def on_score(text):
-            score_event.wait()                          # wait for answer typing
+            score_event.wait()                          
             score_holder[0] = text
             self.root.after(0, self._type_into, self.judge_text, text,
                             0, done_event.set)
@@ -473,13 +421,12 @@ class ChatbotUI:
         self._status(f"error: {msg}")
         self._set_ready(True)
 
-    # ── Typing animation ──────────────────────────────────────────────────
     def _type_into(self, box: tk.Text, text: str, index: int, done_cb=None):
         """
         Recursively schedules itself via root.after() to append one token
         at a time into *box*.  Calls done_cb() when the full text is written.
         """
-        tokens = text.split(" ")       # split on spaces; each 'token' ≈ one word
+        tokens = text.split(" ")       
 
         def _step(i: int):
             if i >= len(tokens):
@@ -494,7 +441,6 @@ class ChatbotUI:
             box.config(state="disabled")
             self.root.after(TOKEN_DELAY, _step, i + 1)
 
-        # Show a faint placeholder while the model is running (index==0 means fresh)
         if index == 0:
             box.config(state="normal")
             box.delete("1.0", tk.END)
@@ -503,7 +449,6 @@ class ChatbotUI:
         _step(index)
 
 
-# ── Entry point ───────────────────────────────────────────────────────────────
 def launch_ui():
     root = tk.Tk()
     app  = ChatbotUI(root)
