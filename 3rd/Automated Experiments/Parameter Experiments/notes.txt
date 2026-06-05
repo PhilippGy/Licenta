@@ -21,17 +21,3 @@ Experiment 1 - WithReranking
 
 ==> Final best config:
 With reranking, chunk size 1000, top 8
-
-
-
-Main experiment:
-
-1st estimate: 30 question sets took ~43min to answer
-  ==> 548/30 = ~18 total such iterations - 1 already past = 17 iterations left
-      17 * 43 = ~731min (~12h) estimated total time
-
-2nd estimate: 251 question sets took ~295min to answer
-  ==> 548/251 = ~2.18 such iterations
-      2.18 * 295 = ~642min (~10.5h) estimated total time
-
-True total: 678m14s (11h18m)
