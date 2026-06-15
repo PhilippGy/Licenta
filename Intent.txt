@@ -17,3 +17,8 @@ LLM-as-a-Judge valorifică răspunsurile astfel:
    - 10 = NO hallucinations at all. Only used the context.
    - 0 = The model invented rules, formulas, or deadlines NOT present in the Reference Context.
 
+
+Simplificat:
+Proiect de licență: 
+Un chatbot RAG specializat care răspunde strict la întrebări organizatorice în privință cu admiterea la FMI UBB Cluj, folosind informații crawl-uite de pe site-ul oficial de admitere. 
+Pipeline-ul actual funcționează local: crawler-ul obtine datele -> datele sunt organizate dupa categorii si transformate intr-un markdown file eficient -> chunking + embeddings -> retrieval top-k cu reranking ulterior -> answering model + LLM-as-a-judge care să îi verifice răspunsurile; amandoua modele sunt locale (LM Studio).  
