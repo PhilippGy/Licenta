@@ -1,0 +1,4 @@
+1. Open a terminal, activate the .venv, make sure that the current folder is "Through the website"
+2. Run the command "uvicorn main:app --reload"
+3. Open a separate terminal and run the command "ngrok http 8000"
+4. Copy the link appearing in the terminal and open it
