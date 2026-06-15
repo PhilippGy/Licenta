@@ -1,0 +1,252 @@
+Anexa 1 – Tematica pentru proba scrisă Matematică
+NOTA. Tematica coincide cu programa de bacalaureat in vigoare mai puțin conținuturile
+referitoare la Matematici financiare, clasa a X-a.
+(Conform cu OM 6.156 din 31.08.2023, respectiv OM nr. 4.430 din 29 august 2014)
+CLASA a IX-a
+Mulțimi și elemente de logică matematică
+• Mulțimea numerelor reale: operații algebrice cu numere reale, ordonarea numerelor reale, modulul
+unui număr real, aproximări prin lipsă sau prin adaos, partea întreagă, partea fracționară a unui
+număr real; operații cu intervale de numere reale
+• Propoziție, predicat, cuantificatori
+• Operații logice elementare (negați e, conjuncție, disjuncție, implicație, echivalență),
+corelate cu operațiile și cu relațiile dintre mulțimi (complementară, intersecție, reuniune,
+incluziune, egalitate); raționament prin reducere la absurd
+• Inducția matematică
+Șiruri
+• Modalități de a defini un șir, șiruri mărginite, șiruri monotone
+• Șiruri particulare: progresii aritmetice, progresii geometrice, formula termenului general în funcție de
+un termen dat și rație, suma primilor n termeni ai unei progresii
+• Condiția ca n numere să fie în progresie aritmetică sau geometrică, pentru n
+Funcții; lecturi grafice
+• Reper cartezian, produs cartezian; reprezentarea prin puncte a unui produs cartezian de mulțimi
+numerice; condiții algebrice pentru puncte aflate în cadrane; drepte din plan de forma x sau
+y m , cu m
+• Funcția: definiție, exemple, exemple de corespondențe care nu sunt funcții, modalități de a descrie o
+funcție, lecturi grafice. Egalitatea a două funcții, imaginea unei mulțimi printr-o funcție, graficul
+unei funcții, restricții ale unei funcții
+• Funcții numerice ( F {f : D ,D }); reprezentarea geometrică a graficului: intersecția
+cu axele de coordonate, rezolvări grafice ale unor ecuații și inecuații de forma
+f (x) g(x),( , , , ); proprietăți ale funcțiilor numerice introduse prin lectură grafică:
+mărginire, monotonie; alte proprietăți: paritate/imparitate, simetria graficului față de drepte de forma
+x , m , periodicitate
+• Compunerea funcțiilor; exemple pe funcții numerice
+Funcția de gradul I
+• Definiție; reprezentarea grafică a funcției f : , f (x) ax b , unde a,b , intersecția
+graficului cu axele de coordonate, ecuația f (x) 0
+• Interpretarea grafică a proprietăților algebrice ale funcției: monotonia și semnul funcției; studiul
+monotoniei prin semnul diferenței f (x ) (sau prin studierea semnului raportului
+1
+,x )
+1 2
+• Inecuații de forma ax studiate pe sau pe intervale de numere reale
+,
+ax by c
+• Poziția relativă a două drepte, sisteme de ecuații de tipul , a,b,c,m,n, p numere
+mx ny p
+reale
+• Sisteme de inecuații de gradul I Funcția de gradul al II-lea
+• Reprezentarea grafică a funcției f : , f (x) ax 2 bx c , cu a,b,c și a 0 ,
+intersecția graficului cu axele de coordonate, ecuația f (x) 0 , simetria față de drepte de forma
+x m , cu m
+x y s
+• Relațiile lui Viète, rezolvarea sistemelor de forma , cus, p
+xy p
+Interpretarea geometrică a proprietăților algebrice ale funcției de gradul al II-lea
+• Monotonie; studiul monotoniei prin semnul diferenței f (x ) sau prin rata creșterii/
+1
+descreșterii ,,x , punct de extrem, vârful parabolei
+1 2
+• Poziționarea parabolei față de axa Ox , semnul funcției, inecuații de forma ax2
+( ) , a,b,c studiate pe sau pe intervale de numere reale, interpretare
+geometrică: imagini ale unor intervale (proiecțiile unor porțiuni de parabolă pe axa Oy )
+• Poziția relativă a unei drepte față de o parabolă: rezolvarea sistemelor de forma
+mx n y
+, a,b,c,m,n
+ax 2 bx c y
+Vectori în plan
+• Segment orientat, vectori, vectori coliniari
+• Operații cu vectori: adunarea (regula triunghiului, regula paralelogramului), proprietăți ale
+operației de adunare; înmulțirea cu un scalar, proprietăți ale înmulțirii cu un scalar; condiția de
+coliniaritate, descompunerea după doi vectori necoliniari
+Coliniaritate, concurență, paralelism – calcul vectorial în geometria plană
+• Vectorul de poziție al unui punct
+• Vectorul de poziție a punctului care împarte un segment într-un raport dat, teorema lui Thales
+(condiții de paralelism)
+• Vectorul de poziție a centrului de greutate al unui triunghi (concurența medianelor unui triunghi)
+• Teorema lui Menelau, teorema lui Ceva
+Elemente de trigonometrie
+• Cercul trigonometric, definirea funcțiilor trigonometrice: sin : [0,2 ] [ 1,1],
+cos : [0,2 ] [ 1,1], tg : [0, ]\ , ctg : (0,
+2
+• Definirea funcțiilor trigonometrice: sin : [ 1,1], cos : [ 1,1], tg : cu ,
+D , ctg : cu D
+2
+• Reducerea la primul cadran; formule trigonometrice: sin(a b), sin(a b), cos(a b),
+cos(a b), sin2a, cos2a, sina sinb, sina sinb, cosa cosb, cosa cosb (transformarea
+sumei în produs)
+Aplicații ale trigonometriei și ale produsului scalar a doi vectori în geometria plană
+• Produsul scalar a doi vectori: definiție, proprietăți. Aplicații: teorema cosinusului, condiții de
+perpendicularitate, rezolvarea triunghiului dreptunghic
+• Aplicații vectoriale și trigonometrice în geometrie: teorema sinusurilor, rezolvarea triunghiurilor
+oarecare
+• Calcularea razei cercului înscris și a razei cercului circumscris în triunghi, calcularea lungimilor
+unor segmente importante din triunghi, calcularea unor arii CLASA a X-a
+Mulțimi de numere
+• Numere reale: proprietăți ale puterilor cu exponent rațional, irațional și reale ale unui număr
+pozitiv nenul, aproximări raționale pentru numere reale
+• Radical de ordin n ( n și n 2 ) dintr-un număr, proprietăți ale radicalilor
+• Noțiunea de logaritm, proprietăți ale logaritmilor, calcule cu logaritmi, operația de logaritmare
+• Mulțimea . Numere complexe sub formă algebrică, conjugatul unui număr complex, operații cu
+numere complexe. Interpretarea geometrică a operațiilor de adunare și de scădere a numerelor
+complexe și a înmulțirii acestora cu un număr real
+• Rezolvarea în a ecuației de gradul al doilea având coeficienți reali. Ecuații bipătrate
+Funcții și ecuații
+• Funcția putere cu exponent natural: f : și funcția radical:
+f : D , f (x) n x,n ,n 2 , unde D pentru n par și D pentru n
+impar
+• Funcția exponențială f : (0, ), f (x) ax,a (0, ),a 1 și funcția logaritmică:
+f : (0, ), f (x) log x,a (0, ),a 1
+a
+• Injectivitate, surjectivitate, bijectivitate; funcții inversabile: definiție, proprietăți grafice, condiția
+necesară și suficientă ca o funcție să fie inversabilă
+• Funcții trigonometrice directe și inverse
+• Rezolvări de ecuații folosind proprietățile funcțiilor:
+o Ecuații care conțin radicali de ordinul 2 sau de ordinul 3
+o Ecuații exponențiale, ecuații logaritmice
+o Ecuații trigonometrice: sin x a, cos x a, a [ 1,1], tgx a, ctgx a,a ,
+sin f (x) sing(x), cos f (x) cos g(x), tgf (x) tgg(x), ctgf (x) ctgg(x)
+Notă: Pentru toate tipurile de funcții se vor studia: intersecția cu axele de coordonate, ecuația f (x) 0 ,
+reprezentarea grafică prin puncte, simetrie, lectura grafică a proprietăților algebrice ale funcțiilor: monotonie,
+bijectivitate, inversabilitate, semn, convexitate.
+Metode de numărare
+• Mulțimi finite ordonate. Numărul funcțiilor
+• Permutări: numărul de mulțimi ordonate care se obțin prin ordonarea unei mulțimi finite cu n
+elemente
+numărul funcțiilor bijective f : A B , unde A și B sunt mulțimi finite
+• Aranjamente
+o numărul submulțimilor ordonate cu câte k elemente fiecare, k , care se pot forma cu
+cele n elemente ale unei mulțimi finite
+o numărul funcțiilor injective f : A B , unde A și B sunt mulțimi finite
+o Combinări – numărul submulțimilor cu câte k elemente, unde 0 , ale unei
+mulțimi finite cu n elemente. Proprietăți: formula combinărilor complementare, numărul
+tuturor submulțimilor unei mulțimi cu n elemente
+o Binomul lui Newton
+Geometrie
+• Reper cartezian în plan, coordonatele unui vector în plan, coordonatele sumei vectoriale,
+coordonatele produsului dintre un vector și un număr real, coordonate carteziene ale unui punct
+din plan, distanța dintre două puncte în plan
+• Ecuații ale dreptei în plan determinate de un punct și de o direcție dată și ale dreptei determinate de
+două puncte distincte
+• Condiții de paralelism, condiții de perpendicularitate a două drepte din plan; calcularea unor
+distanțe și a unor arii CLASA a XI-a
+ELEMENTE DE CALCUL MATRICEAL ȘI SISTEME DE ECUAȚII LINIARE
+Permutări
+• Noțiunea de permutare, operații, proprietăți
+• Inversiuni, semnul unei permutări
+Matrice
+• Tabel de tip matriceal. Matrice, mulțimi de matrice
+• Operații cu matrice: adunarea, înmulțirea, înmulțirea unei matrice cu un scalar, proprietăți
+Determinanți
+• Determinant de ordin n, proprietăți
+Sisteme de ecuații liniare
+• Matrice inversabile din M (
+n
+• Ecuații matriceale
+• Sisteme liniare cu cel mult 4 necunoscute, sisteme de tip Cramer, rangul unei matrice
+• Studiul compatibilității și rezolvarea sistemelor: proprietatea Kronecker-Capelli, proprietatea
+Rouché, metoda Gauss
+• Aplicații: ecuația unei drepte determinate de două puncte distincte, aria unui triunghi și
+coliniaritatea a trei puncte în plan
+ELEMENTE DE ANALIZĂ MATEMATICĂ
+Limite de funcții
+• Noțiuni elementare despre mulțimi de puncte pe dreapta reală: intervale, mărginire, vecinătăți,
+dreapta încheiată, simbolurile și
+• Funcții reale de variabilă reală: funcția polinomială, funcția rațională, funcția putere, funcția
+radical, funcția logaritm, funcția exponențială, funcții trigonometrice directe și inverse
+• Limita unui șir utilizând vecinătăți, șiruri convergente
+• Monotonie, mărginire, limite; proprietatea lui Weierstrass. Exemple se mnificative: a n ,
+u n
+n 0
+1
+1
+na 1 (fără demonstrație), numărul e; limita șirului (1 , u 0 ,
+n 0 n
+u 0 pentru orice număr natural n .
+n
+• Operații cu șiruri care au limită
+• Limite de funcții: interpretarea grafică a limitei unei funcții într-un punct utilizând vecinătăți,
+limite laterale
+0
+• Calculul limitelor pentru funcțiile studiate; cazuri exceptate la calculul limitelor de funcții: , ,
+0
+• Asimptotele graficului funcțiilor studiate: asimptote verticale, oblice
+Continuitate
+• Continuitatea unei funcții într-un punct al domeniului de definiție, funcții continue, interpretarea
+grafică a continuității unei funcții, studiul continuității în puncte de pe dreapta reală pentru
+funcțiile studiate, operații cu funcții continue
+• Proprietatea lui Darboux, semnul unei funcții continue pe un interval de numere reale, studiul
+existenței soluțiilor unor ecuații în Derivabilitate
+• Tangenta la o curbă, derivata unei funcții într-un punct, funcții derivabile, operații cu funcții
+derivabile, calculul derivatelor de ordin I și al II-lea pentru funcțiile studiate
+• Funcții derivabile pe un interval: puncte de extrem ale unei funcții, teorema lui Fermat, teorema
+lui Rolle, teorema lui Lagrange și interpretarea lor geometrică, corolarul teoremei lui Lagrange
+referitor la derivata unei funcții într-un punct
+• Rolul derivatei I în studiul funcțiilor: monotonia funcțiilor, puncte de extrem
+• Rolul derivatei a II-a în studiul funcțiilor: concavitate, convexitate, puncte de inflexiune
+Reprezentarea grafică a funcțiilor
+• Reprezentarea grafică a funcțiilor
+• Rezolvarea grafică a ecuațiilor, utilizarea reprezentării grafice a funcțiilor în determinarea
+numărului de soluții ale unei ecuații
+• Reprezentarea grafică a conicelor (cerc, elipsă, hiperbolă, parabolă)
+• Regulile lui l’Hospital
+CLASA a XII-a
+ELEMENTE DE ALGEBRĂ
+Grupuri
+• Lege de compoziție internă (operație algebrică), tabla operației, parte stabilă
+• Grup, exemple: grupuri numerice, grupuri de matrice, grupuri de permutări, grupul aditiv al
+claselor de resturi modulo n
+• Subgrup
+• Grup finit, tabla operației, ordinul unui element
+• Morfism, izomorfism de grupuri
+Inele și corpuri
+• Inel, exemple: inele numerice ( , , , ), inele de matrice, inele de funcții reale
+n
+• Corp, exemple: corpuri numerice ( , , ), p prim
+p
+• Morfisme de inele și de corpuri
+Inele de polinoame cu coeficienți într-un corp comutativ ( , , , , p prim)
+p
+• Forma algebrică a unui polinom, funcția polinomială, operații (adunarea, înmulțirea, înmulțirea cu un
+scalar)
+• Teorema împărțirii cu rest; împărțirea polinoamelor, împărțirea cu X , schema lui Horner
+• Divizibilitatea polinoamelor teorema lui Bézout; c.m.m.d.c. și c.m.m.m.c. al unor polinoame,
+descompunerea unor polinoame în factori ireductibili
+• Rădăcini ale polinoamelor, relațiile lui Viète
+• Rezolvarea ecuațiilor algebrice având coeficienți în , ecuații binome, ecuații bipătrate,
+ecuații reciproce
+ELEMENTE DE ANALIZĂ MATEMATICĂ
+• Probleme care conduc la noțiunea de integrală
+Primitive (antiderivate)
+• Primitivele unei funcții definite pe un interval. Integrala nedefinită a unei funcții, proprietăți ale
+integralei nedefinite, liniaritate. Primitive uzuale
+Integrala definită
+• Diviziuni ale unui interval [a,b], norma unei diviziuni, sistem de puncte intermediare, sume
+Riemann, interpretare geometrică. Definiția integrabilității unei funcții pe un interval [a,b]
+• Proprietăți ale integralei definite: liniaritate, monotonie, aditivitate în raport cu intervalul de integrare
+• Formula Leibniz-Newton
+• Integrabilitatea funcțiilor continue, teorema de medie, interpretare geometrică, teorema de existență a primitivelor unei funcții continue
+• Metode de calcul al integralelor definite: integrarea prin părți, integrarea prin schimbare de
+b P(x)
+variabilă. Calculul integralelor de forma , gradQ prin metoda descompunerii în
+a
+fracții simple
+Aplicații ale integralei definite
+• Aria unei suprafețe plane
+• Volumul unui corp de rotație
+• Calculul unor limite de șiruri folosind integrala definită
+Notă: Se utilizează exprimarea „proprietate” sau „regulă”, pentru a sublinia faptul că se face referire la un
+rezultat matematic utilizat în aplicații, dar a cărui demonstrație este în afara programei.
+Bibliografie
+1. Manualele școlare și auxiliarele aprobate de Ministerul Educației Naționale.
+2. Probleme și Teste Grilă de Matematică pentru Admiterea la Facultatea de Matematică și Informatică
+Universitatea Babeș-Bolyai, Ed. Presa Universitară Clujană, 2025. 

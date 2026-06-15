@@ -93,20 +93,12 @@ Răspuns:
 
 
 # SCORING SYSTEM LLM
-def score_llm(question, context_chunks, answer, gold_answer):
+def score_llm(question, context_chunks, answer):
     context = "\n\n--- FRAGMENT NOU ---\n\n".join(context_chunks)
 
     prompt = f"""
 You are a ruthless and objective evaluator of a RAG (Retrieval-Augmented Generation) chatbot for university admissions.
-Your task is to evaluate the chatbot's answer. The chatbot answered on a context it has been given.
-You will receive the question, the chatbot's answer for it, the context based on which the chatbot has answered, and a gold answer.
-Use the reference context to determine whether the chatbot hallucinated or not.
-Use the gold answer to determine the factual correctness and the completeness of the chatbot's answer.
-
-When the Golden Answer contains facts absent from the Reference Context, this
-indicates a RETRIEVAL failure, not a hallucination — score no_hallucination based
-strictly on consistency with the context, and score factual/completeness based on
-the Golden Answer.
+Your task is to evaluate the chatbot's answer based STRICTLY on the provided Reference Context.
 
 Question:
 {question}
@@ -117,23 +109,19 @@ Chatbot Answer:
 Reference Context:
 {context}
 
-Gold Answer:
-{gold_answer}
-
 ---
 SCORING RUBRIC (Be extremely strict!):
 1. Factual correctness (0-10): 
-   - 10 = Perfectly aligned with the golden answer.
+   - 10 = Perfectly matches the context.
    - 5 = Partially correct, but contains errors.
-   - 0 = The information is completely wrong or invented.
-2. Completeness (0-10): Did the answer cover all the key facts present in the Golden Answer?
-   - 10 = All key facts from the gold answer are present.
-   - 5 = Some key facts missing.
-   - 0 = Most key facts missing.
+   - 0 = The information contradicts the context or is completely invented.
+2. Completeness (0-10): Did it fully answer the user's prompt based on available context?
 3. Clarity (0-10): Is the answer easy to read and in Romanian? (Score 0 if the answer is in English!).
 4. Hallucinations penalty (0-10): 
    - 10 = NO hallucinations at all. Only used the context.
    - 0 = The model invented rules, formulas, or deadlines NOT present in the Reference Context.
+
+If the Chatbot Answer is exactly "Nu dețin această informație conform datelor extrase de pe site-ul oficial." AND the answer is indeed NOT present in the Reference Context, you MUST score Factual=10, Complete=10, and Hallucination=10. Do not penalize honesty!
 
 Return ONLY valid JSON format:
 {{
@@ -171,8 +159,8 @@ def answer_question(question, relevant_chunks):
     return answer
 
 # LLM-as-a-Judge Model function
-def score_answer(question, relevant_chunks, answer, gold_answer):
-    answer = score_llm(question, relevant_chunks, answer, gold_answer)
+def score_answer(question, relevant_chunks, answer):
+    answer = score_llm(question, relevant_chunks, answer)
     return answer
 
 
@@ -212,6 +200,6 @@ def compute_score(raw: str) -> dict:
 def answerAndScore(question, initialK=20, finalK=8):
     relevant_chunks = retrieve(question, initialK, finalK)
     answer = answer_question(question, relevant_chunks)
-    score = compute_score(score_answer(question, relevant_chunks, answer, "This question does not have a gold answer. Use the reference context instead to validate the chatbot answer."))
+    score = compute_score(score_answer(question, relevant_chunks, answer))
     
     return answer, score
