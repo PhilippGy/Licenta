@@ -175,7 +175,7 @@ import time
 
 def answerAndScore(
     initialK=20,
-    finalK=5,
+    finalK=8,
     question=None,
     ui_callbacks=None,          
 ):
