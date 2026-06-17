@@ -1,74 +1,57 @@
-FACULTATEA DE MATEMATICĂ ŞI INFORMATICĂ
-Str. M. Kogălniceanu nr. 1
-Cluj-Napoca, RO-400084
-Tel.: 0264-40.53.27
-Fax: 0264-40.53.27
-Anexa 2 email:math@math.ubbcluj.ro
-www.cs.ubbcluj.ro
-UNIVERSITATEA BABEŞ-BOLYAI CLUJ-NAPOCA
-FACULTATEA DE MATEMATICĂ ŞI INFORMATICĂ
-COMISIA DE ADMITERE
-FIȘĂ CANDIDAT – DATE DE CONCURS
-Subsemnatul/Subsemnata (nume, iniţiala tatălui, prenume): ...........................................................
-cetățean
-[ ] român având CNP ...................................................................
-[ ] străin din ................................................... având CNP/Nr. Pașaport ...........................................
-prin prezenta doresc să mă înscriu la Concursul de Admitere la Facultatea de Matematică și
-Informatică, sesiunea ....................... 2026
-Doresc să susțin proba scrisă* cu prezenţa fizică la:
-[ ] matematică
-[ ] informatică
-[ ] nu susțin proba
-*Proba scrisă se va susține în limba primei opțiuni din lista dvs.
-În cazul în care nu susțineti proba scrisă de concurs și aveți în lista de opțiuni specializări cu
-limbile de predare engleză sau/și germană trebuie să încărcați certificatele lingvistice
-corespunzătoare acestor limbi de predare. Documentele justificative încărcate:
-...............................................................................................................................................................
-Solicit scutirea plății:
-[ ] taxei de înscriere (conform categoriilor precizate ȋn Regulamentul de admitere al UBB)
-[ ] taxei de procesare (conform categoriilor precizate ȋn Regulamentul de admitere al UBB)
-deoarece .............................................................................................................................................
-Document justificativ încărcat: ………………………………………………………………… Solicit să candidez pe un loc special alocat
-[ ] candidaților etniei rrome la specializarea
-.....................................................................................................................................................
-[ ] candidaţilor pe locurile destinate absolvenţilor liceelor din mediu rural la specializarea
-.....................................................................................................................................................
-[ ] candidaților proveniti din sistemul de protecție specială la specializarea
-.....................................................................................................................................................
-[ ] candidaților proveniţi din rândul minorităţilor naţionale la specializarea
-.....................................................................................................................................................
-[ ] candidaților cu cerinţe educaţionale speciale/ dizabilităţi la specializarea
-.....................................................................................................................................................
-Menționez că:
-[ ] Am participat la Concursul Mate-Info UBB 2026, la disciplina …………………….. nota fiind ................
-[ ] Am participat la Concursul Mate-Info UBB 2025, la disciplina …………………….. nota fiind ................
-Solicit să mi se calculeze media de admitere folosind următorul criteriu:
-1. [ ] Media de admitere = MAX(Nota Concurs Mate-Info UBB, Nota proba scrisă)
-2. [ ] Categoria A – Facilități Media de admitere = 10
-Premiul la Olimpiada/Concursul:
-…………………………………………………………………………………………
-………………………………………………………………………………………
-Document justificativ încărcat:
-…………………………………………………………………………………………
-3. [ ] Categoria B – Facilități
-Media de admitere = (10 + MAX(Nota Concurs Mate-Info UBB,
-Nota proba scrisă)) * 1/2
-Premiu Concurs:
-…………………………………………………………………………………………
-…………………………………………………………………………………………
-Document justificativ încărcat:
-………………………………………………………………………………………
-Subsemnatul/subsemnata în calitate de candidat la concursul de admitere pentru
-programele de studiu organizate de Facultatea de Matematică şi Informatică -
-Universitatea Babeş- Bolyai din Cluj-Napoca, consimt în mod expres şi neechivoc
-ca datele mele cu caracter personal să fie prelucrate prin orice mijloace, chiar și
-prin transmiterea legală către terți, în conformitate cu legislația europeană în
-vigoare, Regulamentul 2016/679/UE, Directiva 2002/58/CE, de către instituția publică de învățământ superior şi de către orice alt organism abilitat să efectueze
-verificări sau să exercite control asupra activității acesteia.
-Subsemnatul/subsemnata în calitate de candidat la concursul de admitere pentru
-programele de studiu organizate de Facultatea de Matematică şi Informatică -
-Universitatea Babeş- Bolyai din Cluj-Napoca declar pe proprie răspundere ca toate
-documentele digitale/scanate depuse la dosar sunt autentice si sunt conforme cu
-cele originale.
-Data Semnătura
-…………………… ………………………… 
+Universitatea Babeș-Bolyai Cluj-Napoca
+Facultatea de Matematică și Informatică
+Regulamentul de desfășurare a probei scrise a Concursului Mate-Info UBB
+21 martie 2026
+1. Candidații se vor prezenta la locațiile și sălile afișate în data de 21 martie 2026, cel târziu la ora 7.30.
+2. Candidații vor avea asupra lor, la intrarea în sală, cartea de identitate sau pașaportul, aflat în termen
+de valabilitate.
+3. Candidații vor memora numărul legitimației de concurs primit din platforma de înscriere.
+4. Intrarea în sala de concurs se face în ordinea listei primite pe sală şi este coordonată de şeful sălii.
+5. Fiecare candidat va intra la masa de examen doar cu o sticlă de apă și instrumente de scris permanente,
+de culoare albastră.
+6. Se interzice candidaților să introducă în sala de examen, la masa destinată concursului, următoarele
+obiecte: rucsacuri, sacoșe, genţi, candidații având obligația de a lăsa obiectele menționate la intrarea ȋn
+sală în locurile stabilite de către comisia de supraveghere.
+7. Se interzice candidaților la concurs să aibă asupra lor la masa de examen, telefon mobil, ceas
+(smartwatch) sau orice alta sursa de informare sau comunicare. Acestea vor fi lăsate ȋn bagaj ȋn locurile
+stabilite de către comisia de supraveghere.
+8. Se interzice candidaților să comunice între ei sau cu exteriorul, să copieze, să transmită sau să
+recepționeze materiale care permit copiatul sau să schimbe între ei foi, ciorne sau alte materiale care ar
+putea fi utilizate pentru rezolvarea subiectelor.
+9. În cazul în care candidații au terminat proba înaintea expirării timpului alocat, nu pot părăsi sala
+decât după o oră și 30 de minute după începerea probei. Acei candidați care ies din sala de examen
+înaintea expirării timpului de lucru nu au voie să ia subiectul de examen cu ei. Doar candidații
+care pleacă după expirarea timpului de lucru își vor putea lua subiectul cu ei.
+10. În condiții de forță majoră, un candidat poate solicita folosirea toaletei. În acest caz un membru al
+comisiei îl va însoți până la intrarea în toaletă.
+11. După deschiderea subiectelor nu se mai admite intrarea candidaților în sală.
+12. Timpul de lucru este de 3 ore de la distribuirea subiectelor. După expirarea timpului de lucru candidaţii
+nu vor mai completa nimic pe foaia de concurs.
+13. Lucrările vor fi redactate cu stilou sau pix albastru.
+14. Fiecare candidat primește din partea comisiei de concurs ciorne, foi de concurs și subiectul de concurs.
+Nu se vor folosi alte foi decât cele de concurs şi ciornele asigurate de organizatori.
+15. În cazul ȋn care sunt candidaţi care constată ȋn timpul probei de concurs că au greşeli pe foaia de
+concurs, pot sa solicite foaie nouă, dar nu mai târziu de ultimele 30 de minute alocate probei scrise
+a concursului Mate-Info UBB.
+16. Candidatul primește la masa de concurs un subiect de Matematică sau un subiect de Informatică,
+în funcție de disciplina pentru care a optat la înscriere, în limba aleasă la înscriere.
+17. Fiecare concurent va trece pe foaia de concurs următoarele date de identificare: numărul legitimației de
+concurs (format din 4 cifre), numele, prenumele tatălui, respectiv prenumele și denumirea disciplinei
+din care susține proba de concurs (Matematică sau Informatică). Vă rugăm consultați următorul tutorial
+de completare al grilei. Încălcarea regulilor menționate mai sus va fi considerată fraudă/tentativă de fraudă, iar candidații respectivi
+vor fi eliminați de la proba de concurs. Predarea Lucrării
+1. La finalizarea examenului fiecare candidat are obligația de a-și număra bulinele haşurate.
+2. Fiecare candidat are obligaţia de a preda lucrarea scrisă sub semnătură supraveghetorilor de sală în
+locurile special amenajate.
+3. Supraveghetorii vor verifica daca bulinele sunt hașurate corect și dacă numărul de legitimație a fost
+completat corect.
+4. Supraveghetorii numără bulinele hașurate de către candidat și scriu în borderou numărul de buline
+hașurate (completate).
+5. Candidatul semnează în tabelul pentru predarea lucrării, această semnătura certificând corectitudinea
+numărului bulinelor ȋnscris ȋn borderou.
+6. Lucrarea predată se secretizează de către supraveghetori în prezența candidatului.
+7. Supraveghetorii se vor asigura că la fiecare comisie de preluare a lucrărilor exista un singur candidat
+care își predă lucrarea.
+După predarea lucrării candidatul părăsește zona locației, iar rezultatele vor fi afișate pe pagina web a facultăţii
+conform calendarului publicat, deoarece lucrările se vor corecta doar în centrele de scanare special amenajate
+(lucrările nu vor fi scanate în sala de examen). 

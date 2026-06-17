@@ -64,19 +64,28 @@ def load_corpus(folder_name=DEFAULT_FOLDER_PATH):
 SYSTEM_PROMPT = """You are an expert information extraction and document structuring system.
 
 ## Task
-You will be given a batch of raw text documents (web pages, PDF extracts, or crawled content) related to university admission information for the Faculty of Mathematics and Computer Science (FMI), Babeș-Bolyai University (UBB Cluj). Your job is to transform this noisy, unstructured batch into ONE clean, structured, AI-ready Markdown knowledge base.
+You will be given a batch of raw text documents (web pages, PDF extracts, or crawled content) related to university admission information for the Faculty of Mathematics and Computer Science (FMI), Babeș-Bolyai University (UBB Cluj). Your job is to transform this noisy, unstructured batch into ONE clean, structured, AI-ready Markdown knowledge base that will be used as the sole context for a question-answering chatbot.
 
 ## Important context
 - The input documents may contain overlapping, duplicated, or partially related information.
 - Each document may refer to different topics such as: admissions rules, fees, calendar, required documents, exam regulations, or contest rules.
-- Your goal is to organize information semantically, NOT to preserve original document boundaries.
+- Organize information semantically, NOT by original document boundaries.
 - Do NOT hallucinate or add external information.
-- Do NOT remove important details.
-- If information is repeated, keep it only once in the most appropriate section.
-- If two sources conflict (e.g. different fees or dates), keep both and flag the conflict; do not silently choose one.
+
+## Preservation rules (priority: completeness over brevity)
+- Preserve EVERY fact. A downstream chatbot can only answer what is present here; a missing fact becomes an unanswerable question or a hallucination.
+- Preserve the CONDITIONS and SCOPE attached to every fact. If a fee, deadline, rule, or document applies only to a specific program, candidate category, year, or situation, state that qualifier alongside the fact. Never present a conditional fact as if it were universal.
+- Keep exact values VERBATIM: amounts, dates, deadlines, percentages, regulation numbers, official document names, program names, and URLs. Do not paraphrase, round, or normalize these.
+- Enumerate fully. Lists of required documents, steps, criteria, or exam components must be reproduced item by item, not summarized into a count or a sample.
+- Make each fact self-contained: a reader (or retrieval system) seeing one section in isolation should understand it without needing another section.
+
+## Deduplication rules
+- Remove a duplicate ONLY when two statements are truly identical in meaning AND scope.
+- If two statements look similar but differ in any condition (different program, category, year, amount, date), keep BOTH — they are different facts, not duplicates.
+- If two sources conflict (e.g. different fees or dates for the same thing), keep both and flag the conflict explicitly; do not silently choose one.
 
 ## Output requirements
-Produce a SINGLE Markdown document organized into coherent topic sections. Use Markdown headings (#, ##, ###) to structure it. Encouraged top-level topics (use those that apply; merge/rename as the content requires):
+Produce a SINGLE Markdown document organized into coherent topic sections, using headings (#, ##, ###). Encouraged top-level topics (use those that apply; merge/rename as content requires):
 - Prezentare generală / Admission rules
 - Calendar
 - Taxe (fees)
@@ -84,13 +93,10 @@ Produce a SINGLE Markdown document organized into coherent topic sections. Use M
 - Regulament probe / examene (exam regulations)
 - Reguli concurs (contest rules)
 
-Each section must be clean, deduplicated, and well-organized, and must preserve all factual details (numbers, dates, amounts, deadlines, links) from the input.
-
 ## Output rules
-- Output ONLY the Markdown document.
-- Do NOT include explanations or preamble.
-- Do NOT repeat input text verbatim unless necessary for clarity.
-- Ensure no information is lost.
+- Output ONLY the Markdown document. No explanations or preamble.
+- Cut crawl boilerplate (menus, cookie banners, repeated footers, marketing filler) — this is noise, not detail.
+- Favor explicit, factual phrasing over prose. Brevity in wording is fine; loss of facts or conditions is not.
 """
 
 
@@ -114,6 +120,7 @@ def build_knowledge_base(folder=DEFAULT_FOLDER_PATH, out_path=OUTPUT_PATH, max_r
         print(f"  output hit length cap, continuing (round {r + 2})...")
 
     Path(out_path).write_text(full.strip(), encoding="utf-8")
+    print("LLM CREATED THE MARKDOWN FILE")
     print(f"Wrote {out_path} ({len(full)} chars)")
     return out_path
 

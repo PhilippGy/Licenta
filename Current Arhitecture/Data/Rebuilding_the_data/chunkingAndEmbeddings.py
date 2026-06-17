@@ -14,6 +14,9 @@ if not candidates:
 
 KNOWLEDGE_BASE = candidates[-1]   # the most recent admission_kb.md file
 
+# USE AN OLDER KNOWLEDGE BASE INSTEAD:
+# KNOWLEDGE_BASE = DATA_DIR / "admission_kb_YYYY_MM_DD.md"    
+
 
 
 def refined_chunking(text, chunk_size=1000, chunk_overlap=200):
