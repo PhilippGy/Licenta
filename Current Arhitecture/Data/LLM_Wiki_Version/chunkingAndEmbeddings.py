@@ -105,6 +105,6 @@ def generate_chunks_and_embeddings(knowledgeBase="Most recent"):
     index = compute_embeddings(all_chunks)
     print("Embeddings calculate și index FAISS creat.")
 
-    SCRIPT_DIR = Path("Data") 
+    SCRIPT_DIR = Path(__file__).parent
     np.save(SCRIPT_DIR / "chunks.npy", all_chunks)
     faiss.write_index(index, str(SCRIPT_DIR / "index.faiss"))
