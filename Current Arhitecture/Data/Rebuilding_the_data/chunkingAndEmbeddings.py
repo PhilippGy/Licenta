@@ -14,10 +14,6 @@ if not candidates:
 
 KNOWLEDGE_BASE = candidates[-1]   # the most recent admission_kb.md file
 
-# USE AN OLDER KNOWLEDGE BASE INSTEAD:
-# KNOWLEDGE_BASE = DATA_DIR / "admission_kb_YYYY_MM_DD.md"    
-
-
 
 def refined_chunking(text, chunk_size=1000, chunk_overlap=200):
     # Separatori ordonați după importanță (secțiune -> titlu -> paragraf -> linie -> frază)
@@ -77,9 +73,16 @@ def compute_embeddings(chunks):
 
 
 
-def generate_chunks_and_embeddings():
+def generate_chunks_and_embeddings(knowledgeBase = "Most recent"):
+    # knowledgeBase is either "Most recent" or a date "YYYY_MM_DD"
+    if knowledgeBase == "Most recent":
+        kb_path = KNOWLEDGE_BASE    # previously defined variable with the most recent MD file                               
+    else:
+        kb_path = DATA_DIR / f"admission_kb_{knowledgeBase}.md"   # specifically chosen MD file
+    
     # Citire și aplicare
-    with open(KNOWLEDGE_BASE, 'r', encoding='utf-8') as f:
+    print("Current knowledgebase: ", kb_path)
+    with open(kb_path, 'r', encoding='utf-8') as f:
         text = f.read()
 
     # Clean text
