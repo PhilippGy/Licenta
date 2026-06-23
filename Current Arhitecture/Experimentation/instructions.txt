@@ -1,0 +1,18 @@
+1. Create a new folder inside Experimentation/Experiments/ with the name of the experiment.
+
+2. In manageExperiments.ipynb, the 1st cell, set the EXPERIMENT_NAME variable to the exact name of the experiment.
+   If desired, change the other variables, too.
+
+3. Create a question set for the experiment by writing the desired training questions 
+   in the generateQuestions.txt file, separated by newlines.
+   Example content for generateQuestions.txt:
+      What do I need?
+      Where do I find?
+      How do I do?
+
+4. In manageExperiments.ipynb, run the "2. Generate the questions" cell to create the question set.
+
+NOTE: To use an already existing question set, just put it as "questions.json" into the desired experiment folder.
+
+5. In manageExperiments.ipynb, run the "3. Run Experiments" cell to start the experimentation phase.
+   Results will be saved in the desired experiment folder as "answersAndScores.csv".

@@ -65,7 +65,7 @@ def compute_embeddings(chunks):
 
 # Wiki snapshots in dated subfolders, e.g. Data/Wiki/2026_06_15/Taxe.md
 # (same dating idea as the admission_kb_YYYY_MM_DD files).
-WIKI_ROOT = Path("Data/Wiki")     # <-- set to your wiki root
+WIKI_ROOT = Path("Data/LLM_Wiki_Version_Wiki")    
 EXCLUDE = {"Index.md"}            # navigation only, no answerable content
 
 def _resolve_wiki_dir(knowledgeBase):

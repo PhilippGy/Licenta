@@ -1,0 +1,10 @@
+The file programFunctionality.py does the Retrieval & Reranking using retrieval.py, then answers one
+question using answerOneQuestion.py, or multiple questions using answerExperimentalQuestions.py.
+(If called from main.ipynb, answerOneQuestion.py is called. If called from Experimentation/manageExperiments.ipynb,
+answerExperimentalQuestions.py is called.)
+
+The file answerOneQuestion.py gives the query to both models (the functions located in chatbotFunction.py and
+judgeFunction.py). Output is printed on the screen.
+
+The file answerExperimentalQuestions.py is used for the Experimental folder, where new sets of experiments can
+be run to test new arhitecture configurations. Output is printed to a file.

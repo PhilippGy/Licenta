@@ -7,7 +7,7 @@ from pathlib import Path
 from functools import partial
 
 from .retrieval import retrieve
-from .bothModelsAnswer import answerAndScore
+from .answerOneQuestion import answerAndScore
 from .removeLogging import *
 
 

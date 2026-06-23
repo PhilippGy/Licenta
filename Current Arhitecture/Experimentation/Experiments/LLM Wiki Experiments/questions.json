@@ -1,0 +1,102 @@
+[
+    {
+        "question": "Un candidat bifează la o întrebare de grilă (punctaj p = 3, cu t = 2 răspunsuri corecte și f = 2 răspunsuri incorecte) un singur răspuns corect și un singur răspuns incorect. Care este punctajul final obținut pentru acea întrebare?",
+        "answer": "Răspuns corect bifat: +p/t = +3/2 = +1.5\nRăspuns incorect bifat: −0.66 × p/t = −0.66 × 1.5 = −0.99\nTotal brut: 1.5 − 0.99 = 0.51\nPunctajul final este 0.51 puncte (pozitiv, deci nu se înlocuiește cu 0).",
+        "source": "[[Criterii-Admitere]], secțiunea 2.1"
+    },
+    {
+        "question": "Un candidat bifează TOATE răspunsurile la o întrebare cu punctaj p = 4. Ce punctaj primește, și de ce?",
+        "answer": "Dacă toate răspunsurile sunt bifate, candidatul primește 0 puncte, indiferent de câte răspunsuri corecte sau incorecte are întrebarea. Aceasta este o regulă explicită a sistemului de evaluare, care descurajează ghicitul total.",
+        "source": "[[Criterii-Admitere]], secțiunea 2.1; [[Concursul-Mate-Info-UBB]], secțiunea Sistem de evaluare"
+    },
+    {
+        "question": "Care este diferența exactă dintre condiția de calificare pentru Categoria A și cea pentru Categoria B în privința concursului Nemes Tihamér / Zsakó László Nemzetközi Programozási Verseny?",
+        "answer": "Categoria A: calificarea la faza internațională a concursului, obținută în oricare din ultimii patru ani de studiu liceal.\nCategoria B: participarea la faza națională a concursului, dar numai în clasele XI–XII (nu în toți ultimii patru ani).\nCondiția privind faza este diferită (internațională vs. națională), iar la Categoria B intervalul de clase eligibile este mai restrâns.",
+        "source": "[[Criterii-Admitere]], secțiunile 2.2.3 și 2.3.3"
+    },
+    {
+        "question": "Un candidat a obținut la Concursul Mate-Info UBB 2026 nota 8.75 la proba de Informatică. Poate folosi această notă la concursul de admitere, și dacă da, în ce mod?",
+        "answer": "Da. Nota este ≥ 6, deci este eligibilă. Însă 8.75 nu se numără printre primele 10 note ≥ 9, prin urmare candidatul nu beneficiază de Facilitatea I (Categoria A). Beneficiază de Facilitatea II (standard): poate folosi nota 8.75 ca notă la proba scrisă de admitere. Dacă susține și proba scrisă de admitere, poate alege nota maximă dintre cele două.",
+        "source": "[[Concursul-Mate-Info-UBB]], secțiunea Cum se utilizează nota; [[Criterii-Admitere]], secțiunea 2.1.2"
+    },
+    {
+        "question": "Un candidat a obținut nota 5.50 la Concursul Mate-Info UBB 2026. Poate folosi această notă la admitere?",
+        "answer": "Nu. Nota de la Concursul Mate-Info UBB poate fi utilizată la admitere doar dacă este cel puțin 6. Nota 5.50 este sub acest prag minim, deci nu poate fi utilizată în niciun mod.",
+        "source": "[[Concursul-Mate-Info-UBB]], secțiunea Cum se utilizează nota"
+    },
+    {
+        "question": "Un candidat din Categoria B obține nota 4.80 la proba scrisă de admitere. Care este media sa de admitere? Este declarat admis?",
+        "answer": "Media de admitere pentru Categoria B se calculează ca (10 + nota_probă_scrisă) / 2. Matematic: (10 + 4.80) / 2 = 7.40.\nTotuși, candidatul nu este admis: condiția pentru Categoria B prevede explicit că nota la proba scrisă trebuie să fie minimum 5. Nota 4.80 este sub acest prag, deci candidatul este respins indiferent de media calculată.",
+        "source": "[[Criterii-Admitere]], secțiunea 2.3"
+    },
+    {
+        "question": "În ce ordine exactă se aplică cele patru criterii de departajare la medii egale la FMI UBB?",
+        "answer": "1. Nota de la bacalaureat la Matematică (orice profil) sau la Informatică (profil real, filiera teoretică, specializarea Matematică-Informatică sau Științe ale naturii) – la alegerea candidatului\n2. Pentru candidații fără nota de mai sus: media din liceu la Matematică, calculată pe toată durata studiului (necesită foaie matricolă)\n3. Media generală de la bacalaureat\n4. Media de la Matematică din liceu calculată pe toată durata studiului",
+        "source": "[[Criterii-Admitere]], secțiunea 3"
+    },
+    {
+        "question": "Un candidat se retrage de la studii (loc bugetat) după ce a început semestrul al doilea al anului I. Câți ani bugetați se consideră că a consumat?",
+        "answer": "Un an bugetat. Regulamentul prevede că dacă un student se retrage de la studii după începerea anului universitar de pe un loc bugetat, se consideră că a beneficiat de un an subvenționat de la stat din durata normală de studiu, indiferent că s-a retras în semestrul I sau II al acelui an.",
+        "source": "[[Regulament-UBB]], secțiunea Înmatriculare concomitentă și finanțare bugetară; [[Admitere-Licenta-FMI]], secțiunea Reglementări privind locurile bugetate"
+    },
+    {
+        "question": "Care este termenul limită pentru depunerea diplomei de bacalaureat și a foii matricole în original, pentru a putea beneficia de glisarea pe loc bugetat în sesiunea septembrie 2026?",
+        "answer": "31 august 2026. Candidații admiși pe locuri cu taxă care doresc să beneficieze de locurile bugetate eliberate între 1 august – 1 septembrie 2026 trebuie să fi depus diploma de bacalaureat și foaia matricolă în original până la această dată.",
+        "source": "[[Admitere-Licenta-FMI]], secțiunea Sesiunea septembrie 2026"
+    },
+    {
+        "question": "Un candidat solicită scutire de la taxa de procesare pe motiv că este copilul unui cadru didactic din învățământul preuniversitar. I se acordă scutirea?",
+        "answer": "Nu, parțial. Copiii personalului didactic din instituții de învățământ sunt scutiți exclusiv de taxa de înscriere, nu și de taxa de procesare. Taxa de procesare nu este supusă niciunei scutiri sau degrevări și nu este returnabilă, indiferent de categorie.",
+        "source": "[[Taxe]], secțiunea Structura taxelor și Categorii scutite de taxa de înscriere"
+    },
+    {
+        "question": "Un candidat participă la Concursul Mate-Info UBB 2026 și dorește scutire de la taxa de participare de 400 lei, pe motiv că este orfan de ambii părinți. I se acordă scutirea?",
+        "answer": "Nu. Regulamentul concursului Mate-Info UBB prevede explicit că toți candidații trebuie să plătească taxa de participare de 400 lei și că nu se acordă scutiri pentru reducerea acestei taxe. Scutirile pentru orfani se aplică doar la taxa de admitere de la concursul principal, nu și la taxa Mate-Info.",
+        "source": "[[Concursul-Mate-Info-UBB]], secțiunea Înscriere; [[Taxe]]"
+    },
+    {
+        "question": "Un candidat termină rezolvarea subiectelor după 1 oră și 10 minute de la distribuirea acestora și vrea să iasă din sală. Are dreptul? Poate lua subiectul cu el?",
+        "answer": "Nu poate ieși. Regulamentul prevede că candidații nu pot părăsi sala decât după 1 oră și 30 minute de la începerea probei. Deoarece au trecut doar 1h10m, cererea este refuzată.\nChiar și după 1h30m, dacă iese înainte de expirarea timpului de lucru, nu are dreptul să ia subiectul cu el. Subiectul poate fi luat doar de candidații care pleacă după expirarea celor 3 ore.",
+        "source": "[[Concursul-Mate-Info-UBB]], secțiunea Desfășurarea probei / Reguli în sală"
+    },
+    {
+        "question": "Un candidat a absolvit 8 clase cu predare în limba germană și optează pentru o specializare cu predare în germană. Trebuie să prezinte certificat de competență lingvistică pentru germană?",
+        "answer": "Nu. Candidații care au absolvit cel puțin 8 clase cu predare în germană sunt scutiți de prezentarea certificatului de competență lingvistică pentru germană, cu condiția să dovedească acest lucru prin certificatul de absolvire al ciclului gimnazial, foaia matricolă corespunzătoare sau acte echivalente.",
+        "source": "[[Certificate-Lingvistice]], secțiunea Când NU este necesar; [[Inscriere]]"
+    },
+    {
+        "question": "Un candidat este admis la două facultăți diferite din UBB: una pe loc bugetat, alta pe loc cu taxă. Poate fi înmatriculat la amândouă? La care beneficiază de finanțare bugetară?",
+        "answer": "Da, poate fi înmatriculat la ambele (cel mult 2 programe de studiu concomitent). Finanțarea bugetară se acordă însă pentru un singur program. În acest caz, candidatul beneficiază de finanțare bugetară la programul la care a fost admis pe loc bugetat, iar la celălalt program este înmatriculat pe loc cu taxă.",
+        "source": "[[Regulament-UBB]], Art. 12; [[Admitere-Licenta-FMI]], secțiunea Reglementări privind locurile bugetate"
+    },
+    {
+        "question": "Un olimpic internațional este admis pe două programe bugetate (excepția prevăzută de regulament). Dacă se retrage de la unul după începerea anului universitar, câți ani bugetați a consumat la acel program?",
+        "answer": "Un an bugetat la programul de la care s-a retras. Regula retragerii după începerea anului universitar se aplică identic și în cazul olimpicilor internaționali cu două programe bugetate: fiecare an universitar început pe un loc bugetat, indiferent de când se produce retragerea în cursul acelui an, se contabilizează ca un an bugetat consumat.",
+        "source": "[[Regulament-UBB]], secțiunile Art. 12 alin. (3) și Art. 13 alin. (2)"
+    },
+    {
+        "question": "Un candidat are o diplomă de olimpiadă județeană la Olimpiada de Inteligență Artificială OIA (premiu II, clasa a X-a) și una la Olimpiada Națională de Securitate Cibernetică OSC (mențiune, clasa a XI-a). La care categorie/categorii de facilitate se încadrează și care se aplică?",
+        "answer": "Categoria A. Mențiunea la faza națională a Olimpiadei de Securitate Cibernetică (OSC) constituie o distincție (premiu I, II, III, mențiune, medalie) la faza națională, care este enumerată explicit ca performanță eligibilă pentru Categoria A. Prin urmare candidatul candidează direct cu media 10, fără proba scrisă.\nPremiul II la faza județeană a Olimpiadei de Inteligență Artificială (OIA) îndeplinește, separat, condiția Categoriei B (premiu I/II/III/mențiune la faza județeană). Astfel candidatul îndeplinește criteriile ambelor categorii; se aplică Categoria A, fiind mai avantajoasă (media 10 față de (10 + nota_probă_scrisă) / 2).",
+        "source": "[[Criterii-Admitere]], secțiunile 2.2.1 și 2.3.1"
+    },
+    {
+        "question": "Care este valabilitatea temporală a facilităților olimpice (Categoria A și B)? O persoană care a obținut premiul I național la Olimpiada de Matematică în clasa a XII-a, în 2021, poate beneficia de facilitate la admiterea din 2026?",
+        "answer": "Nu. Facilitățile sunt valabile maximum 4 ani de la absolvirea liceului. Dacă persoana a fost în clasa a XII-a în 2021, a absolvit liceul în 2021. Admiterea din 2026 ar fi la 5 ani de la absolvire, deci depășește perioada de 4 ani și facilitatea nu mai poate fi acordată.",
+        "source": "[[Criterii-Admitere]], Nota 2.4.2"
+    },
+    {
+        "question": "Un candidat optează pentru o specializare cu predare în engleză și susține proba scrisă de admitere în engleză. Mai are nevoie de certificat de competență lingvistică pentru engleză?",
+        "answer": "Nu. Candidații care susțin proba scrisă în engleză sau germană sunt scutiți de prezentarea certificatului de competență lingvistică pentru acea limbă. Susținerea probei în limba respectivă echivalează cu demonstrarea competenței lingvistice.",
+        "source": "[[Certificate-Lingvistice]], secțiunea Când NU este necesar; [[Criterii-Admitere]], secțiunea 2.4.4 (implicit)"
+    },
+    {
+        "question": "Un candidat depune la dosar o adeverință medicală eliberată cu 4 luni înainte de data înscrierii. Este acceptată?",
+        "answer": "Nu. Adeverința medicală tip trebuie să fie eliberată cu cel mult 3 luni înainte de perioada înscrierii. O adeverință eliberată cu 4 luni înainte depășește această limită și nu este acceptată. Candidatul trebuie să obțină o nouă adeverință medicală.",
+        "source": "[[Inscriere]], secțiunea Documente necesare pentru toți candidații"
+    },
+    {
+        "question": "Un candidat nu a primit e-mailul de confirmare după înscrierea la Concursul Mate-Info UBB în termen de 24 ore. Ce pași exacti trebuie să urmeze, și unde să verifice înainte de a contacta organizatorii?",
+        "answer": "Candidatul trebuie să urmeze acești pași în ordine:\n1. Verifică inbox-ul pentru e-mailul de confirmare (trimis în cel mult 24h de la înscriere).\n2. Verifică și directorul spam/junk al căsuței de e-mail.\n3. Dacă nu găsește e-mailul în niciuna dintre căsuțe, trimite un e-mail la adresa: concursmateinfo.mcs@ubbcluj.ro.\nE-mailul de confirmare conține numărul de concurs, necesar pentru identificarea în sală.",
+        "source": "[[Concursul-Mate-Info-UBB]], secțiunea Înscriere"
+    }
+]
