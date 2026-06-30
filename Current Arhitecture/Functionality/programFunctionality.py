@@ -14,8 +14,8 @@ from .removeLogging import *
 
 
 SCRIPT_DIR = Path(__file__).parent
-CHUNKS_PATH = SCRIPT_DIR.parent / "Data/LLM_Wiki_Version" / "chunks.npy"
-INDEX_PATH = SCRIPT_DIR.parent / "Data/LLM_Wiki_Version" / "index.faiss"
+CHUNKS_PATH = SCRIPT_DIR.parent / "Data" / "chunks.npy"
+INDEX_PATH = SCRIPT_DIR.parent / "Data" / "index.faiss"
 
 chunks = np.load(CHUNKS_PATH, allow_pickle=True)
 index = faiss.read_index(str(INDEX_PATH))

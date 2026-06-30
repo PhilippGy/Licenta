@@ -31,6 +31,7 @@ SCORING RUBRIC (Be extremely strict!):
    - 0 = The model invented rules, formulas, or deadlines NOT present in the Reference Context.
 
 If the Chatbot Answer is exactly "Nu dețin această informație conform datelor extrase de pe site-ul oficial." AND the answer is indeed NOT present in the Reference Context, you MUST score Factual=10, Complete=10, and Hallucination=10. Do not penalize honesty!
+If the Chatbot gave no answer (empty string), you MUST score 0 for all categories.
 
 Return ONLY valid JSON format:
 {{
