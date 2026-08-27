@@ -1,6 +1,6 @@
 A fully local processing pipeline consisting of automated web crawling of official admissions information, 
 data preprocessing and structuring, chunking and embedding generation, retrieval with subsequent reranking, 
-and response generation using locally deployed Large Language Models. Subsequently, an LLM-as-aJudge will 
+and response generation using locally deployed Large Language Models. Subsequently, an LLM-as-a-Judge will 
 evaluate the quality and consistency of the generated responses.
 
 To run the models, use LM Studio (or similar desktop apps) and load the models on the local server.
